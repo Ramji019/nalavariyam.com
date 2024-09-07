@@ -1,0 +1,1 @@
+var agreewin=dhtmlmodal.open("Testimonial Successful Message", "iframe", "testimonial-successful-message.htm", "Testimonial Saved Successfully!", "width=350px,height=155px,center=1,resize=0,scrolling=0", "recal")

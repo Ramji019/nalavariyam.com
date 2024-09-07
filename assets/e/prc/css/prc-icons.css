@@ -1,0 +1,159 @@
+.iconPRC
+{
+	background-image:url('../icons/prc.gif');
+}
+.iconPRCStatusBar
+{
+	padding-left: 25px !important;
+    background: transparent no-repeat 3px 2px;
+	background-image:url('../icons/prc.gif');
+}
+.iconOutlet
+{
+	background-image:url('../icons/outlet-icon.gif');
+}
+.iconOpportunity
+{
+	background-image:url('../icons/opportunity-icon.gif');
+}
+.iconContact
+{
+	background-image:url('../icons/contact-icon.gif');
+}
+.iconReminder
+{
+	background-image:url('../icons/reminder-icon.gif');
+}
+.iconAppointment
+{
+	background-image:url('../icons/appointment-icon.gif');
+}
+.iconNote
+{
+	background-image:url('../icons/note-icon.gif');
+}
+.iconHelp
+{
+	background-image:url('../icons/help-icon.gif');
+}
+.iconCustomerCare
+{
+	background-image:url('../icons/1customer-care-icon.gif');
+}
+
+.iconHome
+{
+	background-image:url('../icons/home-icon.gif');
+}
+
+.iconOutletKeywordSearch
+{
+	background-image:url('../icons/outlet-keyword-search-icon.gif');
+}
+
+.iconOutletSearch
+{
+	background-image:url('../icons/outlet-search-icon.gif');
+}
+
+.iconOutletAdvanceSearch
+{
+	background-image:url('../icons/outlet-advance-search-icon.gif');
+}
+
+.iconOpportunityKeywordSearch
+{
+	background-image:url('../icons/opportunity-keyword-search-icon.gif');
+}
+
+.iconOpportunitySearch
+{
+	background-image:url('../icons/opportunity-search-icon.gif');
+}
+
+.iconOpportunityAdvanceSearch
+{
+	background-image:url('../icons/opportunity-advance-search-icon.gif');
+}
+
+.iconContactKeywordSearch
+{
+	background-image:url('../icons/contact-keyword-search-icon.gif');
+}
+
+.iconContactSearch
+{
+	background-image:url('../icons/contact-search-icon.gif');
+}
+
+.iconContactAdvanceSearch
+{
+	background-image:url('../icons/contact-advance-search-icon.gif');
+}
+
+
+.iconReminderAdd
+{
+	background-image:url('../icons/reminder-add-icon.gif');
+}
+
+.iconReminderSearch
+{
+	background-image:url('../icons/reminder-search-icon.gif');
+}
+
+.iconAppointmentAdd
+{
+	background-image:url('../icons/appointment-add-icon.gif');
+}
+
+.iconAppointmentSearch
+{
+	background-image:url('../icons/appointment-search-icon.gif');
+}
+
+.iconNoteAdd
+{
+	background-image:url('../icons/note-add-icon.gif');
+}
+
+.iconNoteSearch
+{
+	background-image:url('../icons/note-search-icon.gif');
+}
+
+.iconShortcut
+{
+	background-image:url('../icons/my-outlet-icon.gif');
+}
+
+.iconMyOutlet
+{
+	background-image:url('../icons/my-outlet-icon.gif');
+}
+
+.iconMyOpportunity
+{
+	background-image:url('../icons/my-outlet-icon.gif');
+}
+
+.iconMyContact
+{
+	background-image:url('../icons/my-contact-icon.gif');
+}
+
+
+.iconSubscription
+{
+	background-image:url('../icons/subscription-icon.gif');
+}
+
+.iconChangePassword
+{
+	background-image:url('../icons/change-password-icon.gif');
+}
+
+.iconMyProfileDetails
+{
+	background-image:url('../icons/my-profile-details-icon.gif');
+}

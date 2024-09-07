@@ -1,0 +1,741 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16654
+<br>ContactFirstName------Robert J 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baker
+<br>ContactDescription----
+<br>ContactDesignation----D1668
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8318
+<br>ContactEmail----------wsummers@bhmdiocese.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16655
+<br>ContactFirstName------Paul L
+<br>ContactMiddleName------
+<br>ContactLastName-------Rohling
+<br>ContactDescription----
+<br>ContactDesignation----D1669
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8311
+<br>ContactEmail----------msgrrohling@bhmdiocese.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16654
+<br>ContactFirstName------Robert J 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baker
+<br>ContactDescription----
+<br>ContactDesignation----D1668
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8318
+<br>ContactEmail----------wsummers@bhmdiocese.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16655
+<br>ContactFirstName------Paul L
+<br>ContactMiddleName------
+<br>ContactLastName-------Rohling
+<br>ContactDescription----
+<br>ContactDesignation----D1669
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8311
+<br>ContactEmail----------msgrrohling@bhmdiocese.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16654
+<br>ContactFirstName------Robert J 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baker
+<br>ContactDescription----
+<br>ContactDesignation----D1668
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8318
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------wsummers@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16655
+<br>ContactFirstName------Paul L
+<br>ContactMiddleName------
+<br>ContactLastName-------Rohling
+<br>ContactDescription----
+<br>ContactDesignation----D1669
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8311
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------msgrrohling@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16654
+<br>ContactFirstName------Robert J 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baker
+<br>ContactDescription----
+<br>ContactDesignation----D1670
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8318
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------wsummers@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16655
+<br>ContactFirstName------Paul L
+<br>ContactMiddleName------
+<br>ContactLastName-------Rohling
+<br>ContactDescription----
+<br>ContactDesignation----D1669
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8311
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------msgrrohling@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16656
+<br>ContactFirstName------Michael J.
+<br>ContactMiddleName------
+<br>ContactLastName-------Deering
+<br>ContactDescription----
+<br>ContactDesignation----D1669
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8311
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------frdeering@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16657
+<br>ContactFirstName------Kevin M
+<br>ContactMiddleName------
+<br>ContactLastName-------Bazzel
+<br>ContactDescription----
+<br>ContactDesignation----D1671
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-776-7172
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------fr.bazzell@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16658
+<br>ContactFirstName------Albert
+<br>ContactMiddleName------
+<br>ContactLastName-------Manzella
+<br>ContactDescription----
+<br>ContactDesignation----D1672
+<br>ContactPhoto----------birmingham-one-voice-religion-christian-albert-manzella.jpg
+<br>ContactPhonenumber----205-838-8316
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/search.php?q=Albert+Manzella
+<br>ContactLinkedin-------http://linkedin.com/pub/albert-manzella/1b/986/a7b
+<br>ContactTwitter--------
+<br>ContactURL------------amanzella@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16659
+<br>ContactFirstName------Frank X 
+<br>ContactMiddleName------
+<br>ContactLastName-------Savage
+<br>ContactDescription----
+<br>ContactDesignation----D1673
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8303 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------fsavage@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16660
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Martignoni
+<br>ContactDescription----
+<br>ContactDesignation----D1674
+<br>ContactPhoto----------birmingham-one voice-religion-christian-john-martignoni.jpg
+<br>ContactPhonenumber----205-776-7163
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/John-Martignoni/1523264875
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------jmartignoni@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16660
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Martignoni
+<br>ContactDescription----
+<br>ContactDesignation----D1674
+<br>ContactPhoto----------birmingham-one voice-religion-christian-john-martignoni.jpg
+<br>ContactPhonenumber----205-776-7163
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/John-Martignoni/1523264875
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------jmartignoni@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16661
+<br>ContactFirstName------Geraldine K
+<br>ContactMiddleName------
+<br>ContactLastName-------Nabors
+<br>ContactDescription----
+<br>ContactDesignation----D1675
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-833-0175
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------gnabors@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16662
+<br>ContactFirstName------James 
+<br>ContactMiddleName------
+<br>ContactLastName-------Warren
+<br>ContactDescription----
+<br>ContactDesignation----D1676
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8321
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------jwarren@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16663
+<br>ContactFirstName------Robert M
+<br>ContactMiddleName------
+<br>ContactLastName-------Sellers
+<br>ContactDescription----
+<br>ContactDesignation----D91
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-833-0173
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------bsellers@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4590
+<br>ContactId-------------C16664
+<br>ContactFirstName------Mary A
+<br>ContactMiddleName------Sally
+<br>ContactLastName-------Crockett 
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----205-838-8305
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------onevoice@bhmdiocese.org
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4589
+<br>ContactId-------------C16665
+<br>ContactFirstName------Joel
+<br>ContactMiddleName------
+<br>ContactLastName-------Welker
+<br>ContactDescription----
+<br>ContactDesignation----D200
+<br>ContactPhoto----------birmingham-business-journal-business-joel-welker.jpg
+<br>ContactPhonenumber----205-443-5617
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Florida International University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/profile/view?id=93381&authType=NAME_SEARCH&authToken=_77S&locale=en_US&srchid=b5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4589
+<br>ContactId-------------C16666
+<br>ContactFirstName------Cindy F
+<br>ContactMiddleName------
+<br>ContactLastName-------Crawford
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------birmingham-business-journal-business-cindy-f-crawford.jpg
+<br>ContactPhonenumber----205-443-5631
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Alabama
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/cindy-crawford/7/94b/1b4
+<br>ContactTwitter--------http://twitter.com/#!/EditorCCrawford
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4589
+<br>ContactId-------------C16667
+<br>ContactFirstName------Ty
+<br>ContactMiddleName------
+<br>ContactLastName-------West
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------birmingham-business-journal-business-ty-west.jpg
+<br>ContactPhonenumber----205-443-5637
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Alabama
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/ty-west/4/bb3/817
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16668
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----
+<br>ContactDesignation----D1677
+<br>ContactPhoto----------kstp-tv-5-jason-davis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdavis@kstp.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16669
+<br>ContactFirstName------Rusty
+<br>ContactMiddleName------
+<br>ContactLastName-------Gatenby
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-rusty-gatenby.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rgatenby@kstp.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/rusty-gatenby/8/522/592
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16670
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Griswold
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-jennifer-griswold.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jgriswold@kstp.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/jenny-griswold/5/247/15b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16671
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Hauser
+<br>ContactDescription----
+<br>ContactDesignation----D1678
+<br>ContactPhoto----------kstp-tv-5-tom-hauser.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------thauser@kstp.com
+<br>Alternative Email-----
+<br>University------------Drake University,University of St. Thomas
+<br>ContactFacebook-------https://facebook.com/pages/Tom-HauserAt-Issue/193139530755079?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/5hauser
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16672
+<br>ContactFirstName------Jay
+<br>ContactMiddleName------
+<br>ContactLastName-------Kolls
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-jay-kolls.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jkolls@kstp.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/JayKollsKSTP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16673
+<br>ContactFirstName------Colleen
+<br>ContactMiddleName------
+<br>ContactLastName-------Mahoney
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-colleen-mahoney.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cmahoney@kstp.com
+<br>Alternative Email-----
+<br>University------------University of Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/colleenmmahoney
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16674
+<br>ContactFirstName------Miranda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dollarhide 
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16674
+<br>ContactFirstName------Miranda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dollarhide 
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16675
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Mazan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-joe-mazan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmazan@kstp.com
+<br>Alternative Email-----
+<br>University------------Columbia College in Chicago-Illinois
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/joemazankstp
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16676
+<br>ContactFirstName------Liz 
+<br>ContactMiddleName------
+<br>ContactLastName-------Conn
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------managing.editor@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16677
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------McNaney
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------kstp-tv-5-bob-mcnaney.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bmcnaney@kstp.com
+<br>Alternative Email-----
+<br>University------------University of St. Thomas in St. Paul
+<br>ContactFacebook-------http://facebook.com/people/Bob-Mcnaney/1072273198
+<br>ContactLinkedin-------http://linkedin.com/pub/bob-mcnaney/6/a35/828
+<br>ContactTwitter--------http://twitter.com/#!/BobMcNaney
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16678
+<br>ContactFirstName------Melody 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kitchens
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------online@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16679
+<br>ContactFirstName------Naomi
+<br>ContactMiddleName------
+<br>ContactLastName-------Pescovitz
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kstp-tv-5-naomi-pescovitz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------npescovitz@kstp.com
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/naomipescovitz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2717
+<br>ContactId-------------C16680
+<br>ContactFirstName------Mitch
+<br>ContactMiddleName------
+<br>ContactLastName-------Pittman
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------kstp-tv-5-mitch-pittman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mpittman@kstp.com
+<br>Alternative Email-----
+<br>University------------Elon University
+<br>ContactFacebook-------http://facebook.com/mitch.pittman
+<br>ContactLinkedin-------http://linkedin.com/pub/mitch-pittman/11/627/7a9
+<br>ContactTwitter--------http://twitter.com/#!/Mitch_KSTP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16681
+<br>ContactFirstName------Alison 
+<br>ContactMiddleName------
+<br>ContactLastName-------McFerrin 
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4587
+<br>ContactId-------------C16682
+<br>ContactFirstName------Chelsea  
+<br>ContactMiddleName------
+<br>ContactLastName-------Harvey
+<br>ContactDescription----
+<br>ContactDesignation----D288
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------intrigue@theplainsman.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

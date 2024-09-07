@@ -1,0 +1,4502 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45936
+<br>ContactFirstName------Glascock
+<br>ContactMiddleName------
+<br>ContactLastName-------Danine
+<br>ContactDescription----
+<br>ContactDesignation----D326
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4922
+<br>ContactEmail----------danine@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45937
+<br>ContactFirstName------Donna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Schankweiler
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------donnas@journalmultimedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45938
+<br>ContactFirstName------Evan
+<br>ContactMiddleName------
+<br>ContactLastName-------Allen
+<br>ContactDescription----Allen covers law enforcement and breaking news in Boston and around New England. She joined the Globe in 2011 after graduating from Emerson College in Boston with a degree in writing literature and publishing. In her time at the Globe she has covered several metrowest towns and major news events including the Boston Marathon bombings.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-evan-allen.jpg
+<br>ContactPhonenumber----617-929-3365
+<br>ContactEmail----------evan.allen@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/evanmallen
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45939
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Arsenault
+<br>ContactDescription----Mark Arsenault covers casino development and gambling issues for The Boston Globe. He joined the newspaper in 2010 in the Washington D.C. bureau where he covered national politics and the U.S. Congress. He has worked at newspapers in New England since 1989 including 10 years at The Providence Journal.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-mark-arsenault.jpg
+<br>ContactPhonenumber----617-929-1542
+<br>ContactEmail----------marsenault@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/BostonGlobeMark
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45940
+<br>ContactFirstName------Richard
+<br>ContactMiddleName------
+<br>ContactLastName-------Scalise
+<br>ContactDescription----
+<br>ContactDesignation----D2635
+<br>ContactPhoto----------scmagazine-richard-scalise.jpg
+<br>ContactPhonenumber----646-638-6190
+<br>ContactEmail----------richard.scalise@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Saint John's University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/richardscalise
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45940
+<br>ContactFirstName------Herbig
+<br>ContactMiddleName------
+<br>ContactLastName-------Donna
+<br>ContactDescription----
+<br>ContactDesignation----D221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4920
+<br>ContactEmail----------humanresources@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45941
+<br>ContactFirstName------Andrea
+<br>ContactMiddleName------
+<br>ContactLastName-------Ciccocioppo
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------central-penn parent-andrea-ciccocioppo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45942
+<br>ContactFirstName------Taylor
+<br>ContactMiddleName------
+<br>ContactLastName-------Jerry
+<br>ContactDescription----
+<br>ContactDesignation----D1039
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4924
+<br>ContactEmail----------gjtaylor@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45943
+<br>ContactFirstName------Edelyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Sellitto
+<br>ContactDescription----
+<br>ContactDesignation----D155
+<br>ContactPhoto----------scmagazine-edelyn-sellitto.jpg
+<br>ContactPhonenumber----646-638-6107
+<br>ContactEmail----------edelyn.sellitto@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------City University of New York-College of Staten Island
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/edelynsellitto
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45943
+<br>ContactFirstName------Edelyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Sellitto
+<br>ContactDescription----
+<br>ContactDesignation----D155
+<br>ContactPhoto----------scmagazine-edelyn-sellitto.jpg
+<br>ContactPhonenumber----646-638-6107
+<br>ContactEmail----------edelyn.sellitto@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------City University of New York-College of Staten Island
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/edelynsellitto
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C45944
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----Kelly Wilson is interactive managing editor of The Herald-Whig. She is responsible for editorial content and strategic development of The Herald-Whig\'s new-media platforms and social media portals.
+<br>ContactDesignation----D347
+<br>ContactPhoto----------quincy-herald whig-kelly-wilson.jpg
+<br>ContactPhonenumber----(217) 221-3374 
+<br>ContactEmail----------klwilson@whig.com
+<br>Alternative Email-----
+<br>University------------Western Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kelly-wilson/27/397/266
+<br>ContactTwitter--------https://twitter.com/kwilsonwhig
+<br>ContactURL------------http://www.whig.com/story/17859511/kelly-wilson
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45945
+<br>ContactFirstName------Christopher
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopkins
+<br>ContactDescription----
+<br>ContactDesignation----D7115
+<br>ContactPhoto----------central-penn parent-christopher-hopkins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------christopherh@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45946
+<br>ContactFirstName------Felice
+<br>ContactMiddleName------
+<br>ContactLastName-------Belman
+<br>ContactDescription----Belman is politics editor for the Globe. She joined the paper in 2014. A graduate of Oberlin College she spent nearly 25 years at the Concord Monitor in New Hampshire including six years as editor. She was Maryland politics editor for the Washington Post from 2000-2002. In addition she was co-editor of The New Hampshire Century a collection of 100 profiles of 20th-century New Hampshire figures published in 2001.
+<br>ContactDesignation----D716
+<br>ContactPhoto----------boston-globe sunday magazine-felice-belman.jpg
+<br>ContactPhonenumber----617-929-7496
+<br>ContactEmail----------felice.belman@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/FeliceBelman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45947
+<br>ContactFirstName------Shira T.
+<br>ContactMiddleName------
+<br>ContactLastName-------Center
+<br>ContactDescription----Shira edits political coverage for the Globe including Capital the New Hampshire primary and 2016 presidential race. She joined the Globe in 2015 and previously served as politics editor for Roll Call Capitol Hill’s top news source on Congress. A graduate of Northwestern University Shira also worked as a politics writer for POLITICO and National Journal’s The Hotline in Washington D.C.
+<br>ContactDesignation----D716
+<br>ContactPhoto----------boston-globe sunday magazine-shira-t.-center.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------shira.center@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/ShiraCenter
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45948
+<br>ContactFirstName------Sherry
+<br>ContactMiddleName------
+<br>ContactLastName-------Andersen
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------central-penn parent-sherry-andersen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45949
+<br>ContactFirstName------Barry 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burke
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------
+<br>ContactPhonenumber----301-482-1929
+<br>ContactEmail----------bburke@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45950
+<br>ContactFirstName------Maria
+<br>ContactMiddleName------
+<br>ContactLastName-------Cramer
+<br>ContactDescription----
+Cramer is a reporter for the Metro section. She covers crime in and around the city of Boston.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-maria-cramer.jpg
+<br>ContactPhonenumber----617-929-3169
+<br>ContactEmail----------mcramer@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeMCramer
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C45951
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------Van
+<br>ContactLastName-------Ness
+<br>ContactDescription----Tom Van Ness has been with The Herald-Whig since March 2008. Tom previously worked for the Denver Newspaper Agency publisher of the Denver Post and Rocky Mountain News.
+<br>ContactDesignation----D127
+<br>ContactPhoto----------quincy-herald whig-tom-ness.jpg
+<br>ContactPhonenumber----(217) 221-3309
+<br>ContactEmail----------tvanness@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/tommyv1772
+<br>ContactURL------------http://www.whig.com/story/12595452/tom-van-ness
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45952
+<br>ContactFirstName------Adele
+<br>ContactMiddleName------
+<br>ContactLastName-------Durham
+<br>ContactDescription----
+<br>ContactDesignation----D545
+<br>ContactPhoto----------scmagazine-adele-durham.jpg
+<br>ContactPhonenumber----646-638-6157
+<br>ContactEmail----------adele.durham@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Roehampton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/adele-durham/4b/3a1/373
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45953
+<br>ContactFirstName------Tanner 
+<br>ContactMiddleName------
+<br>ContactLastName-------Huffman
+<br>ContactDescription----
+<br>ContactDesignation----D557
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------thuffman@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45954
+<br>ContactFirstName------Raquel
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----
+<br>ContactDesignation----D1043
+<br>ContactPhoto----------central-penn parent-raquel-campbell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------raquelc@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45955
+<br>ContactFirstName------Maggie
+<br>ContactMiddleName------
+<br>ContactLastName-------Keller
+<br>ContactDescription----
+<br>ContactDesignation----D7116
+<br>ContactPhoto----------scmagazine-maggie-keller.jpg
+<br>ContactPhonenumber----646-638-6041
+<br>ContactEmail----------maggie.keller@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Providence College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/maggie-keller/29/a31/469
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45956
+<br>ContactFirstName------Roger 
+<br>ContactMiddleName------
+<br>ContactLastName-------Skophammer 
+<br>ContactDescription----
+<br>ContactDesignation----D557
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rskophammer@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45957
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Neumer
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------central-penn parent-jennifer-neumer.jpg
+<br>ContactPhonenumber----717-236-4300
+<br>ContactEmail----------jennifern@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45958
+<br>ContactFirstName------Marcia
+<br>ContactMiddleName------
+<br>ContactLastName-------Dick
+<br>ContactDescription----Dick is an editor for the Globe North print section and five North community websites. She worked at the Malden Evening News and the Tampa Tribune before coming to the Globe in 1988 where she spent her first 10 years in the Sports Department.
+<br>ContactDesignation----D435
+<br>ContactPhoto----------boston-globe sunday magazine-marcia-dick.jpg
+<br>ContactPhonenumber----978-352-7237
+<br>ContactEmail----------m_dick@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/MarciaLDick
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45959
+<br>ContactFirstName------Jourdan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----
+<br>ContactDesignation----D7117
+<br>ContactPhoto----------
+<br>ContactPhonenumber----646-638-6076
+<br>ContactEmail----------jourdan.davis@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------University of Massachusetts, Amherst
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/jourdandavis
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45960
+<br>ContactFirstName------Melissa
+<br>ContactMiddleName------
+<br>ContactLastName-------Ditzler
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------central-penn parent-melissa-ditzler.jpg
+<br>ContactPhonenumber----717-236-4300
+<br>ContactEmail----------melissad@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45961
+<br>ContactFirstName------Puja 
+<br>ContactMiddleName------
+<br>ContactLastName-------Tucker
+<br>ContactDescription----
+<br>ContactDesignation----D636
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-4507
+<br>ContactEmail----------ptucker@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45962
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Green
+<br>ContactDescription----
+<br>ContactDesignation----D7118
+<br>ContactPhoto----------scmagazine-eric-green.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jourdan.davis@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/eric-green/0/265/79a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45963
+<br>ContactFirstName------Stephanie
+<br>ContactMiddleName------
+<br>ContactLastName-------Ebbert
+<br>ContactDescription----Ebbert has been a local news reporter for the Globe since 1997 with a focus on politics. She has covered Mayor Thomas M. Menino Mitt Romney\'s campaign for governor and the rise and fall of Massachusetts Republicans\' hopes in the elections of 2010.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-stephanie-ebbert.jpg
+<br>ContactPhonenumber----617-929-2186
+<br>ContactEmail----------s_ebbert@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/stephanieebbert
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45964
+<br>ContactFirstName------Kathie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cluff 
+<br>ContactDescription----
+<br>ContactDesignation----D7119
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-4924
+<br>ContactEmail----------kcluff@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45965
+<br>ContactFirstName------Jillian
+<br>ContactMiddleName------
+<br>ContactLastName-------Pavlick
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------central-penn parent-jillian-pavlick.jpg
+<br>ContactPhonenumber----717-236-4300
+<br>ContactEmail----------jillianp@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/jillian_cpp
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45966
+<br>ContactFirstName------Anna
+<br>ContactMiddleName------
+<br>ContactLastName-------Jurgowski
+<br>ContactDescription----
+<br>ContactDesignation----D7120
+<br>ContactPhoto----------scmagazine-anna-jurgowski.jpg
+<br>ContactPhonenumber----646-638-6015
+<br>ContactEmail----------jourdan.davis@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Clifton High School
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/anna-jurgowski/57/120/a83
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45967
+<br>ContactFirstName------Monika 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dziedzic 
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-2100
+<br>ContactEmail----------monikad@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45968
+<br>ContactFirstName------Liza
+<br>ContactMiddleName------
+<br>ContactLastName-------Steele
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------central-penn parent-liza-steele.jpg
+<br>ContactPhonenumber----717-236-4282
+<br>ContactEmail----------lizas@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45969
+<br>ContactFirstName------Catherine 
+<br>ContactMiddleName------
+<br>ContactLastName-------James 
+<br>ContactDescription----
+<br>ContactDesignation----D7121
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-2100
+<br>ContactEmail----------cjames@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45970
+<br>ContactFirstName------Lee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Maniscalco
+<br>ContactDescription----
+<br>ContactDesignation----D7122
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Fairleigh Dickinson University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/lee-maniscalco/4/11a/a42
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8161
+<br>ContactId-------------C45971
+<br>ContactFirstName------Carley
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------central-penn parent-carley-evans.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------carleye@centralpennparent.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/carley-evans/19/a6/3a5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45972
+<br>ContactFirstName------Donna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Santarpia
+<br>ContactDescription----
+<br>ContactDesignation----D7123
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Iona College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/donna-santarpia/4/9a6/917
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45973
+<br>ContactFirstName------Schwind
+<br>ContactMiddleName------
+<br>ContactLastName-------Jay
+<br>ContactDescription----
+<br>ContactDesignation----D7124
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-797-0337
+<br>ContactEmail----------jscwind@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45974
+<br>ContactFirstName------Katie 
+<br>ContactMiddleName------de la 
+<br>ContactLastName-------Paz 
+<br>ContactDescription----
+<br>ContactDesignation----D7125
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-3868
+<br>ContactEmail----------kdelapaz@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45975
+<br>ContactFirstName------Tamara 
+<br>ContactMiddleName------
+<br>ContactLastName-------MacDonald
+<br>ContactDescription----
+<br>ContactDesignation----D7126
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-2100
+<br>ContactEmail----------tmacdonald@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5122
+<br>ContactId-------------C45976
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Crewe
+<br>ContactDescription----
+<br>ContactDesignation----D7127
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45977
+<br>ContactFirstName------Sara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Frey
+<br>ContactDescription----
+<br>ContactDesignation----D7124
+<br>ContactPhoto----------
+<br>ContactPhonenumber----563-579-4858
+<br>ContactEmail----------sara@diguides.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45978
+<br>ContactFirstName------Spriet
+<br>ContactMiddleName------
+<br>ContactLastName-------Nicole
+<br>ContactDescription----
+<br>ContactDesignation----D3609
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4933
+<br>ContactEmail----------nicole@diguides.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45979
+<br>ContactFirstName------Martin
+<br>ContactMiddleName------
+<br>ContactLastName-------Finucane
+<br>ContactDescription----Finucane who has worked at the Globe for six years previously worked in the Boston bureau of the Associated Press for 12 years.
+<br>ContactDesignation----D435
+<br>ContactPhoto----------boston-globe sunday magazine-martin-finucane.jpg
+<br>ContactPhonenumber----617-929-3342
+<br>ContactEmail----------mfinucane@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeFinucane
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45980
+<br>ContactFirstName------Luster
+<br>ContactMiddleName------
+<br>ContactLastName-------Sandee
+<br>ContactDescription----
+<br>ContactDesignation----D1111
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4917
+<br>ContactEmail----------nieluster@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45981
+<br>ContactFirstName------Maureen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wiley
+<br>ContactDescription----
+<br>ContactDesignation----D7128
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-429-8480
+<br>ContactEmail----------mwiley@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45982
+<br>ContactFirstName------Ruthhart
+<br>ContactMiddleName------
+<br>ContactLastName-------Roger
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-736-3517
+<br>ContactEmail----------riroger@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45983
+<br>ContactFirstName------Roy
+<br>ContactMiddleName------
+<br>ContactLastName-------Greene
+<br>ContactDescription----Greene is an assistant Metro editor overseeing reporters covering K-12 and higher education. He previously worked as deputy foreign editor assistant national editor and copy editor for the Globe.
+<br>ContactDesignation----D435
+<br>ContactPhoto----------boston-globe sunday magazine-roy-greene.jpg
+<br>ContactPhonenumber----617-929-3145
+<br>ContactEmail----------rgreene@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/roygreene
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45984
+<br>ContactFirstName------Romkey
+<br>ContactMiddleName------
+<br>ContactLastName-------Mike
+<br>ContactDescription----
+<br>ContactDesignation----D369
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4988
+<br>ContactEmail----------romkey@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45985
+<br>ContactFirstName------Dean
+<br>ContactMiddleName------
+<br>ContactLastName-------Inouye
+<br>ContactDescription----
+Inouye is online editor for Globe South producing and editing community news web pages for Shore Shore communities. After more than a decade at The Wall Street Journal in Washington D.C. he joined the Globe as deputy national editor and has focused on suburban news since 2002.
+<br>ContactDesignation----D435
+<br>ContactPhoto----------boston-globe sunday magazine-dean-inouye.jpg
+<br>ContactPhonenumber----617-929-7123
+<br>ContactEmail----------inouye@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45986
+<br>ContactFirstName------Akilah
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----A general assignment reporter for the Metro Desk Johnson previously covered education and public safety for Fort Lauderdale’s South Florida Sun Sentinel where she was part of a team named a finalist for the 2006 Pulitzer Prize for breaking news.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-akilah-johnson.jpg
+<br>ContactPhonenumber----617-929-3143
+<br>ContactEmail----------ajohnson@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/akjohnson1922
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45987
+<br>ContactFirstName------Nesseler
+<br>ContactMiddleName------
+<br>ContactLastName-------Marc
+<br>ContactDescription----
+<br>ContactDesignation----D7129
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4972
+<br>ContactEmail----------mnesseler@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45988
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Levenson
+<br>ContactDescription----Levenson is a reporter in the Globe’s State House bureau. He previously reported for the City Hall bureau and the Metro desk. A graduate of Wesleyan University he covered Mitt Romney’s 2008 presidential campaign the 2009 Boston mayoral election and the 2010 governor’s race.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-michael-levenson.jpg
+<br>ContactPhonenumber----617-367-4032
+<br>ContactEmail----------mlevenson@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/mlevenson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45989
+<br>ContactFirstName------Kathy
+<br>ContactMiddleName------
+<br>ContactLastName-------McCabe
+<br>ContactDescription----McCabe is a staff reporter at Globe North. She joined the staff in 2002 after working as a Globe correspondent. She writes on a variety of subjects including local government community development religion and small businesses.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-kathy-mccabe.jpg
+<br>ContactPhonenumber----617-929-2519
+<br>ContactEmail----------KMccabe@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeKMcCabe
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45990
+<br>ContactFirstName------Sean
+<br>ContactMiddleName------
+<br>ContactLastName-------Murphy
+<br>ContactDescription----Murphy is an investigative reporter with almost 25 years of experience at the Globe. A member of the Massachusetts Bar Murphy accesses government documents for the basis of many of his stories. He is a graduate of Tufts University and Suffolk Law School. Murphy also teaches journalism at Suffolk University.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-sean-murphy.jpg
+<br>ContactPhonenumber----617-929-7849
+<br>ContactEmail----------smurphy@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@spmurphyboston
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45991
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------O’Sullivan
+<br>ContactDescription----Jim O’Sullivan writes about politics for The Boston Globe. Previously he was White House correspondent and chief analyst for National Journal in Washington D.C. He has worked for the State House News Service and The Dorchester Reporter.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-jim-o’sullivan.jpg
+<br>ContactPhonenumber----617-929-3233
+<br>ContactEmail----------jim.osullivan@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@JOSreports
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45992
+<br>ContactFirstName------Jan
+<br>ContactMiddleName------
+<br>ContactLastName-------Ransom
+<br>ContactDescription----Ransom covers the Police Department for the Globe. She joined the Globe in February. A graduate of Howard University Ransom worked at the NY Daily News for over a year covering everything upper Manhattan including politics crime and housing and before that she worked at the Philadelphia Daily News as a City Hall reporter.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-jan-ransom.jpg
+<br>ContactPhonenumber----617-929-3085
+<br>ContactEmail----------jan.ransom@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/Jan_Ransom
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45993
+<br>ContactFirstName------Beydler
+<br>ContactMiddleName------
+<br>ContactLastName-------John
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-8387
+<br>ContactEmail----------johnbeyd@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8162
+<br>ContactId-------------C45994
+<br>ContactFirstName------Inger
+<br>ContactMiddleName------
+<br>ContactLastName-------Koch
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------dekalb-midweek-inger-koch.jpg
+<br>ContactPhonenumber----815-756-4841
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45995
+<br>ContactFirstName------Steven A.
+<br>ContactMiddleName------
+<br>ContactLastName-------Rosenberg
+<br>ContactDescription----
+Rosenberg is a reporter for the Globe North section. At the Globe he has covered politics business homelessness and the fishing industry.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-steven-a.-rosenberg.jpg
+<br>ContactPhonenumber----617-929-8463
+<br>ContactEmail----------srosenberg@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@WriteRosenberg
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C45996
+<br>ContactFirstName------Robert F.
+<br>ContactMiddleName------
+<br>ContactLastName-------Scherer-Hoock
+<br>ContactDescription----Scherer-Hoock is a copy editor at the Boston Globe. He has been at the Globe since 1995.
+<br>ContactDesignation----D6984
+<br>ContactPhoto----------boston-globe sunday magazine-robert-f.-scherer-hoock.jpg
+<br>ContactPhonenumber----617-929-7586
+<br>ContactEmail----------b_schere@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45997
+<br>ContactFirstName------Burrows
+<br>ContactMiddleName------
+<br>ContactLastName-------Kenda
+<br>ContactDescription----
+<br>ContactDesignation----D236
+<br>ContactPhoto----------
+<br>ContactPhonenumber---- 309-757-4990
+<br>ContactEmail----------burrows@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C45998
+<br>ContactFirstName------Miho 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sato 
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-860-2100
+<br>ContactEmail----------msato@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C45999
+<br>ContactFirstName------Chesser
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackie
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-8375
+<br>ContactEmail----------jchesser@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46000
+<br>ContactFirstName------Stephen
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----Smith joined the Globe as a reporter on the Health/Science desk following 16 years as a reporter and editor at The Miami Herald. He became the Globe’s city editor in April 2011. A graduate of Northwestern University Smith was a Nieman Fellow at Harvard University and a finalist for the Pulitzer Prize.
+<br>ContactDesignation----D434
+<br>ContactPhoto----------boston-globe sunday magazine-stephen-smith.jpg
+<br>ContactPhonenumber----617-929-3078
+<br>ContactEmail----------stsmith@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeStSmith
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46001
+<br>ContactFirstName------Mara
+<br>ContactMiddleName------
+<br>ContactLastName-------Clingingsmith
+<br>ContactDescription----Mara joined The Herald-Whig as Classified Manager in January 2015. She has an extensive background in advertising sales and management.
+<br>ContactDesignation----D7130
+<br>ContactPhoto----------quincy-herald whig-mara-clingingsmith.jpg
+<br>ContactPhonenumber----(217) 221-3337 
+<br>ContactEmail----------mclingingsmith@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/27924608/mara-clingingsmith
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8162
+<br>ContactId-------------C46002
+<br>ContactFirstName------Doug
+<br>ContactMiddleName------
+<br>ContactLastName-------Oleson
+<br>ContactDescription----
+<br>ContactDesignation----D2077
+<br>ContactPhoto----------dekalb-midweek-doug-oleson.jpg
+<br>ContactPhonenumber----815-756-2235
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8162
+<br>ContactId-------------C46003
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Angel
+<br>ContactDescription----
+<br>ContactDesignation----D670
+<br>ContactPhoto----------dekalb-midweek-lisa-angel.jpg
+<br>ContactPhonenumber----815-756-2236
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46004
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fernekees
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----1-212-251-0608, Ext. 106
+<br>ContactEmail----------bfernekees@destinationCRM.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/bob-fernekees/1/91b/436
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46005
+<br>ContactFirstName------Adrienne
+<br>ContactMiddleName------
+<br>ContactLastName-------Snyder
+<br>ContactDescription----
+<br>ContactDesignation----D7131
+<br>ContactPhoto----------crm-media-adrienne-snyder.jpg
+<br>ContactPhonenumber----1-201-327-2773
+<br>ContactEmail----------Adrienne@destinationCRM.com
+<br>Alternative Email-----
+<br>University------------Kent State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/adrienne-snyder/5/200/349
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46006
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Robertson
+<br>ContactDescription----Robert  joined The Herald-Whig in January 2014.
+<br>ContactDesignation----D126
+<br>ContactPhoto----------quincy-herald whig-robert-robertson.jpg
+<br>ContactPhonenumber----(217) 221-3327
+<br>ContactEmail----------rrobertson@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/24588722/robert-robertson
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5256
+<br>ContactId-------------C46007
+<br>ContactFirstName------Jennifer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cline
+<br>ContactDescription----
+<br>ContactDesignation----D7132
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcline@iteea.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46008
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------Sullivan
+<br>ContactDescription----
+<br>ContactDesignation----D7133
+<br>ContactPhoto----------crm-media-dennis-sullivan.jpg
+<br>ContactPhonenumber----203-445-9178
+<br>ContactEmail----------dennis@destinationCRM.com
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/dennis-sullivan/b/3a7/6a0
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46009
+<br>ContactFirstName------Ron 
+<br>ContactMiddleName------
+<br>ContactLastName-------DeBrock
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4999
+<br>ContactEmail----------rdebrock@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46010
+<br>ContactFirstName------Milton J.
+<br>ContactMiddleName------
+<br>ContactLastName-------Valencia
+<br>ContactDescription----Valencia covers the federal courts and law enforcement for the Metro desk. He has been with the Globe since 2007 as a regional reporter and as a general assignment reporter on the morning and night shifts. His stories focus on quality-of-life issues while also analyzing crime trends and law enforcement policies.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-milton-j.-valencia.jpg
+<br>ContactPhonenumber----617-929-7671
+<br>ContactEmail----------mvalencia@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/miltonvalencia
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46011
+<br>ContactFirstName------DawnEl 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harris
+<br>ContactDescription----
+<br>ContactDesignation----D7134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----1-503-747-7049
+<br>ContactEmail----------dawnel@destinationCRM.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46012
+<br>ContactFirstName------Anderson 
+<br>ContactMiddleName------Shaw
+<br>ContactLastName-------Laura
+<br>ContactDescription----
+<br>ContactDesignation----D7135
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-797-0320
+<br>ContactEmail----------landerson@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46013
+<br>ContactFirstName------Janet
+<br>ContactMiddleName------
+<br>ContactLastName-------Walsh
+<br>ContactDescription----Walsh has been an assistant Metro editor for nearly 10 years and now supervises weekend news coverage. Walsh initially worked in the paper’s regional sections at GlobeWest and City Weekly. In Metro she was obituaries editor and supervised courts coverage before becoming the weekend news editor in 2007.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-janet-walsh.jpg
+<br>ContactPhonenumber----617-929-7555
+<br>ContactEmail----------jwalsh@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/janetwalshglobe
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46014
+<br>ContactFirstName------Steven
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilmsen
+<br>ContactDescription----Wilmsen is enterprise editor overseeing long-term and news feature stories on the Metro desk. He is the author of a book “Silverado: Neil Bush and the Savings and Loan Scandal” and his recent projects have earned him the National Headliner Award Casey Medal and Dart Award. He lives in Milton where he manages a small herd of cats and spends too much time cooking Mexican food.
+<br>ContactDesignation----D435
+<br>ContactPhoto----------boston-globe sunday magazine-steven-wilmsen.jpg
+<br>ContactPhonenumber----617-929-3005
+<br>ContactEmail----------s_wilmsen@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/SWilmsen
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46015
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------Hull
+<br>ContactDescription----Karen Hull joined the Quincy Herald-Whig in 2008 when she returned to the area after living in Brownsville Texas for 10 years.
+<br>ContactDesignation----D7136
+<br>ContactPhoto----------quincy-herald whig-karen-hull.jpg
+<br>ContactPhonenumber----(217) 221-3380 
+<br>ContactEmail----------khull@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/12595546/karen-hull
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46016
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Cronis
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------crm-media-chris-cronis.jpg
+<br>ContactPhonenumber----1-212-251-0608, Ext. 108 
+<br>ContactEmail----------ccronis@infotoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/chris-cronis/a4/71/827
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46016
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Cronis
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------crm-media-chris-cronis.jpg
+<br>ContactPhonenumber----1-212-251-0608, Ext. 108 
+<br>ContactEmail----------ccronis@infotoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/chris-cronis/a4/71/827
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46017
+<br>ContactFirstName------Fraembs
+<br>ContactMiddleName------
+<br>ContactLastName-------Laura
+<br>ContactDescription----
+<br>ContactDesignation----D369
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4943
+<br>ContactEmail----------lfraembs@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46018
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------Hull
+<br>ContactDescription----Karen Hull joined the Quincy Herald-Whig in 2008 when she returned to the area after living in Brownsville Texas for 10 years.
+<br>ContactDesignation----D7136
+<br>ContactPhoto----------quincy-herald whig-karen-hull.jpg
+<br>ContactPhonenumber----(217) 221-3380 
+<br>ContactEmail----------khull@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46019
+<br>ContactFirstName------Laura 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hegyi
+<br>ContactDescription----Laura is responsible for the art direction design and layout of CRM magazine and Speech Technology magazine. Since joining parent company Information Today Inc. in 1992 Laura has also served as senior designer for ONLINE magazine. In addition she is credited with redesigning many of the company\'s publications including CRM magazine Speech Technology magazine (which won an APEX Award for Best Redesign) Information Today KM World and The Library Resource Guide. Laura\'s 26-plus years of design experience include 14 years at Atlantic City magazine and she also designed and produced publications for The Miss America Pageant the LPGA and the New Jersey Department of Tourism. Laura has received numerous design accolades for her work on CRM and Speech Technology magazines including the 2008 Ozzie Award from Folio: magazine; multiple 2008 2007 and 2006 APEXs (Awards for Publication Excellence) from Communications Concepts; multiple 2008 2007 and 2006 Tabbie Awards from the Trade Association and Business Publications International; 2008 (Gold + Silver) and 2007 Awards of Excellence from the ASBPE; and the 2004 American Graphic Design Award.
+<br>ContactDesignation----D2001
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/laura-hegyi/15/529/49
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46020
+<br>ContactFirstName------Mizener
+<br>ContactMiddleName------
+<br>ContactLastName-------Todd
+<br>ContactDescription----
+<br>ContactDesignation----D771
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4993
+<br>ContactEmail----------mize@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46021
+<br>ContactFirstName------Leonard
+<br>ContactMiddleName------
+<br>ContactLastName-------Klie
+<br>ContactDescription----
+<br>ContactDesignation----D629
+<br>ContactPhoto----------crm-media-leonard-klie.jpg
+<br>ContactPhonenumber----1-212-251-0608, Ext. 110
+<br>ContactEmail----------lklie@infotoday.com
+<br>Alternative Email-----
+<br>University------------Marist College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/leonard-klie/8/665/512
+<br>ContactTwitter--------https://twitter.com/lenklie
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46022
+<br>ContactFirstName------Dante
+<br>ContactMiddleName------
+<br>ContactLastName-------Ramos
+<br>ContactDescription----Ramos is a columnist on the Op-Ed page. He previously served as deputy editorial page editor and was a Pulitzer Prize finalist in 2014 for his editorials on how cultural restrictions limit Boston’s economic vitality. Before joining the Globe in 2006 he was a reporter opinion writer and editor at The Times-Picayune in New Orleans.
+<br>ContactDesignation----D7137
+<br>ContactPhoto----------boston-globe sunday magazine-dante-ramos.jpg
+<br>ContactPhonenumber----617-929-3040
+<br>ContactEmail----------dante.ramos@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/DanteRamos
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46023
+<br>ContactFirstName------Maria
+<br>ContactMiddleName------
+<br>ContactLastName-------Minsker
+<br>ContactDescription----Covered marketing and business intelligence at CRM magazine. Was responsible for the Required Reading page in the Insight section of the magazine as well as features and case studies. Wrote news stories for www.destinationCRM.com contributed to the Web site\'s blog and managed the Viewpoints section.
+<br>ContactDesignation----D17
+<br>ContactPhoto----------crm-media-maria-minsker.jpg
+<br>ContactPhonenumber----1-212-251-0608, Ext. 104
+<br>ContactEmail----------mminsker@infotoday.com
+<br>Alternative Email-----
+<br>University------------Cornell University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/mariaminsker
+<br>ContactTwitter--------https://twitter.com/mariaminsker
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5123
+<br>ContactId-------------C46024
+<br>ContactFirstName------Oren 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smilansky
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----1-212-251-0608, Ext. 105
+<br>ContactEmail----------osmilansky@infotoday.com
+<br>Alternative Email-----
+<br>University------------Columbia University in the City of New York
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/oren-smilansky/14/a54/480
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5261
+<br>ContactId-------------C46025
+<br>ContactFirstName------Lena
+<br>ContactMiddleName------
+<br>ContactLastName-------Siep
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------paddock-lena-siep.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46026
+<br>ContactFirstName------Colleen
+<br>ContactMiddleName------
+<br>ContactLastName-------Myers
+<br>ContactDescription----Colleen is responsible for developing strategies to promote The Herald-Whig and support company initiatives. She also coordinates special events serves as liaison with community groups and assists in employee relations initiatives.
+<br>ContactDesignation----D194
+<br>ContactPhoto----------quincy-herald whig-colleen-myers.jpg
+<br>ContactPhonenumber----(217) 221-3303
+<br>ContactEmail----------cmyers@whig.com
+<br>Alternative Email-----
+<br>University------------Quincy University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/colleen-myers/10/355/518
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46027
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Howerton
+<br>ContactDescription----Jim Howerton has been a pressman at The Herald-Whig since 1989.  
+<br>ContactDesignation----D7138
+<br>ContactPhoto----------quincy-herald whig-jim-howerton.jpg
+<br>ContactPhonenumber----(217) 221-3325
+<br>ContactEmail----------jhowerton@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46028
+<br>ContactFirstName------Christina
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----Christina worked for 10 years at the AdForce Advertising Agency before joining The Herald-Whig.
+<br>ContactDesignation----D52
+<br>ContactPhoto----------quincy-herald whig-christina-wilson.jpg
+<br>ContactPhonenumber----(217) 221-3307
+<br>ContactEmail----------cbwilson@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46029
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Crim
+<br>ContactDescription----Don was promoted to executive editor in June 2015. He had been managing editor of The Herald-Whig since 2001 overseeing the day-to-day operations of the newsroom and serving on the newspaper\'s editorial board.
+<br>ContactDesignation----D4
+<br>ContactPhoto----------quincy-herald whig-don-crim.jpg
+<br>ContactPhonenumber----(217) 221-3361 
+<br>ContactEmail----------dcrim@whig.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/don-crim/70/a34/280
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/12595585/don-crim
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46030
+<br>ContactFirstName------Phyllis 
+<br>ContactMiddleName------
+<br>ContactLastName-------McKnight
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------phyllis@dmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46031
+<br>ContactFirstName------Marcela
+<br>ContactMiddleName------
+<br>ContactLastName-------García
+<br>ContactDescription----García writes editorials which are unsigned essays representing the official view of the Boston Globe as a community institution. She has been a contributor to the opinion pages since the spring of 2013 writing editorials columns and op-extras. Previously she was a contributor to WGBH Telemundo Boston the Boston Business Journal and was editor of the Spanish-language weekly El Planeta.
+<br>ContactDesignation----D405
+<br>ContactPhoto----------boston-globe sunday magazine-marcela-garcía.jpg
+<br>ContactPhonenumber----617-929-7037
+<br>ContactEmail----------marcela.garcia@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/Marcela_Elisa
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46032
+<br>ContactFirstName------Elliott
+<br>ContactMiddleName------
+<br>ContactLastName-------Stephen
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4995
+<br>ContactEmail----------selliott@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46033
+<br>ContactFirstName------Kaitlynn
+<br>ContactMiddleName------
+<br>ContactLastName-------Moody
+<br>ContactDescription----Advertising Associate Luxury Division Responsibilities:
+• Spearhead client service initiatives for the D Home and D Weddings publications
+• Organize and execute issue shipment tasks for each publication
+• Prioritize requests from the four luxury division publishers and account executives
+• Monitor the D Home Premium Partners Program
+• Coordinate directly with advertisers and production management to ensure ads are collected in the time sensitive production schedule
+• Work closely with advertisers and the D Weddings production manager to collect over 100 ad materials during D Weddings production period
+• Manage the D Luxury Division Advertising Intern as Intern Manager
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------dceo-magazine-kaitlynn-moody.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kaitlynn.moody@dmagazine.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kaitlynn-moody/5a/83b/817
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46034
+<br>ContactFirstName------Lagerstam
+<br>ContactMiddleName------
+<br>ContactLastName-------Leon
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4960
+<br>ContactEmail----------llagerstam@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46035
+<br>ContactFirstName------Maura
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------dceo-magazine-maura-jones.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mauraj@dmagazine.com
+<br>Alternative Email-----
+<br>University------------University of South Carolina School of Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/maura-jones/47/935/636
+<br>ContactTwitter--------https://twitter.com/jones_maura
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46036
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------McLaren
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------dceo-magazine-lisa-mclaren.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lisa.mclaren@dmagazine.com
+<br>Alternative Email-----
+<br>University------------Texas A&M University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/lisa-mclaren/13/266/796
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8163
+<br>ContactId-------------C46037
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Koci
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------centre-magazine-robert-koci.jpg
+<br>ContactPhonenumber----416-442-5600
+<br>ContactEmail----------rkoci@canadiancontractor.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8163
+<br>ContactId-------------C46038
+<br>ContactFirstName------Rebecca
+<br>ContactMiddleName------
+<br>ContactLastName-------Reid
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------centre-magazine-rebecca-reid.jpg
+<br>ContactPhonenumber---- 416-442-3663
+<br>ContactEmail----------rreid@annexnewcom.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8163
+<br>ContactId-------------C46039
+<br>ContactFirstName------Beata
+<br>ContactMiddleName------
+<br>ContactLastName-------Olechnowicz
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------centre-magazine-beata-olechnowicz.jpg
+<br>ContactPhonenumber----416- 442-3543
+<br>ContactEmail----------bolechnowicz@annexnewcom.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8163
+<br>ContactId-------------C46040
+<br>ContactFirstName------Ellie
+<br>ContactMiddleName------
+<br>ContactLastName-------Robinson
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------centre-magazine-ellie-robinson.jpg
+<br>ContactPhonenumber----416-442-3590
+<br>ContactEmail----------erobinson@annexnewcom.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8163
+<br>ContactId-------------C46041
+<br>ContactFirstName------Barb
+<br>ContactMiddleName------
+<br>ContactLastName-------Vowles
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------centre-magazine-barb-vowles.jpg
+<br>ContactPhonenumber----416-510-5103
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46042
+<br>ContactFirstName------Timmons
+<br>ContactMiddleName------
+<br>ContactLastName-------Eric
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-736-3513
+<br>ContactEmail----------etimmons@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8164
+<br>ContactId-------------C46043
+<br>ContactFirstName------Keith
+<br>ContactMiddleName------
+<br>ContactLastName-------Hernandez
+<br>ContactDescription----I am an editor and photojournalist at an exciting time in digital journalism. I see the dwindling of newspapers as the transcendence of quality news to a more powerful transparent and immediate medium. 
+
+I have taken classes in newspaper design and photography and have more than two years of print journalism experience under the Eye of the Storm at Southwestern Illinois College and the Northern Star at Northern Illinois University. I have worked as a reporter photographer copy editor day editor and managing editor.
+<br>ContactDesignation----D7139
+<br>ContactPhoto----------niu-northern star-keith-hernandez.jpg
+<br>ContactPhonenumber---- 815-753-0105
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ Northern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/dezjournalism
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9000
+<br>ContactId-------------C46044
+<br>ContactFirstName------Kerry 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kocher
+<br>ContactDescription----
+<br>ContactDesignation----D6952
+<br>ContactPhoto----------
+<br>ContactPhonenumber----618-393-2931
+<br>ContactEmail----------kkocher@olneydailymail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8164
+<br>ContactId-------------C46045
+<br>ContactFirstName------Sabreena
+<br>ContactMiddleName------
+<br>ContactLastName-------Saleem
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------niu-northern star-sabreena-saleem.jpg
+<br>ContactPhonenumber----815-753-9646
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46046
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Buckley
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------paul.buckley@dcustom.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46047
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----Kelly Wilson is interactive managing editor of The Herald-Whig. She is responsible for editorial content and strategic development of The Herald-Whig\'s new-media platforms and social media portals.
+<br>ContactDesignation----D347
+<br>ContactPhoto----------quincy-herald whig-kelly-wilson.jpg
+<br>ContactPhonenumber----(217) 221-3374 
+<br>ContactEmail----------klwilson@whig.com
+<br>Alternative Email-----
+<br>University------------Western Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kelly-wilson/27/397/266
+<br>ContactTwitter--------https://twitter.com/kwilsonwhig
+<br>ContactURL------------http://www.whig.com/story/17859511/kelly-wilson
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46048
+<br>ContactFirstName------Dziennik 
+<br>ContactMiddleName------
+<br>ContactLastName-------Zwaizkowy
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/margaret-blaszczuk/1b/751/459
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46049
+<br>ContactFirstName------Andrew
+<br>ContactMiddleName------ Z
+<br>ContactLastName-------Kazimierczak
+<br>ContactDescription----
+<br>ContactDesignation----D7140
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46050
+<br>ContactFirstName------Turner
+<br>ContactMiddleName------
+<br>ContactLastName-------Jonathan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4992
+<br>ContactEmail----------jturner@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46051
+<br>ContactFirstName------Watt
+<br>ContactMiddleName------
+<br>ContactLastName-------Anthony
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-736-3510
+<br>ContactEmail----------awatt@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46052
+<br>ContactFirstName------Krystyna
+<br>ContactMiddleName------
+<br>ContactLastName------- Cygielska
+<br>ContactDescription----
+<br>ContactDesignation----D7140
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46053
+<br>ContactFirstName------Ricky
+<br>ContactMiddleName------
+<br>ContactLastName-------Burdett
+<br>ContactDescription----Ricky Burdett is Professor of Urban Studies at the London School of Economics and Political Science and director of LSE Cities and the Urban Age Programme. He is a member of the UK Government’s Independent Airports Commission and a member of Council of the Royal College of Art in London. Burdett was Visiting Professor in Urban Planning and Design at the Graduate School of Design Harvard University in 2014 and Global Distinguished Professor at New York University from 2010 to 2014. He has been involved in regeneration projects across Europe and was Chief Adviser on Architecture and Urbanism for the London 2012 Olympics (where he was involved in the selection of designers for many of the Olympic venues) and architectural adviser to the Mayor of London from 2001 to 2006. Burdett was also a member of the Urban Task Force which produced a major report for the UK government on the future of English cities. He is editor of The Endless City (2007) Living in the Endless City (2011) and Innovation in Europe’s Cities (2015). Burdett acts as an adviser to national regional and local governments on urban issues and has worked with private companies and architectural practices on the development and framing of urban projects. He was involved in the design competitions for Tate Modern the Laban Centre BBC projects in Broadcasting House White City and Glasgow; the Royal Opera House Open-up project NM Rothschild & Sons Headquarters in the City of London the Golden Mede development at Waddesdon the MAXXI Centre in Rome the new Integrated transport system in Jeddah and the redevelopment of Penn Plaza in New York City.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------centre-of the city-ricky-burdett.jpg
+<br>ContactPhonenumber----44 020 -7107- 5232
+<br>ContactEmail----------r.burdett@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://in.linkedin.com/pub/ricky-burdett/56/81b/239
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46054
+<br>ContactFirstName------Marx
+<br>ContactMiddleName------
+<br>ContactLastName-------John
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-8388
+<br>ContactEmail----------johnny@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46055
+<br>ContactFirstName------Eve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Malcher
+<br>ContactDescription----
+<br>ContactDesignation----D7140
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46056
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Colletti
+<br>ContactDescription----
+<br>ContactDesignation----D1004
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4993
+<br>ContactEmail----------pcolletti@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46057
+<br>ContactFirstName------Philipp
+<br>ContactMiddleName------
+<br>ContactLastName-------Rode
+<br>ContactDescription----Philipp Rode is Executive Director of LSE Cities and Senior Research Fellow at the London School of Economics and Political Science. He co-convenes the LSE Sociology Course on ‘City Making: The Politics of Urban Form’. As researcher and consultant he has been directing interdisciplinary projects comprising urban governance transport city planning and urban design since 2003. The focus of his current work is on green economy strategies in cities which includes co-directing the cities workstream of the Global Commission on the Economy and Climate. He has previously led the coordination of the chapters on Green Cities and Green Buildings for the United Nations Environment Programme’s Green Economy Report. Rode is Executive Director of the Urban Age Programme and since 2005 organised Urban Age conferences in over a dozen world cities bringing together political leaders city mayors urban practitioners private sector representatives and academic experts. He manages the Urban Age research efforts and recently co-authored ‘Cities and Energy: Urban morphology and heat energy demand’ (2014) ‘Going Green: How cities are leading the green economy’ (2013) ‘Transforming Urban Economies’ (2012) and ‘The Global MetroMonitor’ (2010). He has previously worked on several multidisciplinary research and consultancy projects in New York and Berlin and was awarded the Schinkel Urban Design Prize 2000.
+<br>ContactDesignation----D182
+<br>ContactPhoto----------centre-of the city-philipp-rode.jpg
+<br>ContactPhonenumber----440-20 7-107- 5232
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/philipprode
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46058
+<br>ContactFirstName------Dariusz
+<br>ContactMiddleName------
+<br>ContactLastName------- Cisowski 
+<br>ContactDescription----
+<br>ContactDesignation----D3228
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46059
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D6326
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636
+<br>ContactEmail----------b.moore@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46060
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Loftis
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636
+<br>ContactEmail----------carrollcountynews@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46061
+<br>ContactFirstName------Krambeck
+<br>ContactMiddleName------
+<br>ContactLastName-------Gary
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4993
+<br>ContactEmail----------gkrambeck@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46062
+<br>ContactFirstName------McLaughlin
+<br>ContactMiddleName------
+<br>ContactLastName-------Meg
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4993
+<br>ContactEmail----------mmclaughlin@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46063
+<br>ContactFirstName------Fran
+<br>ContactMiddleName------
+<br>ContactLastName-------Tonkiss
+<br>ContactDescription----Dr Fran Tonkiss is a Professor in Sociology and directs the Cities Programme. Her research and teaching is at the interface of urban and economic sociology with key research interests in cities and social theory urban development and design urban inequalities and spatial divisions. Publications in these fields include Cities by Design: the social life of urban form (2013) Space the City and Social Theory (2005) and Contemporary Economic Sociology: Globalisation Production Inequality (2006). She is the co-author of Market Society: Markets and Modern Social Theory (2001 with Don Slater) and co-editor of Trust and Civil Society (2000 with Andrew Passey). She is managing editor of the leading critical journal Economy and Society.
+<br>ContactDesignation----D2451
+<br>ContactPhoto----------centre-of the city-fran-tonkiss.jpg
+<br>ContactPhonenumber----440-20 79-55- 6601
+<br>ContactEmail----------f.tonkiss@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46064
+<br>ContactFirstName------Sobia
+<br>ContactMiddleName------Ahmad
+<br>ContactLastName-------Kaker
+<br>ContactDescription----Sobia Ahmad Kaker joined LSE Cities in 2013 to advance research on Urban Uncertainty. She contributed to the collaborative research project by developing a case study of insecurity and urban life in Karachi Pakistan. Her research focuses on the ways in which urban residents governors and policymakers govern everyday uncertainties through various socio-spatial practices and with what political outcomes. Sobia’s work on urban uncertainty is influenced by her orientation as an interdisciplinary urban studies scholar and her previous experience of developing research on global south urbanism in Pakistan and the UK. Sobia holds a PhD in Architecture Planning and Landscape from Newcastle University where she completed her project titled ‘Enclaves as Process: Space Security and Violence in Karachi’. Her PhD develops a nuanced analysis of enclaves as dynamic urban spaces that operate with complex urban systems to re-produce inequalities marginality and disjunctive forms of citizenship in ways that intensify patterns of violence and victimisation in the city. Sobia is also currently Visiting Research Fellow at the Center for Research and Security Studies in Islamabad Pakistan. Her research interests include urbanisation urban socio-spatial relations urban politics governance and conflict.
+<br>ContactDesignation----D2988
+<br>ContactPhoto----------centre-of the city-sobia-kaker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------s.a.kaker@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------ Newcastle University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://uk.linkedin.com/pub/sobia-ahmad-kaker/7/a75/b4b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46065
+<br>ContactFirstName------Nicole
+<br>ContactMiddleName------
+<br>ContactLastName-------Badstuber
+<br>ContactDescription----Nicole Badstuber joined LSE Cities in 2015 to on the New Urban Governance research programme where she is supporting the investigation of the system of urban transport governance in London. Nicole is also pursuing a multi-disciplinary PhD at University College London which is a comparative study of different cities’ governance structures and institutional arrangements for transport provision. Her PhD sits within in the policy stream of the Engineering and Physcial Sciences Research Council sponsored research programme Transforming the Engineering of Cities for Societal and Planetary Wellbeing. She holds a Master of Engineering in Civil Engineering having specialised in transport planning and policy.
+<br>ContactDesignation----D2988
+<br>ContactPhoto----------centre-of the city-nicole-badstuber.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------N.Badstuber@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------ University College London, U. of London
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46066
+<br>ContactFirstName------Cynthia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chappel
+<br>ContactDescription----
+<br>ContactDesignation----D7141
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cchappel@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46067
+<br>ContactFirstName------ Rhonda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Worrall 
+<br>ContactDescription----
+<br>ContactDesignation----D7142
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636 
+<br>ContactEmail----------rhonda.w@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46068
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Adam
+<br>ContactDescription----David is the news coordinator for The Herald-Whig. He has held multiple positions at The Herald-Whig since he was hired as part-time sports clerk in 1985.
+<br>ContactDesignation----D880
+<br>ContactPhoto----------quincy-herald whig-david-adam.jpg
+<br>ContactPhonenumber----(217) 221-3376 
+<br>ContactEmail----------dadam@whig.com
+<br>Alternative Email-----
+<br>University------------Quincy University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/dadamwhig
+<br>ContactURL------------http://www.whig.com/story/12595623/david-adam
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46069
+<br>ContactFirstName------Susan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Reece
+<br>ContactDescription----
+<br>ContactDesignation----D7143
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636 
+<br>ContactEmail----------ccnlegals@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46070
+<br>ContactFirstName------Samantha 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jone
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636
+<br>ContactEmail----------carrollcountynews@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46071
+<br>ContactFirstName------Ty 
+<br>ContactMiddleName------
+<br>ContactLastName-------Loftis
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636
+<br>ContactEmail----------ccnsports@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46072
+<br>ContactFirstName------John
+<br>ContactMiddleName------Bingham
+<br>ContactLastName-------Hall
+<br>ContactDescription----John Bingham-Hall an urban researcher with a degree in music and Master’s in architectural studies as well as professional experience in cultural programming joined LSE Cities in 2015 to develop Theatrum Mundi’s program. His interest is in the urban public both physical and mediated and the modes of communication cultural production performance and civic society that form it. He is part way to completing a Built Environment PhD at the Bartlett UCL with funding from the EPSRC concerned with local communication practices and particularly neighbourhood blogging and social media. Past research supported by the AHRC has focused on public art and is due to be published in 2015 as a book chapter in Routledge’s The Everyday Practice of Public Art. Outside of academia John has worked with the Architecture Foundation on temporary use projects devised and run a free public arts program as part of place-making in Kings Cross and been commissioned by Nike to produce a map of London encouraging walking in the city. He is also a keen communicator of ideas about cities and has undertaken independent research and writing for Wallpaper* Magazine Monocle and the London Society Journal.
+<br>ContactDesignation----D2988
+<br>ContactPhoto----------centre-of the city-john-hall.jpg
+<br>ContactPhonenumber----440-20 3486 2884
+<br>ContactEmail----------J.Bingham-Hall@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9001
+<br>ContactId-------------C46073
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bell
+<br>ContactDescription----
+<br>ContactDesignation----D456
+<br>ContactPhoto----------
+<br>ContactPhonenumber----870-423-6636
+<br>ContactEmail----------photos@cox-internet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46074
+<br>ContactFirstName------Harry
+<br>ContactMiddleName------
+<br>ContactLastName-------Blain
+<br>ContactDescription----Harry Blain is an LSE graduate intern at LSE Cities following the completion of his MSc in Conflict Studies with the Government Department at LSE. His research interests have included the role of private security companies in the policing and closing off of public space in urban environments. He completed his undergraduate degree at the University of Sydney majoring in Government and International Relations and has written several articles for among other outlets openDemocracy
+<br>ContactDesignation----D7144
+<br>ContactPhoto----------centre-of the city-harry-blain.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46075
+<br>ContactFirstName------Aron
+<br>ContactMiddleName------
+<br>ContactLastName-------Bohmann
+<br>ContactDescription----Aron studied Urban Planning and Urban Design and Social Science in Vienna Hamburg Istanbul and London. He worked at several universities and for international design planning and architecture practices in the mentioned cities. He conducted a broad range of studies and projects over the last years where he gained competences in methods tools and theory of urban thinking. His focus topics cover housing conditions in Germany and UK as well as the interconnections between everyday life and structural attributes of urban patterns and typologies of the urban realm.
+<br>ContactDesignation----D7145
+<br>ContactPhoto----------centre-of the city-aron-bohmann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46076
+<br>ContactFirstName------Laura 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kostelny
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------laurak@dmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------https://www.facebook.com/laura.kostelny
+<br>ContactLinkedin-------https://www.linkedin.com/pub/laura-kostelny/7/74/886
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46077
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Lewton
+<br>ContactDescription----Jason Lewton joined The Herald-Whig as a copy editor in March 2013 and was promoted to editorial production coordinator in August 2014.
+<br>ContactDesignation----D7146
+<br>ContactPhoto----------quincy-herald whig-jason-lewton.jpg
+<br>ContactPhonenumber----(217) 221-3321 
+<br>ContactEmail----------lewton@whig.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jason-lewton/60/197/672
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46078
+<br>ContactFirstName------Hélia
+<br>ContactMiddleName------
+<br>ContactLastName-------Costa
+<br>ContactDescription----Hélia Costa is a research officer jointly at LSE Cities and the Grantham Research Institute. Her focus is mainly on urban climate adaptation particularly on the project RAMSES (Reconciling Adaptation Mitigation and Sustainable Development for Cities). Her general research interests lie on the area of applied microeconomics specifically in environmental economics and political economy
+<br>ContactDesignation----D7147
+<br>ContactPhoto----------centre-of the city-hélia-costa.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------h.costa@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------ European University Institute
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://uk.linkedin.com/pub/hélia-costa/66/3a4/a26
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46079
+<br>ContactFirstName------Derrick Z.
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackson
+<br>ContactDescription----An award-winning columnist for the Op-Ed section Jackson is a 2001 finalist for the Pulitzer Prize in commentary a 2-time winner of opinion awards from the Education Writers Association and a 9-time winner from the National Association of Black Journalists. He also is known for his nature photography and his images of Barack Obama have been exhibited by Boston’s Museum of African American History.
+<br>ContactDesignation----D130
+<br>ContactPhoto----------boston-globe sunday magazine-derrick-z.-jackson.jpg
+<br>ContactPhonenumber----617-929-3088
+<br>ContactEmail----------jackson@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeJackson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46080
+<br>ContactFirstName------Emily
+<br>ContactMiddleName------
+<br>ContactLastName-------Cruz
+<br>ContactDescription----Emily Cruz is the London Manager of Theatrum Mundi (TM) an LSE Cities research project and professional network of urbanists and artists in different cities. The network consists of visual and performing artists architects and planners film-makers and photographers writers and scholars whose shared aims are to understand the culture of cities and to experiment with ways of creating them. Emily coordinates the monthly TM Network conversations and delivers all TM outreach projects such as the ideas competition Designing the Urban Commons. Previously she has delivered projects across architecture urban design art and photography – including publications exhibitions conferences and events. She has worked as the Architecture Foundation’s Exhibition Coordinator; as Publications and Events Manager for the LSE’s Urban Age project and in Liverpool Biennial’s development team.
+<br>ContactDesignation----D7148
+<br>ContactPhoto----------centre-of the city-emily-cruz.jpg
+<br>ContactPhonenumber----440-20 7-955- 6972
+<br>ContactEmail----------e.m.cruz@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46081
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----Sarah Davis joined the Urban Age in June 2009. She manages and operates the finance activities of the programme acting as accounts co-ordinator for all accounting and daily financial procedures as well as providing accounting support to management. She has previously worked as an accountant for National Air Traffic Services (NATS) the Automobile Association (AA) Thorn EMI and Foster Wheeler. She holds a BA (Hons) in Sociology from the University of Reading and is a qualified Chartered Certified Accountant.
+<br>ContactDesignation----D7149
+<br>ContactPhoto----------centre-of the city-sarah-davis.jpg
+<br>ContactPhonenumber----440-20 7-107- 5155
+<br>ContactEmail----------s.j.davis@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46082
+<br>ContactFirstName------Tappa
+<br>ContactMiddleName------
+<br>ContactLastName-------Steve
+<br>ContactDescription----
+<br>ContactDesignation----D102
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4967
+<br>ContactEmail----------tappa@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46083
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Bohnstedt
+<br>ContactDescription----Steve joined The Herald-Whig in June 2004 after working the previous 5 years in the Washington D.C. area. He was named photo editor in January 2013.
+<br>ContactDesignation----D107
+<br>ContactPhoto----------quincy-herald whig-steve-bohnstedt.jpg
+<br>ContactPhonenumber----(217) 221-3387 
+<br>ContactEmail----------sbohnstedt@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/12595850/steve-bohnstedt
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46084
+<br>ContactFirstName------Ryan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Conner
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/ryan-marie-conner/13/ab/642
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46085
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Pothier
+<br>ContactDescription----
+Pothier joined the Globe in 2001 as the first editor of Globe South and moved to the Business section eight years ago as senior assistant business editor. He served as deputy business editor until July 2013. Prior to coming to the Globe he was a Nieman Fellow at Harvard University where he also taught a journalism class for a decade. Pothier is also a regular contributor to the Globe’s Sunday Magazine. He is a graduate of Merrimack College and lives in Plymouth with his wife Elizabeth and their daughter Elizabeth. He also has two grown children – Alexandra and Justin.
+<br>ContactDesignation----D34
+<br>ContactPhoto----------boston-globe sunday magazine-mark-pothier.jpg
+<br>ContactPhonenumber----617-929-8672
+<br>ContactEmail----------mark.pothier@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/markpothier
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46086
+<br>ContactFirstName------Nuno
+<br>ContactMiddleName------Ferreira da
+<br>ContactLastName-------Cruz
+<br>ContactDescription----Nuno Ferreira da Cruz is a Research Fellow at LSE Cities and the Coordinator of the New Urban Governance project. Upon completing his M.Sc. and while working in the private sector he won a Ph.D. Studentship awarded by the Portuguese Foundation for Science and Technology. After this his research activities resulted in the publication of several journal articles on a wide range of policy issues including local governance transparency and sustainability indicators performance measurement and benchmarking management and delivery of urban services corporatisation privatisation and public-private partnership arrangements and a number of interrelated topics. His latest research efforts have been focused on network urban governance. As a consultant Nuno has been a frequent collaborator of the Transparency International (TI) movement. Among other consultancy projects he was responsible for developing several Local Government Transparency Indices. Moreover he was the Principal Investigator responsible for piloting TI’s Local Integrity System (LIS) Tool in Portugal. Nuno has also been lecturing and convening training workshops related to both his research and consultancy efforts. He is a member of the Editorial Board of Urban Affairs Review.
+<br>ContactDesignation----D7150
+<br>ContactPhoto----------centre-of the city-nuno-cruz.jpg
+<br>ContactPhonenumber----440-20 7-955- 6546
+<br>ContactEmail----------n.m.ferreira-da-cruz@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46087
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Metsch
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------southtown-star-steve-metsch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Southern Illinois University, Carbondale
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/title/reporter-at-southtownstar
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46088
+<br>ContactFirstName------Joan
+<br>ContactMiddleName------
+<br>ContactLastName-------Vennochi
+<br>ContactDescription----Vennochi is a columnist for the Op-Ed page. She previously wrote a business column and has covered national and Massachusetts politics for the Globe. She shared in a Pulitzer Prize for special local reporting that was awarded to the Spotlight Team.
+<br>ContactDesignation----D6744
+<br>ContactPhoto----------boston-globe sunday magazine-joan-vennochi.jpg
+<br>ContactPhonenumber----617-929-3298
+<br>ContactEmail----------vennochi@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/Joan_Vennochi
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46089
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Rakow
+<br>ContactDescription----
+<br>ContactDesignation----D7151
+<br>ContactPhoto----------southtown-star-bob-rakow.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Saint Xavier University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/bob-rakow/11/b62/355?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46090
+<br>ContactFirstName------Graham
+<br>ContactMiddleName------
+<br>ContactLastName-------Floater
+<br>ContactDescription----Graham Floater is former advisor to the UK Prime Minister and senior official at HM Treasury. He has served under Tony Blair Gordon Brown and David Cameron. Graham’s research interests include international trade market analysis finance and smart cities. He currently co-directs the NCE Cities Programme for the Global Commission on the Economy and Climate and is a Sherpa on the European Commission’s Innovation Partnership on Smart Cities. His varied roles have included deputy director and senior advisor to the Prime Minister on economics and climate change Head of European Economic Negotiations at HM Treasury Private Secretary to a Cabinet Minister trade official at the European Commission and lead EU trade negotiator in the World Trade Organization. Graham was appointed to head two major Prime Ministerial Reviews on trading investment and climate finance led the creation of the UK’s $2 billion Low Carbon Industrial Strategy and oversaw the influential Stern Review Team acting for Lord Stern as advisor to President Barroso of the European Commission.
+<br>ContactDesignation----D7152
+<br>ContactPhoto----------centre-of the city-graham-floater.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------g.floater@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46091
+<br>ContactFirstName------Kate 
+<br>ContactMiddleName------
+<br>ContactLastName-------McCann
+<br>ContactDescription----
+<br>ContactDesignation----D7153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Illinois Springfield
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kate-mccann/a7/1aa/816?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46092
+<br>ContactFirstName------Matthew
+<br>ContactMiddleName------
+<br>ContactLastName-------Bernstein
+<br>ContactDescription----Bernstein is the letters editor for the Editorial page. He has been a production editor and editorial design supervisor for the news pages of the Globe and previously worked as a copy editor and arts critic at The Patriot Ledger. He is an avid runner.
+<br>ContactDesignation----D4228
+<br>ContactPhoto----------boston-globe sunday magazine-matthew-bernstein.jpg
+<br>ContactPhonenumber----617-929-2917
+<br>ContactEmail----------mbernstein@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5124
+<br>ContactId-------------C46093
+<br>ContactFirstName------Glenn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hunter
+<br>ContactDescription----
+<br>ContactDesignation----D6761
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------glenn.hunter@dmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/glenn-hunter/b/747/1aa
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46094
+<br>ContactFirstName------Casey
+<br>ContactMiddleName------
+<br>ContactLastName-------Cora
+<br>ContactDescription----
+<br>ContactDesignation----D7154
+<br>ContactPhoto----------southtown-star-casey-cora.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of South Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/caseycora
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46095
+<br>ContactFirstName------Matthew
+<br>ContactMiddleName------
+<br>ContactLastName-------Bruce
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Southern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/matthew-bruce/16/a36/561?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46096
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Schuckman
+<br>ContactDescription----Sports Editor Matt Schuckman returned to The Herald-Whig as a full-time sports writer on Jan. 18 1999 having spent seven years here as a part-time sports writer through high school and college. He became Sports Editor on Aug. 27 2012.
+<br>ContactDesignation----D191
+<br>ContactPhoto----------quincy-herald whig-matt-schuckman.jpg
+<br>ContactPhonenumber----(217) 221-3366
+<br>ContactEmail----------mschuckman@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/matt-schuckman/4b/849/964
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/12595811/matt-schuckman
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46097
+<br>ContactFirstName------Makarewicz
+<br>ContactMiddleName------
+<br>ContactLastName-------Dan
+<br>ContactDescription----
+<br>ContactDesignation----D102
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------danmak@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46098
+<br>ContactFirstName------Casey 
+<br>ContactMiddleName------
+<br>ContactLastName-------Toner
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/casey-toner/3a/910/750?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46099
+<br>ContactFirstName------Johnston
+<br>ContactMiddleName------
+<br>ContactLastName-------Tom
+<br>ContactDescription----
+<br>ContactDesignation----D102
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4969
+<br>ContactEmail----------tbone@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46100
+<br>ContactFirstName------Andrzej 
+<br>ContactMiddleName------
+<br>ContactLastName-------Heyduk
+<br>ContactDescription----
+<br>ContactDesignation----D7155
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5125
+<br>ContactId-------------C46101
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Granger
+<br>ContactDescription----
+<br>ContactDesignation----D3790
+<br>ContactPhoto----------
+<br>ContactPhonenumber----480-281-6727
+<br>ContactEmail----------mgranger@vpico.com
+<br>Alternative Email-----
+<br>University------------University of Technology, Sydney
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://in.linkedin.com/pub/matt-grainger/20/6a6/689
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46102
+<br>ContactFirstName------Jon
+<br>ContactMiddleName------
+<br>ContactLastName-------Garelick
+<br>ContactDescription----Jon Garelick is a copy editor for the Globe opinion pages and a member of the Editorial Board. He joined the Globe in March 2015. A graduate of Boston University he was previously arts editor of the Boston Phoenix where he worked for 22 years until its closing in March 2013.
+<br>ContactDesignation----D99
+<br>ContactPhoto----------boston-globe sunday magazine-jon-garelick.jpg
+<br>ContactPhonenumber----617-929-2241
+<br>ContactEmail----------jon.garelick@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@jgarelick
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46103
+<br>ContactFirstName------Groene
+<br>ContactMiddleName------
+<br>ContactLastName-------Bob
+<br>ContactDescription----
+<br>ContactDesignation----D3228
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------groene@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46104
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Paha
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------southtown-star-jason-paha.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Illinois State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jason-paha/7/3b7/328?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46105
+<br>ContactFirstName------Alexandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Gomes
+<br>ContactDescription----
+<br>ContactDesignation----D7156
+<br>ContactPhoto----------centre-of the city-alexandra-gomes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46106
+<br>ContactFirstName------Wojciech 
+<br>ContactMiddleName------
+<br>ContactLastName-------Minicz
+<br>ContactDescription----
+<br>ContactDesignation----D7155
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46107
+<br>ContactFirstName------Myers
+<br>ContactMiddleName------
+<br>ContactLastName-------Jack
+<br>ContactDescription----
+<br>ContactDesignation----D914
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-5032
+<br>ContactEmail----------jackm@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46108
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Jacoby
+<br>ContactDescription----An Op-Ed columnist and nationally recognized conservative voice Jacoby was hired from the Boston Herald in 1987. He briefly practiced law and was a commentator for WBUR-FM. His awards include the 1999 Breindel Prize and the 2004 Thomas Paine Award.
+<br>ContactDesignation----D130
+<br>ContactPhoto----------boston-globe sunday magazine-jeff-jacoby.jpg
+<br>ContactPhonenumber----617-929-3168
+<br>ContactEmail----------jacoby@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/jeff_jacoby
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46109
+<br>ContactFirstName------Wahlheim
+<br>ContactMiddleName------
+<br>ContactLastName-------Dan
+<br>ContactDescription----
+<br>ContactDesignation----D1033
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4939
+<br>ContactEmail----------wahl@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46110
+<br>ContactFirstName------Marjorie
+<br>ContactMiddleName------
+<br>ContactLastName-------Pritchard
+<br>ContactDescription----Pritchard has been editor of the Globe Op-Ed page since 1987. She is the past president of the National Association of Opinion Page Editors and is the recipient of several awards for the page. She has a degree in journalism from Northeastern University.
+<br>ContactDesignation----D7157
+<br>ContactPhoto----------boston-globe sunday magazine-marjorie-pritchard.jpg
+<br>ContactPhonenumber----617-929-3041
+<br>ContactEmail----------m_pritchard@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46111
+<br>ContactFirstName------Flatt
+<br>ContactMiddleName------
+<br>ContactLastName-------Steve
+<br>ContactDescription----
+<br>ContactDesignation----D7158
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4911
+<br>ContactEmail----------sflatt@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5125
+<br>ContactId-------------C46112
+<br>ContactFirstName------Rebecca 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pray
+<br>ContactDescription----
+<br>ContactDesignation----D2541
+<br>ContactPhoto----------
+<br>ContactPhonenumber----480-990-1101
+<br>ContactEmail----------rpray@vpico.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46113
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Wasserman
+<br>ContactDescription----
+Wasserman has been cartooning for the Globe editorial page since 1985. He has published two collections of drawings “We\'ve Been Framed” and “Paper Cuts.” His cartoons are widely reprinted and are syndicated internationally by Tribune Media Services. He draws more quickly than he types.
+<br>ContactDesignation----D1122
+<br>ContactPhoto----------boston-globe sunday magazine-dan-wasserman.jpg
+<br>ContactPhonenumber----617-929-2829
+<br>ContactEmail----------d_wasserman@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeWasserman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8711
+<br>ContactId-------------C46114
+<br>ContactFirstName------Abbitt
+<br>ContactMiddleName------
+<br>ContactLastName-------Kay
+<br>ContactDescription----
+<br>ContactDesignation----D7159
+<br>ContactPhoto----------
+<br>ContactPhonenumber----309-757-4914
+<br>ContactEmail----------kbird@qconline.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46115
+<br>ContactFirstName------Ellen
+<br>ContactMiddleName------
+<br>ContactLastName-------Clegg
+<br>ContactDescription----As editorial page editor Ellen Clegg oversees the Globe’s editorials and opinion columns. In more than three decades at the Globe she has overseen the Sunday paper edited regional news and directed health and science coverage. In between stints in the newsroom she was executive director of communications at the Globe and president of the Boston Globe Foundation. She was also a science writer for several years at the Broad Institute of MIT and Harvard. She is a graduate of the University of Missouri.
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------boston-globe sunday magazine-ellen-clegg.jpg
+<br>ContactPhonenumber----617-929-3339
+<br>ContactEmail----------ellen.clegg@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/ellenclegg
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7960
+<br>ContactId-------------C46116
+<br>ContactFirstName------Anna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Samone
+<br>ContactDescription----
+<br>ContactDesignation----D7155
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46117
+<br>ContactFirstName------Heather
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopp-Bruce
+<br>ContactDescription----Heather Hopp-Bruce coordinates illustrations graphics and layout for the Editorial and Opinion pages. She also contributes to videos and interactive graphics as well as writes editorials and serves on the editorial board. She has been a design editor at Newsday The Seattle Post-Intelligencer and The San Francisco Chronicle; a columnist at the Santa Cruz Sentinel; and a senior project manager at a web design firm in California.
+<br>ContactDesignation----D6734
+<br>ContactPhoto----------boston-globe sunday magazine-heather-hopp-bruce.jpg
+<br>ContactPhonenumber----617-929-3373
+<br>ContactEmail----------Heather.Hopp-Bruce@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@H_HoppBruce
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46118
+<br>ContactFirstName------Scot
+<br>ContactMiddleName------
+<br>ContactLastName-------Lehigh
+<br>ContactDescription----
+A columnist for the Editorial/Op-Ed section Lehigh provides commentary on a number of issues. Since joining the staff in 1989 he has held several editorial positions and has been a consistent member of the paper’s political reporting staff.
+<br>ContactDesignation----D130
+<br>ContactPhoto----------boston-globe sunday magazine-scot-lehigh.jpg
+<br>ContactPhonenumber----617-367-4038
+<br>ContactEmail----------lehigh@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeScotLehigh
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46119
+<br>ContactFirstName------Farah
+<br>ContactMiddleName------
+<br>ContactLastName-------Stockman
+<br>ContactDescription----
+Stockman is a writer for the Globe’s editorial board and writes a weekly bylined column. She graduated Magna Cum Laude from Harvard College and lived in Kenya and Tanzania writing as a freelancer for the New York Times National Public Radio and the Christian Science Monitor. She served as the Globe’s chief foreign policy reporter in Washington D.C. for seven years. Stockman has won numerous awards including the Scripps Howard Foundation national journalism award.
+<br>ContactDesignation----D130
+<br>ContactPhoto----------boston-globe sunday magazine-farah-stockman.jpg
+<br>ContactPhonenumber----617-929-2079
+<br>ContactEmail----------fstockman@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/@fstockman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46120
+<br>ContactFirstName------Joanna
+<br>ContactMiddleName------
+<br>ContactLastName-------Weiss
+<br>ContactDescription----
+Weiss writes an Op-Ed column about culture politics and society that appears in the Globe on Tuesdays and Sundays. She previously covered politics and TV for the Globe. She is author of the novel “Milkshake” about the politics of breastfeeding.
+<br>ContactDesignation----D130
+<br>ContactPhoto----------boston-globe sunday magazine-joanna-weiss.jpg
+<br>ContactPhonenumber----617-929-3136
+<br>ContactEmail----------weiss@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/JoannaWeiss
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46121
+<br>ContactFirstName------Kester
+<br>ContactMiddleName------Alleyne
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D238
+<br>ContactPhoto----------southtown-star-kester-morris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------KAlleynemorris@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kester-alleyne-morris/0/b9b/356
+<br>ContactTwitter--------https://twitter.com/KesterAlleyne
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46122
+<br>ContactFirstName------Peter
+<br>ContactMiddleName------
+<br>ContactLastName-------Griffiths
+<br>ContactDescription----Peter Griffiths has worked as a journalist and editor for over eight years. Most recently he served as an Associate Editor for a national television programme. Prior to this he worked as an Online Editor for a magazine looking at Africa’s political economy. He has significant experience in developing accessible narratives social media and technology and recently completied an MSc in City Design and Social Science at the LSE.
+<br>ContactDesignation----D7160
+<br>ContactPhoto----------centre-of the city-peter-griffiths.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------p.griffiths@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7961
+<br>ContactId-------------C46123
+<br>ContactFirstName------Ron
+<br>ContactMiddleName------
+<br>ContactLastName------- Schott 
+<br>ContactDescription----
+<br>ContactDesignation----D7161
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tvlgenmgr@lcs.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46124
+<br>ContactFirstName------Guy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ramsey
+<br>ContactDescription----
+<br>ContactDesignation----D5760
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46125
+<br>ContactFirstName------Keith
+<br>ContactMiddleName------
+<br>ContactLastName-------Bedford
+<br>ContactDescription----Keith Bedford is a staff photographer for the Boston Globe. Prior to joining the Globe in 2015 he worked as a freelancer for 16 years for the likes of The Wall Street Journal Reuters and the New York Times. Keith covered the historic Obama campaign spending the better part of 2 years on the road. He followed that up with stints in China and India.
+<br>ContactDesignation----D309
+<br>ContactPhoto----------boston-globe sunday magazine-keith-bedford.jpg
+<br>ContactPhonenumber----617-929-1570
+<br>ContactEmail----------keith.bedford@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/keithbedford
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46126
+<br>ContactFirstName------John  
+<br>ContactMiddleName------A.
+<br>ContactLastName-------Andersen
+<br>ContactDescription----
+<br>ContactDesignation----D7162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------JAAndersen@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46127
+<br>ContactFirstName------Leanne
+<br>ContactMiddleName------Burden
+<br>ContactLastName-------Seidel
+<br>ContactDescription----Burden Seidel is a Lifestyles picture editor and produces staff videos. She has worked as a picture editor at the Boston Globe since 1994 on Page One Metro Travel and special projects. She produces The Natural World and daily online photo galleries.
+<br>ContactDesignation----D7163
+<br>ContactPhoto----------boston-globe sunday magazine-leanne-seidel.jpg
+<br>ContactPhonenumber----617-929-7841
+<br>ContactEmail----------burden@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46128
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----
+Davis has been on the photo staff of the Globe since 1993. Prior to that he had been on the staff of the Boston Herald and the Lawrence Eagle-Tribune. Davis is a two-time Boston Press Photographer of the Year and also National Football Photographer of the Year.
+<br>ContactDesignation----D309
+<br>ContactPhoto----------boston-globe sunday magazine-jim-davis.jpg
+<br>ContactPhonenumber----617-929-3173
+<br>ContactEmail----------jdavis@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46129
+<br>ContactFirstName------Pat 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sharkey
+<br>ContactDescription----
+<br>ContactDesignation----D6952
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46130
+<br>ContactFirstName------Katie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Parrish
+<br>ContactDescription----
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46131
+<br>ContactFirstName------Stan
+<br>ContactMiddleName------
+<br>ContactLastName-------Grossfeld
+<br>ContactDescription----Grossfeld is a writer editor and photographer for the Sports section. In 1984 he won his first Pulitzer Prize for photographs of the people of Lebanon. In 1985 Grossfeld won again for his images of starvation in Ethiopia and illegal aliens on the border of Mexico.
+<br>ContactDesignation----D6744
+<br>ContactPhoto----------boston-globe sunday magazine-stan-grossfeld.jpg
+<br>ContactPhonenumber----617-929-3031
+<br>ContactEmail----------grossfeld@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46132
+<br>ContactFirstName------Lucy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Perry
+<br>ContactDescription----
+<br>ContactDesignation----D26
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46133
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Bannon
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------southtown-star-tim-bannon.jpg
+<br>ContactPhonenumber----312-222-2434
+<br>ContactEmail----------tbannon@tribune.com
+<br>Alternative Email-----
+<br>University------------Indiana University Bloomington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/tim-bannon/11/849/103
+<br>ContactTwitter--------https://twitter.com/timbannon
+<br>ContactURL------------http://bio.tribune.com/timbannon
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46134
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Larson
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46135
+<br>ContactFirstName------Doug
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----Doug is a senior writer covering state and national politics and transportation issues. He has held several reporting and editing positions since joining the Herald-Whig in 1986.
+
+<br>ContactDesignation----D7164
+<br>ContactPhoto----------quincy-herald whig-doug-wilson.jpg
+<br>ContactPhonenumber----(217) 221-3372 
+<br>ContactEmail----------dwilson@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/dougwilsonwhig
+<br>ContactURL------------http://www.whig.com/story/12595960/doug-wilson
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46136
+<br>ContactFirstName------Karla 
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46137
+<br>ContactFirstName------Julie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stark
+<br>ContactDescription----
+<br>ContactDesignation----D526
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46138
+<br>ContactFirstName------Cindy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kirby
+<br>ContactDescription----
+<br>ContactDesignation----D66
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46139
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------
+<br>ContactLastName-------Maeda
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----617-839-3182
+<br>ContactEmail----------maeda@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46140
+<br>ContactFirstName------Floyd 
+<br>ContactMiddleName------
+<br>ContactLastName-------Geopfert
+<br>ContactDescription----
+<br>ContactDesignation----D66
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46141
+<br>ContactFirstName------Jeff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Shumar
+<br>ContactDescription----
+<br>ContactDesignation----D66
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46142
+<br>ContactFirstName------David L.
+<br>ContactMiddleName------
+<br>ContactLastName-------Ryan
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------boston-globe sunday magazine-david-l.-ryan.jpg
+<br>ContactPhonenumber----617-929-3173
+<br>ContactEmail----------dryan@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeDavidLRyan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46143
+<br>ContactFirstName------Pam
+<br>ContactMiddleName------
+<br>ContactLastName-------Becker
+<br>ContactDescription----
+<br>ContactDesignation----D1033
+<br>ContactPhoto----------southtown-star-pam-becker.jpg
+<br>ContactPhonenumber----312-222-4208
+<br>ContactEmail----------prbecker@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------University of Illinois at Urbana-Champaign, Highland Park High School
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/pam-becker/47/685/568
+<br>ContactTwitter--------https://twitter.com/pamrbecker
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8712
+<br>ContactId-------------C46144
+<br>ContactFirstName------Franci 
+<br>ContactMiddleName------
+<br>ContactLastName-------Motz
+<br>ContactDescription----
+<br>ContactDesignation----D2743
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46145
+<br>ContactFirstName------Kyle
+<br>ContactMiddleName------
+<br>ContactLastName-------Bentle
+<br>ContactDescription----
+<br>ContactDesignation----D7165
+<br>ContactPhoto----------southtown-star-kyle-bentle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kbentle@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------Ball State University
+<br>ContactFacebook-------https://www.facebook.com/kyle.bentle
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kyle-bentle/b/4/283
+<br>ContactTwitter--------https://twitter.com/kylebentle
+<br>ContactURL------------http://kylebentle.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46146
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Chapin
+<br>ContactDescription----
+<br>ContactDesignation----D401
+<br>ContactPhoto----------boston-globe sunday magazine-kim-chapin.jpg
+<br>ContactPhonenumber----617-929-7590
+<br>ContactEmail----------kchapin@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46147
+<br>ContactFirstName------Stephan
+<br>ContactMiddleName------
+<br>ContactLastName-------Benzkofer
+<br>ContactDescription----
+<br>ContactDesignation----D251
+<br>ContactPhoto----------southtown-star-stephan-benzkofer.jpg
+<br>ContactPhonenumber----312-222-5814
+<br>ContactEmail----------sbenzkofer@tribune.com
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------https://www.facebook.com/sbenzkofer
+<br>ContactLinkedin-------https://www.linkedin.com/in/stephanbenzkofer
+<br>ContactTwitter--------https://twitter.com/sbenzkofer
+<br>ContactURL------------http://bio.tribune.com/sbenzkofer
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46148
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Greene
+<br>ContactDescription----
+Greene is the director of photography at The Boston Globe. He has been with the Globe as a staff photographer for 28 years. His awards include being named National Photographer of the Year twice. He has won Photographer of the Year honors from the Boston Press Photographers Association thirteen times. Other honors include the Robert F. Kennedy International Photojournalism Award for his story of the Lost Boys of Sudan as well as first place in the World Press Photo competition for his coverage of the Mississippi River flood of 1993. A Pulitzer Prize finalist he is also a three-time Emmy award winner for his recent multimedia work for the Globe including the Chappaquiddick video series on the fall and rise of Senator Edward M. Kennedy.
+<br>ContactDesignation----D771
+<br>ContactPhoto----------boston-globe sunday magazine-bill-greene.jpg
+<br>ContactPhonenumber----617-929-3173
+<br>ContactEmail----------bgreene@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46149
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Berens
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------southtown-star-michael-berens.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mberens@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/michael-j-berens/42/209/4b1
+<br>ContactTwitter--------https://twitter.com/MJBerens1
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46150
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ioven
+<br>ContactDescription----
+<br>ContactDesignation----D7166
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46151
+<br>ContactFirstName------Emily
+<br>ContactMiddleName------
+<br>ContactLastName-------Cruz
+<br>ContactDescription----Emily Cruz is the London Manager of Theatrum Mundi (TM) an LSE Cities research project and professional network of urbanists and artists in different cities. The network consists of visual and performing artists architects and planners film-makers and photographers writers and scholars whose shared aims are to understand the culture of cities and to experiment with ways of creating them. Emily coordinates the monthly TM Network conversations and delivers all TM outreach projects such as the ideas competition Designing the Urban Commons. Previously she has delivered projects across architecture urban design art and photography – including publications exhibitions conferences and events. She has worked as the Architecture Foundation’s Exhibition Coordinator; as Publications and Events Manager for the LSE’s Urban Age project and in Liverpool Biennial’s development team.
+<br>ContactDesignation----D7167
+<br>ContactPhoto----------centre-of the city-emily-cruz.jpg
+<br>ContactPhonenumber----440-20 7-955- 6972
+<br>ContactEmail----------e.m.cruz@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46152
+<br>ContactFirstName------Kathy
+<br>ContactMiddleName------
+<br>ContactLastName-------Bergen
+<br>ContactDescription----
+<br>ContactDesignation----D241
+<br>ContactPhoto----------southtown-star-kathy-bergen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Illinois
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kathy-bergen/3/975/811
+<br>ContactTwitter--------https://twitter.com/kathy_bergen
+<br>ContactURL------------http://www.chicagotribune.com/chi-kathy-bergen-staff.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5127
+<br>ContactId-------------C30511
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Oiler
+<br>ContactDescription----
+<br>ContactDesignation----D3398
+<br>ContactPhoto----------mi-child-amanda-oiler.jpg
+<br>ContactPhonenumber----574-387-5420
+<br>ContactEmail----------Amanda@MichianaFamilyMagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8908
+<br>ContactId-------------C46153
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Eighinger
+<br>ContactDescription----Steve has been a general assignment reporter and columnist at The Herald-Whig since 1998 covering a wide range of topics from dirt-track racing to religion to reality television.
+<br>ContactDesignation----D7168
+<br>ContactPhoto----------quincy-herald whig-steve-eighinger.jpg
+<br>ContactPhonenumber----(217) 221-3377 
+<br>ContactEmail----------seighinger@whig.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.whig.com/story/12595993/steve-eighinger
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8165
+<br>ContactId-------------C46154
+<br>ContactFirstName------Robin
+<br>ContactMiddleName------
+<br>ContactLastName-------Finlay
+<br>ContactDescription----Robin Finlay is currently finishing his PhD in human geography at Newcastle University where he was also a teaching assistant in social and cultural geography modules. Robin is an urban geographer and his research interests lay in the intersections of migration culture economics and urban space. For his PhD he investigated how the Moroccan diaspora in Granada Spain have transformed urban space imbuing it with new meanings and practices and conversely how the spatiality of Granada engenders distinctive diasporic identity formations senses of belonging and spatial practices. He is recipient of an ESRC 1+3 Award and Newcastle University’s Miller Prize (2011) for the best overall performance in the Faculty of Humanities Arts and Social Science research masters modules. Robin also has policy oriented research experience working as a quantitative research officer in the Migration and Borders Analysis team at the Home Office. As a result of his quantitative research experience Robin has an interest in how big data and statistics can contribute to ethnographic research. He holds an MA in human geography research from Newcastle University and BA (hons) in Spanish and Tourism studies from Northumbria University. At LSE Cities Robin is working as a researcher on the ESRC funded comparative project titled ‘Super-diverse streets: Economies and spaces of urban migration in UK Cities’.
+<br>ContactDesignation----D7169
+<br>ContactPhoto----------centre-of the city-robin-finlay.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------R.Finlay@lse.ac.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

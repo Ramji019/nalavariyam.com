@@ -1,0 +1,3281 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O6227
+<br>ContactId-------------C23802
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stavrou
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6227
+<br>ContactId-------------C23803
+<br>ContactFirstName------Lora 
+<br>ContactMiddleName------White 
+<br>ContactLastName-------Lewis
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6227
+<br>ContactId-------------C23804
+<br>ContactFirstName------Maja 
+<br>ContactMiddleName------Wolff 
+<br>ContactLastName-------Tarateta
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6227
+<br>ContactId-------------C23805
+<br>ContactFirstName------Steven 
+<br>ContactMiddleName------Van 
+<br>ContactLastName-------Yoder
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6227
+<br>ContactId-------------C23806
+<br>ContactFirstName------Jenna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Corwin
+<br>ContactDescription----
+<br>ContactDesignation----D2810
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jenna@winexmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6206
+<br>ContactId-------------C23807
+<br>ContactFirstName------Patricio
+<br>ContactMiddleName------
+<br>ContactLastName-------Tapia
+<br>ContactDescription----
+<br>ContactDesignation----D1998
+<br>ContactPhoto----------wine-&-spirits-patricio-tapia.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Universidad de Chile in Santiago
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/patricioatapia
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23808
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------wines-& vines magazine-jim-gordon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Denison University, University of Cincinnati College of Engineering, University of California, Davis - Graduate School of Management
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jim-gordon/9/9b0/970
+<br>ContactTwitter--------https://twitter.com/#!/gordone_cellars
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23809
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Lavin
+<br>ContactDescription----
+<br>ContactDesignation----D1033
+<br>ContactPhoto----------wines-& vines magazine-kate-lavin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado at Boulder
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kate-lavin/4/411/8a1
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23810
+<br>ContactFirstName------Jane
+<br>ContactMiddleName------
+<br>ContactLastName-------Firstenfeld
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------wines-& vines magazine-jane-firstenfeld.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jane-firstenfeld/6/322/7a5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23810
+<br>ContactFirstName------Jane
+<br>ContactMiddleName------
+<br>ContactLastName-------Firstenfeld
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------wines-& vines magazine-jane-firstenfeld.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jane@winesandvines.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jane-firstenfeld/6/322/7a5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23811
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Franson
+<br>ContactDescription----
+<br>ContactDesignation----D2809
+<br>ContactPhoto----------wines-& vines magazine-paul-franson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6216
+<br>ContactId-------------C23812
+<br>ContactFirstName------Andy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Perdue
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----509-582-1564
+<br>ContactEmail----------editor@winepressnw.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/winepressnw
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23813
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Patterson
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------wines-& vines magazine-tim-patterson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23814
+<br>ContactFirstName------Cliff
+<br>ContactMiddleName------
+<br>ContactLastName-------Ohmart
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------wines-& vines magazine-cliff-ohmart.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6216
+<br>ContactId-------------C23815
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Degerman
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------wine-press-northwest-magazine-eric-degerman.jpg
+<br>ContactPhonenumber----509-582-1404
+<br>ContactEmail----------edegerman@winepressnw.com
+<br>Alternative Email-----
+<br>University------------University of Washington,Clark College
+<br>ContactFacebook-------http://www.facebook.com/pages/Eric-Degerman/98323490802?sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/pub/eric-degerman/4/34/9a1
+<br>ContactTwitter--------https://twitter.com/#!/EricDegerman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23816
+<br>ContactFirstName------Peter
+<br>ContactMiddleName------
+<br>ContactLastName-------Mitham
+<br>ContactDescription----
+<br>ContactDesignation----D106
+<br>ContactPhoto----------wines-& vines magazine-peter-mitham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6231
+<br>ContactId-------------C23817
+<br>ContactFirstName------Suzanne
+<br>ContactMiddleName------
+<br>ContactLastName-------Gannon
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------wines-& vines magazine-suzanne-gannon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------edit@winesandvines.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9677
+<br>ContactId-------------C23818
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Leve
+<br>ContactDescription----
+<br>ContactDesignation----D160
+<br>ContactPhoto----------the-wine-cellar insider-jeff-leve.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Jeff-Leve/702041424?sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jeff-leve/6/7b3/646
+<br>ContactTwitter--------https://twitter.com/#!/JeffLeve
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9679
+<br>ContactId-------------C23819
+<br>ContactFirstName------Wine Country Classifieds / WinerySite.com-Office
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----707-967-5155
+<br>ContactEmail----------info@winerysite.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6213
+<br>ContactId-------------C23820
+<br>ContactFirstName------Inquires
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------info@vinovixenspdx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23821
+<br>ContactFirstName------Technical Support
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------help@winetastetv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23822
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Blanchard
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-chris-blanchard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23823
+<br>ContactFirstName------Bonnie
+<br>ContactMiddleName------
+<br>ContactLastName-------Graves
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-bonnie-graves.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------http://www.facebook.com/bonniegraves
+<br>ContactLinkedin-------http://www.linkedin.com/pub/bonnie-graves/0/356/339
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23824
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Grieco
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-paul-grieco.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23825
+<br>ContactFirstName------Ben
+<br>ContactMiddleName------
+<br>ContactLastName-------Giliberti
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-ben-giliberti.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Yale University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ben-giliberti/8/703/229
+<br>ContactTwitter--------https://twitter.com/#!/bengiliberti
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23826
+<br>ContactFirstName------Leslie
+<br>ContactMiddleName------
+<br>ContactLastName-------Sbrocco
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-leslie-sbrocco.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://twitter.com/#!/lesliesb
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23827
+<br>ContactFirstName------Mari
+<br>ContactMiddleName------
+<br>ContactLastName-------Stull
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-mari-stull.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Instituto Centromericano de Administracion de Empresas,Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/vinovixen
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.vinovixen.com/The_Vino_Vixen/The_Vino_Vixen.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23828
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Duncan
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-brian-duncan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6219
+<br>ContactId-------------C23829
+<br>ContactFirstName------Ben
+<br>ContactMiddleName------
+<br>ContactLastName-------Narasin
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------wine-taste-tv-ben-narasin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Babson College,Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/bennarasin
+<br>ContactTwitter--------https://de.twitter.com/#!/BNarasin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23830
+<br>ContactFirstName------Patrick 
+<br>ContactMiddleName------Evans
+<br>ContactLastName-------Hylton
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------patrick@virginiawinelover.com
+<br>Alternative Email-----
+<br>University------------Johnson & Wales University
+<br>ContactFacebook-------http://www.facebook.com/patrickevanshylton
+<br>ContactLinkedin-------http://www.linkedin.com/in/pevanshylton
+<br>ContactTwitter--------https://twitter.com/#!/pevanshylton
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23831
+<br>ContactFirstName------Melissa M
+<br>ContactMiddleName------
+<br>ContactLastName-------.Stewart
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8127
+<br>ContactEmail----------melissa@hrmag.com
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/melissa-morgan-stewart/4/944/469
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23830
+<br>ContactFirstName------Patrick 
+<br>ContactMiddleName------Evans
+<br>ContactLastName-------Hylton
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8110
+<br>ContactEmail----------patrick@virginiawinelover.com
+<br>Alternative Email-----
+<br>University------------Johnson & Wales University
+<br>ContactFacebook-------http://www.facebook.com/patrickevanshylton
+<br>ContactLinkedin-------http://www.linkedin.com/in/pevanshylton
+<br>ContactTwitter--------https://twitter.com/#!/pevanshylton
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23831
+<br>ContactFirstName------Melissa M
+<br>ContactMiddleName------
+<br>ContactLastName-------.Stewart
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8127
+<br>ContactEmail----------melissa@hrmag.com
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/melissa-morgan-stewart/4/944/469
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23832
+<br>ContactFirstName------Angela 
+<br>ContactMiddleName------
+<br>ContactLastName-------Blue
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8159
+<br>ContactEmail----------ablue@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://en-gb.facebook.com/angela.blue1
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23833
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Arganbright
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------paul@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------Westmont College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/paul-arganbright/8/852/824
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23834
+<br>ContactFirstName------Andrea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Farrell
+<br>ContactDescription----
+<br>ContactDesignation----D2811
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8125
+<br>ContactEmail----------afarrell@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23835
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Uhrin 
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8118
+<br>ContactEmail----------david@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23836
+<br>ContactFirstName------Nancy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burgner
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nancy@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23837
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Haddaway
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8147
+<br>ContactEmail----------matth@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23838
+<br>ContactFirstName------Eileen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dalby
+<br>ContactDescription----
+<br>ContactDesignation----D280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8145
+<br>ContactEmail----------eileen@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23832
+<br>ContactFirstName------Angela 
+<br>ContactMiddleName------
+<br>ContactLastName-------Blue
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8159
+<br>ContactEmail----------ablue@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://en-gb.facebook.com/angela.blue1
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23834
+<br>ContactFirstName------Andrea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Farrell
+<br>ContactDescription----
+<br>ContactDesignation----D2811
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8125
+<br>ContactEmail----------afarrell@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23834
+<br>ContactFirstName------Andrea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Farrell
+<br>ContactDescription----
+<br>ContactDesignation----D2811
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8125
+<br>ContactEmail----------afarrell@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23839
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------van
+<br>ContactLastName-------Diver
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------touring-&-tasting-wendy-diver.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------wendy@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/wendyvandiver
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.wvandiver.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23835
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Uhrin 
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8118
+<br>ContactEmail----------david@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23837
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Haddaway
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8147
+<br>ContactEmail----------matth@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23840
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leja
+<br>ContactDescription----
+<br>ContactDesignation----D547
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tomleja@cox.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23841
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ott
+<br>ContactDescription----
+<br>ContactDesignation----D2812
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bott@ottdesign.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23842
+<br>ContactFirstName------Adam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Priddy
+<br>ContactDescription----
+<br>ContactDesignation----D2813
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------adam@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------Santa Barbara City College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/adam-priddy/30/a58/557
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23843
+<br>ContactFirstName------Monica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Huett
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8153
+<br>ContactEmail----------mhuett@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23844
+<br>ContactFirstName------Tama 
+<br>ContactMiddleName------
+<br>ContactLastName-------Takahashi
+<br>ContactDescription----
+<br>ContactDesignation----D2814
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------onlinegrapevine@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23845
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Murphy
+<br>ContactDescription----
+<br>ContactDesignation----D2815
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8151
+<br>ContactEmail----------cmurphy@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23845
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Murphy
+<br>ContactDescription----
+<br>ContactDesignation----D2815
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8151
+<br>ContactEmail----------cmurphy@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23846
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D1582
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------dan@touringandtasting.com
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dan-fox/23/6b8/795
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23847
+<br>ContactFirstName------Emily 
+<br>ContactMiddleName------June 
+<br>ContactLastName-------Kaufmann
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------emily@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23848
+<br>ContactFirstName------My 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nguyen
+<br>ContactDescription----
+<br>ContactDesignation----D2816
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8130
+<br>ContactEmail----------my@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23849
+<br>ContactFirstName------Dana 
+<br>ContactMiddleName------
+<br>ContactLastName-------Trozak
+<br>ContactDescription----
+<br>ContactDesignation----D547
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------danaabarton@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23850
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Walker
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lisa@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------University of California-Santa Barbara
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lisa-walker/8/328/5b4
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23851
+<br>ContactFirstName------Pam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopkins
+<br>ContactDescription----
+<br>ContactDesignation----D2817
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8104
+<br>ContactEmail----------phopkins@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23852
+<br>ContactFirstName------A Arthur 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fisher
+<br>ContactDescription----
+<br>ContactDesignation----D1086
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------art@incolor.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23853
+<br>ContactFirstName------George 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carter
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8106
+<br>ContactEmail----------george@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23854
+<br>ContactFirstName------Anita 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns
+<br>ContactDescription----
+<br>ContactDesignation----D327
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8126
+<br>ContactEmail----------aburns@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23851
+<br>ContactFirstName------Pam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopkins
+<br>ContactDescription----
+<br>ContactDesignation----D2817
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8104
+<br>ContactEmail----------phopkins@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23853
+<br>ContactFirstName------George 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carter
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8106
+<br>ContactEmail----------george@hrmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23855
+<br>ContactFirstName------Shannon
+<br>ContactMiddleName------
+<br>ContactLastName-------Jordan
+<br>ContactDescription----
+<br>ContactDesignation----D2818
+<br>ContactPhoto----------touring-&-tasting-shannon-jordan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------shannon@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------Santa Barbara City College,Hiradaya School of Massage
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/shannon-jordan-photography/46/346/548
+<br>ContactTwitter--------https://twitter.com/#!/ShannonJordan5
+<br>ContactURL------------http://www.shannonjordanphotography.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23856
+<br>ContactFirstName------Dawn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Meehan
+<br>ContactDescription----
+<br>ContactDesignation----D1094
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8112
+<br>ContactEmail----------dmeehan@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23857
+<br>ContactFirstName------Ashley 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ashley@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ashley-anne-fox/11/b40/306
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23856
+<br>ContactFirstName------Dawn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Meehan
+<br>ContactDescription----
+<br>ContactDesignation----D2819
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8112
+<br>ContactEmail----------dmeehan@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23858
+<br>ContactFirstName------Andy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barrad
+<br>ContactDescription----
+<br>ContactDesignation----D546
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------accounting@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23859
+<br>ContactFirstName------Margaret 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkins
+<br>ContactDescription----
+<br>ContactDesignation----D1094
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757.422.8114
+<br>ContactEmail----------margaret@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9686
+<br>ContactId-------------C23860
+<br>ContactFirstName------Contact Touring & Tasting
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----805-965-2813
+<br>ContactEmail----------wine@touringandtasting.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9688
+<br>ContactId-------------C23861
+<br>ContactFirstName------Christopher
+<br>ContactMiddleName------
+<br>ContactLastName-------Chan
+<br>ContactDescription----
+<br>ContactDesignation----D182
+<br>ContactPhoto----------seattle-wine-awards-christopher-chan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9688
+<br>ContactId-------------C23862
+<br>ContactFirstName------Contact Seattle Wine Awards
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----206-853-4677
+<br>ContactEmail----------wine@seattlewineawards.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9690
+<br>ContactId-------------C23863
+<br>ContactFirstName------Linda  
+<br>ContactMiddleName------
+<br>ContactLastName-------Hann
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------
+<br>ContactPhonenumber----707-526-8587
+<br>ContactEmail----------linda.hann@pressdemocrat.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/linda-hann/5/855/b95
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9691
+<br>ContactId-------------C23864
+<br>ContactFirstName------Donna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Marchetti
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------
+<br>ContactPhonenumber----216-321-6292
+<br>ContactEmail----------dmarchetti@thewinebuzz.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23859
+<br>ContactFirstName------Margaret 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkins
+<br>ContactDescription----
+<br>ContactDesignation----D1094
+<br>ContactPhoto----------
+<br>ContactPhonenumber----757-422-8114
+<br>ContactEmail----------margaret@vgnet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9691
+<br>ContactId-------------C23865
+<br>ContactFirstName------Susan D. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Myers
+<br>ContactDescription----
+<br>ContactDesignation----D2820
+<br>ContactPhoto----------
+<br>ContactPhonenumber----216-321-6292
+<br>ContactEmail----------sdmyers@thewinebuzz.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9685
+<br>ContactId-------------C23866
+<br>ContactFirstName------Patrick 
+<br>ContactMiddleName------Evans
+<br>ContactLastName-------Hylton
+<br>ContactDescription----
+<br>ContactDesignation----D2807
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------patrick@virginiawinelover.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9691
+<br>ContactId-------------C23867
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hall
+<br>ContactDescription----
+<br>ContactDesignation----D523
+<br>ContactPhoto----------
+<br>ContactPhonenumber----216-570-9147
+<br>ContactEmail----------dhall@thewinebuzz.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9691
+<br>ContactId-------------C23868
+<br>ContactFirstName------Denise 
+<br>ContactMiddleName------
+<br>ContactLastName-------Novack
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----216-50-4499
+<br>ContactEmail----------dnovack@thewinebuzz.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/denise-novack/11/743/7b1
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9691
+<br>ContactId-------------C23869
+<br>ContactFirstName------Contact Wine Buzz
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----216-321-6292
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23870
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Winkler
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------international-wine-review-don-winkler.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley
+<br>ContactFacebook-------http://www.facebook.com/don.winkler
+<br>ContactLinkedin-------http://www.linkedin.com/pub/don-winkler/8/2b6/b98
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23871
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Potashnik
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------international-wine review-mike-potashnik.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,University of California-Los Angeles
+<br>ContactFacebook-------http://www.facebook.com/mike.potashnik
+<br>ContactLinkedin-------http://www.linkedin.com/in/mikepotashnik
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23872
+<br>ContactFirstName------Tara
+<br>ContactMiddleName------
+<br>ContactLastName-------Bender
+<br>ContactDescription----
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------wine-country homes & lifestyles-tara-bender.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Indiana University, Bloomington Taylor University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/tarambender
+<br>ContactTwitter--------https://twitter.com/ThatsMeTaraB
+<br>ContactURL------------http://tarabeeproductions.tumblr.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23873
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------DiPrimio
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------wine-country homes & lifestyles-pete-diprimio.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.petediprimio.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23874
+<br>ContactFirstName------Jackie
+<br>ContactMiddleName------Sheckler
+<br>ContactLastName-------Finch
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------wine-country homes & lifestyles-jackie-finch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23875
+<br>ContactFirstName------Kathryn
+<br>ContactMiddleName------
+<br>ContactLastName-------Gardiner
+<br>ContactDescription----
+<br>ContactDesignation----D2821
+<br>ContactPhoto----------wine-country homes & lifestyles-kathryn-gardiner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University,Hollins University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23876
+<br>ContactFirstName------Lee
+<br>ContactMiddleName------
+<br>ContactLastName-------Hadley
+<br>ContactDescription----
+<br>ContactDesignation----D2822
+<br>ContactPhoto----------wine-country homes & lifestyles-lee-hadley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23877
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------Laffoon
+<br>ContactDescription----
+<br>ContactDesignation----D1025
+<br>ContactPhoto----------wine-country homes & lifestyles-dennis-laffoon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23878
+<br>ContactFirstName------Joel
+<br>ContactMiddleName------
+<br>ContactLastName-------Butler MW
+<br>ContactDescription----
+<br>ContactDesignation----D2823
+<br>ContactPhoto----------international-wine-review-joel-butler-mw.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Institute of Masters of Wine,University of Colorado-Boulder,Stanford University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/joel-butler-mw/7/766/169
+<br>ContactTwitter--------https://twitter.com/#!/mwjoel
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23879
+<br>ContactFirstName------Mayer
+<br>ContactMiddleName------
+<br>ContactLastName-------Maloney
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wine-country homes & lifestyles-mayer-maloney.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23880
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Flynn
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------international-wine-review-michael-flynn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/michael-flynn/7/811/696
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23881
+<br>ContactFirstName------Brooke
+<br>ContactMiddleName------Toole
+<br>ContactLastName-------McCluskey
+<br>ContactDescription----
+<br>ContactDesignation----D194
+<br>ContactPhoto----------wine-country homes & lifestyles-brooke-Toole-mccluskey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23882
+<br>ContactFirstName------Jay
+<br>ContactMiddleName------
+<br>ContactLastName-------Youmans MW
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------international-wine-review-jay-youmans-mw.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wake Forest University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jay-youmans/3a/685/49a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23883
+<br>ContactFirstName------Bruce W.
+<br>ContactMiddleName------
+<br>ContactLastName-------Zoecklein
+<br>ContactDescription----
+<br>ContactDesignation----D2824
+<br>ContactPhoto----------international-wine-review-bruce-w-zoecklein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Bruce-Zoecklein/601926669
+<br>ContactLinkedin-------http://www.linkedin.com/pub/bruce-zoecklein/11/60a/aa4
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23884
+<br>ContactFirstName------Roy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wagner
+<br>ContactDescription----
+<br>ContactDesignation----D2825
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23885
+<br>ContactFirstName------Dana
+<br>ContactMiddleName------Dyer
+<br>ContactLastName-------Pierson
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------wine-country homes & lifestyles-dana-Dyer-pierson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23886
+<br>ContactFirstName------Brandt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wagner
+<br>ContactDescription----
+<br>ContactDesignation----D135
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Swedish Institute,James Madison University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/brandtwagner
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23887
+<br>ContactFirstName------Joel
+<br>ContactMiddleName------
+<br>ContactLastName-------Pierson
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------wine-country homes & lifestyles-joel-pierson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9692
+<br>ContactId-------------C23888
+<br>ContactFirstName------Contact International Wine Review
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----703-448-5566
+<br>ContactEmail----------info@i-winereview.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23889
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Schreiner
+<br>ContactDescription----
+<br>ContactDesignation----D2826
+<br>ContactPhoto----------wine-country homes & lifestyles-pete-schreiner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ohio Institute of Photography of Technology
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23890
+<br>ContactFirstName------Holly
+<br>ContactMiddleName------
+<br>ContactLastName-------Thrasher
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------wine-country homes & lifestyles-holly-thrasher.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9687
+<br>ContactId-------------C23875
+<br>ContactFirstName------Kathryn
+<br>ContactMiddleName------
+<br>ContactLastName-------Gardiner
+<br>ContactDescription----
+<br>ContactDesignation----D2821
+<br>ContactPhoto----------wine-country homes & lifestyles-kathryn-gardiner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University,Hollins University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23891
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Parker
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-robert-parker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------wineadvocate@erobertparker.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Robert-M-Parker/62313773016?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/RobertMParkerJr
+<br>ContactURL------------https://www.erobertparker.com/entrance.aspx
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23892
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Jim
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-231-9463
+<br>ContactEmail----------Jim@wineappreciation.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23893
+<br>ContactFirstName------Antonio
+<br>ContactMiddleName------
+<br>ContactLastName-------Galloni
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-antonio-galloni.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Berklee College of Music,MIT/Sloan School of Management
+<br>ContactFacebook-------http://www.facebook.com/AntonioGalloni
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/AntonioGalloni
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23894
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------MacNeil
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-karen-macneil.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23895
+<br>ContactFirstName------Bryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Bryan
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-866-3020
+<br>ContactEmail----------Bryan@wineappreciation.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23896
+<br>ContactFirstName------Neal
+<br>ContactMiddleName------
+<br>ContactLastName-------Martin
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-neal-martin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Warwick University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/NealMartin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23897
+<br>ContactFirstName------Shannon 
+<br>ContactMiddleName------
+<br>ContactLastName-------Essa
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----805-886-1551
+<br>ContactEmail----------Shannon@wineappreciation.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23898
+<br>ContactFirstName------Sherri 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fidel
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23899
+<br>ContactFirstName------Jay
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-jay-miller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Los Angles,University of Maryland-College Park
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23900
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------Perrotti
+<br>ContactLastName-------Brown MW
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-lisa-perrotti--brown-mw.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Colby College-Maine
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23901
+<br>ContactFirstName------Jeff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Szczesney
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----781-290-7762
+<br>ContactEmail----------jeff@wineappreciation.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23902
+<br>ContactFirstName------Hamlin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Endicott
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----404-333-1735
+<br>ContactEmail----------hendicott@sprynet.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23903
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Schildknecht
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-david-schildknecht.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/David-Schildknecht/111057972277936
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23904
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Decker
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----706-888-9994
+<br>ContactEmail----------beadecker@hotmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23905
+<br>ContactFirstName------Victor 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ykoruk
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----215-896-1003
+<br>ContactEmail----------vinovic@comcast.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Victor-M-Ykoruk/1653886243
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23906
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Squires
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-mark-squires.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/MarkSquires.EZine.on.Wine
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/MarkSquiresW
+<br>ContactURL------------http://marksquires.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23907
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ayers
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----502-425-4626
+<br>ContactEmail----------paayers@aol.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9696
+<br>ContactId-------------C23905
+<br>ContactFirstName------Victor 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ykoruk
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----215-896-1003
+<br>ContactEmail----------vinovic@comcast.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Victor-M-Ykoruk/1653886243
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23908
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Zraly
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-kevin-zraly.jpg
+<br>ContactPhonenumber----845-255-1456
+<br>ContactEmail----------kevinz@netstep.net
+<br>Alternative Email-----
+<br>University------------Windows on the World Wine School
+<br>ContactFacebook-------http://www.facebook.com/people/Kevin-Zraly/1167580647
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kevin-zraly/10/8b9/65
+<br>ContactTwitter--------https://twitter.com/#!/KevinZraly
+<br>ContactURL------------http://www.kevinzraly.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23909
+<br>ContactFirstName------Pierre
+<br>ContactMiddleName------
+<br>ContactLastName-------Rovani
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-pierre-rovani.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Vanderbilt University
+<br>ContactFacebook-------http://www.facebook.com/people/Pierre-Rovani/609162480
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23910
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Thomases
+<br>ContactDescription----
+<br>ContactDesignation----D2148
+<br>ContactPhoto----------wine-advocate-daniel-thomases.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Deerfield Academy-Deerfield,Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6208
+<br>ContactId-------------C23911
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----617-938-3984 
+<br>ContactEmail----------wineadvocate@erobertparker.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23912
+<br>ContactFirstName------Kenneth 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hogman
+<br>ContactDescription----
+<br>ContactDesignation----D2827
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kenneth@wamagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23913
+<br>ContactFirstName------Lori 
+<br>ContactMiddleName------
+<br>ContactLastName-------Minnich
+<br>ContactDescription----
+<br>ContactDesignation----D482
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lori@wamagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23914
+<br>ContactFirstName------Don 
+<br>ContactMiddleName------
+<br>ContactLastName-------Neel
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/don-neel/10/b54/933
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23915
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Udowitz
+<br>ContactDescription----
+<br>ContactDesignation----D2828
+<br>ContactPhoto----------the-wine-adventure-robert-udowitz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Virginia State,University of New York College-Buffalo
+<br>ContactFacebook-------http://www.facebook.com/rudowitz
+<br>ContactLinkedin-------http://www.linkedin.com/in/rudowitz
+<br>ContactTwitter--------https://twitter.com/#!/RUdowitz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23915
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Udowitz
+<br>ContactDescription----
+<br>ContactDesignation----D2828
+<br>ContactPhoto----------the-wine-adventure-robert-udowitz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------robert@wamagazine.com
+<br>Alternative Email-----
+<br>University------------University of Virginia State,University of New York College-Buffalo
+<br>ContactFacebook-------http://www.facebook.com/rudowitz
+<br>ContactLinkedin-------http://www.linkedin.com/in/rudowitz
+<br>ContactTwitter--------https://twitter.com/#!/RUdowitz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23916
+<br>ContactFirstName------Tina L
+<br>ContactMiddleName------
+<br>ContactLastName-------Vierra
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23917
+<br>ContactFirstName------Kellen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bonnafoux
+<br>ContactDescription----
+<br>ContactDesignation----D2829
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kellen@wamagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23918
+<br>ContactFirstName------Ed 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vergara
+<br>ContactDescription----
+<br>ContactDesignation----D655
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ed@wamagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23919
+<br>ContactFirstName------Demitrius 
+<br>ContactMiddleName------
+<br>ContactLastName-------Handelih
+<br>ContactDescription----
+<br>ContactDesignation----D2830
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California, Los Angeles
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/handelih
+<br>ContactTwitter--------https://twitter.com/nd_creative
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23920
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Editor@WAmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9703
+<br>ContactId-------------C23921
+<br>ContactFirstName------Contact-The Wine Adventure
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-340-9610
+<br>ContactEmail----------info@wamagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23922
+<br>ContactFirstName------Carol 
+<br>ContactMiddleName------Caldwell
+<br>ContactLastName-------Ewart
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23923
+<br>ContactFirstName------Elinor 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pravda
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Pennsylvania, Queens College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/elinor-pravda/22/139/160
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23924
+<br>ContactFirstName------Eleanor 
+<br>ContactMiddleName------
+<br>ContactLastName-------Heald
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23925
+<br>ContactFirstName------Ray 
+<br>ContactMiddleName------
+<br>ContactLastName-------Heald
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23926
+<br>ContactFirstName------James 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kennedy
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California, Davis
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/james-kennedy/24/29a/357
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23927
+<br>ContactFirstName------Glenn 
+<br>ContactMiddleName------
+<br>ContactLastName-------McGourty
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23928
+<br>ContactFirstName------Bruce 
+<br>ContactMiddleName------
+<br>ContactLastName-------Zoecklein
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23929
+<br>ContactFirstName------Millie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Howie
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9707
+<br>ContactId-------------C23930
+<br>ContactFirstName------Contact-Wine State
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----+618-8357-9277   
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23931
+<br>ContactFirstName------Craig 
+<br>ContactMiddleName------
+<br>ContactLastName-------Root
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23932
+<br>ContactFirstName------Richard 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smart
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23933
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Tracy
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9694
+<br>ContactId-------------C23934
+<br>ContactFirstName------Rachel 
+<br>ContactMiddleName------Dumas 
+<br>ContactLastName-------Rey
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23935
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Clark
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------graperadio-brian-clark.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------brian@graperadio.com
+<br>Alternative Email-----
+<br>University------------California State Polytechnic University-Pomona,Palomar College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/brianclarkgraperadio
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23936
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Anderson
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------graperadio-eric-anderson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/eric-anderson/8/94a/603
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23937
+<br>ContactFirstName------Marlene
+<br>ContactMiddleName------
+<br>ContactLastName-------Rossman
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------graperadio-marlene-rossman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Pace University Graduate School,New York University
+<br>ContactFacebook-------http://www.facebook.com/marlene.rossman
+<br>ContactLinkedin-------http://www.linkedin.com/pub/marlene-rossman/8/923/303
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23938
+<br>ContactFirstName------Leigh
+<br>ContactMiddleName------
+<br>ContactLastName-------Older
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------graperadio-leigh-older.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23939
+<br>ContactFirstName------William 
+<br>ContactMiddleName------Rusty
+<br>ContactLastName-------Gaffney
+<br>ContactDescription----
+<br>ContactDesignation----D129
+<br>ContactPhoto----------graperadio-william-rusty-gaffney.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California Los Angeles School of Medicine
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/rusty-gaffney-md/10/4a9/669
+<br>ContactTwitter--------
+<br>ContactURL------------http://princeofpinot.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23940
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------
+<br>ContactLastName-------Murray
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------graperadio-frank-murray.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9697
+<br>ContactId-------------C23941
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Merletti
+<br>ContactDescription----
+<br>ContactDesignation----D2831
+<br>ContactPhoto----------vineyard-& winery management-robert-merletti.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/robert-merletti/8/98a/8ba
+<br>ContactTwitter--------
+<br>ContactURL------------http://wineindustrynetwork.com/blog/2012/01/24/people-robert-merletti/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23942
+<br>ContactFirstName------Ted M
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns MD
+<br>ContactDescription----
+<br>ContactDesignation----D129
+<br>ContactPhoto----------graperadio-ted-m-burns-md.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Kansas University Medical School,University of Virginia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9697
+<br>ContactId-------------C23943
+<br>ContactFirstName------Dennis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Black
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Francisco State University, College of Business University of San Francisco
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dennis-black/5/35b/4a1
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9709
+<br>ContactId-------------C23944
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Ryan
+<br>ContactDescription----
+<br>ContactDesignation----D964
+<br>ContactPhoto----------graperadio-mark-ryan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------St. Martin's College,University of Southern California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/flowfilms
+<br>ContactTwitter--------https://twitter.com/#!/flowfilms
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9697
+<br>ContactId-------------C23944
+<br>ContactFirstName------Tina
+<br>ContactMiddleName------
+<br>ContactLastName-------Caputo
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------vineyard-& winery management-tina-caputo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tina-caputo/5/338/764
+<br>ContactTwitter--------https://twitter.com/winebroad
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9697
+<br>ContactId-------------C23945
+<br>ContactFirstName------Linda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Murphy
+<br>ContactDescription----
+<br>ContactDesignation----D2832
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/linda-murphy/8/73b/763
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

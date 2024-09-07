@@ -1,0 +1,1501 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13284
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Haynes
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------waga-tv-5-tom-haynes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom.haynes@myfoxatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Massachusetts
+<br>ContactFacebook-------http://facebook.com/TomHaynesFOX5?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13285
+<br>ContactFirstName------Dick
+<br>ContactMiddleName------
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------waga-tv 5-dick-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------thecrier@mindspring.com
+<br>Alternative Email-----
+<br>University------------Georgetown University,Columbia University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13286
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Dickerson
+<br>ContactDescription----
+<br>ContactDesignation----D657
+<br>ContactPhoto----------waga-tv-5-jeff-dickerson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdmedia@comcast.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13287
+<br>ContactFirstName------Philip A.
+<br>ContactMiddleName------
+<br>ContactLastName-------Kent
+<br>ContactDescription----
+<br>ContactDesignation----D657
+<br>ContactPhoto----------waga-tv-5-philip-a.-kent.jpg
+<br>ContactPhonenumber----404-226-3549
+<br>ContactEmail----------philkent@philkent.com
+<br>Alternative Email-----
+<br>University------------University of Georgia.
+<br>ContactFacebook-------http://facebook.com/pages/Phil-Kent/6576054762?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13288
+<br>ContactFirstName------Alexis
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D657
+<br>ContactPhoto----------waga-tv-5-alexis-scott.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------publisher@atlantadailyworld.com
+<br>Alternative Email-----
+<br>University------------Georgia State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13289
+<br>ContactFirstName------Martha
+<br>ContactMiddleName------
+<br>ContactLastName-------Zoller
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------waga-tv-5-martha-zoller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------martha@marthazoller.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/marthazoller
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13288
+<br>ContactFirstName------Alexis
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------waga-tv-5-alexis-scott.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------publisher@atlantadailyworld.com
+<br>Alternative Email-----
+<br>University------------Georgia State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13287
+<br>ContactFirstName------Philip A.
+<br>ContactMiddleName------
+<br>ContactLastName-------Kent
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------waga-tv-5-philip-a.-kent.jpg
+<br>ContactPhonenumber----404-226-3549
+<br>ContactEmail----------philkent@philkent.com
+<br>Alternative Email-----
+<br>University------------University of Georgia.
+<br>ContactFacebook-------http://facebook.com/pages/Phil-Kent/6576054762?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13286
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Dickerson
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------waga-tv-5-jeff-dickerson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdmedia@comcast.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2478
+<br>ContactId-------------C13285
+<br>ContactFirstName------Dick
+<br>ContactMiddleName------
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------waga-tv 5-dick-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------thecrier@mindspring.com
+<br>Alternative Email-----
+<br>University------------Georgetown University,Columbia University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2479
+<br>ContactId-------------C13290
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Broomall
+<br>ContactDescription----
+<br>ContactDesignation----D807
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------johnbroomall@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2479
+<br>ContactId-------------C13291
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Goins
+<br>ContactDescription----
+<br>ContactDesignation----D1205
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------atlant.live@live.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2479
+<br>ContactId-------------C13292
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wills
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------scott57@engineerscott.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13293
+<br>ContactFirstName------Stephany
+<br>ContactMiddleName------
+<br>ContactLastName-------Fisher
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgcl-tv-46-stephany-fisher.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------stephany.fisher@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13294
+<br>ContactFirstName------JaQuitta
+<br>ContactMiddleName------
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgcl-tv-46-jaquitta-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jaquitta.williams@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jaquittaw
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13295
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Fettig
+<br>ContactDescription----
+<br>ContactDesignation----D1102
+<br>ContactPhoto----------wgcl-tv-46-kim-fettig.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kim.fettig@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Florida State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/kimfettig
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13296
+<br>ContactFirstName------Katie
+<br>ContactMiddleName------
+<br>ContactLastName-------Brace
+<br>ContactDescription----
+<br>ContactDesignation----D657
+<br>ContactPhoto----------wgcl-tv-46-katie-brace.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Katie.Brace@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Fitchburg State College-Fitchburg
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlBrace
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13297
+<br>ContactFirstName------Tracye
+<br>ContactMiddleName------
+<br>ContactLastName-------Hutchins
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgcl-tv-46-tracye-hutchins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tracye.hutchins@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Northern Arizona University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13298
+<br>ContactFirstName------Brandon
+<br>ContactMiddleName------
+<br>ContactLastName-------Rudat
+<br>ContactDescription----
+<br>ContactDesignation----D349
+<br>ContactPhoto----------wgcl-tv-46-brandon-rudat.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Brandon.Rudat@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------http://facebook.com/people/Brandon-Rudat/100001055995855
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13299
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Valdez
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wgcl-tv-46-jennifer-valdez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jennifer.valdez@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University,University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13300
+<br>ContactFirstName------Markina
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wgcl-tv-46-markina-brown.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Central Michigan University,Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13301
+<br>ContactFirstName------Cris
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinez
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wgcl-tv-46-cris-martinez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Cris.Martinez@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Texas A&M University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13302
+<br>ContactFirstName------Justin
+<br>ContactMiddleName------
+<br>ContactLastName-------Lock
+<br>ContactDescription----
+<br>ContactDesignation----D748
+<br>ContactPhoto----------wgcl-tv-46-justin-lock.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ohio State University-Columbus, Ohio
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13303
+<br>ContactFirstName------Rodney
+<br>ContactMiddleName------
+<br>ContactLastName-------Harris
+<br>ContactDescription----
+<br>ContactDesignation----D1206
+<br>ContactPhoto----------wgcl-tv-46-rodney-harris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Rodney.Harris@CBSAtlanta.com
+<br>Alternative Email-----
+<br>University------------Texas A&M University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13304
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Chirico
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------wgcl-tv-46-jeff-chirico.jpg
+<br>ContactPhonenumber----404-327-3093
+<br>ContactEmail----------jeff.chirico@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Scranton
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13305
+<br>ContactFirstName------Jocelyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Connell
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------wgcl-tv-46-jocelyn-connell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Jocelyn.Connell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Jacksonville State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlConnell
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13306
+<br>ContactFirstName------Hena
+<br>ContactMiddleName------
+<br>ContactLastName-------Daniels
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wgcl-tv-46-hena-daniels.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Hena.Daniels@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University at Buffalo
+<br>ContactFacebook-------http://facebook.com/people/Hena-Daniels/100000279420755
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSDaniels
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13307
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Kiggins
+<br>ContactDescription----
+<br>ContactDesignation----D388
+<br>ContactPhoto----------wgcl-tv-46-steve-kiggins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Steve.Kiggins@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/profile.php?id=100002027773330
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSatlKiggins
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13308
+<br>ContactFirstName------Christopher
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wgcl-tv-46-christopher-king.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------christopher.king@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlking
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13309
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Marsh
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wgcl-tv-46-michelle-marsh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------michelle.marsh@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------S.I. Newhouse School of Public Communications
+<br>ContactFacebook-------http://facebook.com/people/Michelle-Marsh/1406216517
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlmarsh
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13310
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Mayerle
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgcl-tv-46-jennifer-mayerle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jennifer.mayerle@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of San Diego
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlMayerle
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13311
+<br>ContactFirstName------Tony
+<br>ContactMiddleName------
+<br>ContactLastName-------McNary
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wgcl-tv-46-tony-mcnary.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tony.mcnary@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Lamar University in Beaumont
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlmcnary
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13312
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------Murphy
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------wgcl-tv-46-adam-murphy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------adam.murphy@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------http://facebook.com/ActionAdamMurphy
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlMurphy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13313
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Paluska
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wgcl-tv-46-mike-paluska.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Mike.Paluska@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Georgia in Athens,Grady College 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlpaluska
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13314
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------
+<br>ContactLastName-------Saltzman
+<br>ContactDescription----
+<br>ContactDesignation----D974
+<br>ContactPhoto----------wgcl-tv-46-wendy-saltzman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------wendy.saltzman@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Chicago
+<br>ContactFacebook-------http://facebook.com/wendy.saltzman?ref=profile
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSATLSaltzman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13315
+<br>ContactFirstName------Harry
+<br>ContactMiddleName------
+<br>ContactLastName-------Samler
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wgcl-tv-46-harry-samler.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------harry.samler@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Tulane University-New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlsamler
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13316
+<br>ContactFirstName------Rebekka
+<br>ContactMiddleName------
+<br>ContactLastName-------Schramm
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wgcl-tv-46-rebekka-schramm.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rebekka.schramm@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------ Auburn University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13317
+<br>ContactFirstName------Renee
+<br>ContactMiddleName------
+<br>ContactLastName-------Starzyk
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgcl-tv-46-renee-starzyk.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------renee.starzyk@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Cornell University in Ithaca,Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlstarzyk
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13318
+<br>ContactFirstName------Bernard
+<br>ContactMiddleName------
+<br>ContactLastName-------Watson
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgcl-tv-46-bernard-watson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Bernard.watson@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Emory University,Northwestern University
+<br>ContactFacebook-------http://facebook.com/people/Bernard-Watson/100001228840572
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlwatson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13293
+<br>ContactFirstName------Stephany
+<br>ContactMiddleName------
+<br>ContactLastName-------Fisher
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgcl-tv-46-stephany-fisher.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------stephany.fisher@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlfisher
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13295
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Fettig
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgcl-tv-46-kim-fettig.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kim.fettig@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Florida State University
+<br>ContactFacebook-------http://facebook.com/profile.php?id=1152352343
+<br>ContactLinkedin-------http://linkedin.com/in/kimfettig
+<br>ContactTwitter--------http://twitter.com/#!/cbsatlfettig
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13304
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Chirico
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------wgcl-tv-46-jeff-chirico.jpg
+<br>ContactPhonenumber----404-327-3093
+<br>ContactEmail----------jeff.chirico@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Scranton
+<br>ContactFacebook-------http://facebook.com/JeffWBRE
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlChirico
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13305
+<br>ContactFirstName------Jocelyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Connell
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------wgcl-tv-46-jocelyn-connell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Jocelyn.Connell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Jacksonville State University 
+<br>ContactFacebook-------http://facebook.com/profile.php?id=100001434377269&ref=search
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlConnell
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13319
+<br>ContactFirstName------Eric 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ludgood
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------eric.ludgood@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13320
+<br>ContactFirstName------Kimberly 
+<br>ContactMiddleName------
+<br>ContactLastName-------Deveaux
+<br>ContactDescription----
+<br>ContactDesignation----D235
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kimberly.deveaux@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13321
+<br>ContactFirstName------Cal
+<br>ContactMiddleName------
+<br>ContactLastName-------Callaway
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------wgcl-tv-46-cal-callaway.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cal.callaway@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/cal-callaway/9/ab7/504
+<br>ContactTwitter--------http://twitter.com/#!/CBSAtlCallaway
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13322
+<br>ContactFirstName------Eric  
+<br>ContactMiddleName------
+<br>ContactLastName-------Fors
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------flip.fors@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13323
+<br>ContactFirstName------Tiffany
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D1098
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tiffany.smith@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Florida,Valdosta State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/tiffany-smith/6/206/26b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13324
+<br>ContactFirstName------James 
+<br>ContactMiddleName------
+<br>ContactLastName-------Estes
+<br>ContactDescription----
+<br>ContactDesignation----D914
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------james.estes@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13325
+<br>ContactFirstName------Kelly 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bowles
+<br>ContactDescription----
+<br>ContactDesignation----D640
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kelly.bowles@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of North Carolina-Asheville
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kelly-bowles/3/139/87
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13326
+<br>ContactFirstName------Elizabeth 
+<br>ContactMiddleName------
+<br>ContactLastName-------Klynstra
+<br>ContactDescription----
+<br>ContactDesignation----D817
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------elizabeth.klynstra@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13327
+<br>ContactFirstName------Mandi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Milligan
+<br>ContactDescription----
+<br>ContactDesignation----D1207
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mandi.milligan@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/mandi-milligan/2a/728/690
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13328
+<br>ContactFirstName------Jennifer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Banks
+<br>ContactDescription----
+<br>ContactDesignation----D1208
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jennifer.bankowski@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13329
+<br>ContactFirstName------Brakeeta 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bell
+<br>ContactDescription----
+<br>ContactDesignation----D469
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------braketta.bell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13330
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName-------Baldwin
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wgcl-tv-46-sarah-baldwin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Sarah.Baldwin@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/sarahhelenbaldwin
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13331
+<br>ContactFirstName------Blake
+<br>ContactMiddleName------
+<br>ContactLastName-------Clancy
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------wgcl-tv-46-blake-clancy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Blake.Clancy@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/BlakeClancy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13332
+<br>ContactFirstName------Keith 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cromwell
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------keith.cromwell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13333
+<br>ContactFirstName------Suzanne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gunn
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------suzanne.gunn@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13334
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Harley
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wgcl-tv-46-amanda-harley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------amanda.harley@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Ohio University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/amanda-harley/34/134/754
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13335
+<br>ContactFirstName------Rodney 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harris
+<br>ContactDescription----
+<br>ContactDesignation----D1209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rodney.harris@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13336
+<br>ContactFirstName------Cynthia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Knox
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cynthia.knox@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13337
+<br>ContactFirstName------Suzanne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burnett
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------suzanne.burnett@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13338
+<br>ContactFirstName------Brittany 
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Brittany.Miller@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13339
+<br>ContactFirstName------Aurora 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nelson
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Aurora.Nelson@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13340
+<br>ContactFirstName------Shannon 
+<br>ContactMiddleName------
+<br>ContactLastName-------Norwood
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------shannon.norwood@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13341
+<br>ContactFirstName------Kara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pesavento
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Kara.pesavento@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13342
+<br>ContactFirstName------Danielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Powell
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wgcl-tv-46-danielle-powell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------danielle.powell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------Georgia Southern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/daniellepowell
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13343
+<br>ContactFirstName------Amanda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sorrell
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------amanda.sorrell@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13344
+<br>ContactFirstName------Kirk 
+<br>ContactMiddleName------
+<br>ContactLastName-------Black
+<br>ContactDescription----
+<br>ContactDesignation----D1210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kirk.black@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13345
+<br>ContactFirstName------Cary 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bond
+<br>ContactDescription----
+<br>ContactDesignation----D326
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cary.bond@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/cary-bond/7/44a/569
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13346
+<br>ContactFirstName------Gary 
+<br>ContactMiddleName------
+<br>ContactLastName-------Watkins
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------gary.watkins@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13347
+<br>ContactFirstName------Kenny 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lawrence
+<br>ContactDescription----
+<br>ContactDesignation----D1211
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kenny.lawrence@cbsatlanta.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2480
+<br>ContactId-------------C13348
+<br>ContactFirstName------Program Comment Line
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----404-327-3144
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2483
+<br>ContactId-------------C13349
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Bachman
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wsb-tv-2-john-bachman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------john.bachman@wsbtv.com
+<br>Alternative Email-----
+<br>University------------St.Olaf College-Northfield
+<br>ContactFacebook-------http://facebook.com/john.bachmanwsbtv
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/BachmanWSB
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2483
+<br>ContactId-------------C13350
+<br>ContactFirstName------Fred
+<br>ContactMiddleName------
+<br>ContactLastName-------Blankenship
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wsb-tv-2-fred-blankenship.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fred.blankenship@wsbtv.com
+<br>Alternative Email-----
+<br>University------------University of San Francisco
+<br>ContactFacebook-------http://facebook.com/fredblankenship?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/fredblankenship
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

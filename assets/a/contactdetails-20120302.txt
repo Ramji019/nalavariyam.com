@@ -1,0 +1,941 @@
+************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25157
+<br>ContactFirstName------Mekdes 
+<br>ContactMiddleName------Gobena
+<br>ContactLastName-------Taylor
+<br>ContactDescription----
+<br>ContactDesignation----D54
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mtaylor@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25158
+<br>ContactFirstName------Jill 
+<br>ContactMiddleName------Coronel
+<br>ContactLastName-------Contacessa
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcoronel@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25159
+<br>ContactFirstName------Linda D
+<br>ContactMiddleName------
+<br>ContactLastName-------Adamo
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ldadamo@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25160
+<br>ContactFirstName------Robert N
+<br>ContactMiddleName------
+<br>ContactLastName-------Grossman
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bgrossman@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25161
+<br>ContactFirstName------Tracy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lasher
+<br>ContactDescription----
+<br>ContactDesignation----D523
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tlasher@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tracy-lasher/6/374/90b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25162
+<br>ContactFirstName------Aimee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pavone
+<br>ContactDescription----
+<br>ContactDesignation----D2794
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tlasher@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------Pace University-Pleasantville/Briarcliff Campus
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/aimee-pavone/6/374/b15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25163
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------McCaffrey
+<br>ContactDescription----
+<br>ContactDesignation----D2731
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmccaffrey@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------Pace University ,Westchester Community College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jessica-mccaffrey/13/322/201
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25164
+<br>ContactFirstName------Danicka 
+<br>ContactMiddleName------
+<br>ContactLastName-------Taylkor
+<br>ContactDescription----
+<br>ContactDesignation----D2549
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dtaylor@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------City University of New York-Baruch College - Zicklin School of Business
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/danicka-taylor/15/5a/385
+<br>ContactTwitter--------http://twitter.com/#!/danickataylor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25165
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Greicus
+<br>ContactDescription----
+<br>ContactDesignation----D2678
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pgreicus@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25166
+<br>ContactFirstName------Ethel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nolan
+<br>ContactDescription----
+<br>ContactDesignation----D934
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------enolan@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25167
+<br>ContactFirstName------Margaret 
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinez
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmartinez@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25168
+<br>ContactFirstName------Catherine 
+<br>ContactMiddleName------Colon
+<br>ContactLastName-------Cocco
+<br>ContactDescription----
+<br>ContactDesignation----D2991
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ccolon@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25169
+<br>ContactFirstName------Martin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Felenstein
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----914-345-0121
+<br>ContactEmail----------mfelenstein@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25170
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinelli
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rmartinelli@todaymediainc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25171
+<br>ContactFirstName------Angelo R
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinelli
+<br>ContactDescription----
+<br>ContactDesignation----D2992
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O564
+<br>ContactId-------------C25172
+<br>ContactFirstName------Jim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pantaleo
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----646-638-6137
+<br>ContactEmail----------jim.pantaleo@empr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25173
+<br>ContactFirstName------Charles
+<br>ContactMiddleName------
+<br>ContactLastName-------Hunt
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------medical-marketing & media-charles-hunt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------charlie.hunt@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Cornell University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/charles-hunt/6/760/147
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C1286
+<br>ContactFirstName------James
+<br>ContactMiddleName------
+<br>ContactLastName-------Chase
+<br>ContactDescription----james chase is the D1 of Medical Marketing & Media.  You can contact james through his email address james.chase@haymarketmedia.com. The phone number to contact james is 646-638-6000. You can also connect to james\'s linkedin id http://linkedin.com/in/jamesechase and get his professional details. He also has his personal blogsYou can also follow james using his twitter link http://www.mmm-online.com/james-chase/author/72/. 
+<br>ContactDesignation----D1
+<br>ContactPhoto----------medical-marketing & media-james-chase.jpg
+<br>ContactPhonenumber----646-638-6000
+<br>ContactEmail----------james.chase@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Coventry University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jamesechase
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.mmm-online.com/james-chase/author/72/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C1288
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Arnold
+<br>ContactDescription----matthew arnold is the D5 of Medical Marketing & Media.  You can contact matthew through his email address matthew.arnold@haymarketmedia.com. The phone number to contact matthew is 646-638-6000. You can also connect to matthew\'s linkedin id http://linkedin.com/pub/dir/Matthew/Arnold and get his professional details. He also has his personal blogsYou can also follow matthew using his twitter link http://www.mmm-online.com/matthew-arnold/author/73/. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------medical-marketing & media-matthew-arnold.jpg
+<br>ContactPhonenumber----646-638-6000
+<br>ContactEmail----------matthew.arnold@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.mmm-online.com/matthew-arnold/author/73/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C1285
+<br>ContactFirstName------Marc 
+<br>ContactMiddleName------
+<br>ContactLastName-------Iskowitz
+<br>ContactDescription----marc iskowitz is the D4 of Medical Marketing & Media.  You can contact marc through his email address marc.iskowitz@haymarketmedia.com. The phone number to contact marc is 646-638-6000. You can also connect to marc\'s linkedin id http://linkedin.com/in/marciskowitz and get his professional details. He also has his personal blogsYou can also follow marc using his twitter link http://www.mmm-online.com/marc-iskowitz/author/74/. 
+<br>ContactDesignation----D4
+<br>ContactPhoto----------medical-marketing & media-marc-iskowitz.jpg
+<br>ContactPhonenumber----646-638-6000
+<br>ContactEmail----------marc.iskowitz@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Rutgers Center for Management Development Rutgers, The State University of New Jersey-New Brunswick Studies abroad
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/marciskowitz
+<br>ContactTwitter--------http://twitter.com/#!/marc_iskowitz
+<br>ContactURL------------http://www.mmm-online.com/marc-iskowitz/author/74/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25174
+<br>ContactFirstName------Regine M
+<br>ContactMiddleName------
+<br>ContactLastName-------Lombardo
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------medical-marketing & media-regine-m-lombardo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------regine.lombardo@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Wagner College
+<br>ContactFacebook-------http://www.facebook.com/people/Regine-M-Guadagnino-Lombardo/1278687683
+<br>ContactLinkedin-------http://www.linkedin.com/pub/regine-m-lombardo/39/650/378
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25175
+<br>ContactFirstName------Steven
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnes
+<br>ContactDescription----
+<br>ContactDesignation----D1033
+<br>ContactPhoto----------medical-marketing & media-steven-barnes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------steven.barnes@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25176
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------McCaffrey
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------medical-marketing & media-kevin-mccaffrey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Kevin.McCaffrey@Haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Creighton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/kmccaffrey
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25177
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------Zalka
+<br>ContactDescription----
+<br>ContactDesignation----D89
+<br>ContactPhoto----------medical-marketing & media-greg-zalka.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------greg.zalka@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Coventry University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/greg-zalka/a/258/b12
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25178
+<br>ContactFirstName------Erica 
+<br>ContactMiddleName------Rodefer 
+<br>ContactLastName-------Winter
+<br>ContactDescription----
+<br>ContactDesignation----D2923
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25179
+<br>ContactFirstName------Brittany
+<br>ContactMiddleName------
+<br>ContactLastName-------Thompson
+<br>ContactDescription----
+<br>ContactDesignation----D54
+<br>ContactPhoto----------medical-marketing & media-brittany-thompson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------brittany.thompson@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------The Ohio State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/brittany-thompson/7/996/a81
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25180
+<br>ContactFirstName------Doreen
+<br>ContactMiddleName------
+<br>ContactLastName-------Gates
+<br>ContactDescription----
+<br>ContactDesignation----D54
+<br>ContactPhoto----------medical-marketing & media-doreen-gates.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------doreen.gates@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Penn State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/doreengates
+<br>ContactTwitter--------http://twitter.com/#!/doreengates
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25181
+<br>ContactFirstName------Anne
+<br>ContactMiddleName------
+<br>ContactLastName-------Gideon
+<br>ContactDescription----
+<br>ContactDesignation----D2993
+<br>ContactPhoto----------medical-marketing & media-anne-gideon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------anne.gideon@thepmd.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25182
+<br>ContactFirstName------Natasha
+<br>ContactMiddleName------
+<br>ContactLastName-------Mulla
+<br>ContactDescription----
+<br>ContactDesignation----D2633
+<br>ContactPhoto----------medical-marketing & media-natasha-mulla.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------natasha.mulla@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Drew University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/natasha-mulla/8/319/5b8
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25183
+<br>ContactFirstName------Marnia
+<br>ContactMiddleName------
+<br>ContactLastName-------Khideke
+<br>ContactDescription----
+<br>ContactDesignation----D2923
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25182
+<br>ContactFirstName------Natasha
+<br>ContactMiddleName------
+<br>ContactLastName-------Mulla
+<br>ContactDescription----
+<br>ContactDesignation----D2633
+<br>ContactPhoto----------medical-marketing & media-natasha-mulla.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------natasha.mulla@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Drew University
+<br>ContactFacebook-------http://www.facebook.com/natashamulla
+<br>ContactLinkedin-------http://www.linkedin.com/pub/natasha-mulla/8/319/5b8
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25184
+<br>ContactFirstName------Anthony
+<br>ContactMiddleName------
+<br>ContactLastName-------Curry
+<br>ContactDescription----
+<br>ContactDesignation----D2936
+<br>ContactPhoto----------medical-marketing & media-anthony-curry.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------anthony.curry@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------State University of New York at Stony Brook, City University of New York-John Jay College of Criminal Justice
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/anthonysc
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25185
+<br>ContactFirstName------Gloria 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jeon
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-San Diego
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/gloria-jeong/a/b7b/694
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25186
+<br>ContactFirstName------Lee
+<br>ContactMiddleName------
+<br>ContactLastName-------Maniscalco
+<br>ContactDescription----
+<br>ContactDesignation----D90
+<br>ContactPhoto----------medical-marketing & media-lee-maniscalco.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Lee,Maniscalco@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25187
+<br>ContactFirstName------Louise
+<br>ContactMiddleName------
+<br>ContactLastName-------Morrin
+<br>ContactDescription----
+<br>ContactDesignation----D533
+<br>ContactPhoto----------medical-marketing & media-louise-morrin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------louise.morrin@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25188
+<br>ContactFirstName------Ada
+<br>ContactMiddleName------
+<br>ContactLastName-------Figueroa
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------medical-marketing & media-ada-figueroa.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ada.figueroa@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25189
+<br>ContactFirstName------Amanda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkin
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25190
+<br>ContactFirstName------Krassi
+<br>ContactMiddleName------
+<br>ContactLastName-------Varbanov
+<br>ContactDescription----
+<br>ContactDesignation----D203
+<br>ContactPhoto----------medical-marketing & media-krassi-varbanov.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------krassi.varbanov@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/krassi-varbanov/4/997/859
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25191
+<br>ContactFirstName------Alex 
+<br>ContactMiddleName------
+<br>ContactLastName-------Saym
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25192
+<br>ContactFirstName------Sherry
+<br>ContactMiddleName------
+<br>ContactLastName-------Oommen
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sherry.oommen@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------Texas Christian University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/sherry-oommen/1/8a8/b20
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25193
+<br>ContactFirstName------Spencer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Schwartz
+<br>ContactDescription----
+<br>ContactDesignation----D63
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------spencer.schwartz@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O565
+<br>ContactId-------------C25194
+<br>ContactFirstName------Joshua
+<br>ContactMiddleName------
+<br>ContactLastName-------Blair
+<br>ContactDescription----
+<br>ContactDesignation----D2986
+<br>ContactPhoto----------medical-marketing & media-joshua-blair.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmmsubs@haymarketmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

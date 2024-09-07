@@ -1,0 +1,2561 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13740
+<br>ContactFirstName------Spencer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Blake
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sblake@todays6.com
+<br>Alternative Email-----
+<br>University------------Brigham Young University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13741
+<br>ContactFirstName------Kyle
+<br>ContactMiddleName------
+<br>ContactLastName-------Gravlin
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kivi-tv-6-kyle-gravlin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University at Albany in Albany-New York.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/kylegravlin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13742
+<br>ContactFirstName------Tina 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jensen
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of South Carolina
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13743
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Fink
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------kivi-tv-6-eric-fink.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------efink@kivitv.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13744
+<br>ContactFirstName------Mac
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kivi-tv-6-mac-king.jpg
+<br>ContactPhonenumber----208-340-9134
+<br>ContactEmail----------mking@kivitv.com
+<br>Alternative Email-----
+<br>University------------Northwestern University,Bates College,Phillips Academy Andover
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/mac-king/16/242/315
+<br>ContactTwitter--------http://twitter.com/#!/mackenziewking
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13745
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lopez
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mlopez@journalbroadcastgroup.com
+<br>Alternative Email-----
+<br>University------------Florida International University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13746
+<br>ContactFirstName------Jennifer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Auh
+<br>ContactDescription----
+<br>ContactDesignation----D575
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13747
+<br>ContactFirstName------Gemma
+<br>ContactMiddleName------
+<br>ContactLastName-------Gaudette
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kivi-tv-6-gemma-gaudette.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13748
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Anthony
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kivi-tv-6-bob-anthony.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13737
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Dorval
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------kivi-tv-6-scott-dorval.jpg
+<br>ContactPhonenumber----208-381-6668
+<br>ContactEmail----------sdorval@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13749
+<br>ContactFirstName------Marie 
+<br>ContactMiddleName------
+<br>ContactLastName-------McGlynn
+<br>ContactDescription----
+<br>ContactDesignation----D205
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6601
+<br>ContactEmail----------mmcglynn@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13750
+<br>ContactFirstName------Tauna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lange
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-336-0500
+<br>ContactEmail----------tlange@journalbroadcastgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13751
+<br>ContactFirstName------Steve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bertel
+<br>ContactDescription----
+<br>ContactDesignation----D220
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6660
+<br>ContactEmail----------sbertel@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13752
+<br>ContactFirstName------Donovan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D1256
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6634
+<br>ContactEmail----------dmoore@todays6.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13753
+<br>ContactFirstName------Maria 
+<br>ContactMiddleName------
+<br>ContactLastName-------Decaney 
+<br>ContactDescription----
+<br>ContactDesignation----D326
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-344-3511
+<br>ContactEmail----------mdecaney@journalbroadcastgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13754
+<br>ContactFirstName------Ken 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ritchie 
+<br>ContactDescription----
+<br>ContactDesignation----D214
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6613 
+<br>ContactEmail----------kritchie@todays6.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13755
+<br>ContactFirstName------Josh 
+<br>ContactMiddleName------
+<br>ContactLastName-------Schlaich
+<br>ContactDescription----
+<br>ContactDesignation----D598
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-344-3511
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13756
+<br>ContactFirstName------Justin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Beller 
+<br>ContactDescription----
+<br>ContactDesignation----D264
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6685 
+<br>ContactEmail----------jbeller@journalbroadcastgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13757
+<br>ContactFirstName------Brian 
+<br>ContactMiddleName------
+<br>ContactLastName-------Perkins
+<br>ContactDescription----
+<br>ContactDesignation----D355
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6621
+<br>ContactEmail----------bperkins@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13758
+<br>ContactFirstName------Kraig 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spille
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6631
+<br>ContactEmail----------kspille@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13759
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kemp 
+<br>ContactDescription----
+<br>ContactDesignation----D1257
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6642 
+<br>ContactEmail----------rkemp@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13760
+<br>ContactFirstName------Jeff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hoffert 
+<br>ContactDescription----
+<br>ContactDesignation----D261
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6644 
+<br>ContactEmail----------jhoffert@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2507
+<br>ContactId-------------C13761
+<br>ContactFirstName------News Room
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-381-6660
+<br>ContactEmail----------news@kivitv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13762
+<br>ContactFirstName------Kiaora
+<br>ContactMiddleName------
+<br>ContactLastName-------Bohlool
+<br>ContactDescription----
+<br>ContactDesignation----D903
+<br>ContactPhoto----------ktrv-tv-12-kiaora-bohlool.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13763
+<br>ContactFirstName------Stacey
+<br>ContactMiddleName------
+<br>ContactLastName-------Skrysak
+<br>ContactDescription----
+<br>ContactDesignation----D903
+<br>ContactPhoto----------ktrv-tv-12-stacey-skrysak.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sskrysak@ktrv.com
+<br>Alternative Email-----
+<br>University------------University of Oregon
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13764
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Liebenthal
+<br>ContactDescription----
+<br>ContactDesignation----D1258
+<br>ContactPhoto----------ktrv-tv-12-steve-liebenthal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13765
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------Bartelmay
+<br>ContactDescription----
+<br>ContactDesignation----D903
+<br>ContactPhoto----------ktrv-tv-12-adam-bartelmay.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------abartelmay@ktrv.com
+<br>Alternative Email-----
+<br>University------------University of Salzburg
+<br>ContactFacebook-------http://facebook.com/pages/Adam-Bartelmay/244948555520949?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13766
+<br>ContactFirstName------Rachel
+<br>ContactMiddleName------
+<br>ContactLastName-------Garceau
+<br>ContactDescription----
+<br>ContactDesignation----D1259
+<br>ContactPhoto----------ktrv-tv-12-rachel-garceau.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwest Nazarene University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13767
+<br>ContactFirstName------Allison
+<br>ContactMiddleName------
+<br>ContactLastName-------Warren
+<br>ContactDescription----
+<br>ContactDesignation----D349
+<br>ContactPhoto----------ktrv-tv-12-allison-warren.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Los Angeles
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13768
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Loveless
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------ktrv-tv-12-matt-loveless.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mloveless@ktrv.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mattloveless
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13769
+<br>ContactFirstName------Bri
+<br>ContactMiddleName------
+<br>ContactLastName-------Eggers
+<br>ContactDescription----
+<br>ContactDesignation----D1260
+<br>ContactPhoto----------ktrv-tv-12-bri-eggers.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego State University,Oxford University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13770
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Standal
+<br>ContactDescription----
+<br>ContactDesignation----D955
+<br>ContactPhoto----------ktrv-tv-12-matt-standal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mstandal@ktrv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13771
+<br>ContactFirstName------C.J. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gish
+<br>ContactDescription----
+<br>ContactDesignation----D1089
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cjgish@ktrv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13772
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Joseph
+<br>ContactDescription----
+<br>ContactDesignation----D381
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rickyj@ktrv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2509
+<br>ContactId-------------C13773
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-466-5513
+<br>ContactEmail----------newstips@ktrv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13774
+<br>ContactFirstName------Dee
+<br>ContactMiddleName------
+<br>ContactLastName-------Sarton
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------ktvb-tv-7-dee-sarton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dsarton@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/DeeSarton?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13775
+<br>ContactFirstName------Carolyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Holly
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------ktvb-tv-7-carolyn-holly.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cholly@ktvb.com
+<br>Alternative Email-----
+<br>University------------Oregon State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13776
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------ktvb-tv-7-mark-johnson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mjohnson@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Emjayktvb
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13777
+<br>ContactFirstName------Maggie
+<br>ContactMiddleName------
+<br>ContactLastName-------O Mara
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------ktvb-tv-7-maggie-o-mara.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------momara@ktvb.com
+<br>Alternative Email-----
+<br>University------------Gonzaga University in Spokane-Washington
+<br>ContactFacebook-------http://facebook.com/profile.php?id=1221381583&sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/maggiektvb7
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13778
+<br>ContactFirstName------Doug
+<br>ContactMiddleName------
+<br>ContactLastName-------Petcash
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------ktvb-tv-7-doug-petcash.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dpetcash@ktvb.com
+<br>Alternative Email-----
+<br>University------------Penn State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/DougPetcash
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13779
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Fields
+<br>ContactDescription----
+<br>ContactDesignation----D1261
+<br>ContactPhoto----------ktvb-tv-7-kim-fields.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kfields@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Utah
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13780
+<br>ContactFirstName------Justin
+<br>ContactMiddleName------
+<br>ContactLastName-------Corr
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------ktvb-tv-7-justin-corr.jpg
+<br>ContactPhonenumber----208-321-5759
+<br>ContactEmail----------jcorr@ktvb.com
+<br>Alternative Email-----
+<br>University------------Boise State University
+<br>ContactFacebook-------http://facebook.com/pages/Justin-Corr-KTVB/275378355812998?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13781
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------ktvb-tv-7-scott-evans.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sevans@ktvb.com
+<br>Alternative Email-----
+<br>University------------Brigham Young University in Provo-Utah
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/ScottEvansNews
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13782
+<br>ContactFirstName------Natalie
+<br>ContactMiddleName------
+<br>ContactLastName-------Podgorski
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------ktvb-tv-7-natalie-podgorski.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------npodgorski@ktvb.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/NatalieKTVB
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13783
+<br>ContactFirstName------Nishi
+<br>ContactMiddleName------
+<br>ContactLastName-------Gupta
+<br>ContactDescription----
+<br>ContactDesignation----D1262
+<br>ContactPhoto----------ktvb-tv-7-nishi-gupta.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ngupta@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13784
+<br>ContactFirstName------Ty
+<br>ContactMiddleName------
+<br>ContactLastName-------Brennan
+<br>ContactDescription----
+<br>ContactDesignation----D1250
+<br>ContactPhoto----------ktvb-tv-7-ty-brennan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tbrennan@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Utah
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/tybrennanktvb
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13785
+<br>ContactFirstName------Jamie
+<br>ContactMiddleName------
+<br>ContactLastName-------Grey
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------ktvb-tv-7-jamie-grey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jgrey@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Missouri
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/KTVBJamieGrey
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13786
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Lantz
+<br>ContactDescription----
+<br>ContactDesignation----D572
+<br>ContactPhoto----------ktvb-tv-7-rick-lantz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rlantz@ktvb.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------http://facebook.com/RickWeather?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13787
+<br>ContactFirstName------Larry
+<br>ContactMiddleName------
+<br>ContactLastName-------Gebert
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------ktvb-tv-7-larry-gebert.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lgebert@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/FlatLarry
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13788
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Duthie
+<br>ContactDescription----
+<br>ContactDesignation----D572
+<br>ContactPhoto----------ktvb-tv-7-jim-duthie.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jduthie@ktvb.com
+<br>Alternative Email-----
+<br>University------------Arizona State University,University of Utah
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13789
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Holmes
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------ktvb-tv-7-brian-holmes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bholmes@ktvb.com
+<br>Alternative Email-----
+<br>University------------California State University-Northridge
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13790
+<br>ContactFirstName------Ryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Larrondo
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------ktvb-tv-7-ryan-larrondo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rlarrondo@ktvb.com
+<br>Alternative Email-----
+<br>University------------Boise State University,University of Idaho
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13791
+<br>ContactFirstName------Jay
+<br>ContactMiddleName------
+<br>ContactLastName-------Tust
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------ktvb-tv-7-jay-tust.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/KTVBSportsGuy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13792
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------ktvb-tv-7-tom-scott.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13793
+<br>ContactFirstName------Kelsey
+<br>ContactMiddleName------
+<br>ContactLastName-------Jacobson
+<br>ContactDescription----
+<br>ContactDesignation----D1263
+<br>ContactPhoto----------ktvb-tv-7-kelsey-jacobson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kjacobson@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of North Dakota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13794
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Day
+<br>ContactDescription----
+<br>ContactDesignation----D1264
+<br>ContactPhoto----------ktvb-tv-7-don-day.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dday@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13795
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Masters
+<br>ContactDescription----
+<br>ContactDesignation----D1265
+<br>ContactPhoto----------ktvb-tv-7-john-masters.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmasters@ktvb.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13796
+<br>ContactFirstName------Adrea
+<br>ContactMiddleName------
+<br>ContactLastName-------Young
+<br>ContactDescription----
+<br>ContactDesignation----D1266
+<br>ContactPhoto----------ktvb-tv-7-adrea-young.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ayoung@ktvb.com
+<br>Alternative Email-----
+<br>University------------Boise State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13797
+<br>ContactFirstName------Jordan
+<br>ContactMiddleName------
+<br>ContactLastName-------Gray
+<br>ContactDescription----
+<br>ContactDesignation----D1265
+<br>ContactPhoto----------ktvb-tv-7-jordan-gray.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jgray@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Idaho
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13798
+<br>ContactFirstName------Char
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackson
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------ktvb-tv-7-char-jackson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cjackson@ktvb.com
+<br>Alternative Email-----
+<br>University------------Boise State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/ktvbchar
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13799
+<br>ContactFirstName------Haley
+<br>ContactMiddleName------
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D629
+<br>ContactPhoto----------ktvb-tv-7-haley-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------hwilliams@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Oregon
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13800
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Stiles
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------ktvb-tv-7-jeremy-stiles.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jstiles@ktvb.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------http://facebook.com/jdstiles
+<br>ContactLinkedin-------http://linkedin.com/pub/jeremy-stiles/13/387/707
+<br>ContactTwitter--------http://twitter.com/#!/jdstiles
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13801
+<br>ContactFirstName------Brandon
+<br>ContactMiddleName------
+<br>ContactLastName-------O Rourke
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------ktvb-tv-7-brandon-o-rourke.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------borourke@ktvb.com
+<br>Alternative Email-----
+<br>University------------University of Oregon
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/brandon-o-rourke/14/517/7b7
+<br>ContactTwitter--------https://twitter.com/#!/BrandonORourke
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13802
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------
+<br>ContactLastName-------Fisk
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------ktvb-tv-7-kelly-fisk.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kfisk@ktvb.com
+<br>Alternative Email-----
+<br>University------------Louisiana Tech University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13803
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D1055
+<br>ContactPhoto----------ktvb-tv 7-kate-morris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kmorris@ktvb.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kate-morris/7/0/126
+<br>ContactTwitter--------http://twitter.com/#!/katharinamorris
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13803
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D1055
+<br>ContactPhoto----------ktvb-tv 7-kate-morris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kmorris@ktvb.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kate-morris/7/0/126
+<br>ContactTwitter--------http://twitter.com/#!/katharinamorris
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13804
+<br>ContactFirstName------Erica
+<br>ContactMiddleName------
+<br>ContactLastName-------Rush
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------ktvb-tv-7-erica-rush.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oregon
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13805
+<br>ContactFirstName------Xanti
+<br>ContactMiddleName------
+<br>ContactLastName-------Alcelay
+<br>ContactDescription----
+<br>ContactDesignation----D1267
+<br>ContactPhoto----------ktvb-tv 7-xanti-alcelay.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------xalcelay@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13805
+<br>ContactFirstName------Xanti
+<br>ContactMiddleName------
+<br>ContactLastName-------Alcelay
+<br>ContactDescription----
+<br>ContactDesignation----D1267
+<br>ContactPhoto----------ktvb-tv 7-xanti-alcelay.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------xalcelay@ktvb.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13806
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Chavez
+<br>ContactDescription----
+<br>ContactDesignation----D1268
+<br>ContactPhoto----------ktvb-tv-7-lisa-chavez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------xalcelay@ktvb.com
+<br>Alternative Email-----
+<br>University------------Boise State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2510
+<br>ContactId-------------C13807
+<br>ContactFirstName------Gary
+<br>ContactMiddleName------
+<br>ContactLastName-------Salzman
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------ktvb-tv-7-gary-salzman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Idaho
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/gsalzman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2511
+<br>ContactId-------------C13808
+<br>ContactFirstName------Plum TV Sun Valley
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-788-4504 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2511
+<br>ContactId-------------C13809
+<br>ContactFirstName------Events and Community News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------SVEvents@plumtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13810
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Danielson
+<br>ContactDescription----
+<br>ContactDesignation----D294
+<br>ContactPhoto----------kidk-tv-3-mark-danielson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mdanielson@localnews8.com
+<br>Alternative Email-----
+<br>University------------University of Utah
+<br>ContactFacebook-------http://facebook.com/tvdanielson
+<br>ContactLinkedin-------http://linkedin.com/in/markdanielsonidahonews
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13811
+<br>ContactFirstName------Monique 
+<br>ContactMiddleName------
+<br>ContactLastName-------Purcell
+<br>ContactDescription----
+<br>ContactDesignation----D1221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mpurcell@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13812
+<br>ContactFirstName------Curtis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackson
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cjackson@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13813
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Shiverdecker
+<br>ContactDescription----
+<br>ContactDesignation----D703
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mshiverdecker@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13814
+<br>ContactFirstName------Russ 
+<br>ContactMiddleName------
+<br>ContactLastName-------Haack
+<br>ContactDescription----
+<br>ContactDesignation----D112
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rhaack@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13815
+<br>ContactFirstName------Lenny 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lsmith@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13816
+<br>ContactFirstName------Newsroom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------newsdesk@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13817
+<br>ContactFirstName------Community Calendar
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-528-2145
+<br>ContactEmail----------frontdesk@localnews8.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2512
+<br>ContactId-------------C13818
+<br>ContactFirstName------Business 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-525-8888
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13819
+<br>ContactFirstName------Nate
+<br>ContactMiddleName------
+<br>ContactLastName-------Keuster
+<br>ContactDescription----
+<br>ContactDesignation----D1269
+<br>ContactPhoto----------klew-tv-3-nate-keuster.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nate@klewtv.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/natekuester
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13820
+<br>ContactFirstName------Ron
+<br>ContactMiddleName------
+<br>ContactLastName-------Marasco
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------klew-tv-3-ron-marasco.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rmarasco@klewtv.com
+<br>Alternative Email-----
+<br>University------------Hawaii Pacific University,California State University
+<br>ContactFacebook-------http://facebook.com/RonMarasco?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/ron-marasco/10/89b/395
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13821
+<br>ContactFirstName------Meg 
+<br>ContactMiddleName------
+<br>ContactLastName-------McNamara
+<br>ContactDescription----
+<br>ContactDesignation----D1270
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmcnamara@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Meg_Mcnamara
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13822
+<br>ContactFirstName------Keith 
+<br>ContactMiddleName------
+<br>ContactLastName-------Havens
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------keithh@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13823
+<br>ContactFirstName------Tracci 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dial
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tdial@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13824
+<br>ContactFirstName------Zach
+<br>ContactMiddleName------
+<br>ContactLastName-------Whitney
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------klew-tv-3-zach-whitney.jpg
+<br>ContactPhonenumber----208-746-2636
+<br>ContactEmail----------zwhitney@klewtv.com
+<br>Alternative Email-----
+<br>University------------University of Utah,Salt Lake Community College
+<br>ContactFacebook-------http://facebook.com/pages/Zach-Whitney/155032041218744?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/zach-whitney/33/155/983
+<br>ContactTwitter--------http://twitter.com/#!/zacharywhitney
+<br>ContactURL------------http://www.klewtv.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13825
+<br>ContactFirstName------Stephanie
+<br>ContactMiddleName------Hale
+<br>ContactLastName-------Lopez
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------klew-tv-3-stephanie-lopez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------shalelopez@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/SHaleLopez
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13826
+<br>ContactFirstName------Cindy
+<br>ContactMiddleName------
+<br>ContactLastName-------Cha
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------klew-tv-3-cindy-cha.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ccha@klewtv.com
+<br>Alternative Email-----
+<br>University------------California State University-Fullerton
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/cindycha
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13827
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-746-2648
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13828
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stellmon
+<br>ContactDescription----
+<br>ContactDesignation----D219
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dstellmon@klewtv.com
+<br>Alternative Email-----
+<br>University------------Brigham Young University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dan-stellmon/9/3bb/822
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13829
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dunlap
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------wcdunlap@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13830
+<br>ContactFirstName------Ann 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fickenwirth
+<br>ContactDescription----
+<br>ContactDesignation----D1271
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ann@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13831
+<br>ContactFirstName------Lori 
+<br>ContactMiddleName------
+<br>ContactLastName-------Krause
+<br>ContactDescription----
+<br>ContactDesignation----D1272
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lori.kra@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13832
+<br>ContactFirstName------Steven 
+<br>ContactMiddleName------
+<br>ContactLastName-------Reed
+<br>ContactDescription----
+<br>ContactDesignation----D1273
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------stevenreed@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13833
+<br>ContactFirstName------Jared 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wanegar
+<br>ContactDescription----
+<br>ContactDesignation----D874
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jwanegar@klewtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2513
+<br>ContactId-------------C13834
+<br>ContactFirstName------Operations/Administration
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-746-2636
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2514
+<br>ContactId-------------C13835
+<br>ContactFirstName------Robin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Estopinal
+<br>ContactDescription----
+<br>ContactDesignation----D1274
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-235-3102
+<br>ContactEmail----------restopinal@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2514
+<br>ContactId-------------C13836
+<br>ContactFirstName------Closed Captioning
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-235-3102
+<br>ContactEmail----------ccaptioning@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2514
+<br>ContactId-------------C13837
+<br>ContactFirstName------Contact KFXP TV 31
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-232-3141
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13838
+<br>ContactFirstName------Todd
+<br>ContactMiddleName------
+<br>ContactLastName-------Blackinton
+<br>ContactDescription----
+<br>ContactDesignation----D1275
+<br>ContactPhoto----------kpvi-tv-6-todd-blackinton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13839
+<br>ContactFirstName------Doug
+<br>ContactMiddleName------
+<br>ContactLastName-------Iverson
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------kpvi-tv-6-doug-iverson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------diverson@kpvi.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University,Idaho State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/doug-iverson/9/4ba/77a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13840
+<br>ContactFirstName------Brandi
+<br>ContactMiddleName------
+<br>ContactLastName-------Erickson
+<br>ContactDescription----
+<br>ContactDesignation----D1276
+<br>ContactPhoto----------kpvi-tv-6-brandi-erickson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------berickson@kpvi.com
+<br>Alternative Email-----
+<br>University------------San Diego Mesa College,Mira Costa College,Boise State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13841
+<br>ContactFirstName------Phil
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----
+<br>ContactDesignation----D1277
+<br>ContactPhoto----------kpvi-tv-6-phil-campbell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pcampbell@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/PhilCampbell06
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13842
+<br>ContactFirstName------Logan
+<br>ContactMiddleName------
+<br>ContactLastName-------McDougall
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------kpvi-tv-6-logan-mcdougall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lmcdougall@kpvi.com
+<br>Alternative Email-----
+<br>University------------University of Idaho
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13843
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Davenport
+<br>ContactDescription----
+<br>ContactDesignation----D384
+<br>ContactPhoto----------kpvi-tv-6-matt-davenport.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mdavenport@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13844
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Gittins
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------kpvi-tv-6-matt-gittins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mgittins@kpvi.com
+<br>Alternative Email-----
+<br>University------------Brigham Young University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13845
+<br>ContactFirstName------Stuart
+<br>ContactMiddleName------
+<br>ContactLastName-------Summers
+<br>ContactDescription----
+<br>ContactDesignation----D1278
+<br>ContactPhoto----------kpvi-tv-6-stuart-summers.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ssummers@kpvi.com
+<br>Alternative Email-----
+<br>University------------Idaho State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13846
+<br>ContactFirstName------Diana
+<br>ContactMiddleName------
+<br>ContactLastName-------Nguyen
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kpvi-tv-6-diana-nguyen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dnguyen@kpvi.com
+<br>Alternative Email-----
+<br>University------------San Jose State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13847
+<br>ContactFirstName------Kris
+<br>ContactMiddleName------
+<br>ContactLastName-------Millgate
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kpvi-tv-6-kris-millgate.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------timeout@tightlinemedia.biz
+<br>Alternative Email-----
+<br>University------------University of Utah
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13848
+<br>ContactFirstName------Shelley 
+<br>ContactMiddleName------
+<br>ContactLastName-------Goings
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sgoings@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13849
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Larkin
+<br>ContactDescription----
+<br>ContactDesignation----D1151
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------slarkin@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13850
+<br>ContactFirstName------Robin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Estopinal
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------restopina@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13851
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hugie
+<br>ContactDescription----
+<br>ContactDesignation----D1253
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mhugie@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13852
+<br>ContactFirstName------News Room
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-235-3152 
+<br>ContactEmail----------newsroom@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13853
+<br>ContactFirstName------Business 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-232-6666 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2515
+<br>ContactId-------------C13854
+<br>ContactFirstName------Community Calendar
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------berickson@kpvi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13855
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pruitt
+<br>ContactDescription----
+<br>ContactDesignation----D1279
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3017 
+<br>ContactEmail----------chrispruitt@neuhoffmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13856
+<br>ContactFirstName------Berva 
+<br>ContactMiddleName------Dawn 
+<br>ContactLastName-------Nesbit
+<br>ContactDescription----
+<br>ContactDesignation----D1280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100 X3014
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13857
+<br>ContactFirstName------Kathy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Myers
+<br>ContactDescription----
+<br>ContactDesignation----D1281
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3011 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13858
+<br>ContactFirstName------Deborah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Flores
+<br>ContactDescription----
+<br>ContactDesignation----D280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3020 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13858
+<br>ContactFirstName------Deborah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Flores
+<br>ContactDescription----
+<br>ContactDesignation----D280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3020 
+<br>ContactEmail----------dflores@kmvt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13859
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------Ellen 
+<br>ContactLastName-------McClure
+<br>ContactDescription----
+<br>ContactDesignation----D517
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3068 
+<br>ContactEmail----------scrider@kmvt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13860
+<br>ContactFirstName------Sandi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bianchetti
+<br>ContactDescription----
+<br>ContactDesignation----D1282
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3001 
+<br>ContactEmail----------sbianchetti@kmvt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13861
+<br>ContactFirstName------Rodger 
+<br>ContactMiddleName------
+<br>ContactLastName-------Martin
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3049 
+<br>ContactEmail----------rmartin@kmvt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13862
+<br>ContactFirstName------Shawn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Butler
+<br>ContactDescription----
+<br>ContactDesignation----D310
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3048 
+<br>ContactEmail----------sbutler@kmvt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2516
+<br>ContactId-------------C13863
+<br>ContactFirstName------Brian 
+<br>ContactMiddleName------
+<br>ContactLastName-------Neitzke
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----208-733-1100X3054 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

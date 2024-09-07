@@ -1,0 +1,3447 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5903
+<br>ContactId-------------C8
+<br>ContactFirstName------Lorri
+<br>ContactMiddleName------
+<br>ContactLastName-------Harrison
+<br>ContactDescription----
+<br>ContactDesignation----D475
+<br>ContactPhoto----------chatsworth-times-lorri-harrison.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ Dalton State College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/lorri-harrison/5b/9ab/4a4
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5903
+<br>ContactId-------------C38331
+<br>ContactFirstName------Pat 
+<br>ContactMiddleName------
+<br>ContactLastName-------Oxford
+<br>ContactDescription----
+<br>ContactDesignation----D127
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pat.oxford@chatsworthtimes.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5903
+<br>ContactId-------------C38332
+<br>ContactFirstName------Bekah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jordan
+<br>ContactDescription----
+<br>ContactDesignation----D5140
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bekah.jordan@chatsworthtimes.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5903
+<br>ContactId-------------C38333
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName------- Blevins
+<br>ContactDescription----
+<br>ContactDesignation----D3228
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sarah.blevins@chatsworthtimes.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5903
+<br>ContactId-------------C38334
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------
+<br>ContactLastName------- Hensley
+<br>ContactDescription----
+<br>ContactDesignation----D5141
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kelly-hensley/99/914/63b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38335
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------T
+<br>ContactLastName-------Powell
+<br>ContactDescription----
+<br>ContactDesignation----D4656
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38336
+<br>ContactFirstName------Ann
+<br>ContactMiddleName------
+<br>ContactLastName-------Gentry
+<br>ContactDescription----
+<br>ContactDesignation----D5137
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38337
+<br>ContactFirstName------Fiona
+<br>ContactMiddleName------
+<br>ContactLastName-------Kenedy
+<br>ContactDescription----
+<br>ContactDesignation----D2134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38338
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38338
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6006
+<br>ContactId-------------C38338
+<br>ContactFirstName------E.
+<br>ContactMiddleName------
+<br>ContactLastName-------Melvin
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(208) 756-2221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38339
+<br>ContactFirstName------Marlene 
+<br>ContactMiddleName------J
+<br>ContactLastName-------Witthoft
+<br>ContactDescription----
+<br>ContactDesignation----D221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38340
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Wolters
+<br>ContactDescription----
+<br>ContactDesignation----D4668
+<br>ContactPhoto----------beverage-industry-scott-wolters.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Central Michigan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/scott-wolters-cem/5/188/342
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38341
+<br>ContactFirstName------Antonina 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D5142
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38342
+<br>ContactFirstName------Hillari 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dowdle
+<br>ContactDescription----
+<br>ContactDesignation----D4518
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5235
+<br>ContactId-------------C38343
+<br>ContactFirstName------Tony
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------hr-magazine-tony-lee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38344
+<br>ContactFirstName------Beth 
+<br>ContactMiddleName------A
+<br>ContactLastName-------Surowiec
+<br>ContactDescription----
+<br>ContactDesignation----D4670
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38345
+<br>ContactFirstName------Cristy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Adamski
+<br>ContactDescription----
+<br>ContactDesignation----D127
+<br>ContactPhoto----------
+<br>ContactPhonenumber----715-592-3565
+<br>ContactEmail----------Cristy.adamski@fwcommunity.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38346
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Krywko
+<br>ContactDescription----
+<br>ContactDesignation----D4671
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38347
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Staszak
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----978-203-5460
+<br>ContactEmail----------Barbara.staszak@fwcommunity.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38348
+<br>ContactFirstName------Caitie
+<br>ContactMiddleName------
+<br>ContactLastName-------Hites
+<br>ContactDescription----
+<br>ContactDesignation----D5143
+<br>ContactPhoto----------moscow-pullman-daily news-caitie-hites.jpg
+<br>ContactPhonenumber----208-883-4632
+<br>ContactEmail----------chites@dnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38347
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Staszak
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------
+<br>ContactPhonenumber----978-203-5460
+<br>ContactEmail----------Barbara.staszak@fwcommunity.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38349
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6006
+<br>ContactId-------------C38350
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hodges
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(208) 756- 2221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38351
+<br>ContactFirstName------LaRita 
+<br>ContactMiddleName------
+<br>ContactLastName-------Godfrey
+<br>ContactDescription----
+<br>ContactDesignation----D5144
+<br>ContactPhoto----------
+<br>ContactPhonenumber----801-816-8410
+<br>ContactEmail---------- lgodfrey@creativecraftsgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38352
+<br>ContactFirstName------Cynthia
+<br>ContactMiddleName------
+<br>ContactLastName-------Lyons
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38353
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------V. Bryan
+<br>ContactDescription----
+<br>ContactDesignation----D126
+<br>ContactPhoto----------moscow-pullman-daily news-mark-v.-bryan.jpg
+<br>ContactPhonenumber----208-848-2220
+<br>ContactEmail----------mbryan@lmtribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38354
+<br>ContactFirstName------Susan
+<br>ContactMiddleName------
+<br>ContactLastName-------Guzman
+<br>ContactDescription----
+<br>ContactDesignation----D586
+<br>ContactPhoto----------mccalls-patterns magazine-susan-guzman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------The Art Institute of Pittsburgh-Online Division
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/susan-guzman/5/522/a6a
+<br>ContactTwitter--------https://twitter.com/SuzGuzDesigns
+<br>ContactURL------------http://www.suzguzdesigns.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7175
+<br>ContactId-------------C36161
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5235
+<br>ContactId-------------C38355
+<br>ContactFirstName------Christina
+<br>ContactMiddleName------
+<br>ContactLastName-------Folz
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------hr-magazine-christina-folz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Boston University
+<br>ContactFacebook-------https://www.facebook.com/christina.folz
+<br>ContactLinkedin-------https://www.linkedin.com/pub/christina-folz/8/93a/225
+<br>ContactTwitter--------https://twitter.com/mseditor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7063
+<br>ContactId-------------C38356
+<br>ContactFirstName------Krista
+<br>ContactMiddleName------
+<br>ContactLastName-------Donlon
+<br>ContactDescription----
+<br>ContactDesignation----D4753
+<br>ContactPhoto----------aba-bank marketing-krista-donlon.jpg
+<br>ContactPhonenumber---- (202) 663-5127
+<br>ContactEmail----------kdonlon@aba.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6006
+<br>ContactId-------------C38357
+<br>ContactFirstName------Christy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hewitt
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(208) 756-2221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38358
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stokes
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38359
+<br>ContactFirstName------Valerie
+<br>ContactMiddleName------
+<br>ContactLastName------- Uland
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38360
+<br>ContactFirstName------Patricia
+<br>ContactMiddleName------B
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D294
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38361
+<br>ContactFirstName------Bonnie
+<br>ContactMiddleName------
+<br>ContactLastName-------Curran
+<br>ContactDescription----
+<br>ContactDesignation----D5145
+<br>ContactPhoto----------moscow-pullman-daily news-bonnie-curran.jpg
+<br>ContactPhonenumber----208-848-2229
+<br>ContactEmail----------bcurran@lmtribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7063
+<br>ContactId-------------C38362
+<br>ContactFirstName------Gail
+<br>ContactMiddleName------
+<br>ContactLastName-------Kolakowski
+<br>ContactDescription----
+<br>ContactDesignation----D4183
+<br>ContactPhoto----------aba-bank marketing-gail-kolakowski.jpg
+<br>ContactPhonenumber----(202) 663-5365 
+<br>ContactEmail----------gkolakow@aba.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38363
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harper 
+<br>ContactDescription----
+<br>ContactDesignation----D73
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38364
+<br>ContactFirstName------Sherri
+<br>ContactMiddleName------ Bain 
+<br>ContactLastName-------Driver
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5235
+<br>ContactId-------------C38365
+<br>ContactFirstName------Desda
+<br>ContactMiddleName------
+<br>ContactLastName-------Moss
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------hr-magazine-desda-moss.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/desda-moss/1/211/147
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38363
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harper 
+<br>ContactDescription----
+<br>ContactDesignation----D73
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bharper@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6006
+<br>ContactId-------------C38366
+<br>ContactFirstName------Sheila 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hodges
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(208) 756-2221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38367
+<br>ContactFirstName------Beth 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hayes
+<br>ContactDescription----
+<br>ContactDesignation----D5146
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5689
+<br>ContactId-------------C38368
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Nanavati
+<br>ContactDescription----The New Art Examiner was the longest lasting magazine of art criticism ever to come out of Chicago. It had nearly a three-decade long run and since its founding in 1974 by Jane Addams Allen and Derek Guthrie no art periodical published in the Windy City has lasted longer or has achieved the critical mass of readers and admirers that it did. Editor Jane Allen an art historian who studied under Harold Rosenberg at the University of Chicago was influential in developing new writers who later became significant on the New York scene and encouraged a writing style that was lively personal and honestly critical. It is cited by its creator as the largest art magazine of the time outside of New York.
+<br>ContactDesignation----D11
+<br>ContactPhoto----------new-art examiner magazine-daniel-nanavati.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oxford
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://in.linkedin.com/in/danielnanavati
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6006
+<br>ContactId-------------C38369
+<br>ContactFirstName------Stephanie 
+<br>ContactMiddleName------Van 
+<br>ContactLastName-------Zuyen
+<br>ContactDescription----
+<br>ContactDesignation----D2344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(208) 756-2221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38370
+<br>ContactFirstName------Kathryn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Patterson
+<br>ContactDescription----
+<br>ContactDesignation----D4450
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38371
+<br>ContactFirstName------Lori 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rodriguez
+<br>ContactDescription----
+<br>ContactDesignation----D2811
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310.356.2263
+<br>ContactEmail----------lrodriguez@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5235
+<br>ContactId-------------C38372
+<br>ContactFirstName------John
+<br>ContactMiddleName------F
+<br>ContactLastName-------Scorza
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------hr-magazine-john-scorza.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/johnscorza
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38373
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Pinch
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------abc-construction executive-lauren-pinch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pinch@abc.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38320
+<br>ContactFirstName------Rita 
+<br>ContactMiddleName------M
+<br>ContactLastName-------Foumia
+<br>ContactDescription----
+<br>ContactDesignation----D4667
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38249
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Pintarelli
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------beverage-industry-steve-pintarelli.jpg
+<br>ContactPhonenumber----949-600-8092
+<br>ContactEmail----------pintarellis@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/steven-pintarelli/b/4aa/a58
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38320
+<br>ContactFirstName------Deb 
+<br>ContactMiddleName------
+<br>ContactLastName-------McDonald
+<br>ContactDescription----
+<br>ContactDesignation----D2349
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38253
+<br>ContactFirstName------Jessica
+<br>ContactMiddleName------
+<br>ContactLastName-------Jacobsen
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------beverage-industry-jessica-jacobsen.jpg
+<br>ContactPhonenumber----847-405-4118
+<br>ContactEmail----------jacobsenj@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------Marquette University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jessica-jacobsen/11/99a/331
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38255
+<br>ContactFirstName------Barbara
+<br>ContactMiddleName------
+<br>ContactLastName-------Harfmann
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------beverage-industry-barbara-harfmann.jpg
+<br>ContactPhonenumber----847-405-4040
+<br>ContactEmail----------harfmannb@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------Illinois State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/barbaraharfmann
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38271
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------Del
+<br>ContactLastName-------Buono
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------beverage-industry-amanda-buono.jpg
+<br>ContactPhonenumber----847-405-4099
+<br>ContactEmail----------delbuonoa@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/amandadelbuono
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36046
+<br>ContactFirstName------John
+<br>ContactMiddleName------R
+<br>ContactLastName-------Schrei
+<br>ContactDescription----
+<br>ContactDesignation----D4654
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38275
+<br>ContactFirstName------Dana 
+<br>ContactMiddleName------
+<br>ContactLastName-------Knapp
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------knappd@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38253
+<br>ContactFirstName------Joanna
+<br>ContactMiddleName------
+<br>ContactLastName-------Masterson
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------abc-construction executive-joanna-masterson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------masterson@abc.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36048
+<br>ContactFirstName------Vincent 
+<br>ContactMiddleName------M
+<br>ContactLastName-------Miconi
+<br>ContactDescription----
+<br>ContactDesignation----D313
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38317
+<br>ContactFirstName------John
+<br>ContactMiddleName------R
+<br>ContactLastName-------Schrei
+<br>ContactDescription----
+<br>ContactDesignation----D4666
+<br>ContactPhoto----------beverage-industry-john-schrei.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/johnschrei
+<br>ContactTwitter--------https://twitter.com/jrschrei
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C36048
+<br>ContactFirstName------Tracee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Doran
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38279
+<br>ContactFirstName------Margaret 
+<br>ContactMiddleName------
+<br>ContactLastName-------Whalen
+<br>ContactDescription----
+<br>ContactDesignation----D5130
+<br>ContactPhoto----------
+<br>ContactPhonenumber----847-405-4071
+<br>ContactEmail----------whalenm@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38282
+<br>ContactFirstName------Jill  
+<br>ContactMiddleName------L
+<br>ContactLastName-------DeVries
+<br>ContactDescription----
+<br>ContactDesignation----D4652
+<br>ContactPhoto----------
+<br>ContactPhonenumber----248-244-1726
+<br>ContactEmail----------devriesj@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------Michigan Tech University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jill-devries/8/368/29b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38285
+<br>ContactFirstName------Ann 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kalb
+<br>ContactDescription----
+<br>ContactDesignation----D4665
+<br>ContactPhoto----------
+<br>ContactPhonenumber----248-244-6499
+<br>ContactEmail----------kalbr@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38291
+<br>ContactFirstName------Kevin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Collopy
+<br>ContactDescription----
+<br>ContactDesignation----D2540
+<br>ContactPhoto----------
+<br>ContactPhonenumber----402-836-6265
+<br>ContactEmail----------kevin.collopy@infogroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38293
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Costantino 
+<br>ContactDescription----
+<br>ContactDesignation----D2540
+<br>ContactPhoto----------
+<br>ContactPhonenumber----402-836-6266
+<br>ContactEmail----------michael.costantino@infogroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36049
+<br>ContactFirstName------Rita
+<br>ContactMiddleName------ M
+<br>ContactLastName-------Foumia
+<br>ContactDescription----
+<br>ContactDesignation----D4636
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38298
+<br>ContactFirstName------Bruce
+<br>ContactMiddleName------
+<br>ContactLastName-------Klion
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------beverage-industry-bruce-klion.jpg
+<br>ContactPhonenumber----248-786-1716
+<br>ContactEmail----------klionb@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/bruceklion
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O5901
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38279
+<br>ContactId-------------C38302
+<br>ContactFirstName------Joseph 
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactMiddleName------
+<br>ContactLastName-------Garcia
+<br>ContactLastName-------Bachmann
+<br>ContactDescription----
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactDesignation----D5133
+<br>ContactPhoto----------
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736
+<br>ContactPhonenumber----248-786-1713
+<br>ContactEmail----------
+<br>ContactEmail----------bachmannt@bnpmedia.com
+<br>Alternative Email-----
+<br>Alternative Email-----
+<br>University------------
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38326
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Hucal
+<br>ContactDescription----
+<br>ContactDesignation----D4655
+<br>ContactPhoto----------beverage-industry-michelle-hucal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/hucalm
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38326
+<br>ContactFirstName------Marla
+<br>ContactMiddleName------
+<br>ContactLastName-------McIntyre
+<br>ContactDescription----
+<br>ContactDesignation----D5147
+<br>ContactPhoto----------abc-construction executive-marla-mcintyre.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmcintyre@magazinexperts.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38306
+<br>ContactFirstName------Catherine 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wynn
+<br>ContactDescription----
+<br>ContactDesignation----D5134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----847-405-4010
+<br>ContactEmail----------wynnc@bnpmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38306
+<br>ContactFirstName------Eva
+<br>ContactMiddleName------
+<br>ContactLastName-------Ahern
+<br>ContactDescription----
+<br>ContactDesignation----D5148
+<br>ContactPhoto----------moscow-pullman-daily news-eva-ahern.jpg
+<br>ContactPhonenumber----208-848-2205
+<br>ContactEmail----------eahern@lmtribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38321
+<br>ContactFirstName------Vincent 
+<br>ContactMiddleName------M
+<br>ContactLastName-------Miconi
+<br>ContactDescription----
+<br>ContactDesignation----D313
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38322
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------L
+<br>ContactLastName-------Paulus
+<br>ContactDescription----
+<br>ContactDesignation----D4480
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38335
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------T
+<br>ContactLastName-------Powell
+<br>ContactDescription----
+<br>ContactDesignation----D4656
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38339
+<br>ContactFirstName------Marlene 
+<br>ContactMiddleName------J
+<br>ContactLastName-------Witthoft
+<br>ContactDescription----
+<br>ContactDesignation----D221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38340
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Wolters
+<br>ContactDescription----
+<br>ContactDesignation----D4668
+<br>ContactPhoto----------beverage-industry-scott-wolters.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Central Michigan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/scott-wolters-cem/5/188/342
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38321
+<br>ContactFirstName------Ashley 
+<br>ContactMiddleName------
+<br>ContactLastName-------Slupe
+<br>ContactDescription----
+<br>ContactDesignation----D5149
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38344
+<br>ContactFirstName------Beth 
+<br>ContactMiddleName------A
+<br>ContactLastName-------Surowiec
+<br>ContactDescription----
+<br>ContactDesignation----D4670
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36053
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------ L
+<br>ContactLastName-------Paulus
+<br>ContactDescription----
+<br>ContactDesignation----D4480
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38346
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Krywko
+<br>ContactDescription----
+<br>ContactDesignation----D4671
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36055
+<br>ContactFirstName------Michelle 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hucal
+<br>ContactDescription----
+<br>ContactDesignation----D4655
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7564
+<br>ContactId-------------C38349
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36057
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------T
+<br>ContactLastName------- Powell
+<br>ContactDescription----
+<br>ContactDesignation----D4656
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36059
+<br>ContactFirstName------Nikki 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D4657
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36061
+<br>ContactFirstName------Marlene 
+<br>ContactMiddleName------J
+<br>ContactLastName-------Witthoft
+<br>ContactDescription----
+<br>ContactDesignation----D221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6867
+<br>ContactId-------------C36062
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wolters
+<br>ContactDescription----
+<br>ContactDesignation----D545
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5901
+<br>ContactId-------------C38344
+<br>ContactFirstName------Mellisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mahoney
+<br>ContactDescription----
+<br>ContactDesignation----D5149
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-944-0736
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38249
+<br>ContactFirstName------Jessica
+<br>ContactMiddleName------
+<br>ContactLastName-------Porter
+<br>ContactDescription----
+<br>ContactDesignation----D3453
+<br>ContactPhoto----------abc-construction executive-jessica-porter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jporter@magazinexperts.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38255
+<br>ContactFirstName------Lorrie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Allen
+<br>ContactDescription----
+<br>ContactDesignation----D5150
+<br>ContactPhoto----------
+<br>ContactPhonenumber----617-566-8277
+<br>ContactEmail----------lallen@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5060
+<br>ContactId-------------C38271
+<br>ContactFirstName------Mallory
+<br>ContactMiddleName------
+<br>ContactLastName-------Barker
+<br>ContactDescription----Mallory is currently a junior at Boise State studying English and Communications with a minor in Political Science. Mallory is the editor for the News section of The Arbiter. She is also the anchor for The Arbiter Minute.
+<br>ContactDesignation----D45
+<br>ContactPhoto----------bsu-arbiter (university)-mallory-barker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------https://www.facebook.com/mallory.barker.90
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5235
+<br>ContactId-------------C36046
+<br>ContactFirstName------Dori
+<br>ContactMiddleName------
+<br>ContactLastName-------Meinert
+<br>ContactDescription----
+<br>ContactDesignation----D5151
+<br>ContactPhoto----------hr-magazine-dori-meinert.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgetown University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/dorimeinert
+<br>ContactTwitter--------https://twitter.com/dorimeinert
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38275
+<br>ContactFirstName------Donald
+<br>ContactMiddleName------R.
+<br>ContactLastName-------Berry
+<br>ContactDescription----
+<br>ContactDesignation----D5152
+<br>ContactPhoto----------abc-construction executive-donald-berry.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dberry@constructionexec.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38317
+<br>ContactFirstName------Lee
+<br>ContactMiddleName------
+<br>ContactLastName-------Rozen
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------moscow-pullman-daily news-lee-rozen.jpg
+<br>ContactPhonenumber----208-883-4638
+<br>ContactEmail----------lrozen@dnews.com
+<br>Alternative Email-----
+<br>University------------University of Washington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/leerozen
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5690
+<br>ContactId-------------C38282
+<br>ContactFirstName------L. Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Bailey
+<br>ContactDescription----
+<br>ContactDesignation----D160
+<br>ContactPhoto----------automobile-quarterly magazine-l.-scott-bailey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7065
+<br>ContactId-------------C38285
+<br>ContactFirstName------Stephen
+<br>ContactMiddleName------B.
+<br>ContactLastName-------Donohue
+<br>ContactDescription----
+<br>ContactDesignation----D5152
+<br>ContactPhoto----------abc-construction executive-stephen-donohue.jpg
+<br>ContactPhonenumber----(973) 383-0888, ext. 2
+<br>ContactEmail----------sdonohue@constructionexec.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7066
+<br>ContactId-------------C38291
+<br>ContactFirstName------Gerald
+<br>ContactMiddleName------F.
+<br>ContactLastName-------Parrotto
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------abf-journal-gerald-parrotto.jpg
+<br>ContactPhonenumber----800-708-9373 x153 
+<br>ContactEmail----------jparrotto [at] abfjournal [dot] com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38293
+<br>ContactFirstName------Devin
+<br>ContactMiddleName------
+<br>ContactLastName-------Rokyta
+<br>ContactDescription----
+<br>ContactDesignation----D434
+<br>ContactPhoto----------moscow-pullman-daily news-devin-rokyta.jpg
+<br>ContactPhonenumber----208-883-4637
+<br>ContactEmail----------drokyta@dnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C36049
+<br>ContactFirstName------Kathi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Magee
+<br>ContactDescription----
+<br>ContactDesignation----D5068
+<br>ContactPhoto----------
+<br>ContactPhonenumber----414.897.0377
+<br>ContactEmail----------kmagee@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38298
+<br>ContactFirstName------Lane
+<br>ContactMiddleName------
+<br>ContactLastName-------Oliver
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------moscow-pullman-daily news-lane-oliver.jpg
+<br>ContactPhonenumber----208-883-4634
+<br>ContactEmail----------loliver@dnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5905
+<br>ContactId-------------C38302
+<br>ContactFirstName------DR. ROBERT
+<br>ContactMiddleName------
+<br>ContactLastName-------SINGER
+<br>ContactDescription----
+<br>ContactDesignation----D3844
+<br>ContactPhoto----------new-beauty magazine-dr.-robert-singer.jpg
+<br>ContactPhonenumber---- 561-961-7600
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/singersurgical
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C38335
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wittman
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------awittman@navyleague.org
+<br>Alternative Email-----
+<br>University------------Central College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/amy-wittman/9/51b/b27
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38339
+<br>ContactFirstName------Gloria 
+<br>ContactMiddleName------
+<br>ContactLastName-------Biscardi
+<br>ContactDescription----
+<br>ContactDesignation----D5153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310.356.2247
+<br>ContactEmail----------gbiscardi@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C38340
+<br>ContactFirstName------Peter
+<br>ContactMiddleName------
+<br>ContactLastName-------Atkinson
+<br>ContactDescription----
+<br>ContactDesignation----D44
+<br>ContactPhoto----------sea-power-peter-atkinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------patkinson@navyleague.org
+<br>Alternative Email-----
+<br>University------------University of Hartford
+<br>ContactFacebook-------https://www.facebook.com/SeapowerMagazine/posts/1017839121568371
+<br>ContactLinkedin-------https://www.linkedin.com/pub/peter-atkinson/a7/23/5bb
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C36053
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------McKee
+<br>ContactDescription----
+<br>ContactDesignation----D282
+<br>ContactPhoto----------moscow-pullman-daily news-bill-mckee.jpg
+<br>ContactPhonenumber---- 208-883-4627
+<br>ContactEmail----------wmckee@dnews.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://murrowsymposium.wsu.edu/index/mckee.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6007
+<br>ContactId-------------C38346
+<br>ContactFirstName------Brian T.
+<br>ContactMiddleName------
+<br>ContactLastName-------Clark
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----770-428-9411
+<br>ContactEmail----------bclark@neighbornewspapers.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7630
+<br>ContactId-------------C36055
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Schuman
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----317-264-3792
+<br>ContactEmail----------tschuman@indianachamber.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7066
+<br>ContactId-------------C38349
+<br>ContactFirstName------Rita
+<br>ContactMiddleName------
+<br>ContactLastName-------Garwood
+<br>ContactDescription----
+<br>ContactDesignation----D3051
+<br>ContactPhoto----------abf-journal-rita-garwood.jpg
+<br>ContactPhonenumber----800-708-9373 x116 
+<br>ContactEmail---------- rgarwood [at] abfjournal [dot] com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7066
+<br>ContactId-------------C36057
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------
+<br>ContactLastName-------Battista
+<br>ContactDescription----
+<br>ContactDesignation----D1793
+<br>ContactPhoto----------abf-journal-frank-battista.jpg
+<br>ContactPhonenumber----800-708-9373 x120 
+<br>ContactEmail----------fbattista [at] abfjournal [dot] com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C36059
+<br>ContactFirstName------Tanya 
+<br>ContactMiddleName------
+<br>ContactLastName-------Scribner
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------
+<br>ContactPhonenumber----940-387-7711
+<br>ContactEmail----------tanya@scribmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7427
+<br>ContactId-------------C36061
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Doyle
+<br>ContactDescription----
+<br>ContactDesignation----D125
+<br>ContactPhoto----------autobody-news - southwestern edition-bill-doyle.jpg
+<br>ContactPhonenumber---- 800-699-8251
+<br>ContactEmail----------bdoyle@autobodynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C36062
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burgess
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rburgess@navyleague.org
+<br>Alternative Email-----
+<br>University------------Defense Intelligence College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/richard-burgess/15/229/311
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5905
+<br>ContactId-------------C38374
+<br>ContactFirstName------DR.Tina
+<br>ContactMiddleName------
+<br>ContactLastName-------Alster
+<br>ContactDescription----Dr.Tina Alster is the founding director of the Washington Institute of Dermatologic Laser Surgery and is a clinical professor at Georgetown University Medical Center in Washington DC. She received her B.S. and M.D. degrees with highest honors from Duke University and post-graduate training at Yale University. Widely regarded as the “Queen of Laser” because of her many innovations and developments in the field of cosmetic dermatology Dr. Alster has lectured and received numerous awards from medical societies worldwide. She has published several textbooks and hundreds of articles in medical journals about the latest skin rejuvenation techniques.
+
+Having served as the consulting dermatologist to Lancôme Clarisonic and multiple other cosmetic and laser companies Dr. Alster has influenced new product development and industry direction. This combination of extensive clinical and research experience along with over two decades in dermatologic practice make her uniquely qualified to customize skin care regimens for a wide range of ages and skin types. She has received many honors including listings in America’s Best Doctors Town & Country’s Best Cosmetic SurgeonsAmerica’s Elite 1000 Allure’s Influencer of the Year and Washingtonian’s Best Doctors and has been featured on Oprah Today CNN The Daily Show with Jon Stewart 20/20 and Discovery Channel.
+<br>ContactDesignation----D5154
+<br>ContactPhoto----------new-beauty magazine-dr.tina-alster.jpg
+<br>ContactPhonenumber---- 202-628-8855 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Duke University School of Medicine
+<br>ContactFacebook-------https://www.facebook.com/tina.alster.5
+<br>ContactLinkedin-------https://www.linkedin.com/pub/tina-alster/8/631/23b
+<br>ContactTwitter--------https://twitter.com/drtinaalster
+<br>ContactURL------------http://www.skinlaser.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38375
+<br>ContactFirstName------Anthony
+<br>ContactMiddleName------
+<br>ContactLastName-------Kuipers
+<br>ContactDescription----
+<br>ContactDesignation----D424
+<br>ContactPhoto----------moscow-pullman-daily news-anthony-kuipers.jpg
+<br>ContactPhonenumber----208-883-4640
+<br>ContactEmail----------akuipers@dnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7630
+<br>ContactId-------------C38376
+<br>ContactFirstName------Tony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spataro
+<br>ContactDescription----
+<br>ContactDesignation----D5155
+<br>ContactPhoto----------
+<br>ContactPhonenumber----317-264-6861
+<br>ContactEmail----------tspataro@indianachamber.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38377
+<br>ContactFirstName------Shanon
+<br>ContactMiddleName------
+<br>ContactLastName-------Quinn
+<br>ContactDescription----
+<br>ContactDesignation----D304
+<br>ContactPhoto----------moscow-pullman-daily news-shanon-quinn.jpg
+<br>ContactPhonenumber----208-883-4636
+<br>ContactEmail----------squinn@dnews.com
+<br>Alternative Email-----
+<br>University------------University of Idaho
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/shanon-quinn/ab/905/a90
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C38378
+<br>ContactFirstName------Kerri
+<br>ContactMiddleName------
+<br>ContactLastName-------Carpenter
+<br>ContactDescription----
+<br>ContactDesignation----D2156
+<br>ContactPhoto----------sea-power-kerri-carpenter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kcarpenter@navyleague.org
+<br>Alternative Email-----
+<br>University------------Georgetown University
+<br>ContactFacebook-------https://www.facebook.com/authorkerri
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kerri-carpenter/7/153/63a
+<br>ContactTwitter--------https://twitter.com/authorkerri
+<br>ContactURL------------http://www.kerricarpenter.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C38379
+<br>ContactFirstName------Charlie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hull
+<br>ContactDescription----
+<br>ContactDesignation----D4602
+<br>ContactPhoto----------
+<br>ContactPhonenumber----301-987-0632
+<br>ContactEmail----------charlesahullbus@msn.com
+<br>Alternative Email-----
+<br>University------------University of Maryland College Park
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/charlie-hull/1b/b91/b60
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7066
+<br>ContactId-------------C38380
+<br>ContactFirstName------Patty
+<br>ContactMiddleName------
+<br>ContactLastName-------McDevitt
+<br>ContactDescription----
+<br>ContactDesignation----D641
+<br>ContactPhoto----------abf-journal-patty-mcdevitt,.jpg
+<br>ContactPhonenumber----800-708-9373 x144 
+<br>ContactEmail----------pmcdevitt [at] abfjournal [dot] com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38381
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------
+<br>ContactLastName-------Brahim
+<br>ContactDescription----
+<br>ContactDesignation----D2681
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310-356-2272
+<br>ContactEmail----------mbrahim@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38382
+<br>ContactFirstName------Joshua
+<br>ContactMiddleName------
+<br>ContactLastName-------Babcock
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------moscow-pullman-daily news-joshua-babcock.jpg
+<br>ContactPhonenumber----208-883-4630
+<br>ContactEmail----------jbabcock@dnews.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O7427
+<br>ContactId-------------
+<br>ContactFirstName------Sean
+<br>ContactMiddleName------
+<br>ContactLastName-------Hartman
+<br>ContactDescription----
+<br>ContactDesignation----D125
+<br>ContactPhoto----------autobody-news - southwestern edition-sean-hartman.jpg
+<br>ContactPhonenumber----800-699-8251
+<br>ContactEmail----------shartman@autobodynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5237
+<br>ContactId-------------C38383
+<br>ContactFirstName------Tony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kingham
+<br>ContactDescription----
+<br>ContactDesignation----D82
+<br>ContactPhoto----------
+<br>ContactPhonenumber----+44 (0) 20 8144 5934
+<br>ContactEmail----------tony.kingham@worldsecurity-index.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7389
+<br>ContactId-------------C38384
+<br>ContactFirstName------Duane
+<br>ContactMiddleName------
+<br>ContactLastName-------Torrence
+<br>ContactDescription----
+<br>ContactDesignation----D82
+<br>ContactPhoto----------
+<br>ContactPhonenumber----770.587.0501 ext. 201
+<br>ContactEmail----------dtorrence@atlantatribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/sant-perez/8/3b9/b76
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6007
+<br>ContactId-------------C38385
+<br>ContactFirstName------ Everett 
+<br>ContactMiddleName------
+<br>ContactLastName-------Catts
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----404 256-3100
+<br>ContactEmail----------nside@neighbornewspapers.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38386
+<br>ContactFirstName------Mary 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brahim
+<br>ContactDescription----
+<br>ContactDesignation----D145
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310-356-2272
+<br>ContactEmail----------mbrahim@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6007
+<br>ContactId-------------C38387
+<br>ContactFirstName------ Stephanie 
+<br>ContactMiddleName------
+<br>ContactLastName-------DeJarnette
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------
+<br>ContactPhonenumber----404 256-3100
+<br>ContactEmail----------
+<br>Alternative Email-----paulding@neighbornewspapers.com
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7066
+<br>ContactId-------------C38388
+<br>ContactFirstName------Terry
+<br>ContactMiddleName------
+<br>ContactLastName-------Mulreany
+<br>ContactDescription----
+<br>ContactDesignation----D109
+<br>ContactPhoto----------abf-journal-terry-mulreany.jpg
+<br>ContactPhonenumber----800-456-2570 
+<br>ContactEmail----------tmulreany [at] abfjournal [dot] com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38389
+<br>ContactFirstName------Terri
+<br>ContactMiddleName------
+<br>ContactLastName-------Harber
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------moscow-pullman-daily news-terri-harber.jpg
+<br>ContactPhonenumber----208-883-4631
+<br>ContactEmail----------tharber@dnews.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7630
+<br>ContactId-------------C38390
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Brewer
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------bizvoice-tim-brewer.jpg
+<br>ContactPhonenumber----317-496-0704
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Purdue University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/timbrewerindiana
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6007
+<br>ContactId-------------C38391
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spigolon
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----770 445-9401
+<br>ContactEmail----------paulding@neighbornewspapers.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38392
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Cioletti
+<br>ContactDescription----
+<br>ContactDesignation----D2154
+<br>ContactPhoto----------beverage-world-jeff-cioletti.jpg
+<br>ContactPhonenumber----201.448.7719
+<br>ContactEmail----------jcioletti@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jeff-cioletti/0/941/193
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5782
+<br>ContactId-------------C38393
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Suss
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------red-and black (university)-nick-suss.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/nick-suss/7a/80a/389
+<br>ContactTwitter--------https://twitter.com/nicksuss
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38394
+<br>ContactFirstName------Samantha
+<br>ContactMiddleName------
+<br>ContactLastName-------Malott
+<br>ContactDescription----
+<br>ContactDesignation----D5156
+<br>ContactPhoto----------moscow-pullman-daily news-samantha-malott.jpg
+<br>ContactPhonenumber----208-883-4631
+<br>ContactEmail----------smalott@dnews.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/samantha-malott/5a/4b0/4b7
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38395
+<br>ContactFirstName------Haley
+<br>ContactMiddleName------
+<br>ContactLastName-------Brockmeier
+<br>ContactDescription----
+<br>ContactDesignation----D523
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------hbrockmeier@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38396
+<br>ContactFirstName------Tonia
+<br>ContactMiddleName------
+<br>ContactLastName-------Sheridan
+<br>ContactDescription----
+<br>ContactDesignation----D5157
+<br>ContactPhoto----------atlantic-business-tonia-sheridan.jpg
+<br>ContactPhonenumber----709 726.9300 ext. 223
+<br>ContactEmail----------tsheridan [at] atlanticbusinessmagazine.com
+<br>Alternative Email-----
+<br>University------------Memorial University of Newfoundland
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://in.linkedin.com/pub/tonia-sheridan/13/a11/8b9
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38397
+<br>ContactFirstName------Dominique
+<br>ContactMiddleName------
+<br>ContactLastName-------Wald
+<br>ContactDescription----
+<br>ContactDesignation----D424
+<br>ContactPhoto----------moscow-pullman-daily news-dominique-wald.jpg
+<br>ContactPhonenumber----208-883-4628
+<br>ContactEmail----------dwald@dnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38398
+<br>ContactFirstName------Grace
+<br>ContactMiddleName------
+<br>ContactLastName-------Alberto
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------beverage-world-grace-alberto.jpg
+<br>ContactPhonenumber----646.274.3652
+<br>ContactEmail----------galberto@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/grace-alberto/3b/277/a66
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7427
+<br>ContactId-------------C38399
+<br>ContactFirstName------Rodolfo
+<br>ContactMiddleName------
+<br>ContactLastName-------Garcia
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------autobody-news - southwestern edition-rodolfo-garcia.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rgarcia@autobodynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5782
+<br>ContactId-------------C38400
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Funke
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------red-and black (university)-daniel-funke.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/dpfunke
+<br>ContactTwitter--------https://twitter.com/dpfunke
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38401
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------
+<br>ContactLastName-------Resky
+<br>ContactDescription----
+<br>ContactDesignation----D250
+<br>ContactPhoto----------atlantic-business-sharon-resky.jpg
+<br>ContactPhonenumber----902-421-3037
+<br>ContactEmail----------sresky [at] atlanticbusinessmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------https://www.facebook.com/sharon.resky
+<br>ContactLinkedin-------http://in.linkedin.com/pub/sharon-resky/13/a07/91a
+<br>ContactTwitter--------https://twitter.com/sresky
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38402
+<br>ContactFirstName------Linda
+<br>ContactMiddleName------
+<br>ContactLastName-------Bidgood
+<br>ContactDescription----
+<br>ContactDesignation----D250
+<br>ContactPhoto----------atlantic-business-linda-bidgood.jpg
+<br>ContactPhonenumber----709-726-9300 ext. 222
+<br>ContactEmail----------lbidgood [at] atlanticbusinessmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://ca.linkedin.com/pub/linda-bidgood/4a/180/8a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7901
+<br>ContactId-------------C38403
+<br>ContactFirstName------Sheena
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilkie
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------canadian-camera-sheena-wilkie.jpg
+<br>ContactPhonenumber---- 604-591-7770 
+<br>ContactEmail----------editor-in-chief@capacanada.ca
+<br>Alternative Email-----sheena@sheena.ca
+<br>University------------
+<br>ContactFacebook-------https://www.facebook.com/SheenaWilkiePhotography
+<br>ContactLinkedin-------https://ca.linkedin.com/pub/sheena-wilkie/12/260/303
+<br>ContactTwitter--------https://twitter.com/sheena_wilkie
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38404
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Francella
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------beverage-world-kevin-francella.jpg
+<br>ContactPhonenumber----914.813.3165
+<br>ContactEmail----------kfrancella@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/grace-alberto/3b/277/a66
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38405
+<br>ContactFirstName------Caitie
+<br>ContactMiddleName------
+<br>ContactLastName-------Hites
+<br>ContactDescription----
+<br>ContactDesignation----D1082
+<br>ContactPhoto----------moscow-pullman-daily news-caitie-hites.jpg
+<br>ContactPhonenumber----208-883-4632
+<br>ContactEmail----------briefs@dnews.com 
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7630
+<br>ContactId-------------C38406
+<br>ContactFirstName------Symone 
+<br>ContactMiddleName------
+<br>ContactLastName-------Skrzycki
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------
+<br>ContactPhonenumber----317-264-3129
+<br>ContactEmail----------sskrzycki@indianachamber.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38407
+<br>ContactFirstName------Dawn
+<br>ContactMiddleName------
+<br>ContactLastName-------Chafe
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------atlantic-business-dawn-chafe.jpg
+<br>ContactPhonenumber----709-726-9300 ext. 224
+<br>ContactEmail----------dchafe [at] atlanticbusinessmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://in.linkedin.com/pub/dawn-chafe/1/766/7a6
+<br>ContactTwitter--------https://twitter.com/abm_editor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38404
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Francella
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------beverage-world-kevin-francella.jpg
+<br>ContactPhonenumber----914.813.3165
+<br>ContactEmail----------kfrancella@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38404
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Francella
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------beverage-world-kevin-francella.jpg
+<br>ContactPhonenumber----914.813.3165
+<br>ContactEmail----------kfrancella@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38392
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Cioletti
+<br>ContactDescription----
+<br>ContactDesignation----D2154
+<br>ContactPhoto----------beverage-world-jeff-cioletti.jpg
+<br>ContactPhonenumber----201.448.7719
+<br>ContactEmail----------jcioletti@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jeff-cioletti/0/941/193
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38398
+<br>ContactFirstName------Grace
+<br>ContactMiddleName------
+<br>ContactLastName-------Alberto
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------beverage-world-grace-alberto.jpg
+<br>ContactPhonenumber----646.274.3652
+<br>ContactEmail----------galberto@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/grace-alberto/3b/277/a66
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38404
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Francella
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------beverage-world-kevin-francella.jpg
+<br>ContactPhonenumber----914.813.3165
+<br>ContactEmail----------kfrancella@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7709
+<br>ContactId-------------C38404
+<br>ContactFirstName------James 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cook
+<br>ContactDescription----
+<br>ContactDesignation----D2707
+<br>ContactPhoto----------
+<br>ContactPhonenumber----(416)510-6871
+<br>ContactEmail----------jcook@broadcastermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://ca.linkedin.com/pub/james-cook/22/53a/1a6
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5060
+<br>ContactId-------------C38392
+<br>ContactFirstName------Ryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Thorne
+<br>ContactDescription----
+<br>ContactDesignation----D5158
+<br>ContactPhoto----------bsu-arbiter (university)-ryan-thorne.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Boise State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/thorneryan
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6193
+<br>ContactId-------------C38398
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Robles
+<br>ContactDescription----
+<br>ContactDesignation----D5158
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jrobles@aimmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38408
+<br>ContactFirstName------Darren
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------atlantic-business-darren-campbell.jpg
+<br>ContactPhonenumber----902-535-3372
+<br>ContactEmail----------dcampbell [at] naturalresourcesmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/nrm_editor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7070
+<br>ContactId-------------C38409
+<br>ContactFirstName------Kristina
+<br>ContactMiddleName------
+<br>ContactLastName-------Monllos
+<br>ContactDescription----Euromoney Institutional Investor Gothamist.com Manhattan Media
+
+<br>ContactDesignation----D405
+<br>ContactPhoto----------absolute-return-kristina-monllos.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------New School Universit
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38410
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------Shawn
+<br>ContactLastName-------Dugar
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------moscow-pullman-daily news-michael-dugar.jpg
+<br>ContactPhonenumber----208-883-4629
+<br>ContactEmail----------mdugar@dnews.com
+<br>Alternative Email-----
+<br>University------------Washington State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/michael-shawn-dugar/80/381/9b1
+<br>ContactTwitter--------https://twitter.com/mikedugar
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5905
+<br>ContactId-------------C38411
+<br>ContactFirstName------Thomas j.
+<br>ContactMiddleName------
+<br>ContactLastName-------Balshi
+<br>ContactDescription----Over 30 years of advanced Prosthodontic treatment for patients with severe oral debilitation.
+Continued implant prosthodontic research and teaching at THE INSTITUTE FOR FACIAL ESTHETICS Fort Washington PA.
+
+Specialties: Immediate loading and function of dental implants using the original protocol for TEETH IN A DAY and for TEETH IN AN HOUR in addition to NO BONE SOLUTION for the treatment of the severely atrophic maxilla. No bone grafting required. Consultant and teacher for AvaDent digital dentures.
+<br>ContactDesignation----D5159
+<br>ContactPhoto----------new-beauty magazine-thomas-j.-balshi.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ Cabrini College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/thomas-balshi/10/719/61
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7568
+<br>ContactId-------------C38412
+<br>ContactFirstName------Kevin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Francella
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----914.813.3165
+<br>ContactEmail----------kfrancella@beverageworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38413
+<br>ContactFirstName------Stephen
+<br>ContactMiddleName------
+<br>ContactLastName-------Kimber
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------atlantic-business-stephen-kimber.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------skimber [at] atlanticbusinessmagazine.com
+<br>Alternative Email-----
+<br>University------------Goucher College
+<br>ContactFacebook-------https://www.facebook.com/StephenKimberWriter
+<br>ContactLinkedin-------https://ca.linkedin.com/pub/stephen-kimber/19/860/5a
+<br>ContactTwitter--------https://twitter.com/skimber
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5782
+<br>ContactId-------------C38414
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Donald
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------red-and black (university)-lauren-donald.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/laurenmcdonald2
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7427
+<br>ContactId-------------C38415
+<br>ContactFirstName------Louise
+<br>ContactMiddleName------
+<br>ContactLastName-------Tedesco
+<br>ContactDescription----
+<br>ContactDesignation----D5160
+<br>ContactPhoto----------autobody-news - southwestern edition-louise-tedesco.jpg
+<br>ContactPhonenumber----800-699-8251
+<br>ContactEmail----------ltedesco@autobodynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7070
+<br>ContactId-------------C38416
+<br>ContactFirstName------Jamie
+<br>ContactMiddleName------Wynn-
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D2552
+<br>ContactPhoto----------absolute-return-jamie-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harrow School, Oxford Brookes University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jamie-wynn-williams/13/106/b85?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7070
+<br>ContactId-------------C38417
+<br>ContactFirstName------Wilhelm
+<br>ContactMiddleName------
+<br>ContactLastName-------Sissener
+<br>ContactDescription----Banque Pictet & Cie SA Union Bancaire Privée SA Agence économique et financière (Suisse) S.A.
+<br>ContactDesignation----D4
+<br>ContactPhoto----------absolute-return-wilhelm-sissener.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/wilhelm-sissener-cfa/0/672/621?trk=seokp-title_posts_secondary_cluster_res_author_name
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7801
+<br>ContactId-------------C38418
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Campiti
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------business-west-kate-campiti.jpg
+<br>ContactPhonenumber----(413) 781-8600
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------UMass Amherst
+<br>ContactFacebook-------https://www.facebook.com/profile.php?id=1087363948&sk=about
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kate-campiti/3/111/408
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5699
+<br>ContactId-------------C38419
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Hager
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------moscow-pullman-daily news-tom-hager.jpg
+<br>ContactPhonenumber----208-883-4633
+<br>ContactEmail----------thager@dnews.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/tom-hager/27/84b/236
+<br>ContactTwitter--------https://twitter.com/thager1918
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5905
+<br>ContactId-------------C38420
+<br>ContactFirstName------Kenneth R
+<br>ContactMiddleName------
+<br>ContactLastName-------Beer
+<br>ContactDescription----
+<br>ContactDesignation----D5154
+<br>ContactPhoto----------new-beauty magazine-kenneth-r-beer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Chicago
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/kenneth-beer-md/13/445/972
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7391
+<br>ContactId-------------C38421
+<br>ContactFirstName------Alec
+<br>ContactMiddleName------
+<br>ContactLastName-------Bruce
+<br>ContactDescription----Atlantic Business Magazine Contributing Editor Alec Bruce is one of Atlantic Canada’s most-read most-esteemed journalists. He’s held staff positions at the Globe and Mail (national city and business sections) Report on Business magazine the Financial Times of Canada Commercial News magazine and the Moncton Times & Transcript. Alec won the Gold award for "Best Regular Column" at the 2011 Tabbies International Editorial & Design Awards and Gold awards for “Best Commentary” and “Best Magazine Article” at the 2010 Atlantic Journalism Awards. Past awards include: (2010) Gold "Regular Column" category Tabbies; (2008) Gold "Commentary" category AJAs; (2006) Gold "Commentary" category AJAs; (2009) two Silvers in the "Magazine Article" and "Business Reporting" categories AJAs; (2007) two Silvers “Magazine Article” category AJAs; (2009) Top-Ten Honourable Mention for “Feature Writing” Tabbies; (2006) Top-Ten finalist Kenneth R. Wilson National Business Writing Awards. Alec writes for newspapers magazines and online publications in Canada the United States and Europe.
+<br>ContactDesignation----D13
+<br>ContactPhoto----------atlantic-business-alec-bruce.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.facebook.com/alec.bruce.524
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7427
+<br>ContactId-------------C38422
+<br>ContactFirstName------Annebritt
+<br>ContactMiddleName------
+<br>ContactLastName-------Makkebaken
+<br>ContactDescription----
+<br>ContactDesignation----D5161
+<br>ContactPhoto----------autobody-news - southwestern edition-annebritt-makkebaken.jpg
+<br>ContactPhonenumber----800-699-8251
+<br>ContactEmail----------ap@autobodynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

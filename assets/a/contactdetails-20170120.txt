@@ -1,0 +1,141 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------C48951
+<br>ContactFirstName------Cliff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Passino
+<br>ContactDescription----
+<br>ContactDesignation----D7419
+<br>ContactPhoto----------
+<br>ContactPhonenumber----802.365.7335
+<br>ContactEmail----------cpassino@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------
+<br>ContactFirstName------Cliff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Passino
+<br>ContactDescription----
+<br>ContactDesignation----D7419
+<br>ContactPhoto----------
+<br>ContactPhonenumber----802.365.7335
+<br>ContactEmail----------cpassino@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------C48951
+<br>ContactFirstName------Cliff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Passino
+<br>ContactDescription----
+<br>ContactDesignation----D7419
+<br>ContactPhoto----------
+<br>ContactPhonenumber----802.365.7335
+<br>ContactEmail----------cpassino@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------C48952
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Lowes
+<br>ContactDescription----
+<br>ContactDesignation----D7859
+<br>ContactPhoto----------hoistein-world-jim-lowes.jpg
+<br>ContactPhonenumber---- 949.363.3262
+<br>ContactEmail----------jlowes@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------C48953
+<br>ContactFirstName------Carol 
+<br>ContactMiddleName------
+<br>ContactLastName------- Moyer
+<br>ContactDescription----
+<br>ContactDesignation----D7860
+<br>ContactPhoto----------
+<br>ContactPhonenumber---- 315.703.7979 
+<br>ContactEmail---------- cmoyer@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------C48954
+<br>ContactFirstName------Debbie 
+<br>ContactMiddleName------
+<br>ContactLastName------- Morneau
+<br>ContactDescription----
+<br>ContactDesignation----D7861
+<br>ContactPhoto----------
+<br>ContactPhonenumber---- 315.341.4041 
+<br>ContactEmail----------  dmorneau@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O10001
+<br>ContactId-------------
+<br>ContactFirstName------Debbie 
+<br>ContactMiddleName------
+<br>ContactLastName------- Morneau
+<br>ContactDescription----
+<br>ContactDesignation----D7861
+<br>ContactPhoto----------
+<br>ContactPhonenumber---- 315.341.4041 
+<br>ContactEmail----------  dmorneau@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

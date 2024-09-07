@@ -1,0 +1,2952 @@
+************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46270
+<br>ContactFirstName------Lewis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Affetto
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46271
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Basile
+<br>ContactDescription----
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Illinois at Urbana-Champaign
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/paul-basile/7/310/96a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46272
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Hertel
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------control-brian-hertel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bhertel@putman.net
+<br>Alternative Email-----
+<br>University------------Illinois Institute of Art
+<br>ContactFacebook-------https://www.facebook.com/bhertel1
+<br>ContactLinkedin-------https://www.linkedin.com/pub/brian-hertel/14/34a/976
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46273
+<br>ContactFirstName------Anthony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fornelli
+<br>ContactDescription----
+<br>ContactDesignation----D3538
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46274
+<br>ContactFirstName------Carol 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gentile
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46275
+<br>ContactFirstName------Nicholas
+<br>ContactMiddleName------S
+<br>ContactLastName-------Giuliano
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46276
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mazzolin&#8232;
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46277
+<br>ContactFirstName------Anthony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spina
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7967
+<br>ContactId-------------C46278
+<br>ContactFirstName------Senatore 
+<br>ContactMiddleName------Renato 
+<br>ContactLastName-------Turano
+<br>ContactDescription----
+<br>ContactDesignation----D7218
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46279
+<br>ContactFirstName------Keith
+<br>ContactMiddleName------
+<br>ContactLastName-------Larson
+<br>ContactDescription----Keith Larson is group publisher responsible for Putman Media\'s manufacturing automation titles Control Control Design and Industrial Networking. Corporately he also as serves vice president of content across Putman Media\'s other magazine titles. He holds a BS degree in chemical engineering from the University of Illinois-Urbana and worked as a research engineer for Amoco Chemicals before joining Putman. He holds several U.S. and international patents and led the Putman editorial team that in 1997 received the prestigious Jesse H. Neal award for editorial excellence from the American Business Press the highest journalism award given by the business-to-business press community.
+<br>ContactDesignation----D7219
+<br>ContactPhoto----------control-keith-larson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Klarson@putman.net
+<br>Alternative Email-----
+<br>University------------University of Illinois at Urbana-Champaign
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/keithdlarson
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46280
+<br>ContactFirstName------Dr
+<br>ContactMiddleName------Jeffrey
+<br>ContactLastName-------Millard
+<br>ContactDescription----
+<br>ContactDesignation----D7220
+<br>ContactPhoto----------contract-pharma-dr-millard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8718
+<br>ContactId-------------C46281
+<br>ContactFirstName------Kate 
+<br>ContactMiddleName------
+<br>ContactLastName-------Schott
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-280-4119
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46282
+<br>ContactFirstName------Joe 
+<br>ContactMiddleName------
+<br>ContactLastName-------Terrett
+<br>ContactDescription----
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-442-5600 x 3219
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46283
+<br>ContactFirstName------Richard
+<br>ContactMiddleName------V
+<br>ContactLastName-------Myer
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------contract-pharma-richard-myer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8718
+<br>ContactId-------------C46284
+<br>ContactFirstName------Christina 
+<br>ContactMiddleName------Chapman-Van
+<br>ContactLastName-------Yperen
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-942-3221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46285
+<br>ContactFirstName------Sudha
+<br>ContactMiddleName------
+<br>ContactLastName-------Nair
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------contract-pharma-sudha-nair.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8718
+<br>ContactId-------------C46286
+<br>ContactFirstName------Steve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vanisko
+<br>ContactDescription----
+<br>ContactDesignation----D6943
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-280-4103
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46287
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Powell
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5145
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8718
+<br>ContactId-------------C46288
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Washburn
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-942-3221
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46289
+<br>ContactFirstName------Terence
+<br>ContactMiddleName------S
+<br>ContactLastName-------Novak
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------contract-pharma-terence-novak.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46290
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Studebaker
+<br>ContactDescription----Paul Studebaker joined Schaumburg Illinois-based Putman Media Inc. in 1993 and has held roles of progressively increasing editorial responsibility on Control Plant Services and Sustainable Plant magazines. Previously he worked 12 years in manufacturing specializing in materials development process engineering and process control. A Certified Maintenance and Reliability Professional (CMRP) he holds BS and MS degrees in Metallurgical Engineering from the University of Illinois at Urbana. Among his editorial awards is the prestigious Jesse H. Neal award for editorial excellence from American Business Media the highest journalist award given by the business-to-business press community.
+<br>ContactDesignation----D1
+<br>ContactPhoto----------control-paul-studebaker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pstudebaker@putman.net
+<br>Alternative Email-----
+<br>University------------University of Illinois at Urbana-Champaign
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/paul-studebaker/10/496/4a3
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46287
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Powell
+<br>ContactDescription----I am currently the associate editor for PLANT and PLANT West magazines a pair of business-to-business magazines that uncover Canada\'s best in the industrial manufacturing and energy sectors. 
+
+PLANT and PLANT West are published a combined 12 times annually and are accompanied by daily value-added online news content on www.plant.ca. which is powered by a Wordpress-based content management system. 
+
+I have experience developing and managing social media strategies for business and currently manage social media activities for PLANT and PLANT West. 
+
+A graduate of the University of Guelph-Humber Media Studies program I concentrated on print and online journalism and took a major interest in understanding and developing social media strategies. 
+
+My undergraduate thesis explored ways social media could monetize today\'s increasingly online music industry. I earned a grade of 90% for my research.
+
+I am a recently certified Social Media Strategist having completed the Social Media Strategist Certification program with the reputable online institution The Social Media Academy. My expertise extends into advanced Twitter Facebook LinkedIn and Business Blogging strategy development and execution and web-related revenue creation.
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5145
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Guelph-Humber
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/mattbpowell
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46291
+<br>ContactFirstName------Dilip
+<br>ContactMiddleName------M
+<br>ContactLastName-------Parikh
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------contract-pharma-dilip-parikh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46292
+<br>ContactFirstName------Kathy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-442-5600 x 3215
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46293
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Diogo
+<br>ContactDescription----Direct digital content product development marketing and revenue generation for Control (controlglobal.com) and Control Design (controldesign.com) the leading resources in the $50 billion process automation and industrial machine builder markets. Together these titles serve the information needs of the engineers and managers who make American manufacturing work.
+<br>ContactDesignation----D7221
+<br>ContactPhoto----------control-steve-diogo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sdiogo@putman.net
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/stevendiogo
+<br>ContactTwitter--------https://twitter.com/steve_diogo
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46294
+<br>ContactFirstName------Dr Enrico
+<br>ContactMiddleName------T
+<br>ContactLastName-------Polastro
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------contract-pharma-dr-enrico-polastro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46295
+<br>ContactFirstName------Barb
+<br>ContactMiddleName------
+<br>ContactLastName------- Vowles
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416- 442-5103
+<br>ContactEmail----------bvowles@bizinfogroup.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/barb-vowles/71/926/b00
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46282
+<br>ContactFirstName------Joe 
+<br>ContactMiddleName------
+<br>ContactLastName-------Terrett
+<br>ContactDescription----
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-442-5600 x 3219
+<br>ContactEmail----------jterrett@plant.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46287
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Powell
+<br>ContactDescription----I am currently the associate editor for PLANT and PLANT West magazines a pair of business-to-business magazines that uncover Canada\'s best in the industrial manufacturing and energy sectors. 
+
+PLANT and PLANT West are published a combined 12 times annually and are accompanied by daily value-added online news content on www.plant.ca. which is powered by a Wordpress-based content management system. 
+
+I have experience developing and managing social media strategies for business and currently manage social media activities for PLANT and PLANT West. 
+
+A graduate of the University of Guelph-Humber Media Studies program I concentrated on print and online journalism and took a major interest in understanding and developing social media strategies. 
+
+My undergraduate thesis explored ways social media could monetize today\'s increasingly online music industry. I earned a grade of 90% for my research.
+
+I am a recently certified Social Media Strategist having completed the Social Media Strategist Certification program with the reputable online institution The Social Media Academy. My expertise extends into advanced Twitter Facebook LinkedIn and Business Blogging strategy development and execution and web-related revenue creation.
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5145
+<br>ContactEmail----------mpowell@plant.ca
+<br>Alternative Email-----
+<br>University------------University of Guelph-Humber
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/mattbpowell
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46292
+<br>ContactFirstName------Kathy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-442-5600 x 3215
+<br>ContactEmail----------KSmith@plant.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46296
+<br>ContactFirstName------Jack
+<br>ContactMiddleName------
+<br>ContactLastName-------Regan
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------contract-pharma-jack-regan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46295
+<br>ContactFirstName------Barb
+<br>ContactMiddleName------
+<br>ContactLastName-------Vowles
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------canadian-industrial equipment news-barb-vowles.jpg
+<br>ContactPhonenumber----416- 442-5103
+<br>ContactEmail----------bvowles@bizinfogroup.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/barb-vowles/71/926/b00
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46297
+<br>ContactFirstName------Gerard
+<br>ContactMiddleName------
+<br>ContactLastName-------Downey
+<br>ContactDescription----Gerard Downey is a member of the Food Chemistry & Technology Department at the Ashtown Food Research Centre of Teagasc Ireland\'s Agriculture and Food Development Agency and holds the post of adjunct professor in the School of Agriculture Food and Veterinary Science at University College Dublin. He began research into applications of near infrared spectroscopy in grains 30 years ago and was part of a team responsible for the introduction of the technique into the Irish grain trade. He has extended his research efforts into the use of NIR spectroscopy for qualitative analysis of foodstuffs in general. His Ph.D. thesis was granted for work in the area of food authenticity and quality; in 2005 he was awarded a D.S. degree from Queen\'s University Belfast. He is currently editor of NIR news European editor of the Journal of Near Infrared Spectroscopy and a member of the editorial boards of Near Infrared Analysis (published by the Korean Society of Near Infrared Spectroscopy) and Sciences des Aliments. From 2001 to 2005 he was chair of the International Council of Near Infrared Spectroscopy and a project team supported by the International Union of Pure & Applied Chemistry (IUPAC) on global standards for spectroscopic and chemometric data exchange. With regard to AACC International he has served on the Membership Task Force Nominations Committee and Board of Directors.
+<br>ContactDesignation----D94
+<br>ContactPhoto----------cereal-foods world-gerard-downey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- gerard.downey@teagasc.ie
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46298
+<br>ContactFirstName------Ellen
+<br>ContactMiddleName------
+<br>ContactLastName-------March
+<br>ContactDescription----My mother and grandmother taught me to sew at the age of 8. I thank my lucky stars that they did because I never had an option to take a home-ec class in school. Sewing has been an important part of my life ever since. At age 16 I starred in the Franklin Clay Films educational feature Picking Your Pattern Fabric and Notions. Upon graduating from USC I started my own business selling clothing made from original patterns. When I was able to try an embroidery machine for the first time I was hooked! And now I sew embroider embellish create and write every day for Sew News Sew it All and Creative Machine Embroidery. I wouldn’t have it any other way.
+<br>ContactDesignation----D1
+<br>ContactPhoto----------creative-machine embroidery-ellen-march.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Southern California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/ellenmarch
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46299
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rakoff
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5216
+<br>ContactEmail----------drakoff@bizinfogroup.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46300
+<br>ContactFirstName------Sam
+<br>ContactMiddleName------
+<br>ContactLastName-------Ricchezza
+<br>ContactDescription----
+<br>ContactDesignation----D263
+<br>ContactPhoto----------contract-pharma-sam-ricchezza.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46301
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Herner
+<br>ContactDescription----
+<br>ContactDesignation----D7214
+<br>ContactPhoto----------control-steve-herner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------SHerner@putman.net
+<br>Alternative Email-----
+<br>University------------Western Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/stephen-herner/4/44b/a13
+<br>ContactTwitter--------https://twitter.com/holyhammerhern
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46302
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Vega
+<br>ContactDescription----
+Vega is a 25-year veteran of the Sports department. He has covered the Daytona and Indianapolis 500s Super Bowl World Series NBA Finals NHL Stanley Cup playoffs NCAA championships US Open and the Boston Marathon a course which he has driven but not yet run.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-michael-vega.jpg
+<br>ContactPhonenumber----617-929-2842
+<br>ContactEmail----------vega@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/mbvega
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46303
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName------- King
+<br>ContactDescription----
+<br>ContactDesignation----D3538
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5107
+<br>ContactEmail----------mking@plant.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46304
+<br>ContactFirstName------Fred
+<br>ContactMiddleName------
+<br>ContactLastName-------Schulze
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------contract-pharma-fred-schulze.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46305
+<br>ContactFirstName------Jan
+<br>ContactMiddleName------A.
+<br>ContactLastName-------Delcour
+<br>ContactDescription----Jan A. Delcour obtained his Ph.D. degree in applied biological sciences from KU Leuven Belgium where he is now full professor head of the Laboratory of Food Chemistry and Biochemistry and chair of the Leuven Food Science and Nutrition Research Centre (LFoRCe). He is a senior editor of Cereal Chemistry cofounder of Fugeia Nutrition Sciences and W.K. Kellogg Chair in Cereal Science and Nutrition at KU Leuven. He has published more than 400 peer-reviewed articles and is coeditor of Recent Advances in Enzymes in Grain Processing and along with R. Carl Hoseney author of Principles of Cereal Science and Technology third edition.
+<br>ContactDesignation----D7222
+<br>ContactPhoto----------cereal-foods world-jan-delcour.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jan.delcour@biw.kuleuven.be
+<br>Alternative Email-----
+<br>University------------ Katholieke Univ Leuven
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46306
+<br>ContactFirstName------Tim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dimopoulos
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------TDimopoulos@canadianmanufacturing.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46307
+<br>ContactFirstName------James
+<br>ContactMiddleName------R
+<br>ContactLastName-------Scull
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------contract-pharma-james-scull.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46308
+<br>ContactFirstName------Bela
+<br>ContactMiddleName------
+<br>ContactLastName-------Liptak
+<br>ContactDescription----Béla Lipták is a control consultant editor of the  Instrument Engineer&#146;s Handbook a former Chief Instrument Engineer of C&R (later John Brown) and former adjunct professor at Yale University
+<br>ContactDesignation----D7223
+<br>ContactPhoto----------control-bela-liptak.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------liptakbela@aol.com
+<br>Alternative Email-----
+<br>University------------Yale University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/b%C3%A9la-lipt%C3%A1k/15/845/24
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46309
+<br>ContactFirstName------Whitney 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carlson
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46310
+<br>ContactFirstName------Gary
+<br>ContactMiddleName------
+<br>ContactLastName-------Washburn
+<br>ContactDescription----Washburn is the national basketball writer and Celtics reporter at the Globe and a 20-year veteran of the journalism business. A UC Berkeley graduate Gary has covered a variety of sports topics. He is also the secretary for the NABJ Sports Task Force and former President of the Bay Area Baseball Writers Association.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-gary-washburn.jpg
+<br>ContactPhonenumber----617-929-2860
+<br>ContactEmail----------gwashburn@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46311
+<br>ContactFirstName------D
+<br>ContactMiddleName------
+<br>ContactLastName------- Rakoff
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-442-5600 x3551
+<br>ContactEmail----------DRakoff@bizinfogroup.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46312
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Stehn
+<br>ContactDescription----
+<br>ContactDesignation----D7224
+<br>ContactPhoto----------contract-pharma-daniel-stehn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46313
+<br>ContactFirstName------Lydia
+<br>ContactMiddleName------Tooker
+<br>ContactLastName-------Midness
+<br>ContactDescription----Lydia Tooker Midness director is vice president of the Center for Technology Creation at General Mills. Prior to assuming her current position she was vice president of research and development nutrition and regulatory for Cereal Partners Worldwide—a joint venture between Nestlé S.A. and General Mills Inc. headquartered in Lausanne Switzerland. Prior to that she held various positions of increasing responsibility at General Mills in product development regulatory quality and marketing. Tooker Midness is also a registered dietitian and previously held positions in nutritional patient care and food service at the St. Paul Ramsey Medical Center in St. Paul MN U.S.A. She earned her B.S. degree in nutrition and chemistry from the University of Wisconsin-Stout and her M.S. degree in food science from the University of Minnesota. She also completed a dietetic internship in the College of Medicine at the University of Iowa Hospitals and Clinics. She also holds two U.S. food design patents for cereal extrusion technology. She has been active in AACC Intl. since joining the organization in 1981. Previously she served as chair of the Corporate Development Committee newsletter editor for the Nutrition Division and the Northwest Section director of the short course on Allergens and chair of the Food Irradiation and Food Safety and Crisis Management Symposiums and various technical sessions at the annual meetings. She has also served on a variety of advisory committees to the board. She has been a strong supporter of the Student Division including the product development competition. Tooker Midness is also active in a number of professional and community-based organizations and is currently vice president of the European Breakfast Cereal Association (CEEREAL).
+<br>ContactDesignation----D2621
+<br>ContactPhoto----------cereal-foods world-lydia-midness.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- lydia.midness@genmills.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7968
+<br>ContactId-------------C46314
+<br>ContactFirstName------B
+<br>ContactMiddleName------
+<br>ContactLastName------- Vowles
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416- 442-5103
+<br>ContactEmail----------bvowles@bizinfogroup.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46315
+<br>ContactFirstName------Dr
+<br>ContactMiddleName------Martin
+<br>ContactLastName-------Steinman
+<br>ContactDescription----
+<br>ContactDesignation----D4360
+<br>ContactPhoto----------contract-pharma-dr-steinman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46316
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Carestio
+<br>ContactDescription----My mom taught me to sew at an early age but it wasn’t until high school when I sewed my first garment from a pattern…from there I was hooked. My mom was a reading teacher and my dad was a physics teacher: I think editing sewing instructions might be somewhere in between! I’ve been in craft publishing for almost 10 years. From new independent pattern makers to crazy good fabric designers this community constantly inspires me.  I love making costumes (especially for my toddler) quilting needle felting and occasionally crocheting something cozy but my first love is sewing.  I\'m beyond excited to join the Sew News and Creative Machine Embroidery team!
+<br>ContactDesignation----D5
+<br>ContactPhoto----------creative-machine embroidery-amanda-carestio.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46317
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Titley
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------contract-pharma-paul-titley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46318
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------L.
+<br>ContactLastName-------Braun
+<br>ContactDescription----Dave L. Braun is vice president of sales at The Mennel Milling Company. He has been with Mennel for the past 31 years holding positions in production quality assurance and business development prior to moving into sales. Dave has led Mennel\'s continuous improvement team for the past 12 years. He earned undergraduate and MBA degrees from the University of Findlay. Dave is the current secretary/treasurer of the AACCI Cincinnati Section an AACCI Foundation Board member and a past chair treasurer and Advisory Board member of the AACCI Milling & Baking Division. In 2011 Dave received the Myron D. Baustian Award from the Milling & Baking Division. He is also a member of the Allied Advisory Board and Education Committee of the Biscuit & Cracker Manufacturer\'s Association and is a Board of Directors member of the Hancock County Humane Society.
+<br>ContactDesignation----D510
+<br>ContactPhoto----------cereal-foods world-dave-braun.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dbraun@mennel.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46319
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Caro
+<br>ContactDescription----
+<br>ContactDesignation----D749
+<br>ContactPhoto----------southtown-star-mark-caro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/MarkCaro
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46320
+<br>ContactFirstName------Jon
+<br>ContactMiddleName------
+<br>ContactLastName-------Faubion
+<br>ContactDescription----After receiving a PhD from Kansas State University in 1980 Jon Faubion was on the faculty of Texas A&M University for 3 years and then joined the KSU Grain Science and Industry faculty for the next 14 years. I left KSU for Minnesota in 1997 to become Scientific Services Manager for AACCI and then director of the Applied Technology and Sensory research groups for the Schwan Food Company. Since 2005 it has been my honor to be back on the KSU Faculty as the Charles Singleton Professor of Baking Science in the Department of Grain Science. In addition to teaching and directing graduate student research I serve as the Graduate Program Director Scholarship Chair and faculty senator for the department.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-jon-faubion.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- jfaubion@ksu.edu
+<br>Alternative Email-----
+<br>University------------Kansas State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46321
+<br>ContactFirstName------Phillip
+<br>ContactMiddleName------G
+<br>ContactLastName-------Trager
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------contract-pharma-phillip-trager.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46322
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------J
+<br>ContactLastName-------Valazza
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------contract-pharma-michael-valazza.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46323
+<br>ContactFirstName------Falguni
+<br>ContactMiddleName------
+<br>ContactLastName-------Vaidya
+<br>ContactDescription----
+<br>ContactDesignation----D7225
+<br>ContactPhoto----------contract-pharma-falguni-vaidya.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46324
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Carpenter
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------southtown-star-john-carpenter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jccarpenter@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/ScoopCarp
+<br>ContactURL------------http://www.chicagotribune.com/bluesky/about/chi-john-carpenter-bio-bsi-ngux-story.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46325
+<br>ContactFirstName------Matthew
+<br>ContactMiddleName------K.
+<br>ContactLastName-------Morell
+<br>ContactDescription----Matthew Morell has been actively involved in R&D in agriculture and food for 35 years. He completed undergraduate and Ph.D. degrees at the University of Sydney Australia in agricultural science and then worked for three years in the United States at UC Davis and then Michigan State with Jack Priess on starch synthesis in cereals. Upon returning to Australia he worked on photosynthesis for a number of years before moving to CSIRO and taking up leadership positions in starch and grain quality research. Matthew has published more than 100 papers in international peer-reviewed journals and a further 70 non-refereed publications. He is a Fellow of the Australian Academy of Technological Sciences and Engineering.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-matthew-morell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- m.morell@irri.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46326
+<br>ContactFirstName------Amy
+<br>ContactMiddleName------
+<br>ContactLastName-------Carr
+<br>ContactDescription----
+<br>ContactDesignation----D5411
+<br>ContactPhoto----------southtown-star-amy-carr.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------acarr@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/amyscarr
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46327
+<br>ContactFirstName------Dave 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brambert
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-227-8250
+<br>ContactEmail----------daveb@cimindustry.com
+<br>Alternative Email-----
+<br>University------------Northwestern University - Kellogg School of Management
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/dave-brambert/4/377/6a4
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46328
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName------- Gorzek
+<br>ContactDescription----
+<br>ContactDesignation----D6763
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-227-8269
+<br>ContactEmail----------jimg@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46329
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Hebert
+<br>ContactDescription----Mr. Hebert is a Senior Technical Editor for Control Control Design and Industrial Networking magazines. He began his career at Putman Media as a Field Editor in 1995 and joined the company on a full-time basis in 2000. 
+
+Mr. Hebert has 25 years of experience in the process control industries. He worked for 22 years as an end user at a process plant as a systems integrator as an employee of a skid builder and as an employee of a major engineering and construction firm. His employment duties included plant operations control systems programming detailed design project management line management and sales.
+
+Mr. Hebert has a PE in Control Systems and is a patent holder for a closed-loop control system. He holds a BSEE and an MBA and is a member of ISA and of Eta Kappa Nu the engineering honor society.
+<br>ContactDesignation----D4002
+<br>ContactPhoto----------control-dan-hebert.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dhebert@putman.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/danhebert
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46330
+<br>ContactFirstName------Perry
+<br>ContactMiddleName------K.W.
+<br>ContactLastName-------Ng
+<br>ContactDescription----Perry K. W. Ng is a professor of cereal science at Michigan State University (MSU). He obtained his university education in Canada graduating with a Ph.D. degree from the University of Manitoba in 1987. He joined the faculty of MSU in 1992 to initiate a cereal science program in the Department of Food Science & Human Nutrition and currently is the deputy director of the Borlaug Higher Education Agricultural Research and Development Program. His research foci include physicochemical and genetic properties of wheat proteins in relation to end-use qualities cereal chemistry and technology extrusion technology and modifying grain components for functional food ingredients. A member of AACC International for more than 25 years he was named an AACCI fellow in 2010 and in 2012 was inducted by the ICC Academy as a fellow of the academy. He teaches undergraduate and graduate courses in cereal science and food chemistry coordinates a number of international projects has graduated more than a dozen post-graduate students and mentored 46 post-doctoral fellows visiting scholars and visiting professors from 15 countries.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-perry-ng.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- ngp@msu.edu
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46331
+<br>ContactFirstName------Carmel
+<br>ContactMiddleName------
+<br>ContactLastName-------Carrillo
+<br>ContactDescription----
+<br>ContactDesignation----D7226
+<br>ContactPhoto----------southtown-star-carmel-carrillo.jpg
+<br>ContactPhonenumber----312-222-3726
+<br>ContactEmail----------ccarrillo@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/CarmelCarrillo
+<br>ContactURL------------http://bio.tribune.com/carmelcarrillo
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46332
+<br>ContactFirstName------Andy
+<br>ContactMiddleName------
+<br>ContactLastName-------Rapp
+<br>ContactDescription----
+<br>ContactDesignation----D7227
+<br>ContactPhoto----------la-salle news tribune-andy-rapp.jpg
+<br>ContactPhonenumber----815-220-6941
+<br>ContactEmail----------classified@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46333
+<br>ContactFirstName------Kathleen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fitzgerald 
+<br>ContactDescription----
+<br>ContactDesignation----D7228
+<br>ContactPhoto----------
+<br>ContactPhonenumber----902-648-0079,902-748-0365
+<br>ContactEmail----------kathleenf@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46334
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carter
+<br>ContactDescription----
+<br>ContactDesignation----D7229
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mcarter@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46335
+<br>ContactFirstName------Veronica
+<br>ContactMiddleName------
+<br>ContactLastName-------Graham
+<br>ContactDescription----I hail from the great state of Texas so after getting my bachelor of journalism from The University of Texas at Austin (hook \'em horns!) I became a sports reporter and spent my Friday nights under those famed bright lights covering all things football. I\'m the daughter and niece of two prolific sewists though. Despite wearing countless home sewn dresses (remember the Flintstones dress Mom?) Halloween costumes and having my room redecorated every other year with new bedding and curtains I just didn\'t take to sewing growing up. The second the thread tension got messed up or if I didn\'t stitch a line absolutely perfectly straight I gave up. Now that I\'m grown up (debatable) and more patient (somewhat) I\'m giving sewing another go and having a blast. 
+<br>ContactDesignation----D3
+<br>ContactPhoto----------creative-machine embroidery-veronica-graham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46336
+<br>ContactFirstName------Greg 
+<br>ContactMiddleName------
+<br>ContactLastName-------McMillan
+<br>ContactDescription----
+<br>ContactDesignation----D7230
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------controltalk@putman.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46337
+<br>ContactFirstName------Amy
+<br>ContactMiddleName------
+<br>ContactLastName-------Picco
+<br>ContactDescription----
+<br>ContactDesignation----D7227
+<br>ContactPhoto----------la-salle news tribune-amy-picco.jpg
+<br>ContactPhonenumber----815-220-6942
+<br>ContactEmail----------classified@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46338
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Cassella
+<br>ContactDescription----
+<br>ContactDesignation----D1004
+<br>ContactPhoto----------southtown-star-brian-cassella.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/briancassella
+<br>ContactURL------------http://www.chicagotribune.com/chi-brian-cassella-20140528-staff.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46339
+<br>ContactFirstName------Deirdre
+<br>ContactMiddleName------E.
+<br>ContactLastName-------Ortiz
+<br>ContactDescription----Deirdre Ortiz is a food industry professional with nearly 20 years of industry experience. Deirdre received her bachelor\'s degree in music therapy from University of Kansas. She later received her M.S. and Ph.D. degrees under the tutelage of R. Carl Hoseney from Kansas State University Department of Grain Science and Industry. For the last 18 years Deirdre has worked at the Kellogg Company in a variety of roles most recently as Fellow of Global Research Quality and Technology. In her current role she leads the research activities of the Global Snacks organization. Her research topics include wheat and flour quality baking and technical troubleshooting. She actively volunteers in AACC International including serving as technical program chair for the 2011 annual meeting and serving on the Publication Committee New Members Committee and Whole Grain Working Group as a Cereal Chemistry associate editor and in other positions. Her first volunteer opportunity was as an of organizer of the initial Student Silent Auction. Deirdre also is an adjunct faculty member at Michigan State University. Deirdre\'s passion for good food working with others and building relationships between the food industry and growers has resulted in lasting relationships with several Michigan-based agriculture groups. Deirdre lives in Battle Creek MI and enjoys family gardening and music.
+
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-deirdre-ortiz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------deirdre.ortiz@kellogg.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8588
+<br>ContactId-------------C46340
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Stavrakas
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------contract-pharma-scott-stavrakas.jpg
+<br>ContactPhonenumber----815-220-6945
+<br>ContactEmail----------vpsales@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46341
+<br>ContactFirstName------Kathleen
+<br>ContactMiddleName------
+<br>ContactLastName-------Celer
+<br>ContactDescription----
+<br>ContactDesignation----D7231
+<br>ContactPhoto----------southtown-star-kathleen-celer.jpg
+<br>ContactPhonenumber----312-222-5479
+<br>ContactEmail----------kceler@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://bio.tribune.com/kathyceler
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46342
+<br>ContactFirstName------Phil 
+<br>ContactMiddleName------
+<br>ContactLastName-------Arndt
+<br>ContactDescription----
+<br>ContactDesignation----D7228
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-227-8267,815-394-9680
+<br>ContactEmail----------phila@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46343
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Montague
+<br>ContactDescription----Jim Montague is the Executive Editor at Control Control Design and Industrial Networking magazines. Jim has spent the last 13 years as an editor and brings a wealth of automation and controls knowledge to the position. For the past eight years Jim worked at Reed Business Information as News Editor for Control Engineering magazine. Jim has a BA in English from Carleton College in Northfield Minnesota and lives in Skokie Illinois.
+<br>ContactDesignation----D4
+<br>ContactPhoto----------control-jim-montague.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmontague@putman.net
+<br>Alternative Email-----
+<br>University------------Carleton College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/jim-montague/31/a09/376
+<br>ContactTwitter--------https://twitter.com/jamesmontague
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46344
+<br>ContactFirstName------Jeff 
+<br>ContactMiddleName------C
+<br>ContactLastName-------Cercone
+<br>ContactDescription----
+<br>ContactDesignation----D119
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------JCercone@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46345
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Stavrakas
+<br>ContactDescription----
+<br>ContactDesignation----D3525
+<br>ContactPhoto----------la-salle news tribune-scott-stavrakas.jpg
+<br>ContactPhonenumber----815-220-6945
+<br>ContactEmail---------- vpsales@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46346
+<br>ContactFirstName------Jaan
+<br>ContactMiddleName------
+<br>ContactLastName-------Perten
+<br>ContactDescription----Jaan Perten has worked since the beginning of the 1960s in the family company to establish the Falling Number method and product to be a world standard. He was involved in developing the falling number and gluten test methods. Perten has been a board member in the Perten Instruments Group a world organization and specialist in quality control of test parameters of cereals. He received his B.Sc. degree in economics from Stockholm University in Sweden. Perten has been a member of AACCI for 36 years. He is chair of the Harald Perten Foundation Board which supports and awards in cooperation with ICC outstanding achievements for the advancement of cereal sciences.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-jaan-perten.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- jperten@perten.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46347
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName------- Thompson
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber---- 289-337-3290
+<br>ContactEmail----------joet@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46347
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Thompson
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------canadian-industrial machinery-joe-thompson.jpg
+<br>ContactPhonenumber---- 289-337-3290
+<br>ContactEmail----------joet@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/joseph-thompson/8/10b/252
+<br>ContactTwitter--------https://twitter.com/cimjoethompson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46348
+<br>ContactFirstName------Eliane
+<br>ContactMiddleName------
+<br>ContactLastName-------Pinto
+<br>ContactDescription----Eliane Pinto is the Technical Editor and Designer at Sew News and Creative Machine Embroidery magazines. She holds a BFA from RISD has studied at Brown University and Parsons the New School for Design and is currently pursuing a marketing degree at Harvard. Eliane brings her technical experience to her work and an exotic sensitivity to much of her design. 
+<br>ContactDesignation----D542
+<br>ContactPhoto----------creative-machine embroidery-eliane-pinto.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46349
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D71
+<br>ContactPhoto----------la-salle news tribune-mike-miller.jpg
+<br>ContactPhonenumber----815-220-6970 
+<br>ContactEmail----------cirdir@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46350
+<br>ContactFirstName------Diane
+<br>ContactMiddleName------
+<br>ContactLastName-------Seghers
+<br>ContactDescription----
+<br>ContactDesignation----D4006
+<br>ContactPhoto----------la-salle news tribune-diane-seghers.jpg
+<br>ContactPhonenumber----815-220-6999
+<br>ContactEmail----------itsupport@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46351
+<br>ContactFirstName------Alexandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Chachkevitch
+<br>ContactDescription----
+<br>ContactDesignation----D7232
+<br>ContactPhoto----------southtown-star-alexandra-chachkevitch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/chachkevitch
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5131
+<br>ContactId-------------C46352
+<br>ContactFirstName------Joe 
+<br>ContactMiddleName------
+<br>ContactLastName-------Feeley
+<br>ContactDescription----Joe is also Editor in Chief of Control Design and Industrial Networking magazines. He joined Putman Media in 1997 to help start up Control Design. He has more than 20 years of engineering and management experience in the U.S. and Europe in industries that include high-purity semiconductor products and other specialty materials that required direct involvement with the associated machine designers. He has a B.S. in Chemical Engineering from Northeastern University Boston.
+<br>ContactDesignation----D1
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jfeeley@putman.net
+<br>Alternative Email-----
+<br>University------------Northeastern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/joe-feeley/11/a57/352
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46353
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Zokal
+<br>ContactDescription----
+<br>ContactDesignation----D313
+<br>ContactPhoto----------la-salle news tribune-joe-zokal.jpg
+<br>ContactPhonenumber----815-220-6968
+<br>ContactEmail----------design@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46354
+<br>ContactFirstName------Sue
+<br>ContactMiddleName------
+<br>ContactLastName------- Roberts
+<br>ContactDescription----
+<br>ContactDesignation----D6744
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-227-8241
+<br>ContactEmail----------suer@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46355
+<br>ContactFirstName------Jessica
+<br>ContactMiddleName------
+<br>ContactLastName-------Ziebarth
+<br>ContactDescription----
+<br>ContactDesignation----D7233
+<br>ContactPhoto----------creative-machine embroidery-jessica-ziebarth.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46356
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------Kate
+<br>ContactLastName-------Chambers
+<br>ContactDescription----
+<br>ContactDesignation----D7197
+<br>ContactPhoto----------southtown-star-mary-chambers.jpg
+<br>ContactPhonenumber----312-222-2354
+<br>ContactEmail----------mkchambers@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://bio.tribune.com/MaryKateChambers
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8168
+<br>ContactId-------------C46357
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------S
+<br>ContactLastName-------Robinson
+<br>ContactDescription----As a benefit of AACCI membership a hyperlink to full contact information is available for all AACCI members on this listing. Please note: You must be logged in as an AACCI member to access. If a name above is not hyperlinked it indicates the individual is not a current AACCI member.
+<br>ContactDesignation----D8
+<br>ContactPhoto----------cereal-foods world-jennifer-robinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- jrobinson@bsm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7969
+<br>ContactId-------------C46358
+<br>ContactFirstName------Kim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bottomley
+<br>ContactDescription----
+<br>ContactDesignation----D2910
+<br>ContactPhoto----------
+<br>ContactPhonenumber----815-227-8259
+<br>ContactEmail----------kimb@cimindustry.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46359
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Channick
+<br>ContactDescription----
+<br>ContactDesignation----D7234
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/RobertChannick
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46360
+<br>ContactFirstName------Jill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Case
+<br>ContactDescription----I love sewing fashion and all things vintage. I come from a long line of home seamstresses including my mom who taught me how to sew on her grandmother\'s treadle sewing machine.  I started sewing doll clothes for my Skipper who was always fabulously dressed.  I soon moved up to sewing clothes for myself and found that there is nothing more thrilling than making something for me!  I love working for Sew News Sew It All Stitch and Creative Machine Embroidery to be surrounded by people who are so knowledgeable and creative and love creating as much as I do is a high point of my work life.
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8589
+<br>ContactId-------------C46361
+<br>ContactFirstName------Joyce
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Cullough
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------la-salle news tribune-joyce-cullough.jpg
+<br>ContactPhonenumber----815-220-6929
+<br>ContactEmail----------joyce@newstrib.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46362
+<br>ContactFirstName------Stephen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chapman
+<br>ContactDescription----
+<br>ContactDesignation----D7235
+<br>ContactPhoto----------
+<br>ContactPhonenumber----312-222-3025
+<br>ContactEmail----------schapman@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://bio.tribune.com/stevechapman
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8720
+<br>ContactId-------------C46363
+<br>ContactFirstName------Sue
+<br>ContactMiddleName------
+<br>ContactLastName-------Dothage
+<br>ContactDescription----I was raised in the woods by a family of artists crafters sewists and do-it-yourselfers. I watched my lovely and talented neighbor sew me pair after pair of knickers and ruffled high-neck blouses (using metallic thread!) which I wore daily. I was always inspired and encouraged to make anything. I studied fine art and graphic design in college and skipped out on parties for late-night oil painting and sewing sessions. I went on many adventures in strange lands eventually discovering my passion for magazine design as an art director for travel and fashion publications. I now have the perfect job where I am able to combine my interests into magazines that inspire Sew News Sew It All and Creative Machine Embroidery readers. Life is good!
+<br>ContactDesignation----D6321
+<br>ContactPhoto----------creative-machine embroidery-sue-dothage.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46364
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------A.
+<br>ContactLastName-------Blethen
+<br>ContactDescription----
+<br>ContactDesignation----D7236
+<br>ContactPhoto----------delavan-times-frank-blethen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46365
+<br>ContactFirstName------Julian
+<br>ContactMiddleName------
+<br>ContactLastName-------Benbow
+<br>ContactDescription----
+Julian Benbow is a general assignment reporter for the Sports section who covers Boston College and the Revolution. He came to the Globe in 2006 as an intern and is a graduate of Virginia Commonwealth University.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-julian-benbow.jpg
+<br>ContactPhonenumber----617-929-2860
+<br>ContactEmail----------jbenbow@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/JulianBenbow
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46366
+<br>ContactFirstName------Heather
+<br>ContactMiddleName------
+<br>ContactLastName-------Charles
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------southtown-star-heather-charles.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/heatherlcharles
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46367
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Cafardo
+<br>ContactDescription----
+Cafardo covers the Red Sox and Major League Baseball for the Sports section. He writes the Sunday baseball notes and has a Red Sox column. He also contributes to the NESN Red Sox pre-game show and has authored books on the Patriots and Atlanta Braves.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-nick-cafardo.jpg
+<br>ContactPhonenumber----617-929-2860
+<br>ContactEmail----------cafardo@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/NickCafardo
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46368
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Chase
+<br>ContactDescription----
+<br>ContactDesignation----D7237
+<br>ContactPhoto----------southtown-star-john-chase.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/chasejohn
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46369
+<br>ContactFirstName------Colleen
+<br>ContactMiddleName------
+<br>ContactLastName-------Dumont
+<br>ContactDescription----Dumont is a Boston University grad and a native of New Jersey. After working for the Sports department of the Washington Post for seven years Dumont a lifelong Yankees fan joined the Globe in 1999.
+<br>ContactDesignation----D6984
+<br>ContactPhoto----------boston-globe sunday magazine-colleen-dumont.jpg
+<br>ContactPhonenumber----617-929-2847
+<br>ContactEmail----------cdumont@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46370
+<br>ContactFirstName------Ryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Blethen
+<br>ContactDescription----
+<br>ContactDesignation----D7238
+<br>ContactPhoto----------delavan-times-ryan-blethen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46371
+<br>ContactFirstName------Bonnie
+<br>ContactMiddleName------
+<br>ContactLastName-------Foust
+<br>ContactDescription----
+<br>ContactDesignation----D6984
+<br>ContactPhoto----------boston-globe sunday magazine-bonnie-foust.jpg
+<br>ContactPhonenumber----617-929-2847
+<br>ContactEmail----------bfoust@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46372
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Chval
+<br>ContactDescription----
+<br>ContactDesignation----D7239
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------laurenchval@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46372
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Chval
+<br>ContactDescription----
+<br>ContactDesignation----D7239
+<br>ContactPhoto----------southtown-star-lauren-chval.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------laurenchval@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/lchval
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46373
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------Himmelsbach
+<br>ContactDescription----Himmelsbach joined the Globe in 2015 and covers the Celtics. A graduate of Syracuse University Himmelsbach previously spent two years as a columnist at the Louisville Courier-Journal and six years as a Washington-based contributor for The New York Times.
+<br>ContactDesignation----D348
+<br>ContactPhoto----------boston-globe sunday magazine-adam-himmelsbach.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------adam.himmelsbach@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/AdamHimmelsbach
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46374
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Riley
+<br>ContactDescription----
+<br>ContactDesignation----D236
+<br>ContactPhoto----------delavan-times-kate-riley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46375
+<br>ContactFirstName------Geoffrey
+<br>ContactMiddleName------
+<br>ContactLastName-------Clark
+<br>ContactDescription----
+<br>ContactDesignation----D12
+<br>ContactPhoto----------southtown-star-geoffrey-clark.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gclark@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/gfclark89
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46376
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Holmes
+<br>ContactDescription----Holmes is the Globe\'s high school sports editor. A Boston College graduate he was also the high school editor at the Boston Herald before joining the Globe in 1996. Before that he worked at the Lawrence Eagle-Tribune and Beacon Newspapers in Acton.
+<br>ContactDesignation----D7240
+<br>ContactPhoto----------boston-globe sunday magazine-bob-holmes.jpg
+<br>ContactPhonenumber----617-929-2876
+<br>ContactEmail----------rholmes@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeHolmes
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46377
+<br>ContactFirstName------Andrew
+<br>ContactMiddleName------
+<br>ContactLastName-------Mahoney
+<br>ContactDescription----Mahoney first came to the Globe in 1994 to the city desk as a Northeastern co-op. He moved over to the sports department in 1995 and contributed to the Globe’s award-winning sports section. After a brief stint at ESPN he returned to the Globe in 2002.
+<br>ContactDesignation----D302
+<br>ContactPhoto----------boston-globe sunday magazine-andrew-mahoney.jpg
+<br>ContactPhonenumber----617-929-7365
+<br>ContactEmail----------andrew.mahoney@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeMahoney
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46378
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------Pian
+<br>ContactLastName-------Chan
+<br>ContactDescription----
+<br>ContactDesignation----D7241
+<br>ContactPhoto----------delavan-times-sharon-chan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46379
+<br>ContactFirstName------Lance
+<br>ContactMiddleName------
+<br>ContactLastName-------Dickie
+<br>ContactDescription----
+<br>ContactDesignation----D405
+<br>ContactPhoto----------delavan-times-lance-dickie.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46380
+<br>ContactFirstName------Melissa
+<br>ContactMiddleName------
+<br>ContactLastName-------Clay
+<br>ContactDescription----
+<br>ContactDesignation----D7197
+<br>ContactPhoto----------southtown-star-melissa-clay.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------MEClay@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/meclaytribune
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46381
+<br>ContactFirstName------Bruce
+<br>ContactMiddleName------
+<br>ContactLastName-------Ramsey
+<br>ContactDescription----
+<br>ContactDesignation----D405
+<br>ContactPhoto----------delavan-times-bruce-ramsey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46382
+<br>ContactFirstName------Norma 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cochrane
+<br>ContactDescription----
+<br>ContactDesignation----D7242
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------NCochrane@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46383
+<br>ContactFirstName------Lynne
+<br>ContactMiddleName------K.
+<br>ContactLastName-------Varner
+<br>ContactDescription----
+<br>ContactDesignation----D405
+<br>ContactPhoto----------delavan-times-lynne-varner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46384
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Coen
+<br>ContactDescription----
+<br>ContactDesignation----D7243
+<br>ContactPhoto----------southtown-star-jeff-coen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/JeffCoen
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46385
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------C.
+<br>ContactLastName-------Blethen
+<br>ContactDescription----
+<br>ContactDesignation----D7244
+<br>ContactPhoto----------delavan-times-robert-blethen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46386
+<br>ContactFirstName------Jodi
+<br>ContactMiddleName------S
+<br>ContactLastName-------Cohen
+<br>ContactDescription----
+<br>ContactDesignation----D7245
+<br>ContactPhoto----------southtown-star-jodi-cohen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/higherednews
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8169
+<br>ContactId-------------C46387
+<br>ContactFirstName------William
+<br>ContactMiddleName------K.
+<br>ContactLastName-------Blethen
+<br>ContactDescription----
+<br>ContactDesignation----D7244
+<br>ContactPhoto----------delavan-times-william-blethen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46388
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Comitor
+<br>ContactDescription----
+<br>ContactDesignation----D119
+<br>ContactPhoto----------southtown-star-lauren-comitor.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lcomitor@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/laurencomitor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46389
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------McBride
+<br>ContactDescription----McBride covers the Patriots for the Globe. A Malden native he joined the Globe in 1988 as a co-op student from Suffolk University.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-jim-mcbride.jpg
+<br>ContactPhonenumber----617-929-7138
+<br>ContactEmail----------james.mcbride@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/globejimmcbride
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46390
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cooper
+<br>ContactDescription----
+<br>ContactDesignation----D7197
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------JxCooper@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46391
+<br>ContactFirstName------Tony
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D3809
+<br>ContactPhoto----------kewanee-star courier-tony-scott.jpg
+<br>ContactPhonenumber----309-343-7181
+<br>ContactEmail----------tscott@gatehousemedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46392
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Powers
+<br>ContactDescription----
+Powers has worked for the Globe since 1973 writing for the Sports Metro Sunday Magazine and Living sections and sharing the 1983 Pulitzer Prize for national reporting. He has covered sporting events on five continents and is the author of eight books.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-john-powers.jpg
+<br>ContactPhonenumber----617-929-2978
+<br>ContactEmail----------jpowers@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46393
+<br>ContactFirstName------Megan
+<br>ContactMiddleName------
+<br>ContactLastName-------Crepeau
+<br>ContactDescription----
+<br>ContactDesignation----D99
+<br>ContactPhoto----------southtown-star-megan-crepeau.jpg
+<br>ContactPhonenumber----312-222-3429
+<br>ContactEmail----------mcrepeau@tribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/crepeau
+<br>ContactURL------------http://bio.tribune.com/mcrepeau
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46394
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Martin
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------kewanee-star courier-tom-martin.jpg
+<br>ContactPhonenumber----309-343-7181
+<br>ContactEmail----------tmartin@register-mail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46395
+<br>ContactFirstName------Fluto
+<br>ContactMiddleName------
+<br>ContactLastName-------Shinzawa
+<br>ContactDescription----Shinzawa is the Boston Bruins beat writer. He also covers NASCAR for the paper. Prior to assuming the Bruins beat Shinzawa was the lead college hockey writer. He was previously a senior editor for the Robb Report a luxury lifestyle publication.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------boston-globe sunday magazine-fluto-shinzawa.jpg
+<br>ContactPhonenumber----617-929-2860
+<br>ContactEmail----------fshinzawa@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeFluto
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46396
+<br>ContactFirstName------Jay
+<br>ContactMiddleName------
+<br>ContactLastName-------Redfern
+<br>ContactDescription----
+<br>ContactDesignation----D12
+<br>ContactPhoto----------kewanee-star courier-jay-redfern.jpg
+<br>ContactPhonenumber----309-343-7181
+<br>ContactEmail----------jredfern@register-mail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7669
+<br>ContactId-------------C46397
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Sullivan
+<br>ContactDescription----
+Sullivan is an assistant managing editor for the Globe and the editor of its Sports section. He was previously the senior assistant sports editor. Prior to joining the Globe he was sports editor at the Asbury Park Press for three years. He also has worked for a number of other sports departments.
+<br>ContactDesignation----D34
+<br>ContactPhoto----------boston-globe sunday magazine-joe-sullivan.jpg
+<br>ContactPhonenumber----617-929-2845
+<br>ContactEmail----------jtsullivan@globe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/GlobeSullivan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46398
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Buck
+<br>ContactDescription----
+<br>ContactDesignation----D488
+<br>ContactPhoto----------kewanee-star courier-rob-buck.jpg
+<br>ContactPhonenumber----09-343-7181
+<br>ContactEmail----------rbuck@register-mail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7972
+<br>ContactId-------------C46399
+<br>ContactFirstName------Martin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spreer
+<br>ContactDescription----
+<br>ContactDesignation----D3538
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-6766
+<br>ContactEmail----------mspreer@canadianinteriors.com
+<br>Alternative Email-----
+<br>University------------CAM, Professional Certificate Advertising & Marketing, London, United Kingdom
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/in/martinspreer
+<br>ContactTwitter--------https://twitter.com/martinspreer
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46400
+<br>ContactFirstName------Karen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cullotta
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kcullotta@tribpub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/kcullotta
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46401
+<br>ContactFirstName------Patrick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Daily
+<br>ContactDescription----
+<br>ContactDesignation----D7197
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pdaily@chicagotribune.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46402
+<br>ContactFirstName------Dee
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------kewanee-star courier-dee-evans.jpg
+<br>ContactPhonenumber----309-852-2181
+<br>ContactEmail----------devans@gatehousemedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7972
+<br>ContactId-------------C46403
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Totzke 
+<br>ContactDescription----
+<br>ContactDesignation----D6365
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-6825
+<br>ContactEmail----------mtotzke@canadianinteriors.com
+<br>Alternative Email-----
+<br>University------------Ryerson University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------https://www.linkedin.com/pub/michael-totzke/11/371/323
+<br>ContactTwitter--------https://twitter.com/TotzkeM
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O8584
+<br>ContactId-------------C46404
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Landis
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------kewanee-star courier-mike-landis.jpg
+<br>ContactPhonenumber----309-852-218
+<br>ContactEmail----------mlandis@starcourier.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O7972
+<br>ContactId-------------C46405
+<br>ContactFirstName------Peter 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sobchak
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----416-510-5194
+<br>ContactEmail----------psobchak@canadianinteriors.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9002
+<br>ContactId-------------C46406
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Daley
+<br>ContactDescription----
+<br>ContactDesignation----D7246
+<br>ContactPhoto----------southtown-star-bill-daley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/BillDaley
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

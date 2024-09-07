@@ -1,0 +1,901 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8794
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------Moody
+<br>ContactDescription----
+<br>ContactDesignation----D780
+<br>ContactPhoto----------kcnc-tv-4-greg-moody.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Western Michigan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/greg-moody/16/305/947
+<br>ContactTwitter--------http://twitter.com/#!/CBS4GregMoody
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8795
+<br>ContactFirstName------Howard
+<br>ContactMiddleName------
+<br>ContactLastName-------Nathan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-howard-nathan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Hunter College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8796
+<br>ContactFirstName------Jane
+<br>ContactMiddleName------
+<br>ContactLastName-------Monreal
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-jane-monreal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Miami 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/janemonreal
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8797
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Brice
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-jennifer-brice.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmbrice@cbs.com
+<br>Alternative Email-----
+<br>University------------University of Denver
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/jennifermbrice
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8798
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Zeppelin
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kcnc-tv-4-jennifer-zeppelin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/jennifer-zeppelin/16/2b7/b43
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8799
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Benemann
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------kcnc-tv-4-jim-benemann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Colorado State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8799
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Benemann
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------kcnc-tv-4-jim-benemann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Colorado State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8800
+<br>ContactFirstName------Jodi
+<br>ContactMiddleName------
+<br>ContactLastName-------Brooks
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-jodi-brooks.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Wisconsin
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8801
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------Leigh
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kcnc-tv-4-karen-leigh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Arkansas State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/karen-leigh/9/28a/512
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8802
+<br>ContactFirstName------Kathy
+<br>ContactMiddleName------
+<br>ContactLastName-------Walsh
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------kcnc-tv-4-kathy-walsh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Delaware
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8803
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Griego
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-michelle-griego.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Colorado State University,Metropolitan State College
+<br>ContactFacebook-------http://facebook.com/people/Michelle-Griego/1145177846
+<br>ContactLinkedin-------http://linkedin.com/pub/michelle-griego/5/19a/893
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8804
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Hooker
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-mike-hooker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado at Boulder
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/mike-hooker/15/481/489
+<br>ContactTwitter--------http://twitter.com/#!/mikehooker1
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8805
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Day
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-paul-day.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wabash College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/paul-day/7/225/497
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8806
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Sallinger
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-rick-sallinger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rsallinger@cbs.com
+<br>Alternative Email-----
+<br>University------------University of Illinois
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/ricksallinger
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8807
+<br>ContactFirstName------Shaun
+<br>ContactMiddleName------
+<br>ContactLastName-------Boyd
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-shaun-boyd.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Notre Dame
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8808
+<br>ContactFirstName------Stan
+<br>ContactMiddleName------
+<br>ContactLastName-------Bush
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-stan-bush.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/sbushcbs4denver
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8809
+<br>ContactFirstName------Suzanne
+<br>ContactMiddleName------
+<br>ContactLastName-------McCarroll
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------kcnc-tv-4-suzanne-mccarroll.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Stanford University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8810
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Mustin
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-tom-mustin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Los Angeles,Virginia Polytechnic Institute
+<br>ContactFacebook-------http://facebook.com/tom.mustin
+<br>ContactLinkedin-------http://linkedin.com/pub/tom-mustin/7/4a5/1a5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8811
+<br>ContactFirstName------Valerie
+<br>ContactMiddleName------
+<br>ContactLastName-------Castro
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcnc-tv-4-valerie-castro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado in Boulder
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/valerie-castro/3/947/527
+<br>ContactTwitter--------http://twitter.com/#!/Valcbs4denver
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8812
+<br>ContactFirstName------Vic
+<br>ContactMiddleName------
+<br>ContactLastName-------Lombardi
+<br>ContactDescription----
+<br>ContactDesignation----D539
+<br>ContactPhoto----------kcnc-tv-4-vic-lombardi.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado at Boulder,Notre Dame University
+<br>ContactFacebook-------http://.facebook.com/pages/Vic-Lombardi/120212744902
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8813
+<br>ContactFirstName------Brett
+<br>ContactMiddleName------
+<br>ContactLastName-------Heinzerling
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------kcnc-tv-4-brett-heinzerling.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8814
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Blumer
+<br>ContactDescription----
+<br>ContactDesignation----D575
+<br>ContactPhoto----------kcnc-tv-4-eric-blumer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Minnesota State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8815
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Christensen
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------kcnc-tv-4-eric-christensen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8815
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Christensen
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------kcnc-tv-4-eric-christensen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8816
+<br>ContactFirstName------Gary
+<br>ContactMiddleName------
+<br>ContactLastName-------Croshaw
+<br>ContactDescription----
+<br>ContactDesignation----D781
+<br>ContactPhoto----------kcnc-tv-4-gary-croshaw.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8817
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Gurney
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------kcnc-tv-4-jeff-gurney.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Western Kentucky University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/jeff-gurney/7/957/1bb
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8818
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Montgomery
+<br>ContactDescription----
+<br>ContactDesignation----D782
+<br>ContactPhoto----------kcnc-tv-4-john-montgomery.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Sul Ross State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/john-montgomery/5/473/295
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8819
+<br>ContactFirstName------Kristine
+<br>ContactMiddleName------
+<br>ContactLastName-------Strain
+<br>ContactDescription----
+<br>ContactDesignation----D235
+<br>ContactPhoto----------kcnc-tv-4-kristine-strain.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Kansas,University of Denver
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/kristinestrain
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8820
+<br>ContactFirstName------Raetta
+<br>ContactMiddleName------
+<br>ContactLastName-------Holdman
+<br>ContactDescription----
+<br>ContactDesignation----D783
+<br>ContactPhoto----------kcnc-tv-4-raetta-holdman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8821
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------McClure
+<br>ContactDescription----
+<br>ContactDesignation----D388
+<br>ContactPhoto----------kcnc-tv-4-rob-mcclure.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Arapahoe Community College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8822
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Cox
+<br>ContactDescription----
+<br>ContactDesignation----D784
+<br>ContactPhoto----------kcnc-tv-4-steve-cox.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Alabama
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/steve-cox/4/6b7/947
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8823
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Wieland
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------kcnc-tv-4-tim-wieland.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Colorado
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/twieland
+<br>ContactTwitter--------http://twitter.com/#!/CBS4Tim
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2242
+<br>ContactId-------------C8824
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Meyers
+<br>ContactDescription----
+<br>ContactDesignation----D575
+<br>ContactPhoto----------kcnc-tv-4-tom-meyers.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Illinois State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8825
+<br>ContactFirstName------Ron
+<br>ContactMiddleName------
+<br>ContactLastName-------Zappolo
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kdvr-tv-31-ron-zappolo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ron.zappolo@kdvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/ron-zappolo/32/167/a07
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8826
+<br>ContactFirstName------Libby
+<br>ContactMiddleName------
+<br>ContactLastName-------Weaver
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kdvr-tv-31-libby-weaver.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------libby.weaver@kdvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8827
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------Fraser
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kdvr-tv-31-dave-fraser.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Emerson College,Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8828
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Hubbard
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kdvr-tv-31-jeremy-hubbard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wichita State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8829
+<br>ContactFirstName------Melody
+<br>ContactMiddleName------
+<br>ContactLastName-------Mendez
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------kdvr-tv-31-melody-mendez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Boston University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8830
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Headrick
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kdvr-tv-31-mike-headrick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Brigham Young University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8831
+<br>ContactFirstName------Shaul
+<br>ContactMiddleName------
+<br>ContactLastName-------Turner
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kdvr-tv-31-shaul-turner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8832
+<br>ContactFirstName------Ken
+<br>ContactMiddleName------
+<br>ContactLastName-------Clark
+<br>ContactDescription----
+<br>ContactDesignation----D565
+<br>ContactPhoto----------kdvr-tv-31-ken-clark.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ken.clark@kdvr.com
+<br>Alternative Email-----
+<br>University------------Lewis College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8833
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Broome
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kdvr-tv-31-jennifer-broome.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------South Carolina Honors College,University of South Carolina 
+<br>ContactFacebook-------http://facebook.com/JenniferBroomeFans?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/JenniferBroome
+<br>ContactURL------------http://sweptawaywithjenniferbroome.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8834
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Tomer
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kdvr-tv-31-chris-tomer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------chris.tomer@kdvr.com
+<br>Alternative Email-----
+<br>University------------ Valparaiso University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/chris-tomer/20/286/730
+<br>ContactTwitter--------http://twitter.com/#!/chris_tomer
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8835
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Carter
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kdvr-tv-31-nick-carter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nick.carter@kdvr.com
+<br>Alternative Email-----
+<br>University------------Northern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2243
+<br>ContactId-------------C8836
+<br>ContactFirstName------Deborah
+<br>ContactMiddleName------
+<br>ContactLastName-------Takahara
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------kdvr-tv-31-deborah-takahara.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------deborah.takahara@kdvr.com
+<br>Alternative Email-----
+<br>University------------University of California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

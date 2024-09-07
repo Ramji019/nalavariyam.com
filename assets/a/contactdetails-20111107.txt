@@ -1,0 +1,1582 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O144
+<br>ContactId-------------C18273
+<br>ContactFirstName------Circulation
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18274
+<br>ContactFirstName------Letters to the Editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18275
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Snell
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------macworld-jason-snell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jsnell@macworld.com
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,University of California-San Diego
+<br>ContactFacebook-------http://www.facebook.com/mwjsnell?sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/in/jasonsnell
+<br>ContactTwitter--------http://twitter.com/#!/jsnell
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18276
+<br>ContactFirstName------Christopher
+<br>ContactMiddleName------
+<br>ContactLastName-------Breen
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-christopher-breen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cbreen@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/BodyofBreen
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18277
+<br>ContactFirstName------Serenity
+<br>ContactMiddleName------
+<br>ContactLastName-------Caldwell
+<br>ContactDescription----
+<br>ContactDesignation----D15
+<br>ContactPhoto----------macworld-serenity-caldwell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------scaldwell@macworld.com
+<br>Alternative Email-----
+<br>University------------Hampshire College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/settern
+<br>ContactTwitter--------http://twitter.com/#!/settern
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18278
+<br>ContactFirstName------Alexandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Chang
+<br>ContactDescription----
+<br>ContactDesignation----D15
+<br>ContactPhoto----------macworld-alexandra-chang.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------achang@macworld.com
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,University of California-San Diego 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/alexandra-chang/23/b03/3aa
+<br>ContactTwitter--------http://twitter.com/#!/alexandra_chang
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18279
+<br>ContactFirstName------Jackie
+<br>ContactMiddleName------
+<br>ContactLastName-------Dove
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-jackie-dove.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdove@macworld.com
+<br>Alternative Email-----
+<br>University------------City University of New York-Hunter College,New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jdove
+<br>ContactTwitter--------http://twitter.com/#!/jackidove
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18276
+<br>ContactFirstName------Christopher
+<br>ContactMiddleName------
+<br>ContactLastName-------Breen
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-christopher-breen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cbreen@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/BodyofBreen
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Frakes
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-dan-frakes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dfrakes@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/danfrakes
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18280
+<br>ContactFirstName------Lex
+<br>ContactMiddleName------
+<br>ContactLastName-------Friemadn
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------macworld-lex-friemadn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lfriedman@macworld.com
+<br>Alternative Email-----
+<br>University------------Brandeis University
+<br>ContactFacebook-------http://www.facebook.com/lexfriedman
+<br>ContactLinkedin-------http://www.linkedin.com/in/lexfriedman
+<br>ContactTwitter--------http://twitter.com/#!/lexfri
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18281
+<br>ContactFirstName------Roman
+<br>ContactMiddleName------
+<br>ContactLastName-------Loyola
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-roman-loyola.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rloyola@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/romanloyola
+<br>ContactTwitter--------http://twitter.com/#!/pinatubo2000
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18282
+<br>ContactFirstName------Scholle
+<br>ContactMiddleName------
+<br>ContactLastName-------McFarland
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------macworld-scholle-mcfarland.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------smcfarland@macworld.com
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,Oberlin College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/scholle-sawyer-mcfarland/3/b22/437
+<br>ContactTwitter--------http://twitter.com/#!/schollem
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18283
+<br>ContactFirstName------Philip
+<br>ContactMiddleName------
+<br>ContactLastName-------Michaels
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------macworld-philip-michaels.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pmichaels@macworld.com
+<br>Alternative Email-----
+<br>University------------University of California, San Diego
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/philip-michaels/16/39/866
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18284
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------macworld-dan-miller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmiller@macworld.com
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,Radcliffe Publishing Procedures Course, Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/drm510
+<br>ContactTwitter--------http://twitter.com/#!/drm510
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18285
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Moren
+<br>ContactDescription----
+<br>ContactDesignation----D14
+<br>ContactPhoto----------macworld-dan-moren.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmoren@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/dmoren
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18286
+<br>ContactFirstName------Jonathan
+<br>ContactMiddleName------
+<br>ContactLastName-------Seff
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------macworld-jonathan-seff.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University, University of California- Berkeley
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jon-seff/4/6b2/609
+<br>ContactTwitter--------http://twitter.com/#!/jonseff
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Frakes
+<br>ContactDescription----
+Beats:Portable Music Players (iPod iPod Accessories iTunes) Speakers Home Entertainment Hardware Input Devices (Mice Trackballs Tablets Keyboards & Keyboard/Mouse combos)
+<br>ContactDesignation----D5
+<br>ContactPhoto----------mac-world-dan-frakes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dfrakes@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/DANFRAKES
+<br>ContactURL------------http://www.danfrakes.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C19
+<br>ContactFirstName------Jackie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dove
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------mac-world-jackie-dove.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdove@macworld.com
+<br>Alternative Email-----
+<br>University------------ City University of New York-Hunter College, New York Universit
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jdove
+<br>ContactTwitter--------http://twitter.com/_dove_
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C20
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chartier
+<br>ContactDescription----
+Beats:
+<br>ContactDesignation----NS
+<br>ContactPhoto----------mac-world-david-chartier.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/davidchartier
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/chartier
+<br>ContactURL------------http://davidchartier.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C21
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Breen
+<br>ContactDescription----
+Beats:Mac 911 Audio Listening iPod / iPhone Music Digital Video
+<br>ContactDesignation----D15
+<br>ContactPhoto----------mac-world-chris-brean.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C16
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----PC World Communications has hired Steve Fox as vice president and editorial director of PC World (www.pcworld.com) effective October 6. He has served as editor-in-chief of Affinity Labs for the past year.
+
+For much of the 1990s Fox served in editorial management positions at PC World a leading online resource for technology buyers and users with an average reach of more than eight million unique visitors and 31 million page views per month.
+
+Steve has just the right skill set for PC World as we grow rapidly to become the online resource for professional and consumer technology buyers said Mike Kisseberth president & CEO PC World Communications.
+<br>ContactDesignation----D9
+<br>ContactPhoto----------pc-world-steve-fox.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sfox@pcworld.com
+<br>Alternative Email-----
+<br>University------------Yale University
+<br>ContactFacebook-------http://www.facebook.com/stevezfox
+<br>ContactLinkedin-------http://www.linkedin.com/pub/steve-fox/0/33/684
+<br>ContactTwitter--------http://twitter.com/#!/stevezfox
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C17
+<br>ContactFirstName------Edward
+<br>ContactMiddleName------
+<br>ContactLastName-------Albro
+<br>ContactDescription----Edward N. Albro is the editor of PCWorld and writes the Beta Watch column. He?s constantly on the lookout for cool new Web services especially if they?re free. Follow Ed on Twitter: @ealbro.Beats:Web Services
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-edward-albro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ealbro@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/edwardalbro
+<br>ContactLinkedin------- 
+<br>ContactTwitter--------http://www.twitter.com/edalbropcw
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C15
+<br>ContactFirstName------Laura 
+<br>ContactMiddleName------
+<br>ContactLastName-------Blackwell
+<br>ContactDescription----Contributing editor Laura Blackwell has been named downloads editor for PCWorld. She will continue to pen her column Download This which covers downloadable software. She also has served as an associate editor and editorial coordinator at the publication. Laura has been with PCWorld since 2001.Beats:utilities
+<br>ContactDesignation----D1981
+<br>ContactPhoto----------pc-world-laura-blackwell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lblackwell@pcworld.com
+<br>Alternative Email-----
+<br>University------------Grinnell College
+<br>ContactFacebook-------http://www.facebook.com/people/Laura-Blackwell
+<br>ContactLinkedin-------http://www.linkedin.com/pub/laura-blackwell/1/b95/76a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C7
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Cross
+<br>ContactDescription----Jason Cross covers notebooks and system components from CPUs and chipsets to graphics cards and everything else. He has worked as a technology and games journalist for over a decade and you can follow him on twitter @jasoncross00.
+Beats:Laptops and Components
+<br>ContactDesignation----D1054
+<br>ContactPhoto----------pc-world-jason-cross.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcross@pcworld.com
+<br>Alternative Email-----
+<br>University------------Florida State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jason-cross/1/96/19a
+<br>ContactTwitter--------http://twitter.com/#!/jasoncross00
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C13
+<br>ContactFirstName------Anne B
+<br>ContactMiddleName------
+<br>ContactLastName-------McDonald
+<br>ContactDescription----Anne B. McDonald covers tech environmental issues for PCWorld and welcomes ideas in this area that won?t put readers to sleep. Really.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-anne-b-mcdonald.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------amcdonald@pcworld.com
+<br>Alternative Email-----
+<br>University------------Macalester College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/annemcdonald2009
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C9
+<br>ContactFirstName------Nick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mediati
+<br>ContactDescription----Nick Mediati is PCWorld?s cross-platform geek and has been hooked on technology since laying hands on an Apple IIe in grade school. His beats include HDTVs and security.
+Beats:Security Web Browsers and Operating Systems HDTVs and Monitors
+<br>ContactDesignation----D12
+<br>ContactPhoto----------pc-world-nick-mediati.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nmediati@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C11
+<br>ContactFirstName------Ginny 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mies
+<br>ContactDescription----Nick Mediati is PCWorld?s cross-platform geek and has been hooked on technology since laying hands on an Apple IIe in grade school. His beats include HDTVs and security.
+Beats:Portable Audio Devices MP3 players Cellular Phones and PDAs
+<br>ContactDesignation----D15
+<br>ContactPhoto----------pc-world-ginny-mies.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gmies@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/TheLastGinny
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C144
+<br>ContactFirstName------Andrea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Prudente
+<br>ContactDescription----
+<br>ContactDesignation----D79
+<br>ContactPhoto----------
+<br>ContactPhonenumber----904-972-3548
+<br>ContactEmail----------andrea_prudente@aviationweek.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://it.linkedin.com/pub/andrea-prudente/5/4bb/472
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C11
+<br>ContactFirstName------Ginny
+<br>ContactMiddleName------
+<br>ContactLastName-------Mies
+<br>ContactDescription----Nick Mediati is PCWorld?s cross-platform geek and has been hooked on technology since laying hands on an Apple IIe in grade school. His beats include HDTVs and security.
+Beats:Portable Audio Devices MP3 players Cellular Phones and PDAs
+<br>ContactDesignation----D15
+<br>ContactPhoto----------pc-world-ginny-mies.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gmies@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/TheLastGinny
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C124
+<br>ContactFirstName------Kathryn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Louyse
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kathrynl@artltdmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C6
+<br>ContactFirstName------Patrick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----Experienced editor and writer with a broad base of expertise in technology online media online communities video/computer games social networking health fitness mixed martial arts and issues of race gender and class. Always interested in editorial-side work particularly interested in positions that utilize Japanese language skills.
+Beats:Networking
+<br>ContactDesignation----D15
+<br>ContactPhoto----------pc-world-patrick-miller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pmiller@pcworld.com
+<br>Alternative Email-----
+<br>University------------Pitzer College
+<br>ContactFacebook-------http://www.facebook.com/patrickmillertech
+<br>ContactLinkedin-------http://www.linkedin.com/in/patrickgabrielmiller
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C123
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Young
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O145
+<br>ContactId-------------C18274
+<br>ContactFirstName------Letters to the Editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------letters@macworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O144
+<br>ContactId-------------C18273
+<br>ContactFirstName------Circulation
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-334-7458
+<br>ContactEmail----------feedback@pctoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C122
+<br>ContactFirstName------Daniella 
+<br>ContactMiddleName------
+<br>ContactLastName-------Walsh
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C10
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Moynihan
+<br>ContactDescription----Tim Moynihan covers cameras camcorders and when he has time digital pens. He enjoys baseball meatball sandwiches and napping. Follow Tim on Twitter: @aperobot but be forewarned that he sometimes uses swear words.
+Beats:Cameras and Digital Video Camcorders
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-tim-moynihan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tmoynihan@pcworld.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia, Duke University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/tmoynihan
+<br>ContactTwitter--------http://twitter.com/pcwmoynihan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O146
+<br>ContactId-------------C144
+<br>ContactFirstName------Circulation
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-334-7458
+<br>ContactEmail----------feedback@computerpoweruser.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O147
+<br>ContactId-------------C21
+<br>ContactFirstName------Circulation
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-334-7458
+<br>ContactEmail----------feedback@firstglimpsemag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C1
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Peckham
+<br>ContactDescription----
+Beats:Gaming Software Consoles and Handhelds
+<br>ContactDesignation----D15
+<br>ContactPhoto----------pc-world-matt-peckham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mpeckham@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/matt-peckham/6/2a5/72a
+<br>ContactTwitter--------http://twitter.com/game_on
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C2
+<br>ContactFirstName------Melissa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Perenson
+<br>ContactDescription----Melissa J. Perenson is a technophile who hasn?t met a new product that didn?t pique her interest. And she believes there?s no such thing as too much storage be it big (8TB in a network-attached drive!) or small (32GB on an SD Card perfect for holding gigabytes of photos and HD videos from my digital SLR).
+Beats:Mass Storage (Hard Drives Optical Drives NAS Data Burning Software & Back-Up Software) Projectors
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-melissa-perenson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mperenson@pcworld.com
+<br>Alternative Email-----
+<br>University------------Haverford College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/melissa-perenson/0/367/a28
+<br>ContactTwitter--------http://twitter.com/#!/mperenson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C121
+<br>ContactFirstName------Cherie
+<br>ContactMiddleName------Louise
+<br>ContactLastName-------Turner
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------art-ltd-magazine-cherie-turner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.huffingtonpost.com/cherie-louise-turner
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C121
+<br>ContactFirstName------Cherie
+<br>ContactMiddleName------Louise
+<br>ContactLastName-------Turner
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------art-ltd-magazine-cherie-lousie-turner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.huffingtonpost.com/cherie-louise-turner
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C2
+<br>ContactFirstName------Melissa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Perenson
+<br>ContactDescription----Melissa J. Perenson is a technophile who hasn?t met a new product that didn?t pique her interest. And she believes there?s no such thing as too much storage be it big (8TB in a network-attached drive!) or small (32GB on an SD Card perfect for holding gigabytes of photos and HD videos from my digital SLR).
+Beats:Mass Storage (Hard Drives Optical Drives NAS Data Burning Software & Back-Up Software) Projectors
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-melissa-perenson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mperenson@pcworld.com
+<br>Alternative Email-----
+<br>University------------Haverford College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/melissa-perenson/0/367/a28
+<br>ContactTwitter--------http://twitter.com/#!/mperenson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C8
+<br>ContactFirstName------Nate
+<br>ContactMiddleName------
+<br>ContactLastName-------Ralph
+<br>ContactDescription----Nate Ralph covers the wide world of desktops. No machines (or their components) are safe from his tinkering be they inch-tall media
+dispensers or liquid-cooled gaming monoliths.
+Beats:Desktops and Components
+<br>ContactDesignation----D15
+<br>ContactPhoto----------pc-world-nate-ralph.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nralph@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/NateRalph
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C390
+<br>ContactFirstName------Susie
+<br>ContactMiddleName------
+<br>ContactLastName-------Ochs
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------mac-life-susie-ochs.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/susieochs
+<br>ContactTwitter--------http://twitter.com/#!/sfsooz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C390
+<br>ContactFirstName------Susie
+<br>ContactMiddleName------
+<br>ContactLastName-------Ochs
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------mac-life-susie-ochs.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/susieochs
+<br>ContactTwitter--------http://twitter.com/#!/sfsooz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C3
+<br>ContactFirstName------Melissa
+<br>ContactMiddleName------
+<br>ContactLastName-------Riofrio
+<br>ContactDescription----Senior editor Melissa Riofrio manages printer coverage for PCWorld. Her printer background includes apprenticing on a 1950?s Vandercook letterpress and using daisywheels in the early 70?s. She welcomes your printer-related comments and kvetches.
+Beats:Printers
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-melissa-riofrio.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mriofrio@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/MRiofrioPCW?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/MRiofrioPCW
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C393
+<br>ContactFirstName------Florence
+<br>ContactMiddleName------
+<br>ContactLastName-------Ion
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------mac-life-florence-ion.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Francisco State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/florence-ion/12/8a9/8bb
+<br>ContactTwitter--------http://twitter.com/#!/ohthatflo
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C5
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sullivan
+<br>ContactDescription----
+<br>ContactDesignation----D14
+<br>ContactPhoto----------pc-world-mark-sullivan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------msullivan@pcworld.com
+<br>Alternative Email-----
+<br>University------------Northwestern University, Creighton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/thesullivan
+<br>ContactTwitter--------http://twitter.com/#!/thesullivan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C120
+<br>ContactFirstName------Peter 
+<br>ContactMiddleName------
+<br>ContactLastName-------Selz
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C392
+<br>ContactFirstName------Ray
+<br>ContactMiddleName------
+<br>ContactLastName-------Aguilera
+<br>ContactDescription----Ray is Reviews Editor at Mac
+<br>ContactDesignation----D1982
+<br>ContactPhoto----------mac-life-ray-aguilera.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,San Francisco State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/raguilera
+<br>ContactTwitter--------http://twitter.com/#!/raguilera
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C20
+<br>ContactFirstName------Elsa
+<br>ContactMiddleName------
+<br>ContactLastName-------Wenzel
+<br>ContactDescription----
+<br>ContactDesignation----D1054
+<br>ContactPhoto----------pc-world-elsa-wenzel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ewenzel@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/TechAudit
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C119
+<br>ContactFirstName------Nancy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Salem 
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C18287
+<br>ContactFirstName------Robin
+<br>ContactMiddleName------
+<br>ContactLastName-------Dick
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------mac-life-robin-dick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Art Institute of Denver,University of Kansas
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/robin-dick/5/726/5ba
+<br>ContactTwitter--------http://twitter.com/#!/robin314
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C118
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Radon
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C14
+<br>ContactFirstName------Kimberly 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brinson
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------pc-world-kimberly-brinson.jpg
+<br>ContactPhonenumber----415-974-7362
+<br>ContactEmail----------kimberly_brinson@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C117
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Paglia
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C12
+<br>ContactFirstName------Aoife M. 
+<br>ContactMiddleName------
+<br>ContactLastName-------McEvoy
+<br>ContactDescription----
+Beats:Input Devices and Accessories
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------aoife_mcevoy@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dir/Aoife/Mcevoy
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C4
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Strohmeyer
+<br>ContactDescription---- covers business and how-to topics for PCWorld. He tweets at @rstrohmeyer.
+Beats: covers business and how-to topics for PCWorld. He tweets at @rstrohmeyer.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-world-robert-strohmeyer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------robert_strohmeyer@pcworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/robertstrohmeyer
+<br>ContactLinkedin-------http://www.linkedin.com/in/rstrohmeyer
+<br>ContactTwitter--------http://twitter.com/rstrohmeyer
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C5
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sullivan
+<br>ContactDescription----
+<br>ContactDesignation----D14
+<br>ContactPhoto----------pc-world-mark-sullivan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------msullivan@pcworld.com
+<br>Alternative Email-----
+<br>University------------Northwestern University,Creighton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/thesullivan
+<br>ContactTwitter--------http://twitter.com/#!/thesullivan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O12
+<br>ContactId-------------C116
+<br>ContactFirstName------A.
+<br>ContactMiddleName------
+<br>ContactLastName-------Moret
+<br>ContactDescription----
+<br>ContactDesignation----D64
+<br>ContactPhoto----------art-ltd-magazine-a-moret.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------info@byamoret.com
+<br>Alternative Email-----
+<br>University------------University of Southern California,Studio Art Center International,Crossroads School for the Arts and Sciences
+<br>ContactFacebook-------http://www.facebook.com/Byamoret?v=info
+<br>ContactLinkedin-------http://www.linkedin.com/in/amandamoret
+<br>ContactTwitter--------http://twitter.com/#!/byamoret
+<br>ContactURL------------http://byamoret.com/welcome/about/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C391
+<br>ContactFirstName------Nic
+<br>ContactMiddleName------
+<br>ContactLastName-------Vargus
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------mac-life-nic-vargus.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Whitworth University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/nic-vargus/26/8b5/2a4
+<br>ContactTwitter--------http://twitter.com/#!/nicvargus
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C4
+<br>ContactFirstName------Cody
+<br>ContactMiddleName------
+<br>ContactLastName-------Cardarelli
+<br>ContactDescription----
+<br>ContactDesignation----D1067
+<br>ContactPhoto----------mac-life-cody-cardarelli.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cody-cardarelli/36/683/284
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C4
+<br>ContactFirstName------Cody
+<br>ContactMiddleName------
+<br>ContactLastName-------Cardarelli
+<br>ContactDescription----
+<br>ContactDesignation----D1067
+<br>ContactPhoto----------mac-life-cody-cardarelli.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cody-cardarelli/36/683/284
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C12
+<br>ContactFirstName------Letter to the editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------letters@maclife.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C389
+<br>ContactFirstName------Roberto 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baldwin
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------roberto@maclife.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/robertobaldwin
+<br>ContactTwitter--------https://twitter.com/strngwys
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O148
+<br>ContactId-------------C394
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Curthoys 
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------paul@maclife.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/pcurthoys
+<br>ContactURL------------http://cloudcomputing.sys-con.com/node/1208893
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C395
+<br>ContactFirstName------Logan
+<br>ContactMiddleName------
+<br>ContactLastName-------Decker
+<br>ContactDescription----Logan Decker is the Editor-in-Chief of PC Gamer (US Edition)
+<br>ContactDesignation----D1
+<br>ContactPhoto----------pc-gamer non disc version-logan-decker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/logandecker
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/logandecker
+<br>ContactURL------------http://www.twikeo.com/Logan+Decke-nombis.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O151
+<br>ContactId-------------C394
+<br>ContactFirstName------Letters to the Editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------comments@maximumpc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C396
+<br>ContactFirstName------Graham
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D44
+<br>ContactPhoto----------pc-gamer-non-disc-version-graham-smith.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/gonnas
+<br>ContactURL------------http://www.plsearch.com/Graham+Smith
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C395
+<br>ContactFirstName------Logan
+<br>ContactMiddleName------
+<br>ContactLastName-------Decker
+<br>ContactDescription----Logan Decker is the Editor-in-Chief of PC Gamer (US Edition)
+<br>ContactDesignation----D1
+<br>ContactPhoto----------pc-gamer-non-disc-version-logan-decker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/logandecker
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/logandecker
+<br>ContactURL------------http://www.twikeo.com/Logan+Decke-nombis.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O151
+<br>ContactId-------------C404
+<br>ContactFirstName------Katherine
+<br>ContactMiddleName------
+<br>ContactLastName-------Stevenson
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------maximum-pc-(non-disc-version)-katherine-stevenson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------katherine@maximumpc.com
+<br>Alternative Email-----
+<br>University------------University of California, Berkeley
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/katherine-stevenson/11/78a/501
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O151
+<br>ContactId-------------C404
+<br>ContactFirstName------Katherine
+<br>ContactMiddleName------
+<br>ContactLastName-------Stevenson
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------katherine@maximumpc.com
+<br>Alternative Email-----
+<br>University------------University of California, Berkeley
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/katherine-stevenson/11/78a/501
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C397
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Comiskey
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------pc-gamer-non-disc-version-chris-comiskey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Johnson State College,Community College of the Air Force
+<br>ContactFacebook-------http://www.facebook.com/chris.comiskey1
+<br>ContactLinkedin-------http://www.linkedin.com/pub/christopher-comiskey/8/703/733
+<br>ContactTwitter--------http://twitter.com/#!/havoc06
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C398
+<br>ContactFirstName------Evan
+<br>ContactMiddleName------
+<br>ContactLastName-------Lahti
+<br>ContactDescription----Evan Lahti is Senior Editor at PC Gamer. His gaming specialties are shooters racing military simulation and postmodern Chilean first-person brawlers.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------pc-gamer-non-disc-version-evan-lahti.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------North Central College
+<br>ContactFacebook-------http://www.facebook.com/evan.lahti?sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/pub/evan-lahti/5/a95/a04
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.pcgamer.com/author/elahti/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C399
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Augustine
+<br>ContactDescription----Josh likes people. More specifically he likes to backstab them repeatedly in every online game out there
+<br>ContactDesignation----D11
+<br>ContactPhoto----------pc-gamer non disc version-josh-augustine.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California, Irvine
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/joshaugustine
+<br>ContactTwitter--------http://twitter.com/#!/jaugustine
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C400
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Edwards
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------pc-gamer-non-disc-version-tim-edwards.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Birmingham
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://uk.linkedin.com/in/pcgtim
+<br>ContactTwitter--------http://twitter.com/#!/hanknova
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O149
+<br>ContactId-------------C395
+<br>ContactFirstName------Logan
+<br>ContactMiddleName------
+<br>ContactLastName-------Decker
+<br>ContactDescription----Logan Decker is the Editor-in-Chief of PC Gamer (US Edition)
+<br>ContactDesignation----D1
+<br>ContactPhoto----------pc-gamer-non-disc-version-logan-decker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/logandecker
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/logandecker
+<br>ContactURL------------http://www.twikeo.com/Logan+Decke-nombis.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>

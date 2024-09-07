@@ -1,0 +1,401 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O101
+<br>ContactId-------------C284
+<br>ContactFirstName------Stacy
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D170
+<br>ContactPhoto----------christianity-today-stacy-smith.jpg
+<br>ContactPhonenumber----630-260-6202X4334
+<br>ContactEmail----------ssmith@christianitytoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/stacy-smith/11/4a9/a7
+<br>ContactTwitter--------http://twitter.com/sys1776
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001 
+<br>ContactId-------------C27333
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------Natzke
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------hoistein-world-dave-natzke.jpg
+<br>ContactPhonenumber----800-561-2933
+<br>ContactEmail----------dnatzke@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison
+<br>ContactFacebook-------http://www.facebook.com/people/Dave-Natzke/1706093322
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dave-natzke/13/211/821
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9999
+<br>ContactId-------------C27334
+<br>ContactFirstName------Dennis 
+<br>ContactMiddleName------
+<br>ContactLastName-------McFarlane
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmcfarlane@hobbypub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001 
+<br>ContactId-------------C27335
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Montandon
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------hoistein-world-john-montandon.jpg
+<br>ContactPhonenumber----310-375-7353 
+<br>ContactEmail----------jmontandon@multiagmedia.com
+<br>Alternative Email-----
+<br>University------------Pepperdine University,Texas Tech University
+<br>ContactFacebook-------http://www.facebook.com/john.montandon
+<br>ContactLinkedin-------http://www.linkedin.com/pub/john-montandon/1/924/153
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.byhisownblood.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9999
+<br>ContactId-------------C27336
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gherman
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------publisher@hobbymerchandiser.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001 
+<br>ContactId-------------C27337
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------Knutsen
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-334-1904X235
+<br>ContactEmail----------kknutsen@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9999
+<br>ContactId-------------C27334
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------McFarlane
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------hobby-merchandiser-dennis-mcfarlane.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmcfarlane@hobbypub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001 
+<br>ContactId-------------C27338
+<br>ContactFirstName------Ron
+<br>ContactMiddleName------
+<br>ContactLastName-------Goble
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------hoistein-world-ron-goble.jpg
+<br>ContactPhonenumber----800-934-7872
+<br>ContactEmail----------rgoble@dairybusiness.com
+<br>Alternative Email-----
+<br>University------------California State University-Fresno
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ron-goble/1b/461/953
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9999
+<br>ContactId-------------C27339
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gherman
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10001 
+<br>ContactId-------------C27340
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D139
+<br>ContactPhoto----------
+<br>ContactPhonenumber----910-509-0100
+<br>ContactEmail----------ssmith@multiagmedia.com
+<br>Alternative Email-----
+<br>University------------Wake Forest University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/scott-smith/1/122/449
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9999
+<br>ContactId-------------C27334
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------McFarlane
+<br>ContactDescription----
+<br>ContactDesignation----D23
+<br>ContactPhoto----------hobby-merchandiser-dennis-mcfarlane.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmcfarlane@hobbypub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10002
+<br>ContactId-------------C27341
+<br>ContactFirstName------Meg
+<br>ContactMiddleName------
+<br>ContactLastName-------Sinclair
+<br>ContactDescription----Meg Sinclair developed an interest in holistic health care at an early age under the influence of her mother a home economics teacher with a strong interest in natural foods and nutrition. In the early 1970\'s Meg moved from Michigan to the San Francisco Bay area where she began a serious study of aikido energy awareness and meditation. While in San Francisco she became familiar with acupuncture and Chinese herbal medicine making them part of her personal approach to health maintenance. She obtained her bachelor\'s degree in piano and composition from Mills College Oakland CA. Since moving to New York City 25 years ago she has continued her studies of music Yi Jin Jing and other mind-body practices meditation and sacred dance. Holistic Primary Care grew out of her desire to create a positive influence on health care in the US and to promote holistic approaches to health and healing.
+<br>ContactDesignation----D53
+<br>ContactPhoto----------holistic-primary-care-meg-sinclair.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Meg@Holisticprimarycare.net
+<br>Alternative Email-----
+<br>University------------Mills College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/meg-sinclair/3/b97/305
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10002
+<br>ContactId-------------C27342
+<br>ContactFirstName------Erik L. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldman
+<br>ContactDescription----Erik L. Goldman began his career as a medical journalist in 1985 after graduating from the State University of New York Binghamton with a dual bachelor\'s degree in biology and philosophy. From 1990 to 2000 he was the New York Bureau Chief for International Medical News Group a division of Elsevier Health Sciences that publishes 6 independent specialty-oriented medical newspapers. Prior to joining IMNG he worked as a freelance medical writer and editor on a diverse spectrum of projects and publications ranging from pharmaceutical marketing campaigns and to medical atlases and academic medical text books 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Erik@Holisticprimarycare.net
+<br>Alternative Email-----
+<br>University------------State University of New York,Binghamton
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9998
+<br>ContactId-------------C27343
+<br>ContactFirstName------Stephanie
+<br>ContactMiddleName------
+<br>ContactLastName-------Staton
+<br>ContactDescription----Stephanie Staton is the editor for Hobby Farms Hobby Farm Home HobbyFarms.com and the Popular Farming Series based in Lexington Ky.She became enamored with a good story from an early age and followed this passion for reading and writing in college where she graduated with a degree in English and studied communication and graphic design. After graduating she served as associate editor for the speech-recognition technology magazine Speech Technology before joining the Hobby Farm team
+<br>ContactDesignation----D11
+<br>ContactPhoto----------hobby-farms homes-stephanie-staton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/stephanie-staton/a/747/143
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O9998
+<br>ContactId-------------C27343
+<br>ContactFirstName------Stephanie
+<br>ContactMiddleName------
+<br>ContactLastName-------Staton
+<br>ContactDescription----Stephanie Staton is the editor for Hobby Farms Hobby Farm Home HobbyFarms.com and the Popular Farming Series based in Lexington Ky.She became enamored with a good story from an early age and followed this passion for reading and writing in college where she graduated with a degree in English and studied communication and graphic design. After graduating she served as associate editor for the speech-recognition technology magazine Speech Technology before joining the Hobby Farm team
+<br>ContactDesignation----D11
+<br>ContactPhoto----------hobby-farms homes-stephanie-staton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/stephanie-staton/a/747/143
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10004
+<br>ContactId-------------C27344
+<br>ContactFirstName------Editorial 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------edit@thr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10004
+<br>ContactId-------------C27345
+<br>ContactFirstName------Website Contact
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------product@thr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O9997
+<br>ContactId-------------C27346
+<br>ContactFirstName------Steve A
+<br>ContactMiddleName------
+<br>ContactLastName-------Larson
+<br>ContactDescription----Since 1969 Larson has been with Hoard’s Dairyman first serving as associate editor before being named managing editor in 1998. During his time with the magazine he has been invited to make presentations in 29 states three Canadian provinces and Mexico.His duties include preparing editorial commentary and Washington news. Larson is responsible for the magazine’s coverage of milk marketing and dairy policy dairy product promotion feeding and nutrition and mastitis and herd health. He has campaigned vigorously for a strong dairy-farmer-funded product promotion and research effort as well as supported national voluntary industry-controlled programs to improve incomes of U.S. dairy farm families. He also works closely with the 350-cow Hoard’s Dairyman Farm.
+<br>ContactDesignation----D3
+<br>ContactPhoto----------hoards-dairyman-steve-a-larson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------editors@hoards.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison, Kansas State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/steve-larson/20/828/361
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10008
+<br>ContactId-------------C27347
+<br>ContactFirstName------Editorial 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@work4.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10008
+<br>ContactId-------------C27348
+<br>ContactFirstName------General Inquiries
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------homebuilder@work4.ca
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

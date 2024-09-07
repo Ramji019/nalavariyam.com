@@ -1,0 +1,361 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17004
+<br>ContactFirstName------Dave 
+<br>ContactMiddleName------
+<br>ContactLastName-------Deeney 
+<br>ContactDescription----
+<br>ContactDesignation----D697
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ddeeney@wsu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17006
+<br>ContactFirstName------TJ 
+<br>ContactMiddleName------
+<br>ContactLastName-------Tate
+<br>ContactDescription----
+<br>ContactDesignation----D1737
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tatetj@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17007
+<br>ContactFirstName------Courtney
+<br>ContactMiddleName------
+<br>ContactLastName-------Flatt
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------kwsu-am-1250-npr-courtney-flatt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------courtney.flatt@wsu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Courtney-Flatt/217435394969390
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/courtneyflatt
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17008
+<br>ContactFirstName------Tami 
+<br>ContactMiddleName------
+<br>ContactLastName-------Butler
+<br>ContactDescription----
+<br>ContactDesignation----D54
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------butlert@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17009
+<br>ContactFirstName------Brennan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dulaney
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bdulaney@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17010
+<br>ContactFirstName------Andrea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Byrd
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------abyrd@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17011
+<br>ContactFirstName------Nancy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Robertson
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------robertn@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17012
+<br>ContactFirstName------Sean 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carpenter
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------scarpenter@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17013
+<br>ContactFirstName------Colin  
+<br>ContactMiddleName------
+<br>ContactLastName-------Fogarty
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cfogarty@opb.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/colin-fogarty/b/324/879
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17014
+<br>ContactFirstName------Becky 
+<br>ContactMiddleName------
+<br>ContactLastName-------DeClement
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rdeclement@wcbi.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17015
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----662-328-1224
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17016
+<br>ContactFirstName------Sports
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----662-245-1003
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17017
+<br>ContactFirstName------Weather
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----662-245-1003
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2728
+<br>ContactId-------------C17018
+<br>ContactFirstName------Contact WCBI TV 4
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----662-327-4444
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17019
+<br>ContactFirstName------Jamie  
+<br>ContactMiddleName------
+<br>ContactLastName-------Huber
+<br>ContactDescription----
+<br>ContactDesignation----D1738
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17020
+<br>ContactFirstName------Austin
+<br>ContactMiddleName------
+<br>ContactLastName-------Jenkins
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------kwsu-am-1250-npr-austin-jenkins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ajenkins@kuow.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4547
+<br>ContactId-------------C17021
+<br>ContactFirstName------Anna  
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------aking@wsu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

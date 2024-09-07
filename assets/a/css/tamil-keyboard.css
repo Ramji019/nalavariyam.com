@@ -1,0 +1,39 @@
+input.tamil-text
+{
+	width:350px;
+	height: 25px;
+}
+input.keyboard_button
+{
+	FONT-SIZE: 20px;
+	FONT-FAMILY: verdana;
+	width:40px;
+	height:30px;
+	color:#FFFFFF;
+	background:#AA0000;
+	border: #000000 1px;
+}
+input.inner_keyboard_button
+{
+	FONT-SIZE: 20px;
+	FONT-FAMILY: verdana;
+	width:85px;
+	height:40px;
+	color:#FFFFFF;
+	background:#009900;
+	border: #000000 1px;
+}
+#uyir-letters, #uyir-meie-letters-01, #uyir-meie-letters-02, #uyir-meie-letters-03, #uyir-meie-letters-04, #uyir-meie-letters-05, #uyir-meie-letters-06, #uyir-meie-letters-07, #uyir-meie-letters-08, #uyir-meie-letters-09, #uyir-meie-letters-10, #uyir-meie-letters-11, #uyir-meie-letters-12, #uyir-meie-letters-13, #uyir-meie-letters-14, #uyir-meie-letters-15, #uyir-meie-letters-16, #uyir-meie-letters-17, #uyir-meie-letters-18, #uyir-meie-letters-ja, #uyir-meie-letters-sa, #uyir-meie-letters-sha, #uyir-meie-letters-ha, #uyir-meie-letters-sri, 
+{
+	background-color: #FFFFFF;
+	padding: 0px;
+	color: white;
+	display: none;
+}
+
+div.search_by_contents
+{
+	background-color: #FFFFFF;
+	padding: 0px;
+	color: white;
+}

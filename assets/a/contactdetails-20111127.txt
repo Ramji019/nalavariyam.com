@@ -1,0 +1,701 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19889
+<br>ContactFirstName------Kathie
+<br>ContactMiddleName------Jillson
+<br>ContactLastName-------Goodwin
+<br>ContactDescription----
+<br>ContactDesignation----D2255
+<br>ContactPhoto----------unh-law-magazine-kathie-goodwin.jpg
+<br>ContactPhonenumber----603-513-5206
+<br>ContactEmail----------kathie.goodwin@law.unh.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19889
+<br>ContactFirstName------Kathie
+<br>ContactMiddleName------Jillson
+<br>ContactLastName-------Goodwin
+<br>ContactDescription----
+<br>ContactDesignation----D2255
+<br>ContactPhoto----------unh-law-magazine-kathie-goodwin.jpg
+<br>ContactPhonenumber----603-513-5206
+<br>ContactEmail----------kathie.goodwin@law.unh.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/kathie.goodwin
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19889
+<br>ContactFirstName------Kathie
+<br>ContactMiddleName------Jillson
+<br>ContactLastName-------Goodwin
+<br>ContactDescription----
+<br>ContactDesignation----D2255
+<br>ContactPhoto----------unh-law-magazine-kathie-goodwin.jpg
+<br>ContactPhonenumber----603-513-5206
+<br>ContactEmail----------kathie.goodwin@law.unh.edu
+<br>Alternative Email-----
+<br>University------------University of New Hampshire
+<br>ContactFacebook-------http://www.facebook.com/kathie.goodwin
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19890
+<br>ContactFirstName------Matthew
+<br>ContactMiddleName------
+<br>ContactLastName-------Jenks
+<br>ContactDescription----
+<br>ContactDesignation----D2256
+<br>ContactPhoto----------unh-law-magazine-matthew-jenks.jpg
+<br>ContactPhonenumber----603-513-5211
+<br>ContactEmail----------matthew.jenks@law.unh.edu
+<br>Alternative Email-----
+<br>University------------Florida State University,SUNY Brockport
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/matthew-jenks/26/3/a41
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19891
+<br>ContactFirstName------Bonnie
+<br>ContactMiddleName------
+<br>ContactLastName-------Morrison
+<br>ContactDescription----
+<br>ContactDesignation----D2257
+<br>ContactPhoto----------unh-law-magazine-bonnie-morrison.jpg
+<br>ContactPhonenumber----603-513-5201
+<br>ContactEmail----------bonnie.morrison@law.unh.edu
+<br>Alternative Email-----
+<br>University------------Pierce College for Woman
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19892
+<br>ContactFirstName------Sally
+<br>ContactMiddleName------
+<br>ContactLastName-------Oliver
+<br>ContactDescription----
+<br>ContactDesignation----D2258
+<br>ContactPhoto----------unh-law-magazine-sally-oliver.jpg
+<br>ContactPhonenumber----603-513-5159
+<br>ContactEmail----------sally-jo.oliver@law.unh.edu
+<br>Alternative Email-----
+<br>University------------Husson College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19893
+<br>ContactFirstName------Jan M.
+<br>ContactMiddleName------
+<br>ContactLastName-------Neuman
+<br>ContactDescription----
+<br>ContactDesignation----D939
+<br>ContactPhoto----------unh-law-magazine-jan-m-neuman.jpg
+<br>ContactPhonenumber----603-513-5179
+<br>ContactEmail----------jan.neuman@law.unh.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19894
+<br>ContactFirstName------Lory
+<br>ContactMiddleName------
+<br>ContactLastName-------Attalla
+<br>ContactDescription----
+<br>ContactDesignation----D2259
+<br>ContactPhoto----------unh-law-magazine-lory-attalla.jpg
+<br>ContactPhonenumber----603-513-5103
+<br>ContactEmail----------lory.attalla@law.unh.edu
+<br>Alternative Email-----
+<br>University------------Franklin Pierce College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19895
+<br>ContactFirstName------Christine
+<br>ContactMiddleName------
+<br>ContactLastName-------Boisvert
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------unh-law-magazine-christine-boisvert.jpg
+<br>ContactPhonenumber----603-513-5197
+<br>ContactEmail----------christine.boisvert@law.unh.edu
+<br>Alternative Email-----housing@law.unh.edu
+<br>University------------Franklin Pierce College
+<br>ContactFacebook-------http://www.facebook.com/people/Christine-Boisvert/579016612
+<br>ContactLinkedin-------http://www.linkedin.com/pub/christine-boisvert/5/689/356
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6608
+<br>ContactId-------------C19896
+<br>ContactFirstName------Lyla
+<br>ContactMiddleName------
+<br>ContactLastName-------Mulkhey
+<br>ContactDescription----
+<br>ContactDesignation----D2186
+<br>ContactPhoto----------unh-law-magazine-lyla-mulkhey.jpg
+<br>ContactPhonenumber----603-513-5119
+<br>ContactEmail----------lyla.mulkhey@law.unh.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6682
+<br>ContactId-------------C19897
+<br>ContactFirstName------JILLIAN L
+<br>ContactMiddleName------
+<br>ContactLastName-------GUIN
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Alabama The University of Alabama School of Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jillguin
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6682
+<br>ContactId-------------C19898
+<br>ContactFirstName------JULIA 
+<br>ContactMiddleName------CAROLE 
+<br>ContactLastName-------JAMES
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6682
+<br>ContactId-------------C19899
+<br>ContactFirstName------LAURA 
+<br>ContactMiddleName------LEIGH 
+<br>ContactLastName-------LATTA
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19900
+<br>ContactFirstName------Lawrence
+<br>ContactMiddleName------
+<br>ContactLastName-------Sager
+<br>ContactDescription----
+<br>ContactDesignation----D804
+<br>ContactPhoto----------ut-law-lawrence-sager.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia University,Pomona College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19901
+<br>ContactFirstName------Alejandro O. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinez
+<br>ContactDescription----
+<br>ContactDesignation----D2260
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-2752
+<br>ContactEmail----------amartinez@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19900
+<br>ContactFirstName------Lawrence
+<br>ContactMiddleName------
+<br>ContactLastName-------Sager
+<br>ContactDescription----
+<br>ContactDesignation----D804
+<br>ContactPhoto----------ut-law-lawrence-sager.jpg
+<br>ContactPhonenumber----512-232-1120
+<br>ContactEmail----------lsager@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------Columbia University,Pomona College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19902
+<br>ContactFirstName------Admissions
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-1200
+<br>ContactEmail----------admissions@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19903
+<br>ContactFirstName------Alumni Association
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-1118
+<br>ContactEmail----------alumni@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19904
+<br>ContactFirstName------Calendar&Events
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-1223
+<br>ContactEmail----------specialevents@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19905
+<br>ContactFirstName------Career Services Office
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-1150
+<br>ContactEmail----------cso@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19906
+<br>ContactFirstName------Communications Office
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-471-7330
+<br>ContactEmail----------communications@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19907
+<br>ContactFirstName------Continuing Legal Education
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-475-6700
+<br>ContactEmail----------customer-service@utcle.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19908
+<br>ContactFirstName------Student Affairs Office
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----512-232-1140
+<br>ContactEmail----------studentaffairs@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6610
+<br>ContactId-------------C19909
+<br>ContactFirstName------WebMaster
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------webmaster@law.utexas.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6611
+<br>ContactId-------------C19910
+<br>ContactFirstName------Contact 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tactical-life@harris-pub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19911
+<br>ContactFirstName------Delano
+<br>ContactMiddleName------
+<br>ContactLastName-------Amaguin
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------
+<br>ContactPhonenumber----888-732-6461
+<br>ContactEmail----------delano@americancopmagazine.com
+<br>Alternative Email-----
+<br>University------------San Diego State University-California State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/delano-amaguin/8/8b7/909
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19912
+<br>ContactFirstName------Tracy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D2261
+<br>ContactPhoto----------
+<br>ContactPhonenumber----888-651-7566
+<br>ContactEmail----------tracy@fmgpublications.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19913
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------McGregor
+<br>ContactDescription----
+<br>ContactDesignation----D2262
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-553-7780
+<br>ContactEmail----------scott@americanhandgunner.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19914
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@americanhandgunner.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19914
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----858-605-0244
+<br>ContactEmail----------editor@americanhandgunner.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6612
+<br>ContactId-------------C19915
+<br>ContactFirstName------Production
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----858-605-0207
+<br>ContactEmail----------production@americancopmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6613
+<br>ContactId-------------C19916
+<br>ContactFirstName------Dennis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mihalsky
+<br>ContactDescription----
+<br>ContactDesignation----D2263
+<br>ContactPhoto----------
+<br>ContactPhonenumber----646-695-7042
+<br>ContactEmail----------dennis@rosengrouppr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6613
+<br>ContactId-------------C19917
+<br>ContactFirstName------Tara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Higgins
+<br>ContactDescription----
+<br>ContactDesignation----D2263
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-862-4372
+<br>ContactEmail----------tara@rosengrouppr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6613
+<br>ContactId-------------C19918
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-887-6400
+<br>ContactEmail----------sub.services@kiplinger.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6682
+<br>ContactId-------------C19919
+<br>ContactFirstName------WILLIAM A
+<br>ContactMiddleName------
+<br>ContactLastName-------LATTIMORE II
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

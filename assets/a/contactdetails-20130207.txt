@@ -1,0 +1,901 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2953
+<br>ContactId-------------C29801
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----419-372-2700
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C4112
+<br>ContactFirstName------Matthew  
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee	
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29802
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----405-478-3000
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29803
+<br>ContactFirstName------Katy
+<br>ContactMiddleName------
+<br>ContactLastName-------Blakey
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------koco-tv-5-abc-katy-blakey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kblakey@hearst.com
+<br>Alternative Email-----
+<br>University------------Southern Methodist University
+<br>ContactFacebook-------www.facebook.com/katy.blakey
+<br>ContactLinkedin-------www.linkedin.com/pub/katy-blakey/32/229/27b
+<br>ContactTwitter--------twitter.com/KatyJBlakey
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29804
+<br>ContactFirstName------Rachel
+<br>ContactMiddleName------
+<br>ContactLastName-------Calderon
+<br>ContactDescription----
+<br>ContactDesignation----D565
+<br>ContactPhoto----------koco-tv-5-abc-rachel-calderon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Southern California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/RachelTRAFFIC
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29805
+<br>ContactFirstName------Naveen
+<br>ContactMiddleName------
+<br>ContactLastName-------Dhaliwal
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------koco-tv-5-abc-naveen-dhaliwal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Rutgers University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/naveen-dhaliwal/4a/3a5/13b
+<br>ContactTwitter--------twitter.com/NaveenDhaliwal
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29806
+<br>ContactFirstName------Wendell
+<br>ContactMiddleName------
+<br>ContactLastName-------Edwards
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------koco-tv-5-abc-wendell-edwards.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Abilene Christian University
+<br>ContactFacebook-------www.facebook.com/KocoWendellEdwards
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/mrwendell29
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29807
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Folger
+<br>ContactDescription----
+<br>ContactDesignation----D660
+<br>ContactPhoto----------koco-tv-5-abc-paul-folger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pfolger@hearst.com
+<br>Alternative Email-----
+<br>University------------University of North Carolina – Ashville
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/paul-folger/11/62b/590
+<br>ContactTwitter--------twitter.com/PaulFolger
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29808
+<br>ContactFirstName------Sally
+<br>ContactMiddleName------
+<br>ContactLastName-------Kidd
+<br>ContactDescription----
+<br>ContactDesignation----D1068
+<br>ContactPhoto----------koco-tv-5-abc-sally-kidd.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Louisiana State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29809
+<br>ContactFirstName------Nikole
+<br>ContactMiddleName------
+<br>ContactLastName-------Killion
+<br>ContactDescription----
+<br>ContactDesignation----D129
+<br>ContactPhoto----------koco-tv-5-abc-nikole-killion.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29810
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Passoth
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------koco-tv-5-abc-kim-passoth.jpg
+<br>ContactPhonenumber----405-620-5050
+<br>ContactEmail----------kpassoth@hearst.com
+<br>Alternative Email-----
+<br>University------------University of California
+<br>ContactFacebook-------www.facebook.com/kpassoth
+<br>ContactLinkedin-------www.linkedin.com/pub/kim-passoth/45/806/300
+<br>ContactTwitter--------twitter.com/kpassoth
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29811
+<br>ContactFirstName------Erielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Reshef
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------koco-tv-5-abc-erielle-reshef.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------storyideas@koco.com
+<br>Alternative Email-----
+<br>University------------Indiana University
+<br>ContactFacebook-------www.facebook.com/ErielleReshefKOCO
+<br>ContactLinkedin-------il.linkedin.com/pub/erielle-reshef/27/a54/b26
+<br>ContactTwitter--------twitter.com/ErielleReshef
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29812
+<br>ContactFirstName------Jessica
+<br>ContactMiddleName------
+<br>ContactLastName-------Schambach
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------koco-tv-5-abc-jessica-schambach.jpg
+<br>ContactPhonenumber----405-478-6649
+<br>ContactEmail----------jschambach@hearst.com
+<br>Alternative Email-----
+<br>University------------Texas Christian University
+<br>ContactFacebook-------www.facebook.com/pages/Jessica-Schambach/431259580258307
+<br>ContactLinkedin-------www.linkedin.com/pub/jessica-schambach/8/13b/457
+<br>ContactTwitter--------twitter.com/SchambachJess
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29813
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Seiden
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------koco-tv-5-abc-michael-seiden.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mseiden@hearst.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/mseidenkoco5
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29814
+<br>ContactFirstName------Maggie
+<br>ContactMiddleName------
+<br>ContactLastName-------Stokes
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------koco-tv-5-abc-maggie-stokes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/MaggieAStokes
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29815
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Thomas
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------koco-tv-5-abc-dan-thomas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oklahoma State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/dan-thomas/35/332/ab6
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29816
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Irzyk
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------koco-tv-5-abc-bob-irzyk.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Southern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/bob-irzyk/18/7a3/b89
+<br>ContactTwitter--------twitter.com/bobirzyk
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29817
+<br>ContactFirstName------Bryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Keating
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------koco-tv-5-abc-bryan-keating.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oklahoma State University
+<br>ContactFacebook-------www.facebook.com/bryan.keating.50
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29818
+<br>ContactFirstName------Carson
+<br>ContactMiddleName------
+<br>ContactLastName-------Cunningham
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------koco-tv-5-abc-carson-cunningham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ccunningham@hearst.com
+<br>Alternative Email-----
+<br>University------------Oklahoma State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/carson-cunningham/33/180/658
+<br>ContactTwitter--------twitter.com/CarsonC5
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29819
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Carano
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------koco-tv-5-abc-steve-carano.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------www.facebook.com/steve.carano.9
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/okweatherman/following
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29820
+<br>ContactFirstName------Danielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Dozier
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------koco-tv-5-abc-danielle-dozier.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of North Carolina-Asheville
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/DanielleDozier
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29821
+<br>ContactFirstName------Damon
+<br>ContactMiddleName------
+<br>ContactLastName-------Lane
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------koco-tv-5-abc-damon-lane.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of North Carolina-Asheville
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/damon-lane/7/672/45b
+<br>ContactTwitter--------twitter.com/KOCOdamonlane
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29822
+<br>ContactFirstName------Rusty
+<br>ContactMiddleName------
+<br>ContactLastName-------Mccranie
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------koco-tv-5-abc-rusty-mccranie.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2954
+<br>ContactId-------------C29823
+<br>ContactFirstName------Brad
+<br>ContactMiddleName------
+<br>ContactLastName-------Sowder
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------koco-tv-5-abc-brad-sowder.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of North Carolina-Asheville
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/in/bradsowder
+<br>ContactTwitter--------twitter.com/BradSowderWX
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29824
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----405-843-2525
+<br>ContactEmail----------news@okcfox.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29825
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Brooks
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kokh-tv-25-fox-mike-brooks.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oklahoma State University
+<br>ContactFacebook-------www.facebook.com/pages/Mike-Brooks-OKC-FOX-25/341636835923128
+<br>ContactLinkedin-------www.linkedin.com/pub/michael-brooks/9/80b/71a
+<br>ContactTwitter--------twitter.com/MikeBrooksOKC
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29826
+<br>ContactFirstName------Jaime
+<br>ContactMiddleName------
+<br>ContactLastName-------Cerreta
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kokh-tv-25-fox-jaime-cerreta.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcerreta@okcfox.com
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------www.facebook.com/cerreta
+<br>ContactLinkedin-------www.linkedin.com/pub/jaime-cerreta/9/349/405
+<br>ContactTwitter--------twitter.com/cerretanews
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29827
+<br>ContactFirstName------Kisha
+<br>ContactMiddleName------
+<br>ContactLastName-------Henry
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kokh-tv-25-fox-kisha-henry.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lmhenry@okcfox.com
+<br>Alternative Email-----
+<br>University------------University of Central Missouri
+<br>ContactFacebook-------www.facebook.com/pages/Kisha-Henry/288674574530037
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/kishahenry
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29828
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Taylor
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kokh-tv-25-fox-mark-taylor.jpg
+<br>ContactPhonenumber----405-520-1648
+<br>ContactEmail----------metaylor@okcfox.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------www.facebook.com/TaylordNews
+<br>ContactLinkedin-------www.linkedin.com/pub/mark-taylor/52/22/512
+<br>ContactTwitter--------twitter.com/addtaylor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29829
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Young
+<br>ContactDescription----
+<br>ContactDesignation----D349
+<br>ContactPhoto----------kokh-tv-25-fox-bill-young.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oklahoma City University
+<br>ContactFacebook-------www.facebook.com/pages/Bill-Young/126024090889880
+<br>ContactLinkedin-------www.linkedin.com/pub/bill-young/7/748/6a5
+<br>ContactTwitter--------twitter.com/BillYoungFOX25
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29830
+<br>ContactFirstName------Liz
+<br>ContactMiddleName------
+<br>ContactLastName-------Dueweke
+<br>ContactDescription----
+<br>ContactDesignation----D349
+<br>ContactPhoto----------kokh-tv-25-fox-liz-dueweke.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oakland University
+<br>ContactFacebook-------www.facebook.com/pages/Liz-Dueweke/221927744508279
+<br>ContactLinkedin-------www.linkedin.com/pub/liz-dueweke/44/4b7/976
+<br>ContactTwitter--------twitter.com/lizdueweke
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29831
+<br>ContactFirstName------Marisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Mendelson
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------kokh-tv-25-fox-marisa-mendelson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mlmendelson@okcfox.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/marisamendelsonfanpage
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/marisamendelson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Young
+<br>ContactDescription----
+<br>ContactDesignation----D349
+<br>ContactPhoto----------kokh-tv-25-fox-bill-young.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Oklahoma City University
+<br>ContactFacebook-------www.facebook.com/pages/Bill-Young/126024090889880
+<br>ContactLinkedin-------www.linkedin.com/pub/bill-young/7/748/6a5
+<br>ContactTwitter--------twitter.com/BillYoungFOX25
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29832
+<br>ContactFirstName------Phil
+<br>ContactMiddleName------
+<br>ContactLastName-------Cross
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------kokh-tv-25-fox-phil-cross.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pcross@okcfox.com
+<br>Alternative Email-----
+<br>University------------Missouri Southern State University
+<br>ContactFacebook-------www.facebook.com/PhilCrossFox25
+<br>ContactLinkedin-------www.linkedin.com/in/philcross
+<br>ContactTwitter--------twitter.com/philsnews
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------
+<br>ContactFirstName------Phil
+<br>ContactMiddleName------
+<br>ContactLastName-------Cross
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------kokh-tv-25-fox-phil-cross.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pcross@okcfox.com
+<br>Alternative Email-----
+<br>University------------Missouri Southern State University
+<br>ContactFacebook-------www.facebook.com/PhilCrossFox25
+<br>ContactLinkedin-------www.linkedin.com/in/philcross
+<br>ContactTwitter--------twitter.com/philsnews
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29833
+<br>ContactFirstName------Priscilla
+<br>ContactMiddleName------
+<br>ContactLastName-------Luong
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kokh-tv-25-fox-priscilla-luong.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of California-Davis
+<br>ContactFacebook-------www.facebook.com/pages/Priscilla-Luong/219406884823056
+<br>ContactLinkedin-------www.linkedin.com/in/priscillaluong
+<br>ContactTwitter--------twitter.com/priscillaluong
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29834
+<br>ContactFirstName------Danielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Dupuy
+<br>ContactDescription----
+<br>ContactDesignation----D1216
+<br>ContactPhoto----------kokh-tv-25-fox-danielle-dupuy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Pepperdine University-Malibu
+<br>ContactFacebook-------www.facebook.com/danielle.dupuy.71
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29835
+<br>ContactFirstName------Terre
+<br>ContactMiddleName------
+<br>ContactLastName-------Gables
+<br>ContactDescription----
+<br>ContactDesignation----D1216
+<br>ContactPhoto----------kokh-tv-25-fox-terre-gables.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/pages/Terre-Gables/274391705967253
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/TGables
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29836
+<br>ContactFirstName------Tiffany
+<br>ContactMiddleName------
+<br>ContactLastName-------Tatro
+<br>ContactDescription----
+<br>ContactDesignation----D1216
+<br>ContactPhoto----------kokh-tv-25-fox-tiffany-tatro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/tiffany-tatro/17/764/460
+<br>ContactTwitter--------twitter.com/TiffanyTatro
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29837
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------George
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------kokh-tv-25-fox-jeff-george.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/pages/Jeff-George/306615222729506
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29838
+<br>ContactFirstName------Jon
+<br>ContactMiddleName------
+<br>ContactLastName-------Slater
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------kokh-tv-25-fox-jon-slater.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------www.facebook.com/slaterweather
+<br>ContactLinkedin-------www.linkedin.com/pub/jon-slater/13/355/31b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29839
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Apon
+<br>ContactDescription----
+<br>ContactDesignation----D748
+<br>ContactPhoto----------kokh-tv-25-fox-michelle-apon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mrapon@sbgtv.com
+<br>Alternative Email-----
+<br>University------------San Diego State University-California State University
+<br>ContactFacebook-------www.facebook.com/pages/Meteorologist-Michelle-Apon/119181894838161
+<br>ContactLinkedin-------www.linkedin.com/pub/michelle-apon/9/820/291
+<br>ContactTwitter--------twitter.com/MichelleApon
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29840
+<br>ContactFirstName------Myron
+<br>ContactMiddleName------
+<br>ContactLastName-------Patton
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------kokh-tv-25-fox-myron-patton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/myron-patton/8/176/a80
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29841
+<br>ContactFirstName------Curtis
+<br>ContactMiddleName------
+<br>ContactLastName-------Fitzpatrick
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------kokh-tv-25-fox-curtis-fitzpatrick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------www.facebook.com/curtis.fitzpatrick.54
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/cfitzfox
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2956
+<br>ContactId-------------C29842
+<br>ContactFirstName------Sam
+<br>ContactMiddleName------
+<br>ContactLastName-------Gannon
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------kokh-tv-25-fox-sam-gannon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Connecticut 
+<br>ContactFacebook-------www.facebook.com/sam.gannonkplc?filter=1
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/SamGannon87
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

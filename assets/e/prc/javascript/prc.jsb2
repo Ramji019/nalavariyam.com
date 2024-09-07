@@ -1,0 +1,102 @@
+{
+    "projectName": "PR Companion",
+    "deployDir": "deploy",
+    "licenseText": "PR Companion - All Right Reserved.",
+    "pkgs": 
+	[
+		{
+			"name": "PR Companion Javascript file minification",
+			"file": "prc-plugin-all.js",
+			"isDebug": false,
+			"fileIncludes":
+			[
+				{
+					"text": "DDView.js",
+					"path": "..\\..\\extjs\\javascript\\"
+				},
+				{
+					"text": "RowExpander.js",
+					"path": "..\\..\\extjs\\javascript\\"
+				},
+				{
+					"text": "StatusBar.js",
+					"path": "..\\..\\extjs\\javascript\\"
+				},
+				{
+					"text": "TabCloseMenu.js",
+					"path": "..\\..\\extjs\\javascript\\"
+				}
+			]
+		},
+		{
+			"name": "PR Companion Login Javascript file minification",
+			"file": "prc-login-all.js",
+			"isDebug": false,
+			"fileIncludes":
+			[
+				{"text": "login.js", "path": ""}
+			]
+		},
+		{
+		   "name": "Main PR Companion Javascript file minification",
+			"file": "prc-all.js",
+			"isDebug": false,
+			"fileIncludes":
+			[
+				{"text": "add-comments.js", "path": ""},
+				{"text": "appointment-add.js", "path": ""},
+				{"text": "appointment-manage.js", "path": ""},
+				{"text": "appointment-modify-form.js", "path": ""},
+				{"text": "change-password.js", "path": ""},
+				{"text": "common-functions.js", "path": ""},
+				{"text": "common-variables.js", "path": ""},
+				{"text": "contact-advance-search.js", "path": ""},
+				{"text": "contact-basic-search.js", "path": ""},
+				{"text": "contact-beats-list.js", "path": ""},
+				{"text": "contact-designation.js", "path": ""},
+				{"text": "contact-keyword-search.js", "path": ""},
+				{"text": "main.js", "path": ""},
+				{"text": "my-contacts.js", "path": ""},
+				{"text": "my-opportunities.js", "path": ""},
+				{"text": "my-outlets.js", "path": ""},
+				{"text": "my-profile-details.js", "path": ""},
+				{"text": "my-search.js", "path": ""},
+				{"text": "note-add-form.js", "path": ""},
+				{"text": "note-add.js", "path": ""},
+				{"text": "note-manage.js", "path": ""},
+				{"text": "note-modify-form.js", "path": ""},
+				{"text": "note-search-form.js", "path": ""},
+				{"text": "oportunities-advance-search.js", "path": ""},
+				{"text": "oportunities-keyword-search.js", "path": ""},
+				{"text": "opportunity-basic-search.js", "path": ""},
+				{"text": "outlet-advance-search.js", "path": ""},
+				{"text": "outlet-basic-search.js", "path": ""},
+				{"text": "outlet-beats-list.js", "path": ""},
+				{"text": "outlet-keyword-search.js", "path": ""},
+				{"text": "reminder-add-form.js", "path": ""},
+				{"text": "reminder-add.js", "path": ""},
+				{"text": "reminder-manage.js", "path": ""},
+				{"text": "reminder-modify-form.js", "path": ""},
+				{"text": "renew-subscription.js", "path": ""},
+				{"text": "static-stores.js", "path": ""},
+				{"text": "stores.js", "path": ""},
+				{"text": "task-add.js", "path": ""},
+				{"text": "task-delete.js", "path": ""},
+				{"text": "task-modify.js", "path": ""},
+				{"text": "task-search.js", "path": ""},
+				{"text": "templates.js", "path": ""},
+				{"text": "tip-of-the-day.js", "path": ""},
+				{"text": "util-functions.js", "path": ""}
+			]
+		}
+	],
+	"resources":
+	[
+		{
+			"src": "..\\css1",
+			"dest": "..\\css1",
+			"filters": ".*"
+		}
+	]
+    
+}

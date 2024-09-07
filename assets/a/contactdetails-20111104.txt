@@ -1,0 +1,2186 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O105
+<br>ContactId-------------C18184
+<br>ContactFirstName------Jackie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Adania
+<br>ContactDescription----
+<br>ContactDesignation----D636
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O105
+<br>ContactId-------------C18185
+<br>ContactFirstName------Beatrice 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wanjira
+<br>ContactDescription----
+<br>ContactDesignation----D591
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O105
+<br>ContactId-------------C18186
+<br>ContactFirstName------Rackara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ayago
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O101
+<br>ContactId-------------C279
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Tanner
+<br>ContactDescription----
+<br>ContactDesignation----D1949
+<br>ContactPhoto----------christianity-today-nick-tanner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Nick-Tanner/586025384
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O106
+<br>ContactId-------------C351
+<br>ContactFirstName------Washington Johnson II
+<br>ContactMiddleName------
+<br>ContactLastName-------DMin
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------message-magazine-washington-johnson-ii,-dmin.jpg
+<br>ContactPhonenumber----301-393-4100
+<br>ContactEmail----------wjohnson@rhpa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O106
+<br>ContactId-------------C351
+<br>ContactFirstName------Washington Johnson II
+<br>ContactMiddleName------
+<br>ContactLastName-------DMin
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------message-magazine-washington-johnson-ii,-dmin.jpg
+<br>ContactPhonenumber----301-393-4100
+<br>ContactEmail----------wjohnson@rhpa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O106
+<br>ContactId-------------C352
+<br>ContactFirstName------Pat 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harris
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----301-393-4099
+<br>ContactEmail---------- pharris@rhpa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18187
+<br>ContactFirstName------letter to the editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@ewtn.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18188
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Warsaw
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18189
+<br>ContactFirstName------Daniel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burke
+<br>ContactDescription----
+<br>ContactDesignation----D182
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Wehner
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------national-catholic-register-tom-wehner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Springfield College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tom-wehner/6/956/b42
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C313
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Wehner
+<br>ContactDescription----After spending a quarter century in the secular newspaper business I was from Feb. 2005 to Feb. 2011 employed by the non-profit media company Circle Media. Under that umbrella were the award-winning National Catholic Register newspaper and Faith & Family magazine. Also included are the book imprint Circle Books and the website catholic.net.
+In the six years with Circle Media I served four years as copy editor for the Register and Faith & Family and the last two as managing editor of the Register.
+In Feb. 2011 I became an employee of EWTN when the Register was acquired by the largest Catholic media organization in the world. 
+I am currently managing editor of the Register for EWTN.
+<br>ContactDesignation----D3
+<br>ContactPhoto----------national-catholic-register-tom-wehner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------twehner@ncregister.com
+<br>Alternative Email-----
+<br>University------------Springfield College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tom-wehner/6/956/b42
+<br>ContactTwitter--------http://twitter.com/TomWehner
+<br>ContactURL------------http://www.ncregister.com/blog/tom-wehner/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C37
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barrett
+<br>ContactDescription----
+<br>ContactDesignation----D20
+<br>ContactPhoto----------
+<br>ContactPhonenumber----415-888-8765
+<br>ContactEmail----------diane@dwell.com
+<br>Alternative Email-----
+<br>University------------University of Delaware - Lerner College of Business and Economics
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/diane-barrett/7/522/8a5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C325
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Burger
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------national-catholic-register-john-burger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------JBurger@ewtn.com
+<br>Alternative Email-----
+<br>University------------Iona College,Iowa State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/johnburger
+<br>ContactURL------------http://www.ncregister.com/blog/john-burger/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C38
+<br>ContactFirstName------Nuala
+<br>ContactMiddleName------
+<br>ContactLastName-------Berrells
+<br>ContactDescription----
+<br>ContactDesignation----D21
+<br>ContactPhoto----------dwell-nuala-berrells.jpg
+<br>ContactPhonenumber----214-660-9713
+<br>ContactEmail----------nuala@sbcglobal.net
+<br>Alternative Email-----
+<br>University------------London Business School, University of London
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/nuala-berrells/4/b5/75b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C324
+<br>ContactFirstName------Amy
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------national-catholic-register-amy-smith.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------asmith@ewtn.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://www.ncregister.com/blog/amy-smith/P8/
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18190
+<br>ContactFirstName------Joan 
+<br>ContactMiddleName------Frawley 
+<br>ContactLastName-------Desmond
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C314
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Drake
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------national-catholic-register-tim-drake.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tdrake@clearwire.net
+<br>Alternative Email-----
+<br>University------------Hamline University,University of Minnesota - Morris
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tim-drake/6/6b4/200
+<br>ContactTwitter--------http://twitter.com/timothydrake/status/27746378163683328
+<br>ContactURL------------http://www.ncregister.com/blog/tim-drake/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C314
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Drake
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------national-catholic-register-tim-drake.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tdrake@clearwire.net
+<br>Alternative Email-----
+<br>University------------Hamline University,University of Minnesota - Morris
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tim-drake/6/6b4/200
+<br>ContactTwitter--------http://twitter.com/timothydrake/status/27746378163683328
+<br>ContactURL------------http://www.ncregister.com/blog/tim-drake/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18191
+<br>ContactFirstName------Joseph 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pronechen 
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18192
+<br>ContactFirstName------Steven D.
+<br>ContactMiddleName------
+<br>ContactLastName-------Greydanus
+<br>ContactDescription----
+<br>ContactDesignation----D619
+<br>ContactPhoto----------national-catholic-register-steven-d.-greydanus.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------register.critic@gmail.com
+<br>Alternative Email-----
+<br>University------------School of Visual Arts in New York,St. Charles Borromeo Seminary
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C18193
+<br>ContactFirstName------Nancy
+<br>ContactMiddleName------
+<br>ContactLastName-------Ramos
+<br>ContactDescription----
+<br>ContactDesignation----D21
+<br>ContactPhoto----------dwell-nancy-ramos.jpg
+<br>ContactPhonenumber----310-689-7295
+<br>ContactEmail----------nramos@dwell.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/nancy-mors-ramos/35/872/99a
+<br>ContactTwitter--------http://twitter.com/#!/somarn
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18194
+<br>ContactFirstName------Edward
+<br>ContactMiddleName------
+<br>ContactLastName-------Pentin
+<br>ContactDescription----
+<br>ContactDesignation----D1952
+<br>ContactPhoto----------national-catholic-register-edward-pentin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------edwardpentin@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.ncregister.com/blog/edward-pentin/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18192
+<br>ContactFirstName------Steven D.
+<br>ContactMiddleName------
+<br>ContactLastName-------Greydanus
+<br>ContactDescription----
+<br>ContactDesignation----D619
+<br>ContactPhoto----------national-catholic-register-steven-d.-greydanus.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------register.critic@gmail.com
+<br>Alternative Email-----
+<br>University------------School of Visual Arts in New York,St. Charles Borromeo Seminary
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C18195
+<br>ContactFirstName------Joanne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lazar
+<br>ContactDescription----
+<br>ContactDesignation----D21
+<br>ContactPhoto----------
+<br>ContactPhonenumber----631-320-3185
+<br>ContactEmail----------jlazar@dwell.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/joanne-lazar/16/b3a/a23
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18196
+<br>ContactFirstName------Michele 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chabin
+<br>ContactDescription----
+<br>ContactDesignation----D1953
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18197
+<br>ContactFirstName------Melissa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hartog
+<br>ContactDescription----
+<br>ContactDesignation----D223
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18198
+<br>ContactFirstName------Debbie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Aguiar
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18199
+<br>ContactFirstName------Janet 
+<br>ContactMiddleName------
+<br>ContactLastName-------Filip
+<br>ContactDescription----
+<br>ContactDesignation----D339
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C18200
+<br>ContactFirstName------Diane
+<br>ContactMiddleName------
+<br>ContactLastName-------MacLean
+<br>ContactDescription----
+<br>ContactDesignation----D21
+<br>ContactPhoto----------dwell-diane-maclean.jpg
+<br>ContactPhonenumber----248-858-9094
+<br>ContactEmail----------dmaclean@dwell.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/diane-maclean/13/24b/b0
+<br>ContactTwitter--------http://twitter.com/#!/dizella3
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O108
+<br>ContactId-------------C18201
+<br>ContactFirstName------Kristin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kocher
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Colorado State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kristin-kocher/5/32a/705
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C18202
+<br>ContactFirstName------Angela
+<br>ContactMiddleName------
+<br>ContactLastName-------Ames
+<br>ContactDescription----
+<br>ContactDesignation----D1954
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310-570-3818
+<br>ContactEmail----------sunshine@dwell.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/sunshinecampbell
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4
+<br>ContactId-------------C18203
+<br>ContactFirstName------Celine
+<br>ContactMiddleName------
+<br>ContactLastName-------Bleu
+<br>ContactDescription----
+<br>ContactDesignation----D1955
+<br>ContactPhoto----------dwell-celine-bleu.jpg
+<br>ContactPhonenumber----415-373-5126
+<br>ContactEmail----------celine@dwell.com
+<br>Alternative Email-----
+<br>University------------San Francisco State University,University of California-Santa Cruz
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/celinebleu
+<br>ContactTwitter--------http://twitter.com/#!/bleuc
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C49
+<br>ContactFirstName------Dara
+<br>ContactMiddleName------
+<br>ContactLastName-------Caponigro
+<br>ContactDescription----Dara Caponigro who had been style editor at the now-defunct Domino will take the helm of Hearst?s Southern-accented Veranda magazine which has a relatively small circulation of just over 450000. The founding editor of Veranda Lisa Newsom will also become an editor-at-large for Hearst. 
+<br>ContactDesignation----D23
+<br>ContactPhoto----------veranda-dara-caponigro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C48
+<br>ContactFirstName------Richard 
+<br>ContactMiddleName------
+<br>ContactLastName-------Michels
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C50
+<br>ContactFirstName------Carolyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Englefield
+<br>ContactDescription----
+<br>ContactDesignation----D25
+<br>ContactPhoto----------veranda-carolyn-englefield.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C44
+<br>ContactFirstName------Catherine Lee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis 
+<br>ContactDescription----
+<br>ContactDesignation----D31
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/profile?viewProfile=&key=31918869&authToken=UYP2&authType=NAME_SEARCH&locale=en_US&srchindex=11&srchid=a4de08ef-2dda-460a-8dc5-1d8cf14a333d-0&srchtotal=19&pvs=ps&goback=%2Efps_*1_Catherine_Davis_*1_*1_*1_*1_*51_*1_Y_*1_*1_*1_f
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C18204
+<br>ContactFirstName------Linda
+<br>ContactMiddleName------
+<br>ContactLastName-------Sherbert
+<br>ContactDescription----
+<br>ContactDesignation----D118
+<br>ContactPhoto----------veranda-linda-sherbert.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C18205
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Warhop
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia State University,Beloit College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/bill-warhop/4/a51/2b6
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C47
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Bolick
+<br>ContactDescription----
+<br>ContactDesignation----D27
+<br>ContactPhoto----------veranda-kate-bolick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kate-bolick/37/326/105
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C51
+<br>ContactFirstName------Eugenia 
+<br>ContactMiddleName------Santiesteban 
+<br>ContactLastName-------Soto
+<br>ContactDescription----
+<br>ContactDesignation----D28
+<br>ContactPhoto----------veranda-eugenia-santiesteban-soto.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C51
+<br>ContactFirstName------Eugenia
+<br>ContactMiddleName------Santiesteban
+<br>ContactLastName-------Soto
+<br>ContactDescription----
+<br>ContactDesignation----D28
+<br>ContactPhoto----------veranda-eugenia-santiesteban-soto.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C323
+<br>ContactFirstName------Jim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rice
+<br>ContactDescription----Jim Rice Editor of Sojourners magazine has been a member of Sojourners editorial staff since 1989. (Founding editor Jim Wallis remains Editor-in-Chief.) Before joining the magazine staff Rice served as director of Sojourners Outreach Ministry and as coordinator of Sojourners Peace Ministry.
+<br>ContactDesignation----D11
+<br>ContactPhoto----------jim_sojo.jpg
+<br>ContactPhonenumber----202-328-8842 or 1-800-714
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jim-rice/4/589/b41
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C45
+<br>ContactFirstName------Leslie 
+<br>ContactMiddleName------Newsom
+<br>ContactLastName-------Rascoe
+<br>ContactDescription----
+<br>ContactDesignation----D29
+<br>ContactPhoto----------veranda-leslie-newsom-rascoe.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Georgia,Sotheby's,Colgate University
+<br>ContactFacebook-------http://www.facebook.com/people/Leslie-Newsom-Rascoe/1442663278
+<br>ContactLinkedin-------http://www.linkedin.com/pub/leslie-rascoe/11/413/721
+<br>ContactTwitter--------http://twitter.com/#!/Lesliebnew
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18206
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Wallis
+<br>ContactDescription----
+<br>ContactDesignation----D333
+<br>ContactPhoto----------sojourners-jim-wallis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgetown University,Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18207
+<br>ContactFirstName------Joan M.
+<br>ContactMiddleName------
+<br>ContactLastName-------Bisset
+<br>ContactDescription----
+<br>ContactDesignation----D1956
+<br>ContactPhoto----------sojourners-joan-m.-bisset.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maryland, University College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C52
+<br>ContactFirstName------Mary 
+<br>ContactMiddleName------Jane 
+<br>ContactLastName-------Ryburn
+<br>ContactDescription----
+<br>ContactDesignation----D30
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Trinity University,University of Texas at Austin,University of Oregon,University of Oslo, Norway
+<br>ContactFacebook-------http://www.facebook.com/people/Mary-Jane-Ryburn/100002015647256
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18208
+<br>ContactFirstName------Sondra F.
+<br>ContactMiddleName------
+<br>ContactLastName-------Shepley
+<br>ContactDescription----
+<br>ContactDesignation----D1957
+<br>ContactPhoto----------sojourners-sondra-f.-shepley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18206
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Wallis
+<br>ContactDescription----
+<br>ContactDesignation----D333
+<br>ContactPhoto----------sojourners-jim-wallis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgetown University,Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C18209
+<br>ContactFirstName------Rosie
+<br>ContactMiddleName------
+<br>ContactLastName-------D Argenzio
+<br>ContactDescription----
+<br>ContactDesignation----D32
+<br>ContactPhoto----------veranda-rosie-d-argenzio.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18210
+<br>ContactFirstName------Amber
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D1958
+<br>ContactPhoto----------sojourners-amber-hill.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Augusta State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18211
+<br>ContactFirstName------Karen L.
+<br>ContactMiddleName------
+<br>ContactLastName-------Lattea
+<br>ContactDescription----
+<br>ContactDesignation----D1456
+<br>ContactPhoto----------sojourners-karen-l.-lattea.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Springfield College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18212
+<br>ContactFirstName------Abayea 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pelt
+<br>ContactDescription----
+<br>ContactDesignation----D1959
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C44
+<br>ContactFirstName------Catherine Lee
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----
+<br>ContactDesignation----D31
+<br>ContactPhoto----------veranda-catherine-lee-davis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/catherine-davis/a/833/699
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18213
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Norman
+<br>ContactDescription----
+<br>ContactDesignation----D1960
+<br>ContactPhoto----------sojourners-michael-norman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Toronto
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18210
+<br>ContactFirstName------Amber
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D1958
+<br>ContactPhoto----------sojourners-amber-hill.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Augusta State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18214
+<br>ContactFirstName------Brion 
+<br>ContactMiddleName------
+<br>ContactLastName-------Thomas 
+<br>ContactDescription----
+<br>ContactDesignation----D636
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maryland
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C43
+<br>ContactFirstName------Jill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D32
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jill-brown/7/836/28
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18215
+<br>ContactFirstName------Duane
+<br>ContactMiddleName------
+<br>ContactLastName-------Shank
+<br>ContactDescription----
+<br>ContactDesignation----D1961
+<br>ContactPhoto----------sojourners-duane-shank.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Eastern Mennonite University,Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C53
+<br>ContactFirstName------Stephen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Singerman
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------veranda-stephen-singerman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18216
+<br>ContactFirstName------Elizabeth
+<br>ContactMiddleName------Denlinger
+<br>ContactLastName-------Reaves
+<br>ContactDescription----
+<br>ContactDesignation----D1962
+<br>ContactPhoto----------sojourners-elizabeth-reaves.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18215
+<br>ContactFirstName------Duane
+<br>ContactMiddleName------
+<br>ContactLastName-------Shank
+<br>ContactDescription----
+<br>ContactDesignation----D1961
+<br>ContactPhoto----------sojourners-duane-shank.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Eastern Mennonite University,Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C42
+<br>ContactFirstName------Sarah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bloesch
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C41
+<br>ContactFirstName------Linda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rye
+<br>ContactDescription----
+<br>ContactDesignation----D1963
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/linda-rye/36/b1a/4a6
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18217
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------Sharon
+<br>ContactLastName-------Harper
+<br>ContactDescription----
+<br>ContactDesignation----D1964
+<br>ContactPhoto----------sojourners-lisa-harper.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia University in the City of New York ,University of Southern California ,Rutgers-The State University of New Jersey-New Brunswick
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1213927451&sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/in/lisasharonharper
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C55
+<br>ContactFirstName------Allen S. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ransom
+<br>ContactDescription----
+<br>ContactDesignation----D35
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C323
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Rice
+<br>ContactDescription----Jim Rice Editor of Sojourners magazine has been a member of Sojourners editorial staff since 1989. (Founding editor Jim Wallis remains Editor-in-Chief.) Before joining the magazine staff Rice served as director of Sojourners Outreach Ministry and as coordinator of Sojourners Peace Ministry.
+<br>ContactDesignation----D11
+<br>ContactPhoto----------sojourners-jim-rice.jpg
+<br>ContactPhonenumber----202-328-8842 or 1-800-714
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgetown University,Seattle University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jim-rice/4/589/b41
+<br>ContactTwitter--------http://twitter.com/#!/jtrane
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C40
+<br>ContactFirstName------Candace
+<br>ContactMiddleName------
+<br>ContactLastName-------Braun
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------veranda-candace-braun.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------French Culinary Institute,University of South Florida,New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/candacebraun
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18218
+<br>ContactFirstName------Ed
+<br>ContactMiddleName------
+<br>ContactLastName-------Spivey
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------sojourners-ed-spivey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Vincennes University,Indiana University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18217
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------Sharon
+<br>ContactLastName-------Harper
+<br>ContactDescription----
+<br>ContactDesignation----D1964
+<br>ContactPhoto----------sojourners-lisa-harper.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia University in the City of New York ,University of Southern California ,Rutgers-The State University of New Jersey-New Brunswick
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1213927451&sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/in/lisasharonharper
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18219
+<br>ContactFirstName------Rose
+<br>ContactMiddleName------Marie
+<br>ContactLastName-------Berger
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------sojourners-rose-berger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Southern Maine,University of California at Davis
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C40
+<br>ContactFirstName------Candace
+<br>ContactMiddleName------
+<br>ContactLastName-------Braun
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------veranda-candace-braun.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------French Culinary Institute,University of South Florida,New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/candacebraun
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18220
+<br>ContactFirstName------Elizabeth
+<br>ContactMiddleName------
+<br>ContactLastName-------Palmberg
+<br>ContactDescription----
+<br>ContactDesignation----D721
+<br>ContactPhoto----------sojourners-elizabeth-palmberg.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Cornell University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5
+<br>ContactId-------------C18221
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Newsom
+<br>ContactDescription----
+<br>ContactDesignation----D1965
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18219
+<br>ContactFirstName------Rose
+<br>ContactMiddleName------Marie
+<br>ContactLastName-------Berger
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------sojourners-rose-berger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Southern Maine,University of California at Davis
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18222
+<br>ContactFirstName------Julie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Polter
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ohio State University,Boston University,George Mason University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6
+<br>ContactId-------------C60
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradley
+<br>ContactDescription----
+<br>ContactDesignation----D39
+<br>ContactPhoto----------antique-trader-eric-bradley.jpg
+<br>ContactPhonenumber----715-445-2214X13233
+<br>ContactEmail----------eric.bradley@fwmedia.com
+<br>Alternative Email-----
+<br>University------------Northern Michigan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/ericdbradley
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6
+<br>ContactId-------------C60
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradley
+<br>ContactDescription----
+<br>ContactDesignation----D39
+<br>ContactPhoto----------antique-trader-eric-bradley.jpg
+<br>ContactPhonenumber----715-445-2214X13233
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northern Michigan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/ericdbradley
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6
+<br>ContactId-------------C61
+<br>ContactFirstName------Karen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Knapstein
+<br>ContactDescription----
+<br>ContactDesignation----D40
+<br>ContactPhoto----------antique-trader-karen-knapstein.jpg
+<br>ContactPhonenumber----715-445-2214X13627
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Stevens Point
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/karen-knapstein/22/816/75a
+<br>ContactTwitter--------http://twitter.com/#!/kknapstein
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18223
+<br>ContactFirstName------Cynthia J.
+<br>ContactMiddleName------
+<br>ContactLastName-------Martens
+<br>ContactDescription----
+<br>ContactDesignation----D1966
+<br>ContactPhoto----------sojourners-cynthia-j.-martens.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6
+<br>ContactId-------------C62
+<br>ContactFirstName------Caroline 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ashleigh
+<br>ContactDescription----Ms. Ashleigh is a graduate of New York University in Appraisal Studies in Fine and Decorative Arts and is a certified member of the Appraisers Association of America serving as co-chairman of the National Conference Committee and Midwest regional representative of the organization. She is a current Certified USPAP Appraiser of the Appraisal Foundation in Washington D.C. 
+
+Ms. Ashleigh?s career began as a member of the educational department staff of the Detroit Institute of Arts in Detroit Michigan and Cranbrook Academy of Art in Bloomfield Hills Michigan. She became involved in art appraising and founded Caroline Ashleigh Appraisers and Auctioneers where she catalogued important collections estates archives and served as an art expert in court cases. She has worked closely with major museums and served as a consultant to several major auction houses including Sotheby?s and Doyle New York together with important celebrity collections such as Debbie Reynolds Hollywood Motion 
+<br>ContactDesignation----D13
+<br>ContactPhoto----------antique-trader-caroline-ashleigh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------http://www.facebook.com/caroline.ashleigh
+<br>ContactLinkedin-------http://www.linkedin.com/in/carolineashleigh
+<br>ContactTwitter--------http://twitter.com/#!/appraiseyourart
+<br>ContactURL------------http://www.appraiseyourart.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18223
+<br>ContactFirstName------Cynthia J.
+<br>ContactMiddleName------
+<br>ContactLastName-------Martens
+<br>ContactDescription----
+<br>ContactDesignation----D1966
+<br>ContactPhoto----------sojourners-cynthia-j.-martens.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18224
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson-Black
+<br>ContactDescription----
+<br>ContactDesignation----D1967
+<br>ContactPhoto----------sojourners-robert-wilson-black.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Chicago
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18225
+<br>ContactFirstName------Larisa
+<br>ContactMiddleName------Friesen
+<br>ContactLastName-------Hall
+<br>ContactDescription----
+<br>ContactDesignation----D1968
+<br>ContactPhoto----------sojourners-larisa-hall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Eastern Mennonite University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18226
+<br>ContactFirstName------Leah
+<br>ContactMiddleName------
+<br>ContactLastName-------Garrett
+<br>ContactDescription----
+<br>ContactDesignation----D1969
+<br>ContactPhoto----------sojourners-leah-garrett.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18227
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Daughtry-Weiss
+<br>ContactDescription----
+<br>ContactDesignation----D1970
+<br>ContactPhoto----------sojourners-lisa-daughtry-weiss.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18228
+<br>ContactFirstName------Leslie
+<br>ContactMiddleName------
+<br>ContactLastName-------Abell
+<br>ContactDescription----
+<br>ContactDesignation----D1971
+<br>ContactPhoto----------sojourners-leslie-abell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------St. Olaf College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/leslie-abell/17/664/a38
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18228
+<br>ContactFirstName------Leslie
+<br>ContactMiddleName------
+<br>ContactLastName-------Abell
+<br>ContactDescription----
+<br>ContactDesignation----D1971
+<br>ContactPhoto----------sojourners-leslie-abell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------St. Olaf College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/leslie-abell/17/664/a38
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18229
+<br>ContactFirstName------Emanuel
+<br>ContactMiddleName------Figueroa
+<br>ContactLastName-------Marrero
+<br>ContactDescription----
+<br>ContactDesignation----D1430
+<br>ContactPhoto----------sojourners-emanuel-marrero.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18230
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D1972
+<br>ContactPhoto----------sojourners-tim-king.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18231
+<br>ContactFirstName------Carrie
+<br>ContactMiddleName------
+<br>ContactLastName-------Adams
+<br>ContactDescription----
+<br>ContactDesignation----D1973
+<br>ContactPhoto----------sojourners-carrie-adams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------George Washington University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18232
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sabath
+<br>ContactDescription----
+<br>ContactDesignation----D1974
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O110
+<br>ContactId-------------C18233
+<br>ContactFirstName------Heather
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----
+<br>ContactDesignation----D1975
+<br>ContactPhoto----------sojourners-heather-wilson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C356
+<br>ContactFirstName------George
+<br>ContactMiddleName------
+<br>ContactLastName-------Cuhaj
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------coins-george-cuhaj.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C358
+<br>ContactFirstName------Robert R.
+<br>ContactMiddleName------Van
+<br>ContactLastName-------Ryzin
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------coins-robert-r.-ryzin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------robert.vanryzin@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Oshkosh
+<br>ContactFacebook-------http://www.facebook.com/rvanryzin
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://pipl.com/directory/people/Robert/Van%2520Ryzin
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C356
+<br>ContactFirstName------George
+<br>ContactMiddleName------
+<br>ContactLastName-------Cuhaj
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------coins-george-cuhaj.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------george.cuhaj@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C355
+<br>ContactFirstName------David C.
+<br>ContactMiddleName------
+<br>ContactLastName-------Harper
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------coins-david-c.-harper.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------david.harper@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Wisconsin
+<br>ContactFacebook-------http://www.booku.com/2011-North-American-Coins-and-Prices/David-C-Harper/ebook_530861.htm
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.lead411.com/David_Harper_4937453.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C357
+<br>ContactFirstName------Thomas
+<br>ContactMiddleName------
+<br>ContactLastName-------Michael
+<br>ContactDescription----
+<br>ContactDesignation----D1976
+<br>ContactPhoto----------coins-thomas-michael.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom.michael@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18234
+<br>ContactFirstName------Debbie
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradley
+<br>ContactDescription----
+<br>ContactDesignation----D1977
+<br>ContactPhoto----------coins-debbie-bradley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------debbie.bradly@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Eau Claire
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/debbie-bradley/8/213/242
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18235
+<br>ContactFirstName------Deb
+<br>ContactMiddleName------
+<br>ContactLastName-------McCue
+<br>ContactDescription----
+<br>ContactDesignation----D1978
+<br>ContactPhoto----------coins-deb-mccue.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------deb.mccue@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18236
+<br>ContactFirstName------Kay
+<br>ContactMiddleName------
+<br>ContactLastName-------Sanders
+<br>ContactDescription----
+<br>ContactDesignation----D1979
+<br>ContactPhoto----------coins-kay-sanders.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kay.sanders@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18237
+<br>ContactFirstName------Maggie
+<br>ContactMiddleName------
+<br>ContactLastName-------Stigsell
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------coins-maggie-stigsell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------maggie.stigsell@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Minnesota-Duluth
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18238
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Tappa
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------coins-scott-tappa.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------scott.tappa@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Madison
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/scott-tappa/4/5b8/3ba
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18239
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Bellavin
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------coins-lisa-bellavin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lisa.bellavin@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Stevens Point
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18240
+<br>ContactFirstName------Caitlin
+<br>ContactMiddleName------
+<br>ContactLastName-------Spaulding
+<br>ContactDescription----
+<br>ContactDesignation----D429
+<br>ContactPhoto----------coins-caitlin-spaulding.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------caitlin.spaulding@fwmedia.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Stevens Point
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/caitlin-spaulding/27/73b/991
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18241
+<br>ContactFirstName------Donna
+<br>ContactMiddleName------
+<br>ContactLastName-------Mummery
+<br>ContactDescription----
+<br>ContactDesignation----D223
+<br>ContactPhoto----------coins-donna-mummery.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------donna.mummery@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18242
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Kern
+<br>ContactDescription----
+<br>ContactDesignation----D1980
+<br>ContactPhoto----------coins-dan-kern.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dan.kern@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18243
+<br>ContactFirstName------Jana
+<br>ContactMiddleName------
+<br>ContactLastName-------Tappa
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------coins-jana-tappa.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jana.tappa@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------Northern Michigan University.
+<br>ContactFacebook-------http://www.facebook.com/jana.tappa
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jana-tappa/5/96b/14b
+<br>ContactTwitter--------http://twitter.com/#!/JanaTappa
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O116
+<br>ContactId-------------C18244
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------
+<br>ContactLastName-------Bartsch
+<br>ContactDescription----
+<br>ContactDesignation----D223
+<br>ContactPhoto----------coins-sharon-bartsch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sharon.bartsch@fwmedia.com.
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

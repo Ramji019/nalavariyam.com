@@ -1,0 +1,761 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O630
+<br>ContactId-------------C26881
+<br>ContactFirstName------Michelle 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dowell
+<br>ContactDescription----
+<br>ContactDesignation----D2609
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O630
+<br>ContactId-------------C26882
+<br>ContactFirstName------Phil 
+<br>ContactMiddleName------
+<br>ContactLastName-------Marcelo
+<br>ContactDescription----
+<br>ContactDesignation----D1025
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O630
+<br>ContactId-------------C26883
+<br>ContactFirstName------Jillian 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hathaway
+<br>ContactDescription----
+<br>ContactDesignation----D1025
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mail@menofintegrity.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O484
+<br>ContactId-------------C26884
+<br>ContactFirstName------Kitty
+<br>ContactMiddleName------
+<br>ContactLastName-------Morgan
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/kitty.morgan
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Kitty_Morgan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O1159
+<br>ContactId-------------C1135
+<br>ContactFirstName------Kitty
+<br>ContactMiddleName------
+<br>ContactLastName------- Morgan
+<br>ContactDescription----Kitty  Morgan is the D11 of ReadyMade.  You can also connect to Kitty\'s facebook id using the link http://facebook.com/kitty.morgan and get his latest updates. You can also follow Kitty using his twitter link http://twitter.com/#!/Kitty_Morgan. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/kitty.morgan
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Kitty_Morgan
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C1482
+<br>ContactFirstName------Chuck
+<br>ContactMiddleName------
+<br>ContactLastName-------Hagner
+<br>ContactDescription----chuck hagner is the Editor of Birders World.  You can also connect to chuck\'s facebook id using the link http://facebook.com/KaufmanFieldGuides/posts/201266163240706 and get his latest updates. You can also connect to chuck\'s linkedin id http://linkedin.com/pub/dir/+/Hagner and get his professional details. He also has his personal blogsYou can also follow chuck using his twitter link http://birdwatchingdaily.com/brdcs/members/Chuck-Hagner/default.aspx. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------birders-world-chuck-hagner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------American University Boston University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/charleshagner
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26845
+<br>ContactFirstName------Carole
+<br>ContactMiddleName------
+<br>ContactLastName-------Ross
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------birders-world-carole-ross.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Milwaukee Institute of Art and Design
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/carole-ross/b/675/760
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.aquaowlgold.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C1483
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Mendenhall
+<br>ContactDescription----matt mendenhall is the Associate Editor of Birders World.  You can also connect to matt\'s linkedin id http://linkedin.com/pub/matt-mendenhall/19/964/b17 and get his professional details. You can also follow matt using his twitter link http://twitter.com/#!/mdmendenhall/status/40185636765970432. He also has his personal blogsYou can also follow matt using his twitter link http://cs.birdwatchingdaily.com/BRDCS/members/Matt-Mendenhall/default.aspx. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------birders-world-matt-mendenhall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/matt-mendenhall/19/964/b17
+<br>ContactTwitter--------http://twitter.com/#!/mdmendenhall
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C1135
+<br>ContactFirstName------Julie
+<br>ContactMiddleName------
+<br>ContactLastName-------Kuczynski
+<br>ContactDescription----
+<br>ContactDesignation----D3083
+<br>ContactPhoto----------birders-world-julie-kuczynski.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26885
+<br>ContactFirstName------Linda
+<br>ContactMiddleName------
+<br>ContactLastName-------Kast
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------birders-world-linda-kast.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Elmhurst College Humboldt State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/linda-kast/4/35/682
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26886
+<br>ContactFirstName------David
+<br>ContactMiddleName------Allen
+<br>ContactLastName-------Sibley
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------birders-world-david-sibley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26887
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Dunne
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------birders-world-pete-dunne.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26888
+<br>ContactFirstName------Kenn
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaufman
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------birders-world-kenn-kaufman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26889
+<br>ContactFirstName------Julie
+<br>ContactMiddleName------
+<br>ContactLastName-------Craves
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------birders-world-julie-craves.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/juliecraves
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.coffeehabitat.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26890
+<br>ContactFirstName------Eldon
+<br>ContactMiddleName------
+<br>ContactLastName-------Greij
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------birders-world-eldon-greij.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C26891
+<br>ContactFirstName------Laura
+<br>ContactMiddleName------
+<br>ContactLastName-------Erickson
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------birders-world-laura-erickson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C1483
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Mendenhall
+<br>ContactDescription----matt mendenhall is the Associate Editor of Birders World.  You can also connect to matt\'s linkedin id http://linkedin.com/pub/matt-mendenhall/19/964/b17 and get his professional details. You can also follow matt using his twitter link http://twitter.com/#!/mdmendenhall/status/40185636765970432. He also has his personal blogsYou can also follow matt using his twitter link http://cs.birdwatchingdaily.com/BRDCS/members/Matt-Mendenhall/default.aspx. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------birders-world-matt-mendenhall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/matt-mendenhall/19/964/b17
+<br>ContactTwitter--------http://twitter.com/#!/mdmendenhall
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O641
+<br>ContactId-------------C1483
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Mendenhall
+<br>ContactDescription----matt mendenhall is the Associate Editor of Birders World.  You can also connect to matt\'s linkedin id http://linkedin.com/pub/matt-mendenhall/19/964/b17 and get his professional details. You can also follow matt using his twitter link http://twitter.com/#!/mdmendenhall/status/40185636765970432. He also has his personal blogsYou can also follow matt using his twitter link http://cs.birdwatchingdaily.com/BRDCS/members/Matt-Mendenhall/default.aspx. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------birders-world-matt-mendenhall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/matt-mendenhall/19/964/b17
+<br>ContactTwitter--------http://twitter.com/#!/mdmendenhall
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O643
+<br>ContactId-------------C1484
+<br>ContactFirstName------Cathy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Laws 
+<br>ContactDescription----cathy laws is the Editorial Director of Dressage Today.  You can contact cathy through his email address equineeditor@equinetwork.com. The phone number to contact cathy is 301-977-3900. 
+<br>ContactDesignation----D16
+<br>ContactPhoto----------dressage-today-cathy-laws.jpg
+<br>ContactPhonenumber----301-977-3900
+<br>ContactEmail----------equineeditor@equinetwork.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O643
+<br>ContactId-------------C26892
+<br>ContactFirstName------Jayne
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----
+<br>ContactDesignation----D3084
+<br>ContactPhoto----------dressage-today-jayne-wilson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O643
+<br>ContactId-------------C26893
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Light
+<br>ContactDescription----
+<br>ContactDesignation----D283
+<br>ContactPhoto----------dressage-today-kate-light.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Kate-Light/1223851013
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C1485
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Mettler
+<br>ContactDescription----mike mettler is the Editor of Sound & Vision.  You can contact mike through his email address soundandvision@neodata.com. The phone number to contact mike is 212-779-5000. You can also connect to mike\'s facebook id using the link http://facebook.com/people/Mike-Mettler/655288177 and get his latest updates. He also has his personal blogsYou can also follow mike using his twitter link http://www.soundandvisionmag.com/features/2008/10/editor-chief-mike-mettlers-top-50-albums-all-time. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------sound-& vision-mike-mettler.jpg
+<br>ContactPhonenumber----212-779-5000
+<br>ContactEmail----------soundandvision@neodata.com
+<br>Alternative Email-----
+<br>University------------Drake University
+<br>ContactFacebook-------http://facebook.com/people/Mike-Mettler/655288177
+<br>ContactLinkedin-------http://www.linkedin.com/pub/mike-mettler/1/713/a3
+<br>ContactTwitter--------http://twitter.com/#!/MikeMettler
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26894
+<br>ContactFirstName------Al 
+<br>ContactMiddleName------
+<br>ContactLastName-------Griffin
+<br>ContactDescription----
+<br>ContactDesignation----D542
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------State University of New York at Buffalo
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/al-griffin/6/aa4/546
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26895
+<br>ContactFirstName------Eric 
+<br>ContactMiddleName------
+<br>ContactLastName-------Grode
+<br>ContactDescription----
+<br>ContactDesignation----D99
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C1486
+<br>ContactFirstName------ken
+<br>ContactMiddleName------
+<br>ContactLastName-------richardson
+<br>ContactDescription----ken richardson is the Senior Editor of Sound & Vision.  You can contact ken through his email address soundandvision@bonniercorp.com. The phone number to contact ken is 212-779-5000. He also has his personal blogsYou can also follow ken using his twitter link http://www.soundandvisionmag.com/content/ken-richardson. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------sound-& vision-ken-richardson.jpg
+<br>ContactPhonenumber----212-779-5000
+<br>ContactEmail----------soundandvision@bonniercorp.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.soundandvisionmag.com/content/ken-richardson
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C1486
+<br>ContactFirstName------Sam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Syed
+<br>ContactDescription----
+<br>ContactDesignation----D2
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26896
+<br>ContactFirstName------Jae 
+<br>ContactMiddleName------
+<br>ContactLastName-------Segarra
+<br>ContactDescription----
+<br>ContactDesignation----D2609
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jae-segarra/12/874/a26
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26897
+<br>ContactFirstName------Brent 
+<br>ContactMiddleName------
+<br>ContactLastName-------Butterworth
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26898
+<br>ContactFirstName------Daniel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kumin
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University Bennington College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/daniel-kumin/11/63a/898
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26897
+<br>ContactFirstName------Brent 
+<br>ContactMiddleName------
+<br>ContactLastName-------Butterworth
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26898
+<br>ContactFirstName------Daniel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kumin
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University Bennington College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/daniel-kumin/11/63a/898
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26899
+<br>ContactFirstName------Geoffrey 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morrison
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26900
+<br>ContactFirstName------Ken C
+<br>ContactMiddleName------
+<br>ContactLastName-------Pohlmann
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26901
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sciacca
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/johnmsciacca
+<br>ContactTwitter--------http://twitter.com/#!/SciaccaTweets
+<br>ContactURL------------http://johnsciacca.webs.com/apps/blog/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26902
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Trei
+<br>ContactDescription----
+<br>ContactDesignation----D3085
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26903
+<br>ContactFirstName------Stan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Horaczek
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------stan.horaczek@bonniercorp.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26904
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Berk
+<br>ContactDescription----
+<br>ContactDesignation----D2068
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------michael.berk@bonniercorp.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O647
+<br>ContactId-------------C26905
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jannot
+<br>ContactDescription----
+<br>ContactDesignation----D2544
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

@@ -1,0 +1,41 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2
+<br>ContactId-------------C31
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Alexander
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------american-photo-scott-alexander.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ssmith@accessintel.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/scott-alexander/2b/536/430
+<br>ContactTwitter--------http://scribe.twitter.com/#!/badmotherfather
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

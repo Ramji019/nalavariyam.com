@@ -1,0 +1,41 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2325
+<br>ContactId-------------C10790
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wofl-tv-35-john-brown.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------john.brown@foxtv.com
+<br>Alternative Email-----
+<br>University------------Central Methodist University
+<br>ContactFacebook-------http://facebook.com/pages/John-Brown-at-Fox-35/134928409921023?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.myfoxorlando.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2325
+<br>ContactId-------------C10790
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wofl-tv-35-john-brown.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------john.brown@foxtv.com
+<br>Alternative Email-----
+<br>University------------Central Methodist University
+<br>ContactFacebook-------http://facebook.com/pages/John-Brown-at-Fox-35/134928409921023?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.myfoxorlando.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>

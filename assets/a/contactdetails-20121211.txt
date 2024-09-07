@@ -1,0 +1,102 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2800
+<br>ContactId-------------C27847
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------McGonigal
+<br>ContactDescription----
+
+<br>ContactDesignation----D384
+<br>ContactPhoto----------kxlh-tv 25-tim-mcgonigal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Eastern Montana College
+<br>ContactFacebook-------www.facebook.com/tim.mcgonigal.1
+<br>ContactLinkedin-------www.linkedin.com/pub/tim-mcgonigal/20/601/591
+<br>ContactTwitter--------twitter.com/TimMcGonigal
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2800
+<br>ContactId-------------C27848
+<br>ContactFirstName------Shannon
+<br>ContactMiddleName------
+<br>ContactLastName-------Newth
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------kxlh-tv-25-shannon-newth.jpg
+<br>ContactPhonenumber----406- 791-5462
+<br>ContactEmail----------shannon@kxlh.com
+<br>Alternative Email-----shannon@krtv.com
+<br>University------------Whitworth University in Spokane-Washington
+<br>ContactFacebook-------www.facebook.com/pages/Shannon-Newth/326513734075310?fref=ts
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/ShannonNewth
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2800
+<br>ContactId-------------C27849
+<br>ContactFirstName------News 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@kxlh.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2800
+<br>ContactId-------------C27849
+<br>ContactFirstName------News 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----406-422-1216
+<br>ContactEmail----------news@kxlh.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2800
+<br>ContactId-------------C27850
+<br>ContactFirstName------Programming
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------roxie@krtv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

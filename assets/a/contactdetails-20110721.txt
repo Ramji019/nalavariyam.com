@@ -1,0 +1,4381 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10404
+<br>ContactFirstName------Amy
+<br>ContactMiddleName------
+<br>ContactLastName-------Sweezey
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wesh-tv-2-amy-sweezey.jpg
+<br>ContactPhonenumber----407-645-2222
+<br>ContactEmail----------asweezey@hearst.com
+<br>Alternative Email-----
+<br>University------------Loyola University of Chicago,Mississippi State University
+<br>ContactFacebook-------http://facebook.com/pages/Amy-Sweezey/142425719912?sk=info
+<br>ContactLinkedin-------http://linkedin.com/in/amysweezey
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10405
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Amara
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wesh-tv-2-kate-amara.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of New Hampshire
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10406
+<br>ContactFirstName------Sally
+<br>ContactMiddleName------
+<br>ContactLastName-------Kidd
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wesh-tv-2-sally-kidd.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Louisiana State University,Georgetown University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/sallykidd
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10405
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Amara
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wesh-tv-2-kate-amara.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of New Hampshire
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/kateamara
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10407
+<br>ContactFirstName------Nikole
+<br>ContactMiddleName------
+<br>ContactLastName-------Killion
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wesh-tv-2-nikole-killion.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nkillion@hearst.com
+<br>Alternative Email-----
+<br>University------------ Northwestern University's Medill School of Journalism
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10407
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Carthy
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------wesh-tv-2-dan-carthy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dan-mccarthy/11/b80/351
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10408
+<br>ContactFirstName------Monica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Horne
+<br>ContactDescription----
+<br>ContactDesignation----D221
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Monica@WBOK1230am.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10409
+<br>ContactFirstName------Kimberly
+<br>ContactMiddleName------
+<br>ContactLastName-------Williams
+<br>ContactDescription----
+<br>ContactDesignation----D447
+<br>ContactPhoto----------wesh-tv-2-kimberly-williams.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Central Florida's Nicholson School
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/wesh2kimberly
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10409
+<br>ContactFirstName------Cheryl 
+<br>ContactMiddleName------
+<br>ContactLastName-------Charles
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Cheryl@WBOK1230am.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10410
+<br>ContactFirstName------Gerod 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stevens
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Gerod@WBOK1230am.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10411
+<br>ContactFirstName------Pat
+<br>ContactMiddleName------
+<br>ContactLastName-------Clarke
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wesh-tv-2-pat-clarke.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pclarke@hearst.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10412
+<br>ContactFirstName------India 
+<br>ContactMiddleName------
+<br>ContactLastName-------James
+<br>ContactDescription----
+<br>ContactDesignation----D516
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------IndiaDenee@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10413
+<br>ContactFirstName------Guy
+<br>ContactMiddleName------
+<br>ContactLastName-------Rawlings
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wesh-tv-2-guy-rawlings.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------grawlings@hearst.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------http://facebook.com/guy.rawlings
+<br>ContactLinkedin-------http://linkedin.com/pub/guy-rawlings/a/16/247
+<br>ContactTwitter--------http://twitter.com/#!/guyrawlings
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10414
+<br>ContactFirstName------Lee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hardy
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Lee@WBOK1230am.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10415
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Slade
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------toontopia@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10416
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Billow
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-dan-billow.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dbillow@hearst.com
+<br>Alternative Email-----
+<br>University------------California State University in Fullerton,Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dan-billow/a/563/a15
+<br>ContactTwitter--------http://twitter.com/#!/danbillow
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3538
+<br>ContactId-------------C10417
+<br>ContactFirstName------Blayne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bondy
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------B.Bondy@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10418
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-greg-fox.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gfox@hearst.com
+<br>Alternative Email-----
+<br>University------------High Point University-North Carolina
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10419
+<br>ContactFirstName------ Natalia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gonzalez
+<br>ContactDescription----
+<br>ContactDesignation----D182
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------natalia@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10420
+<br>ContactFirstName------Jared 
+<br>ContactMiddleName------
+<br>ContactLastName-------Zeller
+<br>ContactDescription----
+<br>ContactDesignation----D465
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jared@wrbh.org
+<br>Alternative Email-----
+<br>University------------University of New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/jared-zeller/7/339/767
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10421
+<br>ContactFirstName------Andrea
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackson
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-andrea-jackson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10422
+<br>ContactFirstName------Angel 
+<br>ContactMiddleName------Yrle 
+<br>ContactLastName-------Fryou
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------yrle_angel@bellsouth.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10423
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Kealing
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-bob-kealing.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bob.kealing@wesh.com
+<br>Alternative Email-----
+<br>University------------University of Kansas
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/bob-kealing/7/19b/832
+<br>ContactTwitter--------https://twitter.com/#!/bobkealing
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10424
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------McDaniel
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-dave-mcdaniel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Dave.McDaniel@wesh.com
+<br>Alternative Email-----
+<br>University------------Iowa State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dave-mcdaniel/11/974/48a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10425
+<br>ContactFirstName------Jackie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bullock
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jackie@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10407
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Carthy
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------wesh-tv-2-dan-carthy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dan-mccarthy/11/b80/351
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10407
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Carthy
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------wesh-tv-2-dan-carthy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dan-mccarthy/11/b80/351
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10426
+<br>ContactFirstName------Tim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vogel
+<br>ContactDescription----
+<br>ContactDesignation----D471
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------production@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------McDaniel
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-dave-mcdaniel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Dave.McDaniel@wesh.com
+<br>Alternative Email-----
+<br>University------------Iowa State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dave-mcdaniel/22/7a3/637
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10427
+<br>ContactFirstName------Elizabeth 
+<br>ContactMiddleName------
+<br>ContactLastName-------Granzow
+<br>ContactDescription----
+<br>ContactDesignation----D613
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------production@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10424
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------McDaniel
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-dave-mcdaniel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Dave.McDaniel@wesh.com
+<br>Alternative Email-----
+<br>University------------Iowa State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dave-mcdaniel/11/974/48a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10407
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------Mc
+<br>ContactLastName-------Carthy
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------wesh-tv-2-dan-carthy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dan-mccarthy/11/b80/351
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10407
+<br>ContactFirstName------King 
+<br>ContactMiddleName------
+<br>ContactLastName-------Semiean
+<br>ContactDescription----
+<br>ContactDesignation----D613
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------production@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10428
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------McCarthy
+<br>ContactDescription----
+<br>ContactDesignation----D588
+<br>ContactPhoto----------wesh-tv-2-dan-mccarthy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dan-mccarthy/11/b80/351
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10429
+<br>ContactFirstName------Jason 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burrus
+<br>ContactDescription----
+<br>ContactDesignation----D613
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------production@wrbh.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3539
+<br>ContactId-------------C10430
+<br>ContactFirstName------Ernie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kain
+<br>ContactDescription----
+<br>ContactDesignation----D310
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------erniekain@i-55.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10431
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Meredith
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-michelle-meredith.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmeredith@hearst.com
+<br>Alternative Email-----
+<br>University------------Louisiana State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/MichelleM09
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10432
+<br>ContactFirstName------Claire
+<br>ContactMiddleName------
+<br>ContactLastName-------Metz
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-claire-metz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cmetz@hearst.com
+<br>Alternative Email-----
+<br>University------------Loyola University-New Orleans,University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10433
+<br>ContactFirstName------Cara
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-cara-moore.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cmoore@abc27.com
+<br>Alternative Email-----
+<br>University------------Merrimack College in North Andover
+<br>ContactFacebook-------http://facebook.com/pages/Cara-Moore/104712957735?viewas=0&sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10434
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Maassen
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pmaassen@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10435
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Ober
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-amanda-ober.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------aober@hearst.com
+<br>Alternative Email-----
+<br>University------------Troy University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/amanda-ober/a/903/74b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10436
+<br>ContactFirstName------Ron 
+<br>ContactMiddleName------
+<br>ContactLastName-------Biava
+<br>ContactDescription----
+<br>ContactDesignation----D339
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lmhuston@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10437
+<br>ContactFirstName------Janet 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----
+<br>ContactDesignation----D336
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lhays@wwno.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10438
+<br>ContactFirstName------Kendra
+<br>ContactMiddleName------
+<br>ContactLastName-------Oestreich
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-kendra-oestreich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------koestreich@hearst.com
+<br>Alternative Email-----
+<br>University------------University of South Dakota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kendra-oestreich/9/706/849
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10439
+<br>ContactFirstName------Gail
+<br>ContactMiddleName------Paschall
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-gail-brown.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gpaschallbrown@hearst.com
+<br>Alternative Email-----
+<br>University------------East Carolina University-Greenville-N.C.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10440
+<br>ContactFirstName------Ryan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bordenave
+<br>ContactDescription----
+<br>ContactDesignation----D498
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rbordenave@wwno.org
+<br>Alternative Email-----
+<br>University------------University of New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/ryan-bordenave/a/9b1/19a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2317
+<br>ContactId-------------C10441
+<br>ContactFirstName------Todd
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------wesh-tv-2-todd-wilson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tvwilson@hearst.com
+<br>Alternative Email-----
+<br>University------------Morris Brown College in Atlanta
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10442
+<br>ContactFirstName------Jameeta 
+<br>ContactMiddleName------
+<br>ContactLastName-------Youngblood
+<br>ContactDescription----
+<br>ContactDesignation----D153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lmhuston@uno.edu
+<br>Alternative Email-----jmyoungb@uno.edu
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10443
+<br>ContactFirstName------Ron 
+<br>ContactMiddleName------
+<br>ContactLastName-------Curtis
+<br>ContactDescription----
+<br>ContactDesignation----D112
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rcurtis@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10444
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carroll
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------r.carroll@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/robert-carroll/5/642/bb5
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10445
+<br>ContactFirstName------Farrar 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hudkins
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------fhudkins@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10446
+<br>ContactFirstName------Jenni 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lawson
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jlawson@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10447
+<br>ContactFirstName------Stephanie
+<br>ContactMiddleName------
+<br>ContactLastName-------Rochon
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------wtvr-tv-6-stephanie-rochon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------srochon@wtvr.com
+<br>Alternative Email-----
+<br>University------------Louisiana State University 
+<br>ContactFacebook-------http://facebook.com/pages/Stephanie-Rochon-WTVR-CBS-6/179002118795876?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10448
+<br>ContactFirstName------Jack 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopke
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jhopke@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10449
+<br>ContactFirstName------Farrar 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hudkins
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------fhudkins@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10450
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Fitzgerald
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wtvr-tv-6-bill-fitzgerald.jpg
+<br>ContactPhonenumber----804-254-3684
+<br>ContactEmail----------bfitzgerald@wtvr.com
+<br>Alternative Email-----
+<br>University------------Harvard University,Columbia University
+<br>ContactFacebook-------http://facebook.com/pages/Bill-Fitzgerald-WTVR-CBS-6/177304145621695?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10451
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mack 
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmmack1@uno.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/diane-mack/15/a03/703
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10452
+<br>ContactFirstName------Cheryl
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wtvr-tv-6-cheryl-miller.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------cmiller@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Cheryl-Miller-WTVR-CBS-6/185048488176239?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10453
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Cardwell
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wtvr-tv-6-rob-cardwell.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------rcardwell@wtvr.com
+<br>Alternative Email-----
+<br>University------------Armed Force's Defense Information School in Indianapolis-Indiana.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10453
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Hastings
+<br>ContactDescription----
+<br>ContactDesignation----D529
+<br>ContactPhoto----------wwno-fm-89.9-(npr)-joe-hastings.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Univ. Southern MS
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10454
+<br>ContactFirstName------Reba
+<br>ContactMiddleName------
+<br>ContactLastName-------Hollingsworth
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------wtvr-tv-6-reba-hollingsworth.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------rhollingsworth@wtvr.com
+<br>Alternative Email-----
+<br>University------------Texas State University-San Marcos-Texas 
+<br>ContactFacebook-------http://facebook.com/pages/Reba-Hollingsworth-WTVR-CBS-6/172748502737125?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10455
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dunn
+<br>ContactDescription----
+<br>ContactDesignation----D529
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of New Orleans,Loyola University New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/in/soundesigner
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10456
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------McQuade
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-greg-mcquade.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------gmcquade@wtvr.com
+<br>Alternative Email-----
+<br>University------------Northeastern University
+<br>ContactFacebook-------http://facebook.com/pages/Greg-McQuade-WTVR-CBS-6/155311374511800?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10457
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Pavlovich
+<br>ContactDescription----
+<br>ContactDesignation----D529
+<br>ContactPhoto----------wwno-fm-89.9-(npr)-robert-pavlovich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Syracuse University ,Loyola University New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/robert-pavlovich/6/191/a65
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10458
+<br>ContactFirstName------Angela
+<br>ContactMiddleName------
+<br>ContactLastName-------Pellerano
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wtvr-tv-6-angela-pellerano.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------apellerano@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Angela-Pellerano-WTVR-CBS-6/116898503365?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10458
+<br>ContactFirstName------Angela
+<br>ContactMiddleName------
+<br>ContactLastName-------Pellerano
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wtvr-tv-6-angela-pellerano.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------apellerano@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Angela-Pellerano-WTVR-CBS-6/116898503365?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10459
+<br>ContactFirstName------Ros 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wingerter
+<br>ContactDescription----
+<br>ContactDesignation----D529
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10460
+<br>ContactFirstName------Katy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Caraway
+<br>ContactDescription----
+<br>ContactDesignation----D529
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10461
+<br>ContactFirstName------Sam
+<br>ContactMiddleName------
+<br>ContactLastName-------Brock
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wtvr-tv-6-sam-brock.jpg
+<br>ContactPhonenumber----804-254-3602
+<br>ContactEmail----------sbrock@wtvr.com
+<br>Alternative Email-----
+<br>University------------ Northwestern University
+<br>ContactFacebook-------http://facebook.com/pages/Sam-Brock-WTVR-CBS-6/172735752752126?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/sam-brock/28/a49/65b
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10462
+<br>ContactFirstName------Thais St. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Julien
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------domna@mailhost.tcs.tulane.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3541
+<br>ContactId-------------C10463
+<br>ContactFirstName------membership
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----504-280-7002
+<br>ContactEmail----------jwilson@wwno.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10464
+<br>ContactFirstName------Sandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wtvr-tv-6-sandra-jones.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------sjones@wtvr.com
+<br>Alternative Email-----
+<br>University------------Rutger's University
+<br>ContactFacebook-------http://facebook.com/pages/Sandra-Jones-WTVR-CBS-6/134515649935746?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/sandra-jones/9/780/4a6
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10464
+<br>ContactFirstName------Jon
+<br>ContactMiddleName------
+<br>ContactLastName-------Burkett
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-jon-burkett.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------jburkett@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Jon-Burkett-WTVR-CBS-6/117589918304649?viewas=0&sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/jon-burkett/13/741/638
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10465
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Freedman
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------wwoz-fm-90.7-david-freedman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10466
+<br>ContactFirstName------Shelby
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-shelby-brown.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------sbrown@wtvr.com
+<br>Alternative Email-----
+<br>University------------James Madison University
+<br>ContactFacebook-------http://facebook.com/pages/Shelby-Brown-WTVR-CBS-6/167854843238101?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10467
+<br>ContactFirstName------Dwayne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Breashears
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10468
+<br>ContactFirstName------Wayne
+<br>ContactMiddleName------
+<br>ContactLastName-------Covil
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------wtvr-tv-6-wayne-covil.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------wcovil@wtvr.com
+<br>Alternative Email-----
+<br>University------------Campbell University
+<br>ContactFacebook-------http://facebook.com/pages/Wayne-Covil-WTVR-CBS-6/174933355856693?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/wayne-covil/5/4ab/298
+<br>ContactTwitter--------http://twitter.com/#!/waynecovilcbs6
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10469
+<br>ContactFirstName------Beau 
+<br>ContactMiddleName------
+<br>ContactLastName-------Royste
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10470
+<br>ContactFirstName------Tracy
+<br>ContactMiddleName------
+<br>ContactLastName-------Sears
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-tracy-sears.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tsears@wtvr.com
+<br>Alternative Email-----
+<br>University------------George Mason University
+<br>ContactFacebook-------http://facebook.com/pages/Tracy-Sears-WTVR-CBS-6/181061241936075?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10471
+<br>ContactFirstName------Damond 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jacob
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10472
+<br>ContactFirstName------Lorenzo
+<br>ContactMiddleName------
+<br>ContactLastName-------Hall
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wtvr-tv-6-lorenzo-hall.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------Lhall@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Missouri
+<br>ContactFacebook-------http://facebook.com/lorenzohallCBS6?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/lorenzohall
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10473
+<br>ContactFirstName------Tony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Guillory
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10474
+<br>ContactFirstName------Zach
+<br>ContactMiddleName------
+<br>ContactLastName-------Daniel
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------wtvr-tv-6-zach-daniel.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------zdaniel@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Georgia,University of Oklahoma
+<br>ContactFacebook-------http://facebook.com/ZachDanielCBS6?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/zach-daniel/12/537/801
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com/weather
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10475
+<br>ContactFirstName------Jorge 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fuentes
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/jorge-fuentes/27/208/535
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10476
+<br>ContactFirstName------Carrie
+<br>ContactMiddleName------
+<br>ContactLastName-------Rose
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wtvr-tv-6-carrie-rose.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------crose@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Oklahoma,
+<br>ContactFacebook-------http://facebook.com/CarrieRoseCBS6?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/southernredrose
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10477
+<br>ContactFirstName------Maryse 
+<br>ContactMiddleName------
+<br>ContactLastName-------DeJean
+<br>ContactDescription----
+<br>ContactDesignation----D680
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Maryland Institute College of Art,Trinity University-Washington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/in/newhaitiproject
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10478
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Stone
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wtvr-tv-6-mike-stone.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mstone@wtvr.com
+<br>Alternative Email-----
+<br>University------------Penn State University
+<br>ContactFacebook-------http://facebook.com/MikeStoneWTVRCBS6?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/MikeStoneCBS6
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10479
+<br>ContactFirstName------Dee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lindsey
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10480
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Borne
+<br>ContactDescription----
+<br>ContactDesignation----D234
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10481
+<br>ContactFirstName------Carmen 
+<br>ContactMiddleName------Conner 
+<br>ContactLastName-------Post
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10482
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Holmberg
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wtvr-tv-6-mark-holmberg.jpg
+<br>ContactPhonenumber----804-467-3562
+<br>ContactEmail----------mholmberg@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Mark-Holmberg-WTVR-CBS-6/128912110512790?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10483
+<br>ContactFirstName------Lauren 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cangelosi
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10484
+<br>ContactFirstName------Crystal 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gross
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Loyola University New Orleans
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/crystal-gross/6/b3b/745
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10485
+<br>ContactFirstName------Molly 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cobb
+<br>ContactDescription----
+<br>ContactDesignation----D466
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10486
+<br>ContactFirstName------Lane
+<br>ContactMiddleName------
+<br>ContactLastName-------Casadonte
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------wtvr-tv-6-lane-casadonte.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------lcasadonte@wtvr.com
+<br>Alternative Email-----
+<br>University------------Plattsburgh State University
+<br>ContactFacebook-------http://facebook.com/pages/Lane-Casadonte-WTVR-CBS-6/163789850328207?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10487
+<br>ContactFirstName------Sean
+<br>ContactMiddleName------
+<br>ContactLastName-------Robertson
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wtvr-tv-6-sean-robertson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------srobertson@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Sean-Robertson-WTVR-CBS-6/163354253701761?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10488
+<br>ContactFirstName------Eliza
+<br>ContactMiddleName------
+<br>ContactLastName-------Llewellyn
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------wwoz-fm-90.7-eliza-llewellyn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Dickinson College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/eliza-llewellyn/26/baa/2b2
+<br>ContactTwitter--------http://twitter.com/#!/lizalunar
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3542
+<br>ContactId-------------C10489
+<br>ContactFirstName------Julie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Raimondi
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10490
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Meadows
+<br>ContactDescription----
+<br>ContactDesignation----D447
+<br>ContactPhoto----------wtvr-tv-6-amanda-meadows.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------ameadows@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Los Angeles-California
+<br>ContactFacebook-------http://facebook.com/pages/Amanda-Meadows-WTVR-CBS-6/159863897382743?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10490
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Meadows
+<br>ContactDescription----
+<br>ContactDesignation----D447
+<br>ContactPhoto----------wtvr-tv-6-amanda-meadows.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------ameadows@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Los Angeles-California
+<br>ContactFacebook-------http://facebook.com/pages/Amanda-Meadows-WTVR-CBS-6/159863897382743?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10491
+<br>ContactFirstName------Raymond
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkes
+<br>ContactDescription----
+<br>ContactDesignation----D447
+<br>ContactPhoto----------wtvr-tv-6-raymond-hawkes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rhawkes@wtvr.com
+<br>Alternative Email-----
+<br>University------------Virginia Union University
+<br>ContactFacebook-------http://facebook.com/pages/Raymond-Hawkes-WTVR-CBS-6/118219308241353?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/raymondhawkes
+<br>ContactURL------------http://www.WTVR.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10492
+<br>ContactFirstName------Catie
+<br>ContactMiddleName------
+<br>ContactLastName-------Beck
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wtvr-tv-6-catie-beck.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cbeck@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Catie-Beck-WTVR-CBS-6/132706493463849?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/CatieBird8
+<br>ContactURL------------http://wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3543
+<br>ContactId-------------C10493
+<br>ContactFirstName------webmaster
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------webmaster@am940.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10494
+<br>ContactFirstName------Antoinette
+<br>ContactMiddleName------
+<br>ContactLastName-------Essa
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------wtvr-tv-6-antoinette-essa.jpg
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------Aessa@wtvr.com
+<br>Alternative Email-----
+<br>University------------University of Bridgeport
+<br>ContactFacebook-------http://facebook.com/pages/Antoinette-Essa-WTVR-CBS-6/126508980717703?sk=info
+<br>ContactLinkedin-------http://linkedin.com/in/aessa1218
+<br>ContactTwitter--------http://twitter.com/#!/AntoinetteEssa
+<br>ContactURL------------http://www.wtvr.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10495
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Anderson
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3638
+<br>ContactEmail----------banderson@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10496
+<br>ContactFirstName------Kermit 
+<br>ContactMiddleName------
+<br>ContactLastName-------Poling
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kpoling@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10497
+<br>ContactFirstName------membership
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------hedwards@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10498
+<br>ContactFirstName------Stephen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hayes
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3613
+<br>ContactEmail----------shayes@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10499
+<br>ContactFirstName------Underwriting
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rmoran@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10500
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3684 
+<br>ContactEmail----------newstips@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10501
+<br>ContactFirstName------Sheryl 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnhouse
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sbarnhouse@wtvr.com
+<br>Alternative Email-----804-254-3677
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10502
+<br>ContactFirstName------Misti 
+<br>ContactMiddleName------
+<br>ContactLastName-------Davidson
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-5742
+<br>ContactEmail----------mdavidson@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10503
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Beckett
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------%20wbeckett@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10504
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hughes
+<br>ContactDescription----
+<br>ContactDesignation----D220
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3684
+<br>ContactEmail----------rhughes@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10505
+<br>ContactFirstName------Raymond 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkes
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3684
+<br>ContactEmail----------rhawkes@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10506
+<br>ContactFirstName------Shayne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rogers
+<br>ContactDescription----
+<br>ContactDesignation----D280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3614
+<br>ContactEmail----------srogers@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10507
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------Archer
+<br>ContactLastName-------Kent
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------kdaq-fm-89.9-(npr)-kate-kent.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------karcher@lsus.edu
+<br>Alternative Email-----
+<br>University------------Temple University,University of Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10508
+<br>ContactFirstName------Cherie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3607
+<br>ContactEmail----------cheriemiller@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10509
+<br>ContactFirstName------WTVR.com
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ndutton@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10510
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Noll
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-1581
+<br>ContactEmail----------jnoll@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10511
+<br>ContactFirstName------Torri 
+<br>ContactMiddleName------
+<br>ContactLastName-------Strickland
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3689
+<br>ContactEmail----------tstrickland@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10512
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------McClain
+<br>ContactDescription----
+<br>ContactDesignation----D158
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3688
+<br>ContactEmail----------mmcclain@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10513
+<br>ContactFirstName------Thomas 
+<br>ContactMiddleName------
+<br>ContactLastName-------Messervy
+<br>ContactDescription----
+<br>ContactDesignation----D547
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3695
+<br>ContactEmail----------tmesservy@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10514
+<br>ContactFirstName------Wally
+<br>ContactMiddleName------
+<br>ContactLastName-------Derleth
+<br>ContactDescription----
+<br>ContactDesignation----D531
+<br>ContactPhoto----------kdaq-fm-89.9-(npr)-wally-derleth.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------wderleth@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10515
+<br>ContactFirstName------Rob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Byrne
+<br>ContactDescription----
+<br>ContactDesignation----D430
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3626
+<br>ContactEmail----------rbyrne@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10516
+<br>ContactFirstName------Sandi 
+<br>ContactMiddleName------David 
+<br>ContactLastName-------Cauley
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3669
+<br>ContactEmail----------sdavis@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10517
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wise
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3651
+<br>ContactEmail----------swise@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10518
+<br>ContactFirstName------Ranae 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moran
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail---------- Ranae.Moran@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10503
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Beckett
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail---------- wbeckett@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10519
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barksdale
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-3412
+<br>ContactEmail----------bbarksdale@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10520
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bergazzi
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-8780
+<br>ContactEmail----------mbergazzi@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10521
+<br>ContactFirstName------Jennifer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-3684
+<br>ContactEmail----------jburns@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10522
+<br>ContactFirstName------Jennifer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carr
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3642
+<br>ContactEmail----------jennifercarr@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10523
+<br>ContactFirstName------Richard 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lesko
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3648 
+<br>ContactEmail----------rlesko@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10524
+<br>ContactFirstName------Lauren 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mackey
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-3416 
+<br>ContactEmail----------lmackey@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10525
+<br>ContactFirstName------Tasia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stone
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-3664
+<br>ContactEmail----------tstone@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10526
+<br>ContactFirstName------Don 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cox
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-342-8789 
+<br>ContactEmail----------doncox@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10527
+<br>ContactFirstName------Tina 
+<br>ContactMiddleName------
+<br>ContactLastName-------Woody
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3680 
+<br>ContactEmail----------twoody@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10518
+<br>ContactFirstName------Ranae 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moran
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail---------- Ranae.Moran@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10528
+<br>ContactFirstName------Roger 
+<br>ContactMiddleName------
+<br>ContactLastName-------Katchen
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3665 
+<br>ContactEmail----------rkatchen@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10529
+<br>ContactFirstName------Charlie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wood
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3630
+<br>ContactEmail----------cwood@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10530
+<br>ContactFirstName------Rick 
+<br>ContactMiddleName------
+<br>ContactLastName-------Farley
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3419
+<br>ContactEmail----------rfarley@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10531
+<br>ContactFirstName------Henry 
+<br>ContactMiddleName------
+<br>ContactLastName-------Edwards
+<br>ContactDescription----
+<br>ContactDesignation----D466
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail---------- HEdwards@lsus.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/henry-edwards/26/2a8/a15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10532
+<br>ContactFirstName------Closed Captioning
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3616
+<br>ContactEmail----------captioninghotline@wtvr.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10533
+<br>ContactFirstName------Nichol 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sanderson
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-254-3600
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3544
+<br>ContactId-------------C10534
+<br>ContactFirstName------Eric E.
+<br>ContactMiddleName------
+<br>ContactLastName-------Jenkins
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------kdaq-fm-89.9-(npr)-eric-e.-jenkins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ericejenkins@netscape.net
+<br>Alternative Email-----
+<br>University------------Louisiana State University in Shreveport ,The Career Institute, Los Angeles City College 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/eric-e-jenkins/22/959/703
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10535
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----407-822-8353
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10536
+<br>ContactFirstName------Internet
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----407-822-8292
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3545
+<br>ContactId-------------C10537
+<br>ContactFirstName------Erin 
+<br>ContactMiddleName------
+<br>ContactLastName-------McCarty 
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------erinmccarty@townsquaremedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3545
+<br>ContactId-------------C10538
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Janes
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lisajanes@townsquaremedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3545
+<br>ContactId-------------C10539
+<br>ContactFirstName------business
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----318-688-1130
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10540
+<br>ContactFirstName------Nancy
+<br>ContactMiddleName------
+<br>ContactLastName-------Alvarez
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-nancy-alvarez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nancy.alvarez@wftv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Nancy-Alvarez-WFTV/206856219343715?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/NAlvarezWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10541
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Barber
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-tim-barber.jpg
+<br>ContactPhonenumber----40-448-4361
+<br>ContactEmail----------tim.barber@wftv.com
+<br>Alternative Email-----
+<br>University------------Elon University
+<br>ContactFacebook-------http://facebook.com/pages/Tim-Barber/149418938431485?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/tim-barber/20/814/97
+<br>ContactTwitter--------http://twitter.com/#!/TBarberWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10542
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Barrett
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-steve-barrett.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------steve.barrett@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Stevens Point
+<br>ContactFacebook-------http://facebook.com/Flareporter
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/flareporter
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3548
+<br>ContactId-------------C10543
+<br>ContactFirstName------Jeff  
+<br>ContactMiddleName------
+<br>ContactLastName-------Wade
+<br>ContactDescription----
+<br>ContactDesignation----D1000
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jwade@portlandradiogroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3548
+<br>ContactId-------------C10544
+<br>ContactFirstName------Victoria 
+<br>ContactMiddleName------
+<br>ContactLastName-------Foley 
+<br>ContactDescription----
+<br>ContactDesignation----D463
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------vfoley@portlandradiogroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10545
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Baxa
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-bob-baxa.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bob.baxa@wftv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/WFTVTraffic
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3549
+<br>ContactId-------------C10546
+<br>ContactFirstName------business
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----207-774 - 6364
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3550
+<br>ContactId-------------C10547
+<br>ContactFirstName------Morgan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Grumbach
+<br>ContactDescription----
+<br>ContactDesignation----D214
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------morgan@atlanticcoastradio.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10548
+<br>ContactFirstName------Kathi
+<br>ContactMiddleName------
+<br>ContactLastName-------Belich
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-kathi-belich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kathi.belich@wftv.com
+<br>Alternative Email-----
+<br>University------------Pennsylvania State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/KBelichWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3550
+<br>ContactId-------------C10549
+<br>ContactFirstName------Dave 
+<br>ContactMiddleName------Shoe
+<br>ContactLastName-------Schumacher
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------shoe@thebigjab.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2318
+<br>ContactId-------------C10550
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Benson
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wtvr-tv-6-josh-benson.jpg
+<br>ContactPhonenumber----407-284-5022
+<br>ContactEmail----------josh.benson@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Colorado-Boulde,University of Minnesota
+<br>ContactFacebook-------http://facebook.com/JoshBensonWFTV?sk=info
+<br>ContactLinkedin-------http://linkedin.com/in/joshbenson22
+<br>ContactTwitter--------http://twitter.com/#!/jpbenson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3551
+<br>ContactId-------------C10551
+<br>ContactFirstName------business
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----207-773-9695
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3551
+<br>ContactId-------------C10552
+<br>ContactFirstName------Morgan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Grumbach
+<br>ContactDescription----
+<br>ContactDesignation----D214
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------morgan@atlanticcoastradio.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10553
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Malinowski
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mrkmalinowski@bccc.edu
+<br>Alternative Email-----
+<br>University------------Wayne State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10554
+<br>ContactFirstName------Dyana 
+<br>ContactMiddleName------
+<br>ContactLastName-------Neal
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10555
+<br>ContactFirstName------Judith 
+<br>ContactMiddleName------
+<br>ContactLastName-------Krummeck
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Cape Town,University of South Africa
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10556
+<br>ContactFirstName------Reed 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hessler
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10557
+<br>ContactFirstName------Kati 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harrison
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Texas A&M University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3555
+<br>ContactId-------------C10558
+<br>ContactFirstName------Jonathan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Palevsky
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Peabody Institute of the Johns Hopkins University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10559
+<br>ContactFirstName------Kathi
+<br>ContactMiddleName------
+<br>ContactLastName-------Belich
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-kathi-belich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kathi.belich@wftv.com
+<br>Alternative Email-----
+<br>University------------Pennsylvania State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/KBelichWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10560
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Benson
+<br>ContactDescription----
+<br>ContactDesignation----D350
+<br>ContactPhoto----------wftv-tv-9-josh-benson.jpg
+<br>ContactPhonenumber----407-284-5022
+<br>ContactEmail----------josh.benson@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Colorado-Boulder,University of Minnesota-
+<br>ContactFacebook-------http://facebook.com/JoshBensonWFTV?sk=info
+<br>ContactLinkedin-------http://linkedin.com/in/joshbenson22
+<br>ContactTwitter--------http://twitter.com/#!/jpbenson
+<br>ContactURL------------http://www.joshbenson.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10561
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Boyle
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-mark-boyle.jpg
+<br>ContactPhonenumber----407-822-8353
+<br>ContactEmail----------mark.boyle@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------http://facebook.com/MarkBoyleWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mboylewftv
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10562
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pettit
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bpettit@wcbm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10563
+<br>ContactFirstName------Christian
+<br>ContactMiddleName------
+<br>ContactLastName-------Bruey
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------christian.bruey@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/cbruey
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10564
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Caplan
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------businessmanager@wcbm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10565
+<br>ContactFirstName------Marc 
+<br>ContactMiddleName------
+<br>ContactLastName-------Beaven
+<br>ContactDescription----
+<br>ContactDesignation----D82
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mbeaven680@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10566
+<br>ContactFirstName------Bianca
+<br>ContactMiddleName------
+<br>ContactLastName-------Castro
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------wftv-tv-9-bianca-castro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bianca.castro@wftv.com
+<br>Alternative Email-----
+<br>University------------Baylor University 
+<br>ContactFacebook-------http://facebook.com/people/Bianca-Castro/100000585854240
+<br>ContactLinkedin-------http://linkedin.com/pub/bianca-castro/9/420/b55
+<br>ContactTwitter--------http://twitter.com/#!/biancacastrotv
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10567
+<br>ContactFirstName------Nino 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mangione
+<br>ContactDescription----
+<br>ContactDesignation----D366
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nino@wcbm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10568
+<br>ContactFirstName------Kenneth
+<br>ContactMiddleName------
+<br>ContactLastName-------Craig
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kenneth.craig@wftv.com
+<br>Alternative Email-----
+<br>University------------Emerson College in Boston
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10569
+<br>ContactFirstName------Brenda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carl
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bcarl@wcbm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10570
+<br>ContactFirstName------Kassandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Crimi
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wftv-tv-9-kassandra-crimi.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kassandra.crimi@wftv.com
+<br>Alternative Email-----
+<br>University------------Florida Institute of Technology
+<br>ContactFacebook-------http://facebook.com/people/Kassandra-Crimi/100000398019117
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10571
+<br>ContactFirstName------Sean 
+<br>ContactMiddleName------
+<br>ContactLastName-------Casey
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sean@wcbm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/sean-casey/4/487/2b9
+<br>ContactTwitter--------https://twitter.com/#!/seanandfrank
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10572
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Deal
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-jeff-deal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jeff.deal@wftv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3556
+<br>ContactId-------------C10573
+<br>ContactFirstName------Frank 
+<br>ContactMiddleName------
+<br>ContactLastName-------Luber
+<br>ContactDescription----
+<br>ContactDesignation----D464
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------drluber2002@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10574
+<br>ContactFirstName------Eboni
+<br>ContactMiddleName------
+<br>ContactLastName-------Deon
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wftv-tv-9-eboni-deon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------eboni.deon@wftv.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------http://facebook.com/pages/Eboni-Deon/126595646075?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10575
+<br>ContactFirstName------Vanessa
+<br>ContactMiddleName------
+<br>ContactLastName-------Echols
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wftv-tv-9-vanessa-echols.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------vanessa.echols@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Alabama-Tuscaloosa
+<br>ContactFacebook-------http://facebook.com/VanessaEcholsWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/vanessaechols
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10576
+<br>ContactFirstName------News Tips
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----410-568-7568
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10577
+<br>ContactFirstName------Jamie
+<br>ContactMiddleName------
+<br>ContactLastName-------Holmes
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wftv-tv-9-jamie-holmes.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jamie.holmes@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10578
+<br>ContactFirstName------Melonie
+<br>ContactMiddleName------
+<br>ContactLastName-------Holt
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-melonie-holt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------melonie.holt@wftv.com
+<br>Alternative Email-----
+<br>University------------Pennsylvania State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10579
+<br>ContactFirstName------Ryan
+<br>ContactMiddleName------
+<br>ContactLastName-------Hughes
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ryan.hughes@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Florida,Temple University-Philadelphia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10580
+<br>ContactFirstName------Denise
+<br>ContactMiddleName------
+<br>ContactLastName-------Koch
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wjz-am-1300-(espn)-denise-koch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Michigan,California Institute of the Arts
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10581
+<br>ContactFirstName------Daralene
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-daralene-jones.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------daralene.jones@wftv.com
+<br>Alternative Email-----
+<br>University------------Illinois State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/DaraleneJones
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10582
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Kepner
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wftv-tv-9-joe-kepner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------joe.kepner@wftv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10583
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wjz-am-1300-(espn)-don-scott.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wittenberg University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10584
+<br>ContactFirstName------Kai
+<br>ContactMiddleName------
+<br>ContactLastName-------Jackson
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wjz-am-1300-(espn)-kai-jackson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10585
+<br>ContactFirstName------Qwesi Q
+<br>ContactMiddleName------
+<br>ContactLastName-------McCray
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-qwesi-q-mccray.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------qwesi.mccray@wftv.com
+<br>Alternative Email-----
+<br>University------------ University of Southern California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/QMcCrayWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10586
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Monahan
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wftv-tv-9-brian-monahan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------brian.monahan@wftv.com
+<br>Alternative Email-----
+<br>University------------Penn State University
+<br>ContactFacebook-------http://www.facebook.com/BrianMonahanWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10587
+<br>ContactFirstName------Kenneth
+<br>ContactMiddleName------
+<br>ContactLastName-------Moton
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-kenneth-moton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kenneth.moton@wftv.com
+<br>Alternative Email-----
+<br>University------------University of South Carolina 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10588
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------
+<br>ContactLastName-------Nguyen
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-mary-nguyen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mary.nguyen@wftv.com
+<br>Alternative Email-----
+<br>University------------University of California at Los Angeles
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10589
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Oliver
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-kevin-oliver.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kevin.oliver@wftv.com
+<br>Alternative Email-----
+<br>University------------ University of Southern California
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10590
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Opsahl
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wftv-tv-9-bob-opsahl.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bob.opsahl@wftv.com
+<br>Alternative Email-----
+<br>University------------ University of Central Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10591
+<br>ContactFirstName------Nicole 
+<br>ContactMiddleName------
+<br>ContactLastName-------Papageorge
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nicole.papageorge@wftv.com
+<br>Alternative Email-----
+<br>University------------University of New Hampshire
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10592
+<br>ContactFirstName------Berndt
+<br>ContactMiddleName------
+<br>ContactLastName-------Petersen
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-berndt-petersen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------berndt.petersen@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Central Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10593
+<br>ContactFirstName------Martie
+<br>ContactMiddleName------
+<br>ContactLastName-------Salt
+<br>ContactDescription----
+<br>ContactDesignation----D579
+<br>ContactPhoto----------wftv-tv-9-martie-salt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------martie.salt@wftv.com
+<br>Alternative Email-----
+<br>University------------Florida State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10594
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Shields
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wftv-tv-9-brian-shields.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------brian.shields@wftv.com
+<br>Alternative Email-----
+<br>University------------Villanova University,Mississippi State University
+<br>ContactFacebook-------http://facebook.com/BrianShieldsWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10595
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------
+<br>ContactLastName-------Bubala
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wjz-am-1300-(espn)-mary-bubala.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ithaca College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10596
+<br>ContactFirstName------George
+<br>ContactMiddleName------
+<br>ContactLastName-------Spencer
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wftv-tv-9-george-spencer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------george.spencer@wftv.com
+<br>Alternative Email-----
+<br>University------------Columbia University,Princeton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/george-spencer/4/840/6b6
+<br>ContactTwitter--------https://twitter.com/#!/GSpencerWFTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10597
+<br>ContactFirstName------Vic
+<br>ContactMiddleName------
+<br>ContactLastName-------Carter
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wjz-am-1300-(espn)-vic-carter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ Morehead State University,University of Georgia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10598
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Terry
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------wftv-tv-9-tom-terry.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom.terry@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Oklahoma
+<br>ContactFacebook-------http://facebook.com/TomTerryWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/tomterrywftv
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10599
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------May
+<br>ContactDescription----
+<br>ContactDesignation----D507
+<br>ContactPhoto----------wjz-am-1300-(espn)-adam-may.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10600
+<br>ContactFirstName------Blaine
+<br>ContactMiddleName------
+<br>ContactLastName-------Tolison
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wftv-tv-9-blaine-tolison.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------blaine.tolison@wftv.com
+<br>Alternative Email-----
+<br>University------------Florida State University-Tallahassee
+<br>ContactFacebook-------http://facebook.com/people/Blaine-Tolison/5258514
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/blaine0704
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10601
+<br>ContactFirstName------Gigi
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnett
+<br>ContactDescription----
+<br>ContactDesignation----D507
+<br>ContactPhoto----------wjz-am-1300-(espn)-gigi-barnett.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University,University of South Alabama,Clark Atlanta University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10602
+<br>ContactFirstName------Todd
+<br>ContactMiddleName------
+<br>ContactLastName-------Ulrich
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wftv-tv-9-todd-ulrich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------todd.ulrich@wftv.com
+<br>Alternative Email-----
+<br>University------------Ithaca College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/todd-ulrich/13/32/459
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10603
+<br>ContactFirstName------Jessica
+<br>ContactMiddleName------
+<br>ContactLastName-------Kartalija
+<br>ContactDescription----
+<br>ContactDesignation----D507
+<br>ContactPhoto----------wjz-am-1300-(espn)-jessica-kartalija.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Pennsylvania State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10604
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------Warmoth
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wftv-tv-9-greg-warmoth.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------greg.warmoth@wftv.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/GregWarmothWFTV?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/gregwarmoth9
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10605
+<br>ContactFirstName------Alex
+<br>ContactMiddleName------
+<br>ContactLastName-------DeMetrick
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wjz-am-1300-(espn)-alex-demetrick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------California State University,San Jose State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2319
+<br>ContactId-------------C10606
+<br>ContactFirstName------Vanessa
+<br>ContactMiddleName------
+<br>ContactLastName-------Welch
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wftv-tv-9-vanessa-welch.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------vanessa.welch@wftv.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------http://facebook.com/people/Vanessa-Welch-Brewer/1408883867
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/vanessawelch
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3557
+<br>ContactId-------------C10607
+<br>ContactFirstName------Andrea
+<br>ContactMiddleName------
+<br>ContactLastName-------Fujii
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wjz-am-1300-(espn)-andrea-fujii.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Washington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

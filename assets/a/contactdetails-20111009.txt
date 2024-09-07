@@ -1,0 +1,621 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16891
+<br>ContactFirstName------Gregg
+<br>ContactMiddleName------
+<br>ContactLastName-------Lagerquist
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgme-tv-13-gregg-lagerquist.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------glagerquist@wgme.com
+<br>Alternative Email-----
+<br>University------------Northwestern University,Carleton College
+<br>ContactFacebook-------http://facebook.com/people/Gregg-Lagerquist-Wgme/100000446178350
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16892
+<br>ContactFirstName------Adrienne
+<br>ContactMiddleName------
+<br>ContactLastName-------Stein
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wgme-tv-13-adrienne-stein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------acstein@wgme.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------http://facebook.com/people/Adrienne-Stein-Wgme/100002329127734
+<br>ContactLinkedin-------http://linkedin.com/pub/adrienne-stein/6/945/511
+<br>ContactTwitter--------http://twitter.com/#!/adriennestein
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16893
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Peterson
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgme-tv-13-jeff-peterson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jpeterson@wgme.com
+<br>Alternative Email-----
+<br>University------------jpeterson@wgme.com
+<br>ContactFacebook-------http://facebook.com/people/Wgme-Jeff-Peterson/100000702324851
+<br>ContactLinkedin-------http://linkedin.com/pub/jeff-peterson/28/66a/366
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16893
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Peterson
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgme-tv-13-jeff-peterson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jpeterson@wgme.com
+<br>Alternative Email-----
+<br>University------------jpeterson@wgme.com
+<br>ContactFacebook-------http://facebook.com/people/Wgme-Jeff-Peterson/100000702324851
+<br>ContactLinkedin-------http://linkedin.com/pub/jeff-peterson/28/66a/366
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16894
+<br>ContactFirstName------Charlie
+<br>ContactMiddleName------
+<br>ContactLastName-------Lopresti
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------wgme-tv-13-charlie-lopresti.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------clopresti@wgme.com
+<br>Alternative Email-----
+<br>University------------Plymouth State University-New Hampshire
+<br>ContactFacebook-------http://facebook.com/charlielopresti.wgme
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16895
+<br>ContactFirstName------Diana
+<br>ContactMiddleName------
+<br>ContactLastName-------Ichton
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgme-tv-13-diana-ichton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dichton@wgme.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16896
+<br>ContactFirstName------Jon
+<br>ContactMiddleName------
+<br>ContactLastName-------Chrisos
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wgme-tv-13-jon-chrisos.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jdchrisos@wgme.sbgnet.com
+<br>Alternative Email-----
+<br>University------------Wheaton College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jonchrisos
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16897
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName-------Long
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wgme-tv-13-sarah-long.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------slong@wgme.com
+<br>Alternative Email-----
+<br>University------------University of Massachusetts Lowell
+<br>ContactFacebook-------http://facebook.com/people/Sarah-Long-Wgme/1135362705
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16898
+<br>ContactFirstName------Catherine
+<br>ContactMiddleName------
+<br>ContactLastName-------Parrotta
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgme-tv-13-catherine-parrotta.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cparrotta@wgme.com
+<br>Alternative Email-----
+<br>University------------Emerson College
+<br>ContactFacebook-------http://facebook.com/people/Catherine-Parrotta-Wgme/100000098561975
+<br>ContactLinkedin-------http://linkedin.com/pub/catherine-parrotta/2/aa1/994
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16899
+<br>ContactFirstName------Craig
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wgme-tv-13-craig-miller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cpmiller@wgme.com
+<br>Alternative Email-----
+<br>University------------Plymouth State University
+<br>ContactFacebook-------http://facebook.com/people/Craig-Miller-Wgme/100000201663979
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16900
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------Eid
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------wgme-tv-13-dave-eid.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------deid@wgme.com
+<br>Alternative Email-----
+<br>University------------Marquette University,Curry College in Milton-Massachusetts
+<br>ContactFacebook-------http://facebook.com/people/Dave-Eid-Wgme/796442854
+<br>ContactLinkedin-------http://linkedin.com/pub/david-eid/16/a08/610
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16901
+<br>ContactFirstName------Evans
+<br>ContactMiddleName------
+<br>ContactLastName-------Boston
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------wgme-tv-13-evans-boston.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------eboston@wgme.com
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------http://facebook.com/people/Evans-Boston-Wgme/100000203074118
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16902
+<br>ContactFirstName------Doug
+<br>ContactMiddleName------
+<br>ContactLastName-------Rafferty
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wgme-tv-13-doug-rafferty.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------drafferty@wgme.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/doug-rafferty/11/a5/130
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16903
+<br>ContactFirstName------Giovanna
+<br>ContactMiddleName------
+<br>ContactLastName-------Bechard
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgme-tv-13-giovanna-bechard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------gbechard@wgme.com
+<br>Alternative Email-----
+<br>University------------Boston University
+<br>ContactFacebook-------http://facebook.com/people/Giovanna-Bechard-Wgme/100000070580368
+<br>ContactLinkedin-------http://linkedin.com/pub/giovanna-bechard/17/a54/907
+<br>ContactTwitter--------http://twitter.com/#!/giovannabechard
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16904
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Roldan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgme-tv-13-steve-roldan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------saroldan@wgme.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University,California State University-Northridge
+<br>ContactFacebook-------http://facebook.com/people/Steve-Roldan-Wgme/100001670480859
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16905
+<br>ContactFirstName------Ashley
+<br>ContactMiddleName------
+<br>ContactLastName-------Palumbo
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wgme-tv-13-ashley-palumbo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------aepalumbo@wgme.com
+<br>Alternative Email-----
+<br>University------------Boston University
+<br>ContactFacebook-------http://facebook.com/people/Ashley-Palumbo-Wgme/100002740201657
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16906
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Humpage 
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16907
+<br>ContactFirstName------Craig 
+<br>ContactMiddleName------
+<br>ContactLastName-------Clark
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------crclark@wgme.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16908
+<br>ContactFirstName------Kelly 
+<br>ContactMiddleName------
+<br>ContactLastName-------Donnell
+<br>ContactDescription----
+<br>ContactDesignation----D703
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16909
+<br>ContactFirstName------Mimi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Strawn 
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16910
+<br>ContactFirstName------Contact WGME TV 13
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----207-797-1313 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16911
+<br>ContactFirstName------Closed Captioning
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----207-228-7787
+<br>ContactEmail----------closedcaptioning@wgme.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2724
+<br>ContactId-------------C16906
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Humpage 
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16912
+<br>ContactFirstName------Clay
+<br>ContactMiddleName------
+<br>ContactLastName-------Huntington
+<br>ContactDescription----
+<br>ContactDesignation----D1718
+<br>ContactPhoto----------klay-am-1180-clay-huntington.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------College of Puget Sound
+<br>ContactFacebook-------http://facebook.com/permalink.php?story_fbid=10150192175157923&id=321413602922
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16912
+<br>ContactFirstName------Clay
+<br>ContactMiddleName------
+<br>ContactLastName-------Huntington
+<br>ContactDescription----
+<br>ContactDesignation----D1718
+<br>ContactPhoto----------klay-am-1180-clay-huntington.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------College of Puget Sound
+<br>ContactFacebook-------http://facebook.com/permalink.php?story_fbid=10150192175157923&id=321413602922
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16913
+<br>ContactFirstName------Bob McCluskey
+<br>ContactMiddleName------
+<br>ContactLastName-------McCluskey
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------klay-am-1180-bob-mccluskey-mccluskey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bobm@klay1180.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/bob-mccluskey/11/b40/530
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16914
+<br>ContactFirstName------Bruce
+<br>ContactMiddleName------
+<br>ContactLastName-------Bond
+<br>ContactDescription----
+<br>ContactDesignation----D216
+<br>ContactPhoto----------klay-am-1180-bruce-bond.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bruceb@klay1180.com
+<br>Alternative Email-----
+<br>University------------Howard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/bruce-bond/17/524/939
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16915
+<br>ContactFirstName------Anna
+<br>ContactMiddleName------
+<br>ContactLastName-------Winter
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------klay-am-1180-anna-winter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16916
+<br>ContactFirstName------Marc
+<br>ContactMiddleName------
+<br>ContactLastName-------Modarelli
+<br>ContactDescription----
+<br>ContactDesignation----D1719
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16917
+<br>ContactFirstName------Victor
+<br>ContactMiddleName------
+<br>ContactLastName-------Cozzetti
+<br>ContactDescription----
+<br>ContactDesignation----D1720
+<br>ContactPhoto----------klay-am-1180-victor-cozzetti.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4560
+<br>ContactId-------------C16918
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Franco
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------klay-am-1180-mike-franco.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------klayfranco@klay1180.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

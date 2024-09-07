@@ -1,0 +1,3 @@
+var hanAddNotes = function(btn)
+{
+}

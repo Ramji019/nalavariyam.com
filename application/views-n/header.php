@@ -1,0 +1,1 @@
+ <div id="top-bar" class="container">		<div class="span12">			<img src="<?php echo base_url('assets/images/header.png') ?>" alt="PR Info Expert" />		</div></div>				

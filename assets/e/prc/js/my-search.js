@@ -1,0 +1,3 @@
+var hanMySearch = function(btn)
+{
+}

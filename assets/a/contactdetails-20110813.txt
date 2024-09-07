@@ -1,0 +1,1621 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12635
+<br>ContactFirstName------Pat
+<br>ContactMiddleName------
+<br>ContactLastName-------Forgey
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto---------- 
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/pat-forgey/28/537/5b2
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12636
+<br>ContactFirstName------Sarah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Day
+<br>ContactDescription----
+<br>ContactDesignation----D1119
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-523-2279
+<br>ContactEmail----------sarah.day@juneauempire.com
+<br>Alternative Email-----
+<br>University------------Concordia College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/sarah-day/15/242/287
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12637
+<br>ContactFirstName------Jonathan
+<br>ContactMiddleName------
+<br>ContactLastName-------Grass
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------juneau-empire-jonathan-grass.jpg
+<br>ContactPhonenumber----907-523-2276
+<br>ContactEmail----------jonathan.grass@juneauempire.com
+<br>Alternative Email-----
+<br>University------------University of Alabama
+<br>ContactFacebook-------http:// facebook.com/people/Jonathan-Grass/1216796869
+<br>ContactLinkedin-------http:// linkedin.com/pub/jonathan-grass/22/86/b94
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12638
+<br>ContactFirstName------Klas
+<br>ContactMiddleName------
+<br>ContactLastName-------Stolpe
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------juneau-empire-klas-stolpe.jpg
+<br>ContactPhonenumber----907-523-2263
+<br>ContactEmail----------klas.stolpe@juneauempire.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12639
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Penn
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------juneau-empire-michael-penn.jpg
+<br>ContactPhonenumber----907-523-2262
+<br>ContactEmail----------michael.penn@juneauempire.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12640
+<br>ContactFirstName------Shaun
+<br>ContactMiddleName------
+<br>ContactLastName-------Cox
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------juneau-empire-shaun-cox.jpg
+<br>ContactPhonenumber----907-523-2228
+<br>ContactEmail----------shaun.cox@juneauempire.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4632
+<br>ContactId-------------C12640
+<br>ContactFirstName------Shaun
+<br>ContactMiddleName------
+<br>ContactLastName-------Cox
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------juneau-empire-shaun-cox.jpg
+<br>ContactPhonenumber----907-523-2228
+<br>ContactEmail----------shaun.cox@juneauempire.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4630
+<br>ContactId-------------C12641
+<br>ContactFirstName------Ken 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D67
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4630
+<br>ContactId-------------C12642
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bailey
+<br>ContactDescription----
+<br>ContactDesignation----D1120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4629
+<br>ContactId-------------C12643
+<br>ContactFirstName------Deirdre 
+<br>ContactMiddleName------
+<br>ContactLastName-------Helfferich
+<br>ContactDescription----
+<br>ContactDesignation----D1039
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@esterrepublic.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4629
+<br>ContactId-------------C12644
+<br>ContactFirstName------Leah M. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4629
+<br>ContactId-------------C12645
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Darrow
+<br>ContactDescription----
+<br>ContactDesignation----D1121
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://monkeytoons.blogspot.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4629
+<br>ContactId-------------C12646
+<br>ContactFirstName------Jamie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D1122
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12647
+<br>ContactFirstName------Stan
+<br>ContactMiddleName------
+<br>ContactLastName-------Pitlo
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------clarion-dispatch-stan-pitlo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------stan.pitlo@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12648
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Janz
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------clarion-dispatch-tom-janz.jpg
+<br>ContactPhonenumber----907-335-1230
+<br>ContactEmail----------tom.janz@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12649
+<br>ContactFirstName------Randi
+<br>ContactMiddleName------
+<br>ContactLastName-------Keaton
+<br>ContactDescription----
+<br>ContactDesignation----D1108
+<br>ContactPhoto----------clarion-dispatch-randi-keaton.jpg
+<br>ContactPhonenumber----907-335-1235
+<br>ContactEmail----------randalee.keaton@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12650
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------
+<br>ContactLastName-------Bystedt
+<br>ContactDescription----
+<br>ContactDesignation----D1123
+<br>ContactPhoto----------clarion-dispatch-sharon-bystedt.jpg
+<br>ContactPhonenumber----907-335-1230
+<br>ContactEmail----------sharon.bystedt@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12651
+<br>ContactFirstName------Vincent
+<br>ContactMiddleName------
+<br>ContactLastName-------Nusunginya
+<br>ContactDescription----
+<br>ContactDesignation----D1124
+<br>ContactPhoto----------clarion-dispatch-vincent-nusunginya.jpg
+<br>ContactPhonenumber----907-335-1252
+<br>ContactEmail----------vincent.nusunginya@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12652
+<br>ContactFirstName------Jesse
+<br>ContactMiddleName------
+<br>ContactLastName-------Normandin
+<br>ContactDescription----
+<br>ContactDesignation----D1125
+<br>ContactPhoto----------clarion-dispatch-jesse-normandin.jpg
+<br>ContactPhonenumber----907-335-1252
+<br>ContactEmail----------jesse.normandin@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12653
+<br>ContactFirstName------Jane
+<br>ContactMiddleName------
+<br>ContactLastName-------Russell
+<br>ContactDescription----
+<br>ContactDesignation----D1126
+<br>ContactPhoto----------clarion-dispatch-jane-russell.jpg
+<br>ContactPhonenumber----907-335-1257
+<br>ContactEmail----------jane.russell@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12654
+<br>ContactFirstName------Denise
+<br>ContactMiddleName------
+<br>ContactLastName-------Reece
+<br>ContactDescription----
+<br>ContactDesignation----D1127
+<br>ContactPhoto----------clarion-dispatch-denise-reece.jpg
+<br>ContactPhonenumber----907-335-1233
+<br>ContactEmail----------denise.reece@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12655
+<br>ContactFirstName------Holly
+<br>ContactMiddleName------
+<br>ContactLastName-------Conner
+<br>ContactDescription----
+<br>ContactDesignation----D1072
+<br>ContactPhoto----------clarion-dispatch-holly-conner.jpg
+<br>ContactPhonenumber----907-335-1224
+<br>ContactEmail----------holly.connor@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12656
+<br>ContactFirstName------Will
+<br>ContactMiddleName------
+<br>ContactLastName-------Morrow
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------clarion-dispatch-will-morrow.jpg
+<br>ContactPhonenumber----907-335-1251
+<br>ContactEmail----------will.morrow@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http:// facebook.com/pages/Will-Morrow/198580186848349?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12657
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Helminiak
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------clarion-dispatch-jeff-helminiak.jpg
+<br>ContactPhonenumber----907-335-1244
+<br>ContactEmail----------jeff.helminiak@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12658
+<br>ContactFirstName------Molly
+<br>ContactMiddleName------
+<br>ContactLastName-------Dischner
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------clarion-dispatch-molly-dischner.jpg
+<br>ContactPhonenumber----907-335-1238
+<br>ContactEmail----------molly.dischner@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12659
+<br>ContactFirstName------Karen
+<br>ContactMiddleName------
+<br>ContactLastName-------Garcia
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------clarion-dispatch-karen-garcia.jpg
+<br>ContactPhonenumber----907-335-1241
+<br>ContactEmail----------karen.garcia@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12660
+<br>ContactFirstName------Wesley
+<br>ContactMiddleName------
+<br>ContactLastName-------Remmer
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------clarion-dispatch-wesley-remmer.jpg
+<br>ContactPhonenumber----907-335-1236
+<br>ContactEmail----------wesley.remmer@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12661
+<br>ContactFirstName------Florence
+<br>ContactMiddleName------
+<br>ContactLastName-------Struempler
+<br>ContactDescription----
+<br>ContactDesignation----D461
+<br>ContactPhoto----------clarion-dispatch-florence-struempler.jpg
+<br>ContactPhonenumber----907-335-1241
+<br>ContactEmail----------florence.struempler@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12662
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D434
+<br>ContactPhoto----------clarion-dispatch-brian-smith.jpg
+<br>ContactPhonenumber----907-335-1240
+<br>ContactEmail----------brian.smith@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12663
+<br>ContactFirstName------Logan
+<br>ContactMiddleName------
+<br>ContactLastName-------Tuttle
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------clarion-dispatch-logan-tuttle.jpg
+<br>ContactPhonenumber----907-335-1239
+<br>ContactEmail----------logan.tuttle@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/logantut
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12664
+<br>ContactFirstName------M. Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Moon
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------clarion-dispatch-m.-scott-moon.jpg
+<br>ContactPhonenumber----907-335-1246
+<br>ContactEmail----------m.moon@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12665
+<br>ContactFirstName------Daryl
+<br>ContactMiddleName------
+<br>ContactLastName-------Palmer
+<br>ContactDescription----
+<br>ContactDesignation----D1128
+<br>ContactPhoto----------clarion-dispatch-daryl-palmer.jpg
+<br>ContactPhonenumber----907-335-1248
+<br>ContactEmail----------daryl.palmer@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/daryl-palmer/12/754/740
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12666
+<br>ContactFirstName------Natalie
+<br>ContactMiddleName------
+<br>ContactLastName-------Casebeer
+<br>ContactDescription----
+<br>ContactDesignation----D1129
+<br>ContactPhoto----------clarion-dispatch-natalie-casebeer.jpg
+<br>ContactPhonenumber----907-335-1226
+<br>ContactEmail----------natalie.casebeer@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12667
+<br>ContactFirstName------Gunnar
+<br>ContactMiddleName------
+<br>ContactLastName-------Bergstrom
+<br>ContactDescription----
+<br>ContactDesignation----D1130
+<br>ContactPhoto----------clarion-dispatch-gunnar-bergstrom.jpg
+<br>ContactPhonenumber----907-335-1226
+<br>ContactEmail----------gunnar.bergstrom@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/gunnar-bergstrom/b/48b/816
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12668
+<br>ContactFirstName------Geoffrey
+<br>ContactMiddleName------
+<br>ContactLastName-------Long
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------clarion-dispatch-geoffrey-long.jpg
+<br>ContactPhonenumber----907-335-1256
+<br>ContactEmail----------geoffrey.long@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12669
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldthwaite
+<br>ContactDescription----
+<br>ContactDesignation----D1131
+<br>ContactPhoto----------clarion-dispatch-frank-goldthwaite.jpg
+<br>ContactPhonenumber----907-335-1256
+<br>ContactEmail----------frank.goldthwaite@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12670
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Trevino
+<br>ContactDescription----
+<br>ContactDesignation----D1132
+<br>ContactPhoto----------clarion-dispatch-eric-trevino.jpg
+<br>ContactPhonenumber----907-335-1256
+<br>ContactEmail----------eric.trevino@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12671
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Honea
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------clarion-dispatch-robert-honea.jpg
+<br>ContactPhonenumber----907-335-1256
+<br>ContactEmail----------robert.honea@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4628
+<br>ContactId-------------C12672
+<br>ContactFirstName------Leila
+<br>ContactMiddleName------
+<br>ContactLastName-------Gough
+<br>ContactDescription----
+<br>ContactDesignation----D1133
+<br>ContactPhoto----------clarion-dispatch-leila-gough.jpg
+<br>ContactPhonenumber----907-335-1229
+<br>ContactEmail----------leila.gough@peninsulaclarion.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4627
+<br>ContactId-------------C12673
+<br>ContactFirstName------JD 
+<br>ContactMiddleName------
+<br>ContactLastName-------Davidson 
+<br>ContactDescription----
+<br>ContactDesignation----D200
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-304-0050
+<br>ContactEmail----------jdavidson@times-journal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4627
+<br>ContactId-------------C12674
+<br>ContactFirstName------Tricia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Clinton
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-304-0046 
+<br>ContactEmail----------tclinton@times-journal.com
+<br>Alternative Email-----
+<br>University------------Jacksonville State University
+<br>ContactFacebook-------http:// facebook.com/people/Tricia-Clinton/725865005
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4627
+<br>ContactId-------------C12675
+<br>ContactFirstName------April 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bates 
+<br>ContactDescription----
+<br>ContactDesignation----D52
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-304-0045
+<br>ContactEmail----------abates@times-journal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4627
+<br>ContactId-------------C12676
+<br>ContactFirstName------Lonnie 
+<br>ContactMiddleName------
+<br>ContactLastName-------McKelvey
+<br>ContactDescription----
+<br>ContactDesignation----D1134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-304-0041
+<br>ContactEmail----------classified@times-journal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http:// facebook.com/lonniedm
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4627
+<br>ContactId-------------C12677
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sanders
+<br>ContactDescription----
+<br>ContactDesignation----D1135
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-304-0043
+<br>ContactEmail----------composing@times-journal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4626
+<br>ContactId-------------C12678
+<br>ContactFirstName------Devin R.
+<br>ContactMiddleName------
+<br>ContactLastName-------Golden
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------foley-onlooker-devin-r.-golden.jpg
+<br>ContactPhonenumber----251-943-2151
+<br>ContactEmail----------dgolden@gulfcoastnewspapers.com
+<br>Alternative Email-----
+<br>University------------Spring Hill College in Mobile
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12679
+<br>ContactFirstName------Lee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leschper
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Texas A&M University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/lee-leschper/10/991/624
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12679
+<br>ContactFirstName------Lee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leschper
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2179
+<br>ContactEmail----------Lee.Leschper@morris.com
+<br>Alternative Email-----
+<br>University------------Texas A&M University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/lee-leschper/10/991/624
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12680
+<br>ContactFirstName------Lara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bickford
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2281
+<br>ContactEmail----------lara.bickford@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12681
+<br>ContactFirstName------Melissa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2158
+<br>ContactEmail----------melissa.campbell@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12682
+<br>ContactFirstName------Tim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradner
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2159
+<br>ContactEmail----------tim.bradner@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12683
+<br>ContactFirstName------Andrew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jensen
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2165
+<br>ContactEmail----------andrew.jensen@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12684
+<br>ContactFirstName------Tracy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Allison
+<br>ContactDescription----
+<br>ContactDesignation----D1136
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2167
+<br>ContactEmail----------tracy.allison@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12685
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Benson
+<br>ContactDescription----
+<br>ContactDesignation----D49
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2169
+<br>ContactEmail----------jessica.benson@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12686
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Menutes
+<br>ContactDescription----
+<br>ContactDesignation----D655
+<br>ContactPhoto----------alaska-journal-of-commerce-(business)-pete-menutes.jpg
+<br>ContactPhonenumber----907-275-2164
+<br>ContactEmail----------pete.menutes@morris.com
+<br>Alternative Email-----
+<br>University------------Computer Learning Center,Houston Community College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/in/petemenutes
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12687
+<br>ContactFirstName------Adam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bauer
+<br>ContactDescription----
+<br>ContactDesignation----D1137
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-235-7767X247
+<br>ContactEmail----------adam.bauer@homernews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http:// facebook.com/adam.bauer1
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12688
+<br>ContactFirstName------Maree 
+<br>ContactMiddleName------
+<br>ContactLastName-------Shogren
+<br>ContactDescription----
+<br>ContactDesignation----D1138
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2162
+<br>ContactEmail----------maree.shogren@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12689
+<br>ContactFirstName------Kathryn 
+<br>ContactMiddleName------
+<br>ContactLastName-------Beers
+<br>ContactDescription----
+<br>ContactDesignation----D1120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2163
+<br>ContactEmail----------kathryn.beers@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12690
+<br>ContactFirstName------Jody 
+<br>ContactMiddleName------
+<br>ContactLastName-------Willard
+<br>ContactDescription----
+<br>ContactDesignation----D1120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2157
+<br>ContactEmail----------jody.willard@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4624
+<br>ContactId-------------C12691
+<br>ContactFirstName------Belinda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cummings
+<br>ContactDescription----
+<br>ContactDesignation----D1139
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2178
+<br>ContactEmail----------legals@alaskajournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12692
+<br>ContactFirstName------Chasity
+<br>ContactMiddleName------
+<br>ContactLastName-------Anderson
+<br>ContactDescription----
+<br>ContactDesignation----D1072
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5778
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12693
+<br>ContactFirstName------Diane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hamner
+<br>ContactDescription----
+<br>ContactDesignation----D1072
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5765
+<br>ContactEmail----------diane.hamner@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12694
+<br>ContactFirstName------Donna
+<br>ContactMiddleName------
+<br>ContactLastName-------Lawhead
+<br>ContactDescription----
+<br>ContactDesignation----D327
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5763
+<br>ContactEmail----------donna.lawhead@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12695
+<br>ContactFirstName------Anita
+<br>ContactMiddleName------
+<br>ContactLastName-------Sykes
+<br>ContactDescription----
+<br>ContactDesignation----D1071
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5766
+<br>ContactEmail----------anita.sykes@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12696
+<br>ContactFirstName------Walter
+<br>ContactMiddleName------
+<br>ContactLastName-------Goggins
+<br>ContactDescription----
+<br>ContactDesignation----D1140
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5784
+<br>ContactEmail----------walter.goggins@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12697
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------McKillip
+<br>ContactDescription----
+<br>ContactDesignation----D126
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-4726
+<br>ContactEmail----------mike.mckillip@timesdaily.com
+<br>Alternative Email-----
+<br>University------------Wright State University,Ohio Wesleyan University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/in/michaelmckillip
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12698
+<br>ContactFirstName------Leta
+<br>ContactMiddleName------
+<br>ContactLastName-------Milstead
+<br>ContactDescription----
+<br>ContactDesignation----D153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5773
+<br>ContactEmail----------leta.milstead@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12699
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Blurton 
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5786
+<br>ContactEmail----------kevin.blurton@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12700
+<br>ContactFirstName------Sherhonda
+<br>ContactMiddleName------
+<br>ContactLastName-------Allen
+<br>ContactDescription----
+<br>ContactDesignation----D434
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5732
+<br>ContactEmail----------sherhonda.allen@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12701
+<br>ContactFirstName------Myra
+<br>ContactMiddleName------
+<br>ContactLastName-------Arnold
+<br>ContactDescription----
+<br>ContactDesignation----D1141
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5729
+<br>ContactEmail----------myra.arnold@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12702
+<br>ContactFirstName------Monica
+<br>ContactMiddleName------
+<br>ContactLastName-------Collier
+<br>ContactDescription----
+<br>ContactDesignation----D1141
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5725
+<br>ContactEmail----------monica.collier@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12703
+<br>ContactFirstName------Russ
+<br>ContactMiddleName------
+<br>ContactLastName-------Corey
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5738
+<br>ContactEmail----------russ.corey@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12704
+<br>ContactFirstName------Bernie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Delinski
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5739
+<br>ContactEmail----------bernie.delinski@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12705
+<br>ContactFirstName------Christine
+<br>ContactMiddleName------
+<br>ContactLastName-------Fink
+<br>ContactDescription----
+<br>ContactDesignation----D1142
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5726
+<br>ContactEmail----------christine.fink@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12706
+<br>ContactFirstName------Ricky
+<br>ContactMiddleName------
+<br>ContactLastName-------Gallien
+<br>ContactDescription----
+<br>ContactDesignation----D1143
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5788
+<br>ContactEmail----------ricky.gallien@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12707
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Giles III
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5752
+<br>ContactEmail----------daniel.giles@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12708
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Goens
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5740
+<br>ContactEmail----------mike.goens@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12709
+<br>ContactFirstName------Jim
+<br>ContactMiddleName------
+<br>ContactLastName-------Hannon
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5750
+<br>ContactEmail----------jim.hannon@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12710
+<br>ContactFirstName------Terry
+<br>ContactMiddleName------
+<br>ContactLastName-------Hildreth
+<br>ContactDescription----
+<br>ContactDesignation----D1143
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5788
+<br>ContactEmail----------terry.hildreth@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12711
+<br>ContactFirstName------Haley
+<br>ContactMiddleName------
+<br>ContactLastName-------Laurence
+<br>ContactDescription----
+<br>ContactDesignation----D1141
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5733
+<br>ContactEmail----------haley.laurence@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12712
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------McKean
+<br>ContactDescription----
+<br>ContactDesignation----D107
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5753
+<br>ContactEmail----------matt.mckean@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http:// linkedin.com/pub/matt-mckean/19/119/134
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4623
+<br>ContactId-------------C12713
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----256-740-5721
+<br>ContactEmail----------scott.morris@timesdaily.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

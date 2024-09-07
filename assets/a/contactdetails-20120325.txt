@@ -1,0 +1,421 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26215
+<br>ContactFirstName------Lyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Trainer
+<br>ContactDescription----
+<br>ContactDesignation----D77
+<br>ContactPhoto----------issa-journal-lyn-trainer.jpg
+<br>ContactPhonenumber----866-349-5818,503-308-4334
+<br>ContactEmail----------ltrainer@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Lyn-Trainer/1667035243
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lyn-trainer/8/552/799
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26216
+<br>ContactFirstName------Dana 
+<br>ContactMiddleName------
+<br>ContactLastName-------Paulino
+<br>ContactDescription----
+<br>ContactDesignation----D914
+<br>ContactPhoto----------
+<br>ContactPhonenumber----866-349-5818,503-214-2294
+<br>ContactEmail----------dpaulino@issa.org
+<br>Alternative Email-----
+<br>University------------Oregon State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dana-paulino/2/76a/a05
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26217
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Kanapeaux
+<br>ContactDescription----
+<br>ContactDesignation----D265
+<br>ContactPhoto----------issa-journal-kate-kanapeaux.jpg
+<br>ContactPhonenumber----866-349-5818,503-274-4110
+<br>ContactEmail----------katek@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kate-kanapeaux/16/b24/aba
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26218
+<br>ContactFirstName------Anna
+<br>ContactMiddleName------
+<br>ContactLastName-------Vembu
+<br>ContactDescription----
+<br>ContactDesignation----D3049
+<br>ContactPhoto----------issa-journal-anna-vembu.jpg
+<br>ContactPhonenumber----866-349-5818,503-214-2294X105
+<br>ContactEmail----------avembu@issa.org
+<br>Alternative Email-----
+<br>University------------Mount Holyoke College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/anna-vembu/6/65/520
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26219
+<br>ContactFirstName------Justin
+<br>ContactMiddleName------
+<br>ContactLastName-------Valdivia
+<br>ContactDescription----
+<br>ContactDesignation----D3050
+<br>ContactPhoto----------issa-journal-justin-valdivia.jpg
+<br>ContactPhonenumber----866-349-5818,503-214-2898X101
+<br>ContactEmail----------justinv@issa.org
+<br>Alternative Email-----
+<br>University------------Southern Oregon University
+<br>ContactFacebook-------http://www.facebook.com/people/Justin-Valdivia/616659780
+<br>ContactLinkedin-------http://www.linkedin.com/pub/justin-valdivia/10/731/738
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26216
+<br>ContactFirstName------Dana 
+<br>ContactMiddleName------
+<br>ContactLastName-------Paulino
+<br>ContactDescription----
+<br>ContactDesignation----D914
+<br>ContactPhoto----------
+<br>ContactPhonenumber----866-349-5818,503-214-2294X103
+<br>ContactEmail----------dpaulino@issa.org
+<br>Alternative Email-----
+<br>University------------Oregon State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dana-paulino/2/76a/a05
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26215
+<br>ContactFirstName------Lyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Trainer
+<br>ContactDescription----
+<br>ContactDesignation----D77
+<br>ContactPhoto----------issa-journal-lyn-trainer.jpg
+<br>ContactPhonenumber----866-349-5818,503-308-4334X102
+<br>ContactEmail----------ltrainer@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Lyn-Trainer/1667035243
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lyn-trainer/8/552/799
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26217
+<br>ContactFirstName------Kate
+<br>ContactMiddleName------
+<br>ContactLastName-------Kanapeaux
+<br>ContactDescription----
+<br>ContactDesignation----D265
+<br>ContactPhoto----------issa-journal-kate-kanapeaux.jpg
+<br>ContactPhonenumber----866-349-5818,503-274-4110X106
+<br>ContactEmail----------katek@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kate-kanapeaux/16/b24/aba
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26220
+<br>ContactFirstName------Thom
+<br>ContactMiddleName------
+<br>ContactLastName-------Barrie
+<br>ContactDescription----
+<br>ContactDesignation----D3051
+<br>ContactPhoto----------issa-journal-thom-barrie.jpg
+<br>ContactPhonenumber----866-349-5818,206-388-4584
+<br>ContactEmail----------editor@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/thom-barrie/7/483/885
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26221
+<br>ContactFirstName------Doug 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pease
+<br>ContactDescription----
+<br>ContactDesignation----D327
+<br>ContactPhoto----------
+<br>ContactPhonenumber----866-349-5818,503-244-1149
+<br>ContactEmail----------dougp@issa.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26222
+<br>ContactFirstName------Conatct-ISSA Journal
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----866-349-5818,206-388-4584
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26223
+<br>ContactFirstName------Kevin L.
+<br>ContactMiddleName------
+<br>ContactLastName-------Richards
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------issa-journal-kevin-l-richards.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26224
+<br>ContactFirstName------Andrea C.
+<br>ContactMiddleName------
+<br>ContactLastName-------Hoy
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------issa-journal-andrea-c-hoy.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26225
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Danigelis
+<br>ContactDescription----
+<br>ContactDesignation----D591
+<br>ContactPhoto----------issa-journal-bill-danigelis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Syracuse University - Martin J. Whitman School of Management
+<br>ContactFacebook-------http://www.facebook.com/people/Bill-Danigelis/884110301
+<br>ContactLinkedin-------http://www.linkedin.com/pub/bill-danigelis/0/196/983
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26226
+<br>ContactFirstName------Kevin D.
+<br>ContactMiddleName------
+<br>ContactLastName-------Spease
+<br>ContactDescription----
+<br>ContactDesignation----D510
+<br>ContactPhoto----------issa-journal-kevin-d-spease.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/kevinspease
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26227
+<br>ContactFirstName------Debbie
+<br>ContactMiddleName------
+<br>ContactLastName-------Christofferson
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-debbie-christofferson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Debbie-Christofferson/100000251502338
+<br>ContactLinkedin-------http://www.linkedin.com/pub/debbie-christofferson-cipp-it-cissp-cism/0/73/7ba
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26228
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------Ann
+<br>ContactLastName-------Davidson
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-mary-ann-davidson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Virginia,Wharton School of the University of Pennsylvania
+<br>ContactFacebook-------http://www.facebook.com/pages/Mary-Ann-Davidson/139181699443706
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26229
+<br>ContactFirstName------Geoff
+<br>ContactMiddleName------
+<br>ContactLastName-------Harris
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-geoff-harris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Hull
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://uk.linkedin.com/pub/geoff-harris/1/170/235
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26228
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------Ann
+<br>ContactLastName-------Davidson
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-mary-ann-davidson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Virginia,Wharton School of the University of Pennsylvania
+<br>ContactFacebook-------http://www.facebook.com/pages/Mary-Ann-Davidson/139181699443706
+<br>ContactLinkedin-------http://www.linkedin.com/pub/mary-ann-davidson/0/ba/235
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26230
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Hunt
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-steve-hunt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Chicago,Elizabethtown College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/securitydreamer
+<br>ContactTwitter--------https://twitter.com/#!/Steve_Hunt
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O753
+<br>ContactId-------------C26230
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Hunt
+<br>ContactDescription----
+<br>ContactDesignation----D8
+<br>ContactPhoto----------issa-journal-steve-hunt.jpg
+<br>ContactPhonenumber----312-882-4996,888-424-4602	 
+<br>ContactEmail----------steve.hunt@huntbi.com
+<br>Alternative Email-----steve100@beachbodycoach.com
+<br>University------------University of Chicago,Elizabethtown College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/securitydreamer
+<br>ContactTwitter--------https://twitter.com/#!/Steve_Hunt
+<br>ContactURL------------http://www.huntbi.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>

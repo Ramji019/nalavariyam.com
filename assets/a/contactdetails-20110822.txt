@@ -1,0 +1,1741 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2374
+<br>ContactId-------------C13056
+<br>ContactFirstName------Jane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Whitmore 
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jwhitmore@emmetsburgnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2374
+<br>ContactId-------------C13057
+<br>ContactFirstName------Lori 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hall 
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lhall@emmetsburgnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2374
+<br>ContactId-------------C13058
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Voigt 
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dvoigt@emmetsburgnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2374
+<br>ContactId-------------C13059
+<br>ContactFirstName------Cindy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Soenen
+<br>ContactDescription----
+<br>ContactDesignation----D1151
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------creative@emmetsburgnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2374
+<br>ContactId-------------C13060
+<br>ContactFirstName------Linda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill 
+<br>ContactDescription----
+<br>ContactDesignation----D153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lhill@emmetsburgnews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13061
+<br>ContactFirstName------Ashley
+<br>ContactMiddleName------
+<br>ContactLastName-------Vansant
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------luverne-journal-ashley-vansant.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------ashley.vansant@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13062
+<br>ContactFirstName------Tracy
+<br>ContactMiddleName------
+<br>ContactLastName-------Salter
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------luverne-journal-tracy-salter.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------tracy.salter@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13063
+<br>ContactFirstName------Melisa 
+<br>ContactMiddleName------Knight
+<br>ContactLastName-------Campbell 
+<br>ContactDescription----
+<br>ContactDesignation----D826
+<br>ContactPhoto----------
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------melisa.knightcampbell@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13064
+<br>ContactFirstName------Susan
+<br>ContactMiddleName------
+<br>ContactLastName-------Braden
+<br>ContactDescription----
+<br>ContactDesignation----D826
+<br>ContactPhoto----------luverne-journal-susan-braden.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------susan.braden@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13063
+<br>ContactFirstName------Melisa
+<br>ContactMiddleName------Knight
+<br>ContactLastName-------Campbell
+<br>ContactDescription----
+<br>ContactDesignation----D826
+<br>ContactPhoto----------luverne-journal-melisa-knight-campbell.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------melisa.knightcampbell@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13065
+<br>ContactFirstName------Andy
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D1190
+<br>ContactPhoto----------luverne-journal-andy-brown.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------angie.long@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13065
+<br>ContactFirstName------Andy
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------luverne-journal-andy-brown.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------angie.long@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13066
+<br>ContactFirstName------Angie
+<br>ContactMiddleName------
+<br>ContactLastName-------Long
+<br>ContactDescription----
+<br>ContactDesignation----D1190
+<br>ContactPhoto----------luverne-journal-angie-long.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------angie.long@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------Troy State University, Troy, Alabama
+<br>ContactFacebook-------http://facebook.com/people/Angie-K-Long/1171550571
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13067
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Rodgers
+<br>ContactDescription----
+<br>ContactDesignation----D1190
+<br>ContactPhoto----------luverne-journal-michael-rodgers.jpg
+<br>ContactPhonenumber----334-335-3541
+<br>ContactEmail----------michael.rodgers@luvernejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/michaelrodgers
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13068
+<br>ContactFirstName------Tammy
+<br>ContactMiddleName------
+<br>ContactLastName-------Faulk
+<br>ContactDescription----
+<br>ContactDesignation----D1167
+<br>ContactPhoto----------luverne-journal-tammy-faulk.jpg
+<br>ContactPhonenumber----334-382-3111
+<br>ContactEmail----------tammy.faulk@greenvilleadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/profile.php?id=100001467651692
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2377
+<br>ContactId-------------C13069
+<br>ContactFirstName------Contact Luverne Journal
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----334-335-3541
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13070
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Tunseth
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------matt.tunseth@alaskastar.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13071
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nesper
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907 694-2727
+<br>ContactEmail----------mike.nesper@alaskastar.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13072
+<br>ContactFirstName------Tracy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Allison
+<br>ContactDescription----
+<br>ContactDesignation----D546
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907 275-2167
+<br>ContactEmail----------tracy.allison@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/tracy-allison/b/573/846
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13073
+<br>ContactFirstName------Ken 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hanni
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2155
+<br>ContactEmail----------ken.hanni@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13074
+<br>ContactFirstName------Silvija 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kasper
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2153
+<br>ContactEmail----------Silvija.kasper@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13075
+<br>ContactFirstName------Suzzette 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rowell
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-275-2150
+<br>ContactEmail----------suzzette.rowell@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13076
+<br>ContactFirstName------Belinda 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cummings
+<br>ContactDescription----
+<br>ContactDesignation----D1191
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907 275-2178
+<br>ContactEmail----------belinda.cummings@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13077
+<br>ContactFirstName------Jody 
+<br>ContactMiddleName------
+<br>ContactLastName-------Willard
+<br>ContactDescription----
+<br>ContactDesignation----D1120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://alaskastar.com/about_us/jody.willard@alaskajournal.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13078
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Benson
+<br>ContactDescription----
+<br>ContactDesignation----D71
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907 275-2169
+<br>ContactEmail----------jessica.benson@morris.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2378
+<br>ContactId-------------C13079
+<br>ContactFirstName------Adam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bauer
+<br>ContactDescription----
+<br>ContactDesignation----D135
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907 235 7767
+<br>ContactEmail----------adam.bauer@homernews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13080
+<br>ContactFirstName------Deirdre 
+<br>ContactMiddleName------
+<br>ContactLastName-------Helfferich
+<br>ContactDescription----
+<br>ContactDesignation----D1039
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@40esterrepublic.com
+<br>Alternative Email-----
+<br>University------------University of Alaska Fairbanks
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/deirdre-helfferich/1a/815/744
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13081
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cameron
+<br>ContactDescription----
+<br>ContactDesignation----D68
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://esterrepublic.com/advertising.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13082
+<br>ContactFirstName------Leah M. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13083
+<br>ContactFirstName------Hans 
+<br>ContactMiddleName------
+<br>ContactLastName-------Molders
+<br>ContactDescription----
+<br>ContactDesignation----D1192
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------hans@40esterrepublic.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13084
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Darrow
+<br>ContactDescription----
+<br>ContactDesignation----D409
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://esterrepublic.com/Archives/dandarrow.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13085
+<br>ContactFirstName------Jamie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D409
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://esterrepublic.com/Archives/smithcartoons.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13086
+<br>ContactFirstName------Letters to the Editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@40esterrepublic.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2380
+<br>ContactId-------------C13087
+<br>ContactFirstName------The Ester Republic
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-451-0636
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13088
+<br>ContactFirstName------Bo
+<br>ContactMiddleName------
+<br>ContactLastName-------Bolton
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------monroe-journal-bo-bolton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------publisher@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13089
+<br>ContactFirstName------Jodie
+<br>ContactMiddleName------
+<br>ContactLastName-------Bolton
+<br>ContactDescription----
+<br>ContactDesignation----D1193
+<br>ContactPhoto----------monroe-journal-jodie-bolton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13090
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Qualls
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------monroe-journal-mike-qualls.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------monjoured@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/mike-qualls/24/886/826
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13089
+<br>ContactFirstName------Jodie
+<br>ContactMiddleName------
+<br>ContactLastName-------Bolton
+<br>ContactDescription----
+<br>ContactDesignation----D1193
+<br>ContactPhoto----------monroe-journal-jodie-bolton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13091
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Dewberry
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------monroe-journal-josh-dewberry.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------super_dewby@hotmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13092
+<br>ContactFirstName------Angela
+<br>ContactMiddleName------
+<br>ContactLastName-------Lambeth
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------monroe-journal-angela-lambeth.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13093
+<br>ContactFirstName------Mary B.
+<br>ContactMiddleName------
+<br>ContactLastName-------Tomlinson
+<br>ContactDescription----
+<br>ContactDesignation----D450
+<br>ContactPhoto----------monroe-journal-mary-b-tomlinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------presslady6@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13094
+<br>ContactFirstName------Paralee
+<br>ContactMiddleName------
+<br>ContactLastName-------Broughton
+<br>ContactDescription----
+<br>ContactDesignation----D1194
+<br>ContactPhoto----------monroe-journal-paralee-broughton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13095
+<br>ContactFirstName------George
+<br>ContactMiddleName------Thomas
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------monroe-journal-george-jones.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13096
+<br>ContactFirstName------Barbara
+<br>ContactMiddleName------
+<br>ContactLastName-------Qualls
+<br>ContactDescription----
+<br>ContactDesignation----D1195
+<br>ContactPhoto----------monroe-journal-barbara-qualls.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------printshop@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2384
+<br>ContactId-------------C13097
+<br>ContactFirstName------Contact Monroe Journal
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----251-.575-3282
+<br>ContactEmail----------news@monroejournal.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2385
+<br>ContactId-------------C13098
+<br>ContactFirstName------Ken 
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D1196
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2385
+<br>ContactId-------------C13099
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bailey
+<br>ContactDescription----
+<br>ContactDesignation----D1120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2385
+<br>ContactId-------------C13100
+<br>ContactFirstName------Contact Turnagain Times
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-783-1135
+<br>ContactEmail----------info@turnagaintimes.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13101
+<br>ContactFirstName------Wanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Lloyd
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------montgomery-advertiser-wanda-lloyd.jpg
+<br>ContactPhonenumber----334-261-1509
+<br>ContactEmail----------wlloyd@gannett.com
+<br>Alternative Email-----
+<br>University------------Spelman College,Northwestern University-Kellogg School of Management
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/wanda-lloyd/7/a56/37b
+<br>ContactTwitter--------http://twitter.com/#!/MGMeditor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13102
+<br>ContactFirstName------Karlene
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnett
+<br>ContactDescription----
+<br>ContactDesignation----D326
+<br>ContactPhoto----------montgomery-advertiser-karlene-barnett.jpg
+<br>ContactPhonenumber----334-240-0156
+<br>ContactEmail----------kbarnett@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13103
+<br>ContactFirstName------Beth
+<br>ContactMiddleName------
+<br>ContactLastName-------Gribble
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------montgomery-advertiser-beth-gribble.jpg
+<br>ContactPhonenumber----334-551-0318 
+<br>ContactEmail----------bgribble@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13103
+<br>ContactFirstName------Beth
+<br>ContactMiddleName------
+<br>ContactLastName-------Gribble
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------montgomery-advertiser-beth-gribble.jpg
+<br>ContactPhonenumber----334-551-0318 
+<br>ContactEmail----------bgribble@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13104
+<br>ContactFirstName------Marty
+<br>ContactMiddleName------
+<br>ContactLastName-------Roney
+<br>ContactDescription----
+<br>ContactDesignation----D45
+<br>ContactPhoto----------montgomery-advertiser-marty-roney.jpg
+<br>ContactPhonenumber----334-365-6739
+<br>ContactEmail----------mroney@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13105
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------montgomery-advertiser-scott-johnson.jpg
+<br>ContactPhonenumber----334-240-0121
+<br>ContactEmail----------sjohnson3@gannett.com
+<br>Alternative Email-----
+<br>University------------Auburn University at Montgomery
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/scott-johnson/8/57/587
+<br>ContactTwitter--------http://twitter.com/#!/scottjohnsonIII
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13106
+<br>ContactFirstName------Matthue
+<br>ContactMiddleName------
+<br>ContactLastName-------Okarmus
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------montgomery-advertiser-matthue-okarmus.jpg
+<br>ContactPhonenumber----334-240-0117
+<br>ContactEmail----------mokarmus@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mokarmus
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13107
+<br>ContactFirstName------Annie
+<br>ContactMiddleName------
+<br>ContactLastName-------McCallum
+<br>ContactDescription----
+<br>ContactDesignation----D304
+<br>ContactPhoto----------montgomery-advertiser-annie-mccallum.jpg
+<br>ContactPhonenumber----334-240-0132
+<br>ContactEmail----------amccallum@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/anniemccallum
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13108
+<br>ContactFirstName------Al
+<br>ContactMiddleName------
+<br>ContactLastName-------Benn
+<br>ContactDescription----
+<br>ContactDesignation----D308
+<br>ContactPhoto----------montgomery-advertiser-al-benn.jpg
+<br>ContactPhonenumber----334-240-0111
+<br>ContactEmail----------benn8071@bellsouth.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/al-benn/10/a/97b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13109
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Harmon
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------montgomery-advertiser-rick-harmon.jpg
+<br>ContactPhonenumber----334-261-1583
+<br>ContactEmail----------rharmon@gannett.com
+<br>Alternative Email-----
+<br>University------------Auburn University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/rick-harmon/8/a58/644
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13110
+<br>ContactFirstName------Sebastian
+<br>ContactMiddleName------
+<br>ContactLastName-------Kitchen
+<br>ContactDescription----
+<br>ContactDesignation----D1197
+<br>ContactPhoto----------montgomery-advertiser-sebastian-kitchen.jpg
+<br>ContactPhonenumber----334-240-0141
+<br>ContactEmail----------skitchen@gannett.com
+<br>Alternative Email-----
+<br>University------------Texas Tech University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/sebastian-kitchen/6/478/7a8
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13111
+<br>ContactFirstName------Jill
+<br>ContactMiddleName------
+<br>ContactLastName-------Nolin
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------montgomery-advertiser-jill-nolin.jpg
+<br>ContactPhonenumber----334-240-0110
+<br>ContactEmail----------jnolin@gannett.com
+<br>Alternative Email-----
+<br>University------------Troy University
+<br>ContactFacebook-------http://facebook.com/people/Jill-Nolin/100002529400752
+<br>ContactLinkedin-------http://linkedin.com/pub/jill-nolin/8/9b2/80b
+<br>ContactTwitter--------http://twitter.com/#!/jillnolin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13112
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------
+<br>ContactLastName-------Sell
+<br>ContactDescription----
+<br>ContactDesignation----D439
+<br>ContactPhoto----------montgomery-advertiser-mary-sell.jpg
+<br>ContactPhonenumber----334-240-0116
+<br>ContactEmail----------mgsell@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mgmbusiness
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13113
+<br>ContactFirstName------Kym
+<br>ContactMiddleName------
+<br>ContactLastName-------Klass
+<br>ContactDescription----
+<br>ContactDesignation----D360
+<br>ContactPhoto----------montgomery-advertiser-kym-klass.jpg
+<br>ContactPhonenumber----334-240-0144
+<br>ContactEmail----------kklass@gannett.com
+<br>Alternative Email-----
+<br>University------------Morris College of Journalism,Texas State University-San Marcos
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kym-klass/5/286/b3a
+<br>ContactTwitter--------http://twitter.com/#!/kymklass
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13114
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Lyman
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------montgomery-advertiser-brian-lyman.jpg
+<br>ContactPhonenumber----334-240-0185
+<br>ContactEmail----------blyman@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13114
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Lyman
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------montgomery-advertiser-brian-lyman.jpg
+<br>ContactPhonenumber----334-240-0185
+<br>ContactEmail----------blyman@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13115
+<br>ContactFirstName------Erica
+<br>ContactMiddleName------
+<br>ContactLastName-------Pippins
+<br>ContactDescription----
+<br>ContactDesignation----D118
+<br>ContactPhoto----------montgomery-advertiser-erica-pippins.jpg
+<br>ContactPhonenumber----334-240-0119
+<br>ContactEmail----------epippins@gannett.com
+<br>Alternative Email-----
+<br>University------------Murray State University,Langston University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/erica-pippins/7/913/465
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13116
+<br>ContactFirstName------Allison
+<br>ContactMiddleName------
+<br>ContactLastName-------Griffin
+<br>ContactDescription----
+<br>ContactDesignation----D785
+<br>ContactPhoto----------montgomery-advertiser-allison-griffin.jpg
+<br>ContactPhonenumber----334-240-0181
+<br>ContactEmail----------agriffin@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/alliegrif
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13117
+<br>ContactFirstName------Teri
+<br>ContactMiddleName------
+<br>ContactLastName-------Greene
+<br>ContactDescription----
+<br>ContactDesignation----D785
+<br>ContactPhoto----------montgomery-advertiser-teri-greene.jpg
+<br>ContactPhonenumber----334-240-0183
+<br>ContactEmail----------terigreene@gannett.com
+<br>Alternative Email-----
+<br>University------------Auburn University,University of South Alabama
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/teriagreene
+<br>ContactTwitter--------http://twitter.com/#!/talliceg
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13118
+<br>ContactFirstName------Brad
+<br>ContactMiddleName------
+<br>ContactLastName-------Zimanek
+<br>ContactDescription----
+<br>ContactDesignation----D191
+<br>ContactPhoto----------montgomery-advertiser-brad-zimanek.jpg
+<br>ContactPhonenumber----334-261-1586
+<br>ContactEmail----------bzimanek@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/brad-zimanek/18/189/b5a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13119
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Moon
+<br>ContactDescription----
+<br>ContactDesignation----D306
+<br>ContactPhoto----------montgomery-advertiser-josh-moon.jpg
+<br>ContactPhonenumber----334-240-0194
+<br>ContactEmail----------jmoon@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Josh_Moon
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13120
+<br>ContactFirstName------Jay G.
+<br>ContactMiddleName------
+<br>ContactLastName-------Tate
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------montgomery-advertiser-jay-g-tate.jpg
+<br>ContactPhonenumber----334-240-0193
+<br>ContactEmail----------jgtate@gannett.com
+<br>Alternative Email-----
+<br>University------------University of Kentucky,Transylvania University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/jay-g-tate/9/603/7ab
+<br>ContactTwitter--------http://twitter.com/#!/HABOTN
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13121
+<br>ContactFirstName------Stacy
+<br>ContactMiddleName------
+<br>ContactLastName-------Long
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------montgomery-advertiser-stacy-long.jpg
+<br>ContactPhonenumber----334-551-0322
+<br>ContactEmail----------slong1@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13122
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Gayle
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------montgomery-advertiser-tim-gayle.jpg
+<br>ContactPhonenumber----334-240-0198
+<br>ContactEmail----------tgayle@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/tim-gayle/23/260/49
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13123
+<br>ContactFirstName------Byron
+<br>ContactMiddleName------
+<br>ContactLastName-------Robinson
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------montgomery-advertiser-byron-robinson.jpg
+<br>ContactPhonenumber----334-240-0196
+<br>ContactEmail----------bdrobinson@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/byron-robinson/b/a6a/a38
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13124
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Casagrande
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------montgomery-advertiser-michael-casagrande.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------michael@decaturdaily.com
+<br>Alternative Email-----
+<br>University------------Western Kentucky University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/michael-casagrande/12/934/7b
+<br>ContactTwitter--------http://twitter.com/#!/dailybamablog
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13125
+<br>ContactFirstName------Ken
+<br>ContactMiddleName------
+<br>ContactLastName-------Hare
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------montgomery-advertiser-ken-hare.jpg
+<br>ContactPhonenumber----334-261-1524
+<br>ContactEmail----------khare1@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13126
+<br>ContactFirstName------Monica
+<br>ContactMiddleName------
+<br>ContactLastName-------Gibbs
+<br>ContactDescription----
+<br>ContactDesignation----D430
+<br>ContactPhoto----------montgomery-advertiser-monica-gibbs.jpg
+<br>ContactPhonenumber----334-240-9256
+<br>ContactEmail----------mgibbs@gannett.com
+<br>Alternative Email-----
+<br>University------------ Auburn University Montgomery,Art Institute of Atlanta,Auburn University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/monica-gibbs/15/987/ba1
+<br>ContactTwitter--------http://twitter.com/#!/moni_artist
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13127
+<br>ContactFirstName------Terry
+<br>ContactMiddleName------
+<br>ContactLastName-------Manning
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------montgomery-advertiser-terry-manning.jpg
+<br>ContactPhonenumber----334-240-9268
+<br>ContactEmail----------tmanning@gannett.com
+<br>Alternative Email-----
+<br>University------------Clemson University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/terryemanning
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13128
+<br>ContactFirstName------Joey
+<br>ContactMiddleName------
+<br>ContactLastName-------Meredith
+<br>ContactDescription----
+<br>ContactDesignation----D1111
+<br>ContactPhoto----------montgomery-advertiser-joey-meredith.jpg
+<br>ContactPhonenumber----334-240-0112
+<br>ContactEmail----------jmeredith@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/joey.meredith
+<br>ContactLinkedin-------http://linkedin.com/pub/joey-meredith/15/449/b90
+<br>ContactTwitter--------http://twitter.com/#!/joeymeredith
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13129
+<br>ContactFirstName------Julie
+<br>ContactMiddleName------
+<br>ContactLastName-------Bennett
+<br>ContactDescription----
+<br>ContactDesignation----D107
+<br>ContactPhoto----------montgomery-advertiser-julie-bennett.jpg
+<br>ContactPhonenumber----334-261-1592
+<br>ContactEmail----------bennett@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13130
+<br>ContactFirstName------Mickey
+<br>ContactMiddleName------
+<br>ContactLastName-------Welsh
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------montgomery-advertiser-mickey-welsh.jpg
+<br>ContactPhonenumber----334-551-0311
+<br>ContactEmail----------mewelsh@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13131
+<br>ContactFirstName------Lloyd
+<br>ContactMiddleName------
+<br>ContactLastName-------Gallman
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------montgomery-advertiser-lloyd-gallman.jpg
+<br>ContactPhonenumber----334-240-0173
+<br>ContactEmail----------lgallman@gannett.com
+<br>Alternative Email-----
+<br>University------------University of North Alabama,Walker Junior College
+<br>ContactFacebook-------http://facebook.com/people/Lloyd-Gallman/100001278947796
+<br>ContactLinkedin-------http://linkedin.com/in/lloydgallman
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13132
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Sowards
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------montgomery-advertiser-amanda-sowards.jpg
+<br>ContactPhonenumber----334-551-0324
+<br>ContactEmail----------sowards@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13133
+<br>ContactFirstName------Lora
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans
+<br>ContactDescription----
+<br>ContactDesignation----D1081
+<br>ContactPhoto----------montgomery-advertiser-lora-evans.jpg
+<br>ContactPhonenumber----334-240-0145
+<br>ContactEmail----------lreynolds@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2386
+<br>ContactId-------------C13134
+<br>ContactFirstName------Sean
+<br>ContactMiddleName------
+<br>ContactLastName-------Gourley
+<br>ContactDescription----
+<br>ContactDesignation----D1198
+<br>ContactPhoto----------montgomery-advertiser-sean-gourley.jpg
+<br>ContactPhonenumber----334-240-0123
+<br>ContactEmail----------sgourley1@gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/goplayalabama
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2387
+<br>ContactId-------------C13135
+<br>ContactFirstName------Bonnie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hedrick
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2387
+<br>ContactId-------------C13136
+<br>ContactFirstName------Bonnie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hedrick
+<br>ContactDescription----
+<br>ContactDesignation----D15
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2387
+<br>ContactId-------------C13137
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morphet
+<br>ContactDescription----
+<br>ContactDesignation----D15
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

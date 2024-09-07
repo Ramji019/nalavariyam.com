@@ -1,0 +1,441 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O83
+<br>ContactId-------------C24799
+<br>ContactFirstName------Dr. Arnold
+<br>ContactMiddleName------
+<br>ContactLastName-------Plotnick
+<br>ContactDescription----
+<br>ContactDesignation----D2955
+<br>ContactPhoto----------cat-fancy-dr-arnold-plotnick.jpg
+<br>ContactPhonenumber----212-721-2287
+<br>ContactEmail----------plotnick@manhattancats.com
+<br>Alternative Email-----mcs@manhattancats.com
+<br>University------------University of Florida University of Florida 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/drplotnick
+<br>ContactTwitter--------https://twitter.com/#!/thecatexpert
+<br>ContactURL------------http://manhattancats.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O83
+<br>ContactId-------------C24800
+<br>ContactFirstName------Marilyn
+<br>ContactMiddleName------
+<br>ContactLastName-------Krieger
+<br>ContactDescription----
+<br>ContactDesignation----D2956
+<br>ContactPhoto----------cat-fancy-marilyn-krieger.jpg
+<br>ContactPhonenumber----650-780-9485
+<br>ContactEmail----------marilyn@thecatcoach.com
+<br>Alternative Email-----
+<br>University------------San Jose State University,University of California-Davis
+<br>ContactFacebook-------http://www.facebook.com/marilyn.krieger
+<br>ContactLinkedin-------http://www.linkedin.com/in/marilynkrieger
+<br>ContactTwitter--------https://twitter.com/#!/TheCatCoach
+<br>ContactURL------------http://thecatcoach.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O83
+<br>ContactId-------------C24801
+<br>ContactFirstName------Jeanne
+<br>ContactMiddleName------
+<br>ContactLastName-------Adlon
+<br>ContactDescription----
+<br>ContactDesignation----D2957
+<br>ContactPhoto----------cat-fancy-jeanne-adlon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jeanne@jeanneadlon.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/jadlon_catcalls
+<br>ContactURL------------http://www.jeanneadlon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O83
+<br>ContactId-------------C24802
+<br>ContactFirstName------Becky
+<br>ContactMiddleName------
+<br>ContactLastName-------Robinson
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------cat-fancy-becky-robinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Becky@alleycat.org
+<br>Alternative Email-----
+<br>University------------University of Missouri-Kansas City
+<br>ContactFacebook-------http://www.facebook.com/ACAPresident?v=info
+<br>ContactLinkedin-------http://www.linkedin.com/pub/becky-robinson/a/671/7b1
+<br>ContactTwitter--------https://twitter.com/#!/feralbecky
+<br>ContactURL------------http://www.alleycat.org/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O88
+<br>ContactId-------------C25013
+<br>ContactFirstName------Aaron 
+<br>ContactMiddleName------
+<br>ContactLastName-------Derr
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/BoysLifeAaron
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25145
+<br>ContactFirstName------Rich 
+<br>ContactMiddleName------
+<br>ContactLastName-------Osterle
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------roesterle@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25146
+<br>ContactFirstName------Jodi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Cecere
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcecere@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------Paier College of Art Inc
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jodi-cecere/11/514/912
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25147
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jbrown@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25148
+<br>ContactFirstName------Lauren 
+<br>ContactMiddleName------
+<br>ContactLastName-------Golde
+<br>ContactDescription----
+<br>ContactDesignation----D2014
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lgolde@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------Marymount College, Tarrytown, NY
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lauren-golde/25/78a/31b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O91
+<br>ContactId-------------C25149
+<br>ContactFirstName------Marianne 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carus
+<br>ContactDescription----
+<br>ContactDesignation----D2542
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25150
+<br>ContactFirstName------Ethan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D2308
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------efox@todaymediainc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25151
+<br>ContactFirstName------Lenny 
+<br>ContactMiddleName------
+<br>ContactLastName-------Carpenito
+<br>ContactDescription----
+<br>ContactDesignation----D2791
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lcarpenito@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O91
+<br>ContactId-------------C305
+<br>ContactFirstName------Lou 
+<br>ContactMiddleName------
+<br>ContactLastName-------Waryncia
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lwaryncia@caruspub.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Lou-Waryncia/100000421073744
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C305
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinelli
+<br>ContactDescription----
+<br>ContactDesignation----D754
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mmartinelli@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------Pace University School of Law,Boston College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/mike-martinelli/7/597/229
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25152
+<br>ContactFirstName------Evgeny  A
+<br>ContactMiddleName------
+<br>ContactLastName-------Zhenya
+<br>ContactDescription----
+<br>ContactDesignation----D43
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ewest@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O92
+<br>ContactId-------------C338
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Day
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------david@digpublishing.com
+<br>Alternative Email-----david@togetherboston.com,david@speakingincode.com
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/dayvidday
+<br>ContactLinkedin-------http://www.linkedin.com/in/dayvidday?goback=.nppvan_%2Frobertomg
+<br>ContactTwitter--------http://twitter.com/daviday
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25153
+<br>ContactFirstName------Jack 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D1692
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------Jmorris@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25154
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Calloway
+<br>ContactDescription----
+<br>ContactDesignation----D2635
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ccalloway@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O563
+<br>ContactId-------------C25155
+<br>ContactFirstName------Samuel N
+<br>ContactMiddleName------
+<br>ContactLastName-------Wender
+<br>ContactDescription----
+<br>ContactDesignation----D38
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------swender@westchestermagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C339
+<br>ContactFirstName------Catherine 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Saint Louis University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/catherine-lee/3/751/650
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O93
+<br>ContactId-------------C25156
+<br>ContactFirstName------Sarah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Verne
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

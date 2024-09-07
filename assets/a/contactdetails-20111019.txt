@@ -1,0 +1,421 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17576
+<br>ContactFirstName------Audry
+<br>ContactMiddleName------
+<br>ContactLastName-------Amann
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wcsh-tv-6-audry-amann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Miami University
+<br>ContactFacebook-------http://facebook.com/people/Audry-Amann/100001260662597
+<br>ContactLinkedin-------http://linkedin.com/pub/audry-amann-kensicki/a/baa/17
+<br>ContactTwitter--------https://twitter.com/#!/AudryAmann
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17577
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Caldwell
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------wcsh-tv-6-rob-caldwell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Williams College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17576
+<br>ContactFirstName------Audry
+<br>ContactMiddleName------
+<br>ContactLastName-------Amann
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-audry-amann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Miami University
+<br>ContactFacebook-------http://facebook.com/people/Audry-Amann/100001260662597
+<br>ContactLinkedin-------http://linkedin.com/pub/audry-amann-kensicki/a/baa/17
+<br>ContactTwitter--------https://twitter.com/#!/AudryAmann
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17577
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Caldwell
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wcsh-tv-6-rob-caldwell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Williams College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17578
+<br>ContactFirstName------Pat
+<br>ContactMiddleName------
+<br>ContactLastName-------Callaghan
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wcsh-tv-6-pat-callaghan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of New Hampshire
+<br>ContactFacebook-------http://facebook.com/pages/Pat-Callaghan-News-Anchor/329174018123?sk=info
+<br>ContactLinkedin-------http://linkedin.com/pub/pat-callaghan/11/a86/145
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17579
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Carrigan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wcsh-tv-6-don-carrigan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maine in Orono
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17580
+<br>ContactFirstName------Keith
+<br>ContactMiddleName------
+<br>ContactLastName-------Carson
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wcsh-tv-6-keith-carson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kcarson@wcsh.gannett.com
+<br>Alternative Email-----
+<br>University------------Lyndon State College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/KeithcarsonWCSH
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17581
+<br>ContactFirstName------Max
+<br>ContactMiddleName------
+<br>ContactLastName-------Cole
+<br>ContactDescription----
+<br>ContactDesignation----D1893
+<br>ContactPhoto----------wcsh-tv-6-max-cole.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mcole2@wlbz.gannett.com
+<br>Alternative Email-----
+<br>University------------Syracuse University,Franklin & Marshall College Lancaster-Pennsylvania.
+<br>ContactFacebook-------http://facebook.com/people/Max-Cole/100001739945375
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17582
+<br>ContactFirstName------Caroline
+<br>ContactMiddleName------
+<br>ContactLastName-------Cornish
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wcsh-tv-6-caroline-cornish.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University,Milton Academy
+<br>ContactFacebook-------http://facebook.com/carolinecornish
+<br>ContactLinkedin-------http://linkedin.com/pub/caroline-cornish/b/961/530
+<br>ContactTwitter--------http://twitter.com/#!/ccsquirrel
+<br>ContactURL------------http://www.wcsh6.com,http://www.wlbz2.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17583
+<br>ContactFirstName------Joe
+<br>ContactMiddleName------
+<br>ContactLastName-------Cupo
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wcsh-tv-6-joe-cupo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------State University of New York
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17584
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName-------Delage
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-sarah-delage.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Emerson College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/sarahdelage
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17585
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------DeSumma
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-mike-desumma.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mdesumma@wlbz.gannett.com
+<br>Alternative Email-----
+<br>University------------Syracuse University,West Chester University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/MikeDeSumma
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17586
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-bob-evans.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maine in Augusta
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17587
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Facchini
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------wcsh-tv-6-chris-facchini.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Emerson College in Boston
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/cfacc73
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17588
+<br>ContactFirstName------Bruce
+<br>ContactMiddleName------
+<br>ContactLastName-------Glasier
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------wcsh-tv-6-bruce-glasier.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maine
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17589
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Goff
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-tim-goff.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17590
+<br>ContactFirstName------Lee
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldberg
+<br>ContactDescription----
+<br>ContactDesignation----D400
+<br>ContactPhoto----------wcsh-tv-6-lee-goldberg.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/WCSHSPORTSGUY
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17591
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Green
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wcsh-tv-6-bill-green.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maine
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/billgreensmaine
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17592
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D1270
+<br>ContactPhoto----------wcsh-tv-6-amanda-hill.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ahill@gannett.com
+<br>Alternative Email-----
+<br>University------------Lyndon State College in Vermont
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/amanduhill
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17593
+<br>ContactFirstName------Melissa
+<br>ContactMiddleName------
+<br>ContactLastName-------Kim
+<br>ContactDescription----
+<br>ContactDesignation----D864
+<br>ContactPhoto----------wcsh-tv-6-melissa-kim.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Johns Hopkins University
+<br>ContactFacebook-------http://facebook.com/people/Melissa-Kim/100002652226948
+<br>ContactLinkedin-------http://linkedin.com/in/melissakim
+<br>ContactTwitter--------http://twitter.com/#!/melissaykim
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2748
+<br>ContactId-------------C17594
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------
+<br>ContactLastName-------LaBrecque
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wcsh-tv-6-kelly-labrecque.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Mississippi State University,Hofstra University
+<br>ContactFacebook-------http://facebook.com/people/Kelly-LaBrecque/560542907
+<br>ContactLinkedin-------http://linkedin.com/pub/kelly-labrecque/10/441/1a7
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

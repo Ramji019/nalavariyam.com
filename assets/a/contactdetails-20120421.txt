@@ -1,0 +1,401 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27214
+<br>ContactFirstName------Toukie
+<br>ContactMiddleName------
+<br>ContactLastName-------Smith
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-toukie-smith.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27215
+<br>ContactFirstName------Christine de
+<br>ContactMiddleName------
+<br>ContactLastName-------Lassus
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-christine-de-lassus.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27203
+<br>ContactFirstName------Kenny
+<br>ContactMiddleName------
+<br>ContactLastName-------Scharf
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-kenny-scharf.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------School of Visual Arts-New York
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.kennyscharf.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27202
+<br>ContactFirstName------Maury
+<br>ContactMiddleName------
+<br>ContactLastName-------Hopson
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-maury-hopson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27323
+<br>ContactFirstName------Roxanne
+<br>ContactMiddleName------
+<br>ContactLastName-------Lowit
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------mao-mag-roxanne-lowit.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------roxanne@roxannelowit.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Roxanne-Lowit/162671633796396
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/roxannelowit
+<br>ContactURL------------http://www.roxannelowit.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27324
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Gardner
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-jeff-gardner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27325
+<br>ContactFirstName------Greg
+<br>ContactMiddleName------
+<br>ContactLastName-------Gorman
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-greg-gorman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13900
+<br>ContactId-------------C27326
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Castro
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------mao-mag-rick-castro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6432
+<br>ContactId-------------C27327
+<br>ContactFirstName------Luke 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spice
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------luke@dazedgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6432
+<br>ContactId-------------C27328
+<br>ContactFirstName------Nancy
+<br>ContactMiddleName------
+<br>ContactLastName-------Waters
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------another-nancy-waters.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Manchester
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://uk.linkedin.com/pub/nancy-waters/33/b09/847
+<br>ContactTwitter--------https://twitter.com/#!/nancyjwaters
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27329
+<br>ContactFirstName------Morgan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Myrmo
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego State University-California State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/morganmyrmo
+<br>ContactTwitter--------http://twitter.com/#!/MorganMyrmo
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27330
+<br>ContactFirstName------Tenley 
+<br>ContactMiddleName------
+<br>ContactLastName-------Molzahn
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------George Fox University, Hope International University
+<br>ContactFacebook-------http://www.facebook.com/TenleyMolzahn
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tenley-molzahn/32/94a/95a
+<br>ContactTwitter--------http://twitter.com/#!/TENLEYMOLZAHN
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6432
+<br>ContactId-------------C27331
+<br>ContactFirstName------Tish 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wrigley
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tish@dazedgroup.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27332
+<br>ContactFirstName------Kim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lalla
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Kim-Cuffe-Lalla/1627532999
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kim-lalla/21/b70/ba7
+<br>ContactTwitter--------http://twitter.com/#!/xkimlala
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27329
+<br>ContactFirstName------Morgan
+<br>ContactMiddleName------
+<br>ContactLastName-------Myrmo
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------fashion-5.0-morgan-myrmo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego State University-California State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/morganmyrmo
+<br>ContactTwitter--------http://twitter.com/#!/MorganMyrmo
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1000
+<br>ContactId-------------C2184
+<br>ContactFirstName------Marcia
+<br>ContactMiddleName------
+<br>ContactLastName-------Derryberry
+<br>ContactDescription----marcia derryberry is the Editor in Chief of Impressions.  You can contact marcia through his email address mderryberry@impressionsmag.com. The phone number to contact marcia is 770-291-5574. You can also connect to marcia\'s facebook id using the link http://facebook.com/people/Marcia-Gebelein-Derryberry/725120945 and get his latest updates. You can also connect to marcia\'s linkedin id http://linkedin.com/pub/marcia-derryberry/4/b00/b87 and get his professional details. He also has his personal blogsYou can also follow marcia using his twitter link http://t-biznetwork.com/tag/marcia-derryberry/.  Current Editor in Chief: Impressions magazine at Nielsen Business Media Past editor in chief. Impressions magazine at VNU Business Media Inc. editor at Miller Freeman Inc. Education Texas State University-San Marcos Sam Houston State University
+<br>ContactDesignation----D1
+<br>ContactPhoto----------impressions-marcia-derryberry.jpg
+<br>ContactPhonenumber----770-291-5574
+<br>ContactEmail----------mderryberry@impressionsmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/Marcia-Gebelein-Derryberry/725120945
+<br>ContactLinkedin-------http://linkedin.com/pub/marcia-derryberry/4/b00/b87
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27330
+<br>ContactFirstName------Tenley
+<br>ContactMiddleName------
+<br>ContactLastName-------Molzahn
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------fashion-5.0-tenley-molzahn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------George Fox University, Hope International University
+<br>ContactFacebook-------http://www.facebook.com/TenleyMolzahn
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tenley-molzahn/32/94a/95a
+<br>ContactTwitter--------http://twitter.com/#!/TENLEYMOLZAHN
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1000
+<br>ContactId-------------C2185
+<br>ContactFirstName------Jamar
+<br>ContactMiddleName------
+<br>ContactLastName-------Laster
+<br>ContactDescription----jamar laster is the Managing Editor of Impressions.  You can contact jamar through his email address jlaster@impressionsmag.com. The phone number to contact jamar is 770-291-5578. You can also connect to jamar\'s linkedin id http://linkedin.com/in/jamarlaster and get his professional details. Current Senior Editor at Nielsen Business Media - Impressions magazine Past Managing Editor at Nielsen Business Media Editor at Future Publishing Editor at Future Publishing / Highbury House Communication Editor at Men\'s Edge Magazine Associate Editor at SPORTS EDGE Magazine Sporting Kid Magazine see less... Education The University of Georgia ? Henry W. Grady College of Journalism and Mass Communication 
+<br>ContactDesignation----D3
+<br>ContactPhoto----------impressions-jamar-laster.jpg
+<br>ContactPhonenumber----770-291-5578
+<br>ContactEmail----------jlaster@impressionsmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5921
+<br>ContactId-------------C27332
+<br>ContactFirstName------Kim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lalla
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Kim-Cuffe-Lalla/1627532999
+<br>ContactLinkedin-------http://www.linkedin.com/pub/kim-lalla/21/b70/ba7
+<br>ContactTwitter--------http://twitter.com/#!/xkimlala
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

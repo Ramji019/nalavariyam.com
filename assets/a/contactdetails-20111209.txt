@@ -1,0 +1,561 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21258
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------Alexis
+<br>ContactLastName-------Cade
+<br>ContactDescription----
+<br>ContactDesignation----D2453
+<br>ContactPhoto----------annual-survey-of-american-law-jason-cade.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jason.cade@nyu.edu
+<br>Alternative Email-----
+<br>University------------Brooklyn Law School,University of North Carolina-Chapel Hill
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21259
+<br>ContactFirstName------Paulette M
+<br>ContactMiddleName------
+<br>ContactLastName-------Caldwell
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-paulette-m-caldwell.jpg
+<br>ContactPhonenumber----212-998-6192
+<br>ContactEmail----------paulette.caldwell@nyu.edu
+<br>Alternative Email-----
+<br>University------------Howard University School of Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21260
+<br>ContactFirstName------Charles
+<br>ContactMiddleName------
+<br>ContactLastName-------Cameron
+<br>ContactDescription----
+<br>ContactDesignation----D2325
+<br>ContactPhoto----------annual-survey-of-american-law-charles-cameron.jpg
+<br>ContactPhonenumber----212-992-8956
+<br>ContactEmail----------charles.cameron@nyu.edu
+<br>Alternative Email-----
+<br>University------------Princeton University,Austin College, 1976
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21260
+<br>ContactFirstName------Charles
+<br>ContactMiddleName------
+<br>ContactLastName-------Cameron
+<br>ContactDescription----
+<br>ContactDesignation----D2325
+<br>ContactPhoto----------annual-survey-of-american-law-charles-cameron.jpg
+<br>ContactPhonenumber----212-992-8956
+<br>ContactEmail----------charles.cameron@nyu.edu
+<br>Alternative Email-----
+<br>University------------Princeton University,Austin College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21261
+<br>ContactFirstName------James B
+<br>ContactMiddleName------
+<br>ContactLastName-------Carlson
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jcarlson@mayerbrown.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21262
+<br>ContactFirstName------P. Kevin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Castel
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pkc2@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21263
+<br>ContactFirstName------William 
+<br>ContactMiddleName------
+<br>ContactLastName-------Castleberry
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lcastleberry@cooley.com
+<br>Alternative Email-----
+<br>University------------New York University School of Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21264
+<br>ContactFirstName------Efraim
+<br>ContactMiddleName------Chagai
+<br>ContactLastName-------Chalamish
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------annual-survey-of-american-law-efraim-chalamish.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------efi.chalamish@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21265
+<br>ContactFirstName------Elsie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chandler
+<br>ContactDescription----
+<br>ContactDesignation----D2448
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------elsie.chandler@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21266
+<br>ContactFirstName------Oscar G
+<br>ContactMiddleName------
+<br>ContactLastName-------Chase
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-oscar-g-chase.jpg
+<br>ContactPhonenumber----212-998-6217
+<br>ContactEmail----------oscar.chase@nyu.edu
+<br>Alternative Email-----
+<br>University------------Yale Law School,New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/oscar-chase/30/453/542
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21267
+<br>ContactFirstName------Nina
+<br>ContactMiddleName------
+<br>ContactLastName-------Chernoff
+<br>ContactDescription----
+<br>ContactDesignation----D2453
+<br>ContactPhoto----------annual-survey-of-american-law-nina-chernoff.jpg
+<br>ContactPhonenumber----212-996-6339
+<br>ContactEmail----------nina.chernoff@nyu.edu
+<br>Alternative Email-----
+<br>University------------Georgetown University Law Center,American University School of Public Affairs,Bryn Mawr College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21268
+<br>ContactFirstName------Evan 
+<br>ContactMiddleName------Robert 
+<br>ContactLastName-------Chesler
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------evan.chesler@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21269
+<br>ContactFirstName------Simon
+<br>ContactMiddleName------
+<br>ContactLastName-------Chesterman
+<br>ContactDescription----
+<br>ContactDesignation----D2466
+<br>ContactPhoto----------annual-survey-of-american-law-simon-chesterman.jpg
+<br>ContactPhonenumber----656-516-7342
+<br>ContactEmail----------chesterman@nyu.edu
+<br>Alternative Email-----
+<br>University------------University of Oxford,University of Melbourne
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://sg.linkedin.com/in/simonchesterman
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21270
+<br>ContactFirstName------Paul G.
+<br>ContactMiddleName------
+<br>ContactLastName-------Chevigny
+<br>ContactDescription----
+<br>ContactDesignation----D2365
+<br>ContactPhoto----------annual-survey-of-american-law-paul-g-chevigny.jpg
+<br>ContactPhonenumber----212-998-6249
+<br>ContactEmail----------paul.chevigny@nyu.edu
+<br>Alternative Email-----
+<br>University------------Yale Law School,Harvard Law School
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21271
+<br>ContactFirstName------Stephen
+<br>ContactMiddleName------
+<br>ContactLastName-------Choi
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american law-stephen-choi.jpg
+<br>ContactPhonenumber----212-992-8962
+<br>ContactEmail----------stephen.choi@nyu.edu
+<br>Alternative Email-----
+<br>University------------Harvard University,Harvard Law School,Harvard College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21271
+<br>ContactFirstName------Stephen
+<br>ContactMiddleName------
+<br>ContactLastName-------Choi
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american law-stephen-choi.jpg
+<br>ContactPhonenumber----212-992-8962
+<br>ContactEmail----------stephen.choi@nyu.edu
+<br>Alternative Email-----
+<br>University------------Harvard University,Harvard Law School,Harvard College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21272
+<br>ContactFirstName------Sujit
+<br>ContactMiddleName------
+<br>ContactLastName-------Choudhry
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-sujit-choudhry.jpg
+<br>ContactPhonenumber----212-998-6009
+<br>ContactEmail----------sujit@nyu.edu
+<br>Alternative Email-----
+<br>University------------Harvard Law School,University of Toronto,University College, University of Oxford,McGill University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21273
+<br>ContactFirstName------Henry 
+<br>ContactMiddleName------
+<br>ContactLastName-------Christensen
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------hchristensen@mwe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21274
+<br>ContactFirstName------Paul D
+<br>ContactMiddleName------
+<br>ContactLastName-------Clement
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------paul.clement@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21275
+<br>ContactFirstName------Jerome A
+<br>ContactMiddleName------
+<br>ContactLastName-------Cohen
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-jerome-a-cohen.jpg
+<br>ContactPhonenumber----212-998-6169
+<br>ContactEmail----------jerome.cohen@nyu.edu
+<br>Alternative Email-----
+<br>University------------Yale Law School,Yale University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21276
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Coles
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------matthew.coles@nyu.edu
+<br>Alternative Email-----
+<br>University------------Yale University,University of California,Hastings College of the Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21277
+<br>ContactFirstName------Dale 
+<br>ContactMiddleName------
+<br>ContactLastName-------Collins
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------wayne.collins@nyu.edu
+<br>Alternative Email-----
+<br>University------------University of Minnesota,University of Chicago Law School,California Institute of Technology
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dale-collins/15/55b/347
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21278
+<br>ContactFirstName------David 
+<br>ContactMiddleName------Andrew 
+<br>ContactLastName-------Colodny
+<br>ContactDescription----
+<br>ContactDesignation----D2448
+<br>ContactPhoto----------
+<br>ContactPhonenumber----646-459-3006
+<br>ContactEmail----------david.colodny@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21279
+<br>ContactFirstName------Adam B
+<br>ContactMiddleName------
+<br>ContactLastName-------Cox
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-adam-b-cox.jpg
+<br>ContactPhonenumber----212-992-8875
+<br>ContactEmail----------adambcox@nyu.edu
+<br>Alternative Email-----
+<br>University------------Princeton University,University of Michigan Law School
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21280
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------
+<br>ContactLastName-------Cummings
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------annual-survey-of-american-law-frank-cummings.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fc37@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21281
+<br>ContactFirstName------Laura E
+<br>ContactMiddleName------
+<br>ContactLastName-------Cunningham
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------laura.cunningham@nyu.edu
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21280
+<br>ContactFirstName------Frank
+<br>ContactMiddleName------
+<br>ContactLastName-------Cummings
+<br>ContactDescription----
+<br>ContactDesignation----D2323
+<br>ContactPhoto----------annual-survey-of-american-law-frank-cummings.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fc37@nyu.edu
+<br>Alternative Email-----
+<br>University------------Columbia University School of Law
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/frankcummings
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6707
+<br>ContactId-------------C21282
+<br>ContactFirstName------Noel B
+<br>ContactMiddleName------
+<br>ContactLastName-------Cunningham
+<br>ContactDescription----
+<br>ContactDesignation----D2334
+<br>ContactPhoto----------annual-survey-of-american-law-noel-b-cunningham.jpg
+<br>ContactPhonenumber----212-998-6159
+<br>ContactEmail----------nbc1@nyu.edu
+<br>Alternative Email-----
+<br>University------------New York University School of Law,University of Connecticut School of Law,City College of New York
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

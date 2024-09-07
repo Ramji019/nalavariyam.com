@@ -1,0 +1,3 @@
+var hanContactBeatList = function(btn)
+{
+}

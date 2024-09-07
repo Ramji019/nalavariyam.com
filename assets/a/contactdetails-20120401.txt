@@ -1,0 +1,241 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26655
+<br>ContactFirstName------Frank A. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bennack
+<br>ContactDescription----
+<br>ContactDesignation----D1303
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26656
+<br>ContactFirstName------George R. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hearst
+<br>ContactDescription----
+<br>ContactDesignation----D139
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26657
+<br>ContactFirstName------Steven R. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Swartz
+<br>ContactDescription----
+<br>ContactDesignation----D484
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26658
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Carey
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------road-&-track-david-carey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/careyathearst
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26659
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Clinton
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------road-&-track-michael-clinton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------School of Visual Arts,University of Pittsburgh,Pace University
+<br>ContactFacebook-------http://www.facebook.com/people/Michael-Clinton/681645451
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/maclinton
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26660
+<br>ContactFirstName------John P
+<br>ContactMiddleName------
+<br>ContactLastName-------Loughlin
+<br>ContactDescription----
+<br>ContactDesignation----D533
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26661
+<br>ContactFirstName------Ellen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Levine
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26662
+<br>ContactFirstName------Mark F. 
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D3070
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26663
+<br>ContactFirstName------Gilbert C
+<br>ContactMiddleName------
+<br>ContactLastName-------Maurer
+<br>ContactDescription----
+<br>ContactDesignation----D3070
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O764
+<br>ContactId-------------C26664
+<br>ContactFirstName------Support
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----support@zinio.com
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O755
+<br>ContactId-------------C26315
+<br>ContactFirstName------Harland
+<br>ContactMiddleName------
+<br>ContactLastName-------Schuster
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------kansas-harland-schuster.jpg
+<br>ContactPhonenumber----785-547-6246
+<br>ContactEmail----------harland@harlandschuster.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Harland-J-Schuster-Photographer/243793962310343
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.harlandschuster.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O755
+<br>ContactId-------------C26315
+<br>ContactFirstName------Harland
+<br>ContactMiddleName------
+<br>ContactLastName-------Schuster
+<br>ContactDescription----
+<br>ContactDesignation----D309
+<br>ContactPhoto----------
+<br>ContactPhonenumber----785-547-6246
+<br>ContactEmail----------harland@harlandschuster.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Harland-J-Schuster-Photographer/243793962310343
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.harlandschuster.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>

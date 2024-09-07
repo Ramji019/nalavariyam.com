@@ -1,0 +1,807 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23652
+<br>ContactFirstName------Rebecca 
+<br>ContactMiddleName------
+<br>ContactLastName-------Coppola
+<br>ContactDescription----
+<br>ContactDesignation----D57
+<br>ContactPhoto----------
+<br>ContactPhonenumber----845-463-0102
+<br>ContactEmail----------rcoppola@hvmag.com
+<br>Alternative Email-----
+<br>University------------Eastern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/rebecca-coppola/39/8/4b1
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23653
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Reese
+<br>ContactDescription----
+<br>ContactDesignation----D2795
+<br>ContactPhoto----------
+<br>ContactPhonenumber----914-909-4026
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23654
+<br>ContactFirstName------Doli 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morcos
+<br>ContactDescription----
+<br>ContactDesignation----D153
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmorcos@hvmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23655
+<br>ContactFirstName------Leighona 
+<br>ContactMiddleName------
+<br>ContactLastName-------Curry
+<br>ContactDescription----
+<br>ContactDesignation----D1814
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23656
+<br>ContactFirstName------Jack 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D1692
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmorris@todaymediainc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23657
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dubb
+<br>ContactDescription----
+<br>ContactDesignation----D2795
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O517
+<br>ContactId-------------C23658
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Calloway
+<br>ContactDescription----
+<br>ContactDesignation----D2635
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ccalloway@todaymediainc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23659
+<br>ContactFirstName------Hector 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sanchez
+<br>ContactDescription----
+<br>ContactDesignation----D547
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia College Chicago
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/hector-sanchez/9/599/313
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403386
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23660
+<br>ContactFirstName------Daniel S
+<br>ContactMiddleName------
+<br>ContactLastName-------Comiskey
+<br>ContactDescription----
+<br>ContactDesignation----D44
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403400
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23661
+<br>ContactFirstName------Megan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fernandez
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1472901
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C980
+<br>ContactFirstName------Julia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Spalding
+<br>ContactDescription----Julia  Spalding is the D5 of Indianapolis Monthly.  You can contact Julia  through his email address jspalding@indymonthly.emmis.com. The phone number to contact Julia  is 317-237-9288. You can also connect to Julia \'s facebook id using the link http://facebook.com/search/?q=Julia+Spalding&flt=1&o=2048 and get his latest updates. You can also connect to Julia \'s linkedin id http://linkedin.com/pub/dir/?first=Julia&last=Spalding and get his professional details. You can also follow Julia  using his twitter link http://spoke.com/info/pFdgFPW/JuliaSpalding. He also has his personal blogsYou can also follow Julia  using his twitter link http://peekyou.com/julie_spalding. 
+<br>ContactDesignation----D2716
+<br>ContactPhoto----------
+<br>ContactPhonenumber----317-237-9288
+<br>ContactEmail----------jspalding@indymonthly.emmis.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403385
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23662
+<br>ContactFirstName------Evan
+<br>ContactMiddleName------
+<br>ContactLastName-------West
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wabash College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/evan-west/30/23/16a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23663
+<br>ContactFirstName------Jonathan
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D2796
+<br>ContactPhoto----------indianapolis-monthly-jonathan-scott.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jonathan-scott/7/33a/916
+<br>ContactTwitter--------https://twitter.com/#%21/jonscott81
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1635992
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23664
+<br>ContactFirstName------Trisha 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lindsley
+<br>ContactDescription----
+<br>ContactDesignation----D12
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Indiana University Bloomington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/trishalindsley
+<br>ContactTwitter--------https://twitter.com/#!/trishasdish
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1634445
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23665
+<br>ContactFirstName------Emily 
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/emily-johnson/7/5a8/675
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403392
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23665
+<br>ContactFirstName------Emily 
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D33
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ball State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/emily-johnson/7/5a8/675
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403392
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23666
+<br>ContactFirstName------Philip
+<br>ContactMiddleName------
+<br>ContactLastName-------Gulley
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------indianapolis-monthly-philip-gulley.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.philipgulley.org/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23667
+<br>ContactFirstName------Deborah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Paul
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403388
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C23668
+<br>ContactFirstName------Sam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Stall
+<br>ContactDescription----
+<br>ContactDesignation----D130
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.indianapolismonthly.com/bios/story.aspx?ID=1403384
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C981
+<br>ContactFirstName------david
+<br>ContactMiddleName------
+<br>ContactLastName-------zivan
+<br>ContactDescription----david zivan is the D11 of Indianapolis Monthly.  You can contact david through his email address dzivan@indymonthly.emmis.com. The phone number to contact david is 317-237-9288. You can also connect to david\'s facebook id using the link http://facebook.com/search/?q=David+Zivan&flt=1&o=2048 and get his latest updates. You can also connect to david\'s linkedin id http://linkedin.com/pub/dir/?first=David&last=Zivan and get his professional details. You can also follow david using his twitter link http://spoke.com/info/p4lgs9y/DavidZivan. He also has his personal blogsYou can also follow david using his twitter link http://123people.com/s/david+zivan. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------indianapolis-monthly-david-zivan.jpg
+<br>ContactPhonenumber----317-237-9288
+<br>ContactEmail----------dzivan@indymonthly.emmis.com
+<br>Alternative Email-----
+<br>University------------Denison University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/david-zivan/1/720/373
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C982
+<br>ContactFirstName------amy
+<br>ContactMiddleName------wimmer
+<br>ContactLastName-------schwarb
+<br>ContactDescription----amy-wimmer schwarb is the D4 of Indianapolis Monthly.  You can contact amy-wimmer through his email address awschwarb@indymonthly.emmis.com. The phone number to contact amy-wimmer is 317-237-9288. You can also connect to amy-wimmer\'s linkedin id http://linkedin.com/pub/amy-wimmer-schwarb/5/366/497 and get his professional details. He also has his personal blogsYou can also follow amy-wimmer using his twitter link http://123people.com/s/amy+wimmer. 
+<br>ContactDesignation----D4
+<br>ContactPhoto----------indianapolis-monthly-amy-wimmer-schwarb.jpg
+<br>ContactPhonenumber----317-237-9288
+<br>ContactEmail----------awschwarb@indymonthly.emmis.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/amy-wimmer-schwarb/5/366/497
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O518
+<br>ContactId-------------C984
+<br>ContactFirstName------tony
+<br>ContactMiddleName------
+<br>ContactLastName-------rehagen
+<br>ContactDescription----tony rehagen is the D5 of Indianapolis Monthly.  You can contact tony through his email address trehagen@indymonthly.emmis.com. The phone number to contact tony is 317-237-9288. You can also connect to tony\'s linkedin id http://linkedin.com/pub/tony-rehagen/11/772/7a8 and get his professional details. He also has his personal blogsYou can also follow tony using his twitter link http://123people.com/s/tony+rehagen. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------indianapolis-monthly-tony-rehagen.jpg
+<br>ContactPhonenumber----317-237-9288
+<br>ContactEmail----------trehagen@indymonthly.emmis.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/tony-rehagen/11/772/7a8
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O519
+<br>ContactId-------------C986
+<br>ContactFirstName------andrea
+<br>ContactMiddleName------
+<br>ContactLastName-------darr
+<br>ContactDescription----andrea darr is the D1 of Kansas City Homes & Gardens.  You can contact andrea through his email address adarr@kc-hg.com. The phone number to contact andrea is 913-648-5757. You can also connect to andrea\'s linkedin id http://linkedin.com/in/andreaddarr and get his professional details. You can also follow andrea using his twitter link https://twitter.com/#!/KCHGmag. He also has his personal blogsYou can also follow andrea using his twitter link http://jilltran.com/blog/tag/andrea-darr. 
+<br>ContactDesignation----D1
+<br>ContactPhoto----------kansas-city homes & gardens-andrea-darr.jpg
+<br>ContactPhonenumber----913-648-5757
+<br>ContactEmail----------adarr@kc-hg.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/andreaddarr
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O519
+<br>ContactId-------------C23669
+<br>ContactFirstName------Renee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Demott
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----913-648-5722
+<br>ContactEmail----------rdemott@nci.com
+<br>Alternative Email-----
+<br>University------------Kansas State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/reneedemott
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O519
+<br>ContactId-------------C23670
+<br>ContactFirstName------Brooke 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pearl
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----913-648-5724
+<br>ContactEmail----------bpearl@nci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O519
+<br>ContactId-------------C23671
+<br>ContactFirstName------Darin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Benson
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----913-648-5718
+<br>ContactEmail----------dbenson@kc-hg.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/darin-benson/10/52a/81b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C987
+<br>ContactFirstName------stephen m
+<br>ContactMiddleName------
+<br>ContactLastName-------vest
+<br>ContactDescription----stephen-m. vest is the D11 of Kentucky Monthly.  You can contact stephen-m. through his email address steve@kentuckymonthly.com. The phone number to contact stephen-m. is 502-227-0053. You can also connect to stephen-m.\'s linkedin id http://peekyou.com/stephen_vest and get his professional details. You can also follow stephen-m. using his twitter link http://twitter.com/#!/stevevest. He also has his personal blogsYou can also follow stephen-m. using his twitter link http://www.myspace.com/vested_interest. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------kentucky-monthly-stephen-m.-vest.jpg
+<br>ContactPhonenumber----502-227-0053
+<br>ContactEmail----------steve@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/SteveVest
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C989
+<br>ContactFirstName------patricia
+<br>ContactMiddleName------
+<br>ContactLastName-------ranft
+<br>ContactDescription----patricia ranft is the D17 of Kentucky Monthly.  You can contact patricia through his email address pranft@kentuckymonthly.com. The phone number to contact patricia is 502-227-0053. You can also connect to patricia\'s facebook id using the link http://facebook.com/Fatrickk and get his latest updates. You can also connect to patricia\'s linkedin id http://linkedin.com/pub/patricia-ranft/9/847/13a and get his professional details. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------kentucky-monthly-patricia-ranft.jpg
+<br>ContactPhonenumber----502-227-0053
+<br>ContactEmail----------pranft@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------University of Kentucky
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/patricia-ranft/9/847/13a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C23672
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------Kay 
+<br>ContactLastName-------Vest
+<br>ContactDescription----
+<br>ContactDesignation----D134
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1864
+<br>ContactFirstName------kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------ohannessian
+<br>ContactDescription----kevin ohannessian is the Associate Editor of Fast Company.  You can contact kevin through his email address kohannessian@fastcompany.com. You can also connect to kevin\'s facebook id using the link http://facebook.com/kevin.ohannessian/ and get his latest updates. You can also follow kevin using his twitter link http://twitter.com/khohannessian/. He also has his personal blogsYou can also follow kevin using his twitter link http://www.fastcompany.com/user/kevin-ohannessian. 
+Kevin Ohannessian is an Associate Editor for FastCompany.com. He lives in Brooklyn New York with his wife.
+<br>ContactDesignation----D17
+<br>ContactPhoto----------fast-company-kevin-ohannessian.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kohannessian@fastcompany.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/kevin.ohannessian/
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/khohannessian/
+<br>ContactURL------------http://www.fastcompany.com/user/kevin-ohannessian
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1866
+<br>ContactFirstName------robert
+<br>ContactMiddleName------
+<br>ContactLastName-------safian
+<br>ContactDescription----robert safian is the Editor of Fast Company.  You can contact robert through his email address editor@fastcompany.com. You can also connect to robert\'s facebook id using the link http://facebook.com/bob.safian and get his latest updates. You can also connect to robert\'s linkedin id http://linkedin.com/pub/bob-safian/7/517/329 and get his professional details. You can also follow robert using his twitter link http://twitter.com/#!/rsafian. He also has his personal blogsYou can also follow robert using his twitter link http://www.fastcompany.com/user/robert-safian.
+Robert Safian is editor and managing director of the award-winning monthly business magazine Fast Company. He oversees all editorial operations in print and online and plays a key role in guiding the magazine\'s advertising marketing and circulation efforts. 
+
+Safian was named 2009 Editor of the Year by Adweek and recognized as 2008 Innovator of the Year by B-2-B Media. Under his leadership Fast Company has received numerous accolades: a 2011 winner of a National Magazine award a three-time National Magazine Award finalist two-time winner of Magazine of the Year from the Society of Business Editors and Writers; twice honored with the prestigious Gerald R. Loeb Award for Distinguished Business Journalism among many others. The publication was named to the Ad Age A-list in 2008 and for three consecutive years to the Adweek Hot List. 
+
+Safian came to Fast Company in 2007 from Fortune where he served as executive editor. Prior to that he was an executive editor at Time and headed Money as its managing editor for six years. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------fast-company-robert-safian.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@fastcompany.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/bob.safian
+<br>ContactLinkedin-------http://linkedin.com/pub/bob-safian/7/517/329
+<br>ContactTwitter--------http://twitter.com/#!/rsafian
+<br>ContactURL------------http://www.fastcompany.com/user/robert-safian
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1867
+<br>ContactFirstName------noah
+<br>ContactMiddleName------
+<br>ContactLastName-------robischon
+<br>ContactDescription----noah robischon is the Executive Editor Editor of Fast Company.  You can contact noah through his email address nrobischon@fastcompany.com  ideas@fastcompany.com. The phone number to contact noah is 212-389-5300 . You can also connect to noah\'s facebook id using the link http://facebook.com/noah.robischon and get his latest updates. You can also follow noah using his twitter link http://www.twitter.com/noahr. He also has his personal blogsYou can also follow noah using his twitter link http://www.fastcompany.com/user/noah-robischon. 
+<br>ContactDesignation----D4
+<br>ContactPhoto----------fast-company-noah-robischon.jpg
+<br>ContactPhonenumber----212-389-5300 
+<br>ContactEmail----------nrobischon@fastcompany.com , ideas@fastcompany.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/noah.robischon
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://www.twitter.com/noahr
+<br>ContactURL------------http://www.fastcompany.com/user/noah-robischon
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1869
+<br>ContactFirstName------allegra-jo
+<br>ContactMiddleName------
+<br>ContactLastName-------lagani
+<br>ContactDescription----allegra-jo lagani is the Managing Editor of Fast Company.  You can contact allegra-jo through his email address alagani@fastcompany.com. You can also connect to allegra-jo\'s facebook id using the link http://facebook.com/people/Allegra-Lagani/653813760 and get his latest updates. He also has his personal blogsYou can also follow allegra-jo using his twitter link http://www.leadershipdirectories.com/profiles/Allegra-Jo-Lagani-Managing-Editor-Fast-Company.htm. 
+<br>ContactDesignation----D3
+<br>ContactPhoto----------fast-company-allegra-jo-lagani.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------alagani@fastcompany.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/Allegra-Lagani/653813760
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.leadershipdirectories.com/profiles/Allegra-Jo-Lagani-Managing-Editor-Fast-Company.htm
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1870
+<br>ContactFirstName------nancy
+<br>ContactMiddleName------
+<br>ContactLastName-------cook
+<br>ContactDescription----nancy cook is the Senior Editor of Fast Company.  You can contact nancy through his email address ncook@mansueto.com. You can also connect to nancy\'s linkedin id http://linkedin.com/in/nancymcook and get his professional details. You can also follow nancy using his twitter link http://twitter.com/#!/nancook. He also has his personal blogsYou can also follow nancy using his twitter link http://www.daylife.com/topic/Nancy_Cook. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------fast-company-nancy-cook.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ncook@mansueto.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/nancymcook
+<br>ContactTwitter--------http://twitter.com/#!/nancook
+<br>ContactURL------------http://www.daylife.com/topic/Nancy_Cook
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O884
+<br>ContactId-------------C1871
+<br>ContactFirstName------dan
+<br>ContactMiddleName------
+<br>ContactLastName-------macsai
+<br>ContactDescription----dan macsai is the Assistant Editor of Fast Company.  You can contact dan through his email address dmacsai@fastcompany.com. You can also connect to dan\'s linkedin id http://linkedin.com/pub/dan-macsai/1a/b8b/a64 and get his professional details. You can also follow dan using his twitter link http://twitter.com/dmacsai. He also has his personal blogsYou can also follow dan using his twitter link http://www.fastcompany.com/user/dan-macsai. 
+<br>ContactDesignation----D12
+<br>ContactPhoto----------fast-company-dan-macsai.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dmacsai@fastcompany.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dan-macsai/1a/b8b/a64
+<br>ContactTwitter--------http://twitter.com/dmacsai
+<br>ContactURL------------http://www.fastcompany.com/user/dan-macsai
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O457
+<br>ContactId-------------C779
+<br>ContactFirstName------Mandy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Katz
+<br>ContactDescription----Mandy Katz has written from China New York and Washington on everything from nomads to real estate Korean War vets to payroll outsourcing. Her Moment byline has appeared over articles on Albert Einstein rebranding Israel the future of Jerusalem violinist Joshua Bell photographer Annie Leibovitz and anti-Semites with Jewish lovers among others. A Mandarin speaker and former international trade consultant Katz earned her bachelor?s degree from Yale majoring in East Asian studies and graduating magna cum laude. She lives in Bethesda Maryland with her husband three children and a ravenous turtle.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------moment-mandy-katz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@momentmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/search/?q=Mandy+Katz&flt=1&o=2048
+<br>ContactLinkedin-------http://www.linkedin.com/pub/mandy-katz/5/748/726
+<br>ContactTwitter--------http://twitter.com/search/users?q=Mandy+Katz&category=people&source=find_on_twitter
+<br>ContactURL------------http://www.123people.co.uk/s/mandy+katz
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O457
+<br>ContactId-------------C780
+<br>ContactFirstName------Joan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Alpert
+<br>ContactDescription----Joan Alpert has spent more than 30 years in the publishing world as an operations director public relations manager business developer and writer/editor. Working for profit and not-for-profit organizations Alpert\'s career world has ranged from criminal justice to wine tasting and from war veterans to management consultants. She also taught high school English and French was a Great Books leader served as PTA and coop nursery school presidents and helped initiate a ?reconformodox? congregation. She graduated magna cum laude from the University of Michigan. Joan lives in Bethesda with her physician spouse; they have three children and six grandchildren.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------moment-joan-alpert.jpg
+<br>ContactPhonenumber----202-363-6422 
+<br>ContactEmail----------editor@momentmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Joan-Alpert/1373299962
+<br>ContactLinkedin-------http://www.linkedin.com/pub/joan-alpert/6/aa0/162
+<br>ContactTwitter--------http://twitter.com/joanalb/status/6244098075
+<br>ContactURL------------http://www.spoke.com/info/pWnqi2Y/JoanAlpert
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O457
+<br>ContactId-------------C781
+<br>ContactFirstName------Nadine 
+<br>ContactMiddleName------
+<br>ContactLastName-------Epstein
+<br>ContactDescription----Nadine Epstein is Editor and Executive Publisher of Moment. Epstein has been a journalist for 25 years: Her articles essays and op-ed pieces have appeared in The New York Times The New York Times Magazine The Washington Post Smithsonian The Christian Science Monitor Ms. and other publications. She covered politics and news in the Chicago bureau of The New York Times and worked as an editor and reporter at The City News Bureau of Chicago. She has published three books contributed to several anthology collections and co-written a documentary film which was selected as a semifinalist of the 2001 Academy Awards. Epstein was a 1989-1990 Kellogg Fellow for Public Service in Journalism part of the Michigan Journalism Fellows program now known as the Knight-Wallace Fellowship. She has been the recipient of many grants including the D.C. Commission on the Arts/National Endowment for the Arts and the Fund for Investigative Journalism.
+<br>ContactDesignation----D11
+<br>ContactPhoto----------moment-nadine-epstein.jpg
+<br>ContactPhonenumber----202-363-6422 
+<br>ContactEmail----------editor@momentmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/nadine-epstein/22/b70/959
+<br>ContactTwitter--------http://twitter.com/momentmagazine
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O457
+<br>ContactId-------------C782
+<br>ContactFirstName------Nonna 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gorilovskaya
+<br>ContactDescription----Nonna joined the staff in 2006 from Mother Jones magazine where she was an editorial fellow. She lives in Scotland where she is a Ph.D. in politics student at the University of Edinburgh. Nonna is also a researcher for NiemanWatchdog.org a project of Harvard University?s Nieman Foundation for Journalism and the founder and editor of Foreign Policy Association\'s Women and Foreign Policy blog. Prior to her journalistic endeavors she studied the role of nationalism in the breakup of the Soviet Union as a U.S. Fulbright scholar to Armenia. She is a graduate of U.C. Berkeley where she grew addicted to lattes and St. Antony?s College Oxford where she acquired a fondness for Guinness.
+<br>ContactDesignation----D136
+<br>ContactPhoto----------moment-nonna.jpg
+<br>ContactPhonenumber----202-363-6422 
+<br>ContactEmail----------nonnka@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://comfibook.com/n/Nonna+Gorilovskaya
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://women.fpatest.org/author/ngorilovskay/
+<br>ContactURL------------http://www.peekyou.com/_gorilovskaya
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O457
+<br>ContactId-------------C783
+<br>ContactFirstName------Sarah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Breger
+<br>ContactDescription----Sarah joined Moment in 2009 as the Rabbi Harold S. White fellow.  Sarah has written about politics culture and religion for The Wall Street Journal Haaretz The Forward and other publications. Sarah earned her undergraduate degree in Jewish history from the University of Pennsylvania and graduated from the Columbia School of Journalism where she focused on the intersection of gender and religion. In her spare time she blogs about Israeli television.
+<br>ContactDesignation----D17
+<br>ContactPhoto----------moment-sarah-breger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@momentmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/sarahbreger
+<br>ContactTwitter--------
+<br>ContactURL------------http://momentmagazine.wordpress.com/tag/sarah-breger/
+<br>-------------------------------------------------------------------------
+<br>
+<br>

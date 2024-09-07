@@ -1,0 +1,3 @@
+var hanDeleteTask = function(btn)
+{
+}

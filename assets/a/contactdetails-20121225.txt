@@ -1,0 +1,341 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27966
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Boyle
+<br>ContactDescription----
+<br>ContactDesignation----D379
+<br>ContactPhoto----------knoe-tv-8-mark-boyle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mark.boyle@knoe.com
+<br>Alternative Email-----
+<br>University------------Colorado State University
+<br>ContactFacebook-------www.facebook.com/pages/Mark-Boyle/339869809425639
+<br>ContactLinkedin-------www.linkedin.com/pub/mark-boyle/20/648/a0a
+<br>ContactTwitter--------twitter.com/newsanchormark
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27967
+<br>ContactFirstName------Bob
+<br>ContactMiddleName------
+<br>ContactLastName-------Walters
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------knoe-tv-8-bob-walters.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bob.walters@knoe.com
+<br>Alternative Email-----
+<br>University------------Southern Illinois University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/bob-walters/5/819/aa6
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27968
+<br>ContactFirstName------Richard 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sommers 
+<br>ContactDescription----
+<br>ContactDesignation----D220
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail---------- richard.sommers@knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27969
+<br>ContactFirstName------Joel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Boutin
+<br>ContactDescription----
+<br>ContactDesignation----D513
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------joel.boutin@knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27970
+<br>ContactFirstName------Kurt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Boyd
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kurt.boyd [at] knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27971
+<br>ContactFirstName------April
+<br>ContactMiddleName------
+<br>ContactLastName-------Dovorany
+<br>ContactDescription----
+<br>ContactDesignation----D303
+<br>ContactPhoto----------knoe-tv-8-april-dovorany.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------april.dovorany@knoe.com
+<br>Alternative Email-----
+<br>University------------University of Wisconsin
+<br>ContactFacebook-------www.facebook.com/pages/April-Dovorany/413354972023138
+<br>ContactLinkedin-------www.linkedin.com/pub/april-dovorany/18/1b8/180
+<br>ContactTwitter--------twitter.com/AprilDovorany/lists/memberships
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27972
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Pearson
+<br>ContactDescription----
+<br>ContactDesignation----D571
+<br>ContactPhoto----------knoe-tv-8-tom-pearson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom.pearson@knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/KNOE8Weather
+<br>ContactLinkedin-------www.linkedin.com/pub/tom-pearson/28/74b/461
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27973
+<br>ContactFirstName------Amanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Jellig
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------knoe-tv-8-amanda-jellig.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Embry-Riddle Aeronautical University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27974
+<br>ContactFirstName------Larry
+<br>ContactMiddleName------
+<br>ContactLastName-------Rhymes
+<br>ContactDescription----
+<br>ContactDesignation----D572
+<br>ContactPhoto----------knoe-tv-8-larry-rhymes.jpg
+<br>ContactPhonenumber----318-388-8888
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/pages/Larry-Rhymes/427978333896630
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27975
+<br>ContactFirstName------Clay
+<br>ContactMiddleName------
+<br>ContactLastName-------Ostarly
+<br>ContactDescription----
+<br>ContactDesignation----D572
+<br>ContactPhoto----------knoe-tv-8-clay-ostarly.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- clay.ostarly@knoe.com
+<br>Alternative Email-----
+<br>University------------University of Louisiana
+<br>ContactFacebook-------www.facebook.com/forecasterclay.ostarly
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27976
+<br>ContactFirstName------Aaron
+<br>ContactMiddleName------
+<br>ContactLastName-------Dietrich
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------knoe-tv-8-aaron-dietrich.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------aaron.dietrich@knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/aaronsaces?filter=3
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/AaronsAces/following
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27977
+<br>ContactFirstName------Ron
+<br>ContactMiddleName------
+<br>ContactLastName-------Snyder
+<br>ContactDescription----
+<br>ContactDesignation----D663
+<br>ContactPhoto----------knoe-tv-8-ron-snyder.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ron.snyder@knoe.com
+<br>Alternative Email-----
+<br>University------------Syracuse University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/ron-snyder/13/99/9a1
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27978
+<br>ContactFirstName------Ty
+<br>ContactMiddleName------
+<br>ContactLastName-------Russell
+<br>ContactDescription----
+<br>ContactDesignation----D1640
+<br>ContactPhoto----------knoe-tv-8-ty-russell.jpg
+<br>ContactPhonenumber----318-388-8888X269
+<br>ContactEmail----------ty.russell@knoe.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/TyRussellKNOE
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27979
+<br>ContactFirstName------Victoria
+<br>ContactMiddleName------
+<br>ContactLastName-------Shirley
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------knoe-tv-8-victoria-shirley.jpg
+<br>ContactPhonenumber----318-388-8888X265
+<br>ContactEmail----------victoria.shirley@knoe.com
+<br>Alternative Email-----
+<br>University------------Christopher Newport University
+<br>ContactFacebook-------www.facebook.com/VictoriaShirleyKNOE
+<br>ContactLinkedin-------www.linkedin.com/in/victoriashirley
+<br>ContactTwitter--------twitter.com/vshirley/followers
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------
+<br>ContactFirstName------Victoria
+<br>ContactMiddleName------
+<br>ContactLastName-------Shirley
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------knoe-tv-8-victoria-shirley.jpg
+<br>ContactPhonenumber----318-388-8888X265
+<br>ContactEmail----------victoria.shirley@knoe.com
+<br>Alternative Email-----
+<br>University------------Christopher Newport University
+<br>ContactFacebook-------www.facebook.com/VictoriaShirleyKNOE
+<br>ContactLinkedin-------www.linkedin.com/in/victoriashirley
+<br>ContactTwitter--------twitter.com/vshirley/followers
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27980
+<br>ContactFirstName------Jillian
+<br>ContactMiddleName------
+<br>ContactLastName-------Corder
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------knoe-tv-8-jillian-corder.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail---------- jillian.corder@knoe.com
+<br>Alternative Email-----
+<br>University------------Northwestern State University 
+<br>ContactFacebook-------www.facebook.com/JillianCorderKNOE
+<br>ContactLinkedin-------www.linkedin.com/pub/jillian-corder/4a/bb4/686
+<br>ContactTwitter--------twitter.com/JillianCorder
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2812
+<br>ContactId-------------C27981
+<br>ContactFirstName------Lyndsey
+<br>ContactMiddleName------
+<br>ContactLastName-------Price
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------knoe-tv-8-lyndsey-price.jpg
+<br>ContactPhonenumber----318-388-8888X266
+<br>ContactEmail----------lyndsey.price@knoe.com
+<br>Alternative Email-----
+<br>University------------University of Alabama
+<br>ContactFacebook-------www.facebook.com/LyndseyPriceKNOE
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/PriceLyndsey
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

@@ -1,0 +1,461 @@
+************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27885
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fuquay
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27886
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Zoltan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------szoltan@kcfw.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27887
+<br>ContactFirstName------Rebecca
+<br>ContactMiddleName------
+<br>ContactLastName-------Vogt
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcfw-tv-9-rebecca-vogt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rvogt@kcfw.com
+<br>Alternative Email-----
+<br>University------------College of New Jersey
+<br>ContactFacebook-------www.facebook.com/RebeccaVogtNBCMontana
+<br>ContactLinkedin-------www.linkedin.com/pub/rebecca-vogt/2b/a35/883
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27888
+<br>ContactFirstName------Eric
+<br>ContactMiddleName------
+<br>ContactLastName-------Jochim
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------kcfw-tv-9-eric-jochim.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ejochim@ktvm.com
+<br>Alternative Email-----
+<br>University------------University of Montana
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27889
+<br>ContactFirstName------Kathy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Matosich
+<br>ContactDescription----
+<br>ContactDesignation----D47
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------kmatosich@ktvm.com
+<br>Alternative Email-----
+<br>University------------Montana State University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/kathy-matosich/8/361/b25
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27890
+<br>ContactFirstName------Andrew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pudvah
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------apudvah@ktvm.com
+<br>Alternative Email-----
+<br>University------------ITT Technical Institute
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/andy-pudvah/23/372/b13
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27891
+<br>ContactFirstName------Katherine
+<br>ContactMiddleName------
+<br>ContactLastName-------Mozzone
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcfw-tv-9-katherine-mozzone.jpg
+<br>ContactPhonenumber----406-595-1106
+<br>ContactEmail----------kmozzone@ktvm.com
+<br>Alternative Email-----
+<br>University------------University of Georgia
+<br>ContactFacebook-------www.facebook.com/kmozzone
+<br>ContactLinkedin-------www.linkedin.com/in/kmdmozz
+<br>ContactTwitter--------twitter.com/kmdmozzone
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27892
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Maschmedt
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcfw-tv-9-lauren-maschmedt.jpg
+<br>ContactPhonenumber----406-593-1102
+<br>ContactEmail----------lmaschmedt@ktvm.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------www.facebook.com/LaurenMaschmedt
+<br>ContactLinkedin-------
+<br>ContactTwitter--------twitter.com/Lmasch
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27893
+<br>ContactFirstName------Donovan
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kcfw-tv-9-donovan-hill.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dhill@ktvm.com
+<br>Alternative Email-----
+<br>University------------Specs Howard School of Broadcasting
+<br>ContactFacebook-------www.facebook.com/DonovanHillTheReporter
+<br>ContactLinkedin-------www.linkedin.com/pub/donovan-hill/48/95a/3a9
+<br>ContactTwitter--------twitter.com/DonovanMHill
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27894
+<br>ContactFirstName------Dennis 
+<br>ContactMiddleName------
+<br>ContactLastName-------O\'Brien
+<br>ContactDescription----
+<br>ContactDesignation----D1793
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dobrien@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27895
+<br>ContactFirstName------Scott 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ashleman
+<br>ContactDescription----
+<br>ContactDesignation----D208
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sashleman@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2802
+<br>ContactId-------------C27896
+<br>ContactFirstName------Rob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Owen
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rowen@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2801
+<br>ContactId-------------C27897
+<br>ContactFirstName------Sports
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------derek@kpax.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2801
+<br>ContactId-------------C27898
+<br>ContactFirstName------Production
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------production@kpax.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2801
+<br>ContactId-------------C27899
+<br>ContactFirstName------Programming
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tammy@kpax.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27900
+<br>ContactFirstName------Richard
+<br>ContactMiddleName------
+<br>ContactLastName-------Reingold
+<br>ContactDescription----
+<br>ContactDesignation----D157
+<br>ContactPhoto----------keci-tv-13-richard-reingold.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/richard-reingold/50/7bb/b41
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27901
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------O\'Brien
+<br>ContactDescription----
+<br>ContactDesignation----D1793
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------dobrien@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27902
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Grogan
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------keci-tv-13-chris-grogan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cgrogan@keci.com
+<br>Alternative Email-----
+<br>University------------Communications-Marist College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/in/chrisgrogan1
+<br>ContactTwitter--------twitter.com/ChrisGroganTV
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27903
+<br>ContactFirstName------Cyndy
+<br>ContactMiddleName------
+<br>ContactLastName-------Koures
+<br>ContactDescription----
+<br>ContactDesignation----D344
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ckoures@keci.com
+<br>Alternative Email-----
+<br>University------------Brigham Young University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------www.linkedin.com/pub/cyndy-koures/34/82/655
+<br>ContactTwitter--------twitter.com/ckoures
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27904
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Ashleman
+<br>ContactDescription----
+<br>ContactDesignation----D208
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------sashleman@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27905
+<br>ContactFirstName------Rob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Owen
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rowen@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2803
+<br>ContactId-------------C27906
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Hessler
+<br>ContactDescription----
+<br>ContactDesignation----D82
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nhessler@keci.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

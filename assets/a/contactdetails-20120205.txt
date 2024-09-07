@@ -1,0 +1,321 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->
+<br>ContactId-------------
+<br>ContactFirstName------
+<br>ContactMiddleName------
+<br>ContactLastName-------
+<br>ContactDescription----
+<br>ContactDesignation----
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1
+<br>ContactId-------------C26
+<br>ContactFirstName------Clare
+<br>ContactMiddleName------
+<br>ContactLastName-------McHugh
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------all-you-clare-mchugh.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/clare-mchugh/6/490/15
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C783
+<br>ContactFirstName------Kendall 
+<br>ContactMiddleName------Carr 
+<br>ContactLastName-------Shelton
+<br>ContactDescription----
+<br>ContactDesignation----D61
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/kendall.c.shelton
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C782
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Walker
+<br>ContactDescription----
+<br>ContactDesignation----D2797
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgetown College, Northwestern University Medill School of Journalism
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/amy-walker/24/559/a55
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C781
+<br>ContactFirstName------Lindsey 
+<br>ContactMiddleName------
+<br>ContactLastName-------McKinney
+<br>ContactDescription----
+<br>ContactDesignation----D2798
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Syracuse University - Maxwell School of Citizenship and Public Affairs
+<br>ContactFacebook-------https://www.facebook.com/people/Lindsey-McKinney/75201597
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lindsay-mckinney/4/655/554
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C780
+<br>ContactFirstName------Kelli L
+<br>ContactMiddleName------
+<br>ContactLastName-------Schreiber
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C779
+<br>ContactFirstName------Kim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Butterweck
+<br>ContactDescription----
+<br>ContactDesignation----D4
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Otterbein College
+<br>ContactFacebook-------https://www.facebook.com/kim.butterweck
+<br>ContactLinkedin-------http://www.linkedin.com/in/kimbutterweck
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1871
+<br>ContactFirstName------Rebecca 
+<br>ContactMiddleName------
+<br>ContactLastName-------Redding
+<br>ContactDescription----
+<br>ContactDesignation----D430
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1870
+<br>ContactFirstName------Robin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lachapelle
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------robin@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/robin-lachapelle/26/aa/7b3
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1869
+<br>ContactFirstName------Ashley 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leimer
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ashley@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------Appalachian State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ashley-leimer/6/959/217
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1867
+<br>ContactFirstName------Julie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Kentucky Wesleyan College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/julie-moore/20/785/54b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1867
+<br>ContactFirstName------Julie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------julie@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------Kentucky Wesleyan College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/julie-moore/20/785/54b
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O521
+<br>ContactId-------------C1866
+<br>ContactFirstName------Marilee 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morrow
+<br>ContactDescription----
+<br>ContactDesignation----D167
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------marilee@kentuckymonthly.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------https://www.facebook.com/people/Marilee-Morrow/107300290
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

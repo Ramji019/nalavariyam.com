@@ -1,0 +1,1222 @@
+******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27672
+<br>ContactFirstName------Jill
+<br>ContactMiddleName------
+<br>ContactLastName-------Lawless
+<br>ContactDescription----Jill is a journalist and currently working for The Associated Press as a Managing Editor.
+
+<br>ContactDesignation----D3
+<br>ContactPhoto----------the-associated-press-jill-lawless.jpg
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/JillLawless
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------
+<br>ContactFirstName------Jenna
+<br>ContactMiddleName------
+<br>ContactLastName-------Fryer
+<br>ContactDescription----Jenna is a reporter at Associated Press she covers news about NASCAR Racing and Auto racing.
+
+<br>ContactDesignation----D3127
+<br>ContactPhoto----------the-associated-press-jenna-fryer.jpg
+<br>ContactPhonenumber----919-833-8687
+<br>ContactEmail----------jfryer@ap.org
+<br>Alternative Email-----
+<br>University------------West Virginia University
+<br>ContactFacebook-------http://www.facebook.com/jennafryer
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jenna-fryer/4/9A0/289
+<br>ContactTwitter--------https://twitter.com/#!/JennaFryer
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27672
+<br>ContactFirstName------Jill
+<br>ContactMiddleName------
+<br>ContactLastName-------Lawless
+<br>ContactDescription----Jill is a journalist and currently working for The Associated Press as a Managing Editor.
+
+<br>ContactDesignation----D3
+<br>ContactPhoto----------the-associated-press-jill-lawless.jpg
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/JillLawless
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27674
+<br>ContactFirstName------Cassandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Vinograd
+<br>ContactDescription----Cassandra Vinograd is a London-based correspondent for The Associated Press. Previously she worked as an editor at the Wall Street Journal in Brussels and London.
+
+<br>ContactDesignation----D129
+<br>ContactPhoto----------the-associated-press-cassandra-vinograd.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cvinograd@ap.org
+<br>Alternative Email-----
+<br>University------------Columbia University,Northwestern University
+<br>ContactFacebook-------http://www.facebook.com/pages/Cassandra-Vinograd/234574229912129
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cassandra-vinograd/3/ab7/aaa
+<br>ContactTwitter--------https://twitter.com/#!/cassvinograd
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27674
+<br>ContactFirstName------Cassandra
+<br>ContactMiddleName------
+<br>ContactLastName-------Vinograd
+<br>ContactDescription----Cassandra Vinograd is a London-based correspondent for The Associated Press. Previously she worked as an editor at the Wall Street Journal in Brussels and London.
+
+<br>ContactDesignation----D129
+<br>ContactPhoto----------the-associated-press-cassandra-vinograd.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------cvinograd@ap.org
+<br>Alternative Email-----
+<br>University------------Columbia University,Northwestern University
+<br>ContactFacebook-------http://www.facebook.com/pages/Cassandra-Vinograd/234574229912129
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cassandra-vinograd/3/ab7/aaa
+<br>ContactTwitter--------https://twitter.com/#!/cassvinograd
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27675
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Germain
+<br>ContactDescription----David Germain is New York Based Writer of The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------the-associated-press-david-germain.jpg
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------dgermain@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100000387963263
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1862
+<br>ContactId-------------C27676
+<br>ContactFirstName------Gene
+<br>ContactMiddleName------
+<br>ContactLastName-------Sloan
+<br>ContactDescription----Alerts about cruise news reviews and deals plus general musings from USA TODAY Cruise Log blogger Gene Sloan
+He oversee USA TODAY\'s Cruise Log (cruises.usatoday.com) an online site where cruise fans can blow hours at a time talking about cruising. It\'s just his latest gig as a travel writer an occupation that has kept him on the road more than 1200 days over the past 15 years as he has written about everything from cruising to trekking in the Peruvian Andes.
+
+<br>ContactDesignation----D3129
+<br>ContactPhoto----------usa-today-gene-sloan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/CruiseLog
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27675
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Germain
+<br>ContactDescription----David Germain is New York Based Writer of The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------the-associated-press-david-germain.jpg
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------dgermain@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100000387963263
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27677
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leff
+<br>ContactDescription----Lisa Leff is working as a reporter for Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----415-495-1708
+<br>ContactEmail----------lleff@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/lisa.leff
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27677
+<br>ContactFirstName------Lisa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Leff
+<br>ContactDescription----Lisa Leff is working as a reporter for Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----415-495-1708
+<br>ContactEmail----------lleff@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/lisa.leff
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27678
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Wawrow
+<br>ContactDescription----AP Sports Writer. (and that\'s a CD by The mighty Replacements -- Let it Be -- I\'m holding up for those wondering)
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-john-wawrow.jpg
+<br>ContactPhonenumber----716-574-0391
+<br>ContactEmail----------jmwawrow@ap.org
+<br>Alternative Email-----
+<br>University------------Simon Fraser University
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1626866623
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/john_wawrow
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27678
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Wawrow
+<br>ContactDescription----AP Sports Writer. (and that\'s a CD by The mighty Replacements -- Let it Be -- I\'m holding up for those wondering)
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-john-wawrow.jpg
+<br>ContactPhonenumber----716-574-0391
+<br>ContactEmail----------jmwawrow@ap.org
+<br>Alternative Email-----
+<br>University------------Simon Fraser University
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1626866623
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/john_wawrow
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27679
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----Minnesota sports writer for the Associated Press since 2000 trying hard to squeeze it all in with 140 characters or less.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-dave-campbell.jpg
+<br>ContactPhonenumber----612-332-2727
+<br>ContactEmail----------dcampbell@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/DaveCampbellAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27679
+<br>ContactFirstName------Dave
+<br>ContactMiddleName------
+<br>ContactLastName-------Campbell
+<br>ContactDescription----Minnesota sports writer for the Associated Press since 2000 trying hard to squeeze it all in with 140 characters or less.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-dave-campbell.jpg
+<br>ContactPhonenumber----612-332-2727
+<br>ContactEmail----------dcampbell@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/DaveCampbellAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27680
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown	
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----406-896-1528
+<br>ContactEmail----------mbrown@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27680
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown	
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----406-896-1528
+<br>ContactEmail----------mbrown@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27681
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Gano
+<br>ContactDescription----Sports Writer at The Associated Press Inc.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-rick-gano.jpg
+<br>ContactPhonenumber----312-920-3625
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/rickgano
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14074
+<br>ContactId-------------C27682
+<br>ContactFirstName------Marla
+<br>ContactMiddleName------Jo
+<br>ContactLastName-------Fisher
+<br>ContactDescription----I write about deals and bargains for the Orange County Register and also write a mom blog.
+<br>ContactDesignation----D101
+<br>ContactPhoto----------freedom-blogging-marla-fisher.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mfisher@ocregister.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/MarlaJoFisher
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/MarlaJoFisher
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27681
+<br>ContactFirstName------Rick
+<br>ContactMiddleName------
+<br>ContactLastName-------Gano
+<br>ContactDescription----Sports Writer at The Associated Press Inc.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------the-associated-press-rick-gano.jpg
+<br>ContactPhonenumber----312-920-3625
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/rickgano
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27683
+<br>ContactFirstName------Martin 	
+<br>ContactMiddleName------
+<br>ContactLastName-------Crutsinger
+<br>ContactDescription----Martin Crutsinger is an Associated Press economics writer.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------mcrutsinger@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27683
+<br>ContactFirstName------Martin 	
+<br>ContactMiddleName------
+<br>ContactLastName-------Crutsinger
+<br>ContactDescription----Martin Crutsinger is an Associated Press economics writer.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------mcrutsinger@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27684
+<br>ContactFirstName------Stephen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkins
+<br>ContactDescription----Stephen is working as Sports Writer for Associated Press.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------
+<br>ContactPhonenumber----972-991-2100
+<br>ContactEmail----------shawkins@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14078
+<br>ContactId-------------C27685
+<br>ContactFirstName------Cynthia
+<br>ContactMiddleName------
+<br>ContactLastName-------Boris
+<br>ContactDescription----Cynthia Boris is a freelance writer social media consultant and a firm believer that content is still king. A former magazine staff writer and book author she now devotes all of her time to the world wide web.
+
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------marketing-pilgrim-cynthia-boris.jpg
+<br>ContactPhonenumber----559-272-5054
+<br>ContactEmail----------cynthia@cynthiaboris.com
+<br>Alternative Email-----
+<br>University------------Rowan University
+<br>ContactFacebook-------http://www.facebook.com/cynthia.boris
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cynthia-boris/3/b54/324
+<br>ContactTwitter--------https://twitter.com/#!/Cynthialil
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O14078
+<br>ContactId-------------
+<br>ContactFirstName------Cynthia
+<br>ContactMiddleName------
+<br>ContactLastName-------Boris
+<br>ContactDescription----Cynthia Boris is a freelance writer social media consultant and a firm believer that content is still king. A former magazine staff writer and book author she now devotes all of her time to the world wide web.
+
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------marketing-pilgrim-cynthia-boris.jpg
+<br>ContactPhonenumber----559-272-5054
+<br>ContactEmail----------cynthia@cynthiaboris.com
+<br>Alternative Email-----
+<br>University------------Rowan University
+<br>ContactFacebook-------http://www.facebook.com/cynthia.boris
+<br>ContactLinkedin-------http://www.linkedin.com/pub/cynthia-boris/3/b54/324
+<br>ContactTwitter--------https://twitter.com/#!/Cynthialil
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27684
+<br>ContactFirstName------Stephen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawkins
+<br>ContactDescription----Stephen is working as Sports Writer for Associated Press.
+
+<br>ContactDesignation----D102
+<br>ContactPhoto----------
+<br>ContactPhonenumber----972-991-2100
+<br>ContactEmail----------shawkins@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27686
+<br>ContactFirstName------Frazier
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----Frazier Moore Jr. (born Atlanta Georgia) is a television critic for the Associated Press.
+
+<br>ContactDesignation----D3130
+<br>ContactPhoto----------the-associated-press-frazier-moore.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fmoore@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/tvfrazier
+<br>ContactLinkedin-------http://www.linkedin.com/pub/frazier-moore/5/659/620
+<br>ContactTwitter--------https://twitter.com/#!/tvfrazier
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O47
+<br>ContactId-------------C27687
+<br>ContactFirstName------Stuart 	 
+<br>ContactMiddleName------
+<br>ContactLastName-------Streuli
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------
+<br>ContactPhonenumber----401-845-5100
+<br>ContactEmail----------stuart.streuli@sailingworld.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14085
+<br>ContactId-------------C27688
+<br>ContactFirstName------Charles
+<br>ContactMiddleName------
+<br>ContactLastName-------Zusman
+<br>ContactDescription----Zusman moved to New Jersey to begin his career briefly as a reporter and then since 1973 as an editor at The Star-Ledger in Newark. During that time he has owned a number of boats—including row power and sail—and has visited many of the waterways in and around New Jersey. Those he hasn’t experienced yet are on his to-do list.
+Zusman began writing a weekly column about sailing in The Star-Ledger 10 years ago and since then has expanded the column to cover recreational boating in general. The column appears most Thursdays in The Star-Ledger Sports Section.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------new-jersey-news-charles-zusman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------wm@starledger.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13957
+<br>ContactId-------------C27689
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnard
+<br>ContactDescription----Jeff Barnard is a reporter for The Associated Press covering environmental issues.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-toronto-star-jeff-barnard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jbarnard@ap.org
+<br>Alternative Email-----
+<br>University------------Indiana University Bloomington,Purdue University
+<br>ContactFacebook-------http://www.facebook.com/people/Jeff-Barnard/100000371089849
+<br>ContactLinkedin-------http://www.linkedin.com/in/jeffbarnard
+<br>ContactTwitter--------https://twitter.com/#!/JeffBarnardAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O13957
+<br>ContactId-------------C27689
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnard
+<br>ContactDescription----Jeff Barnard is a reporter for The Associated Press covering environmental issues.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-toronto-star-jeff-barnard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jbarnard@ap.org
+<br>Alternative Email-----
+<br>University------------Indiana University Bloomington,Purdue University
+<br>ContactFacebook-------http://www.facebook.com/people/Jeff-Barnard/100000371089849
+<br>ContactLinkedin-------http://www.linkedin.com/in/jeffbarnard
+<br>ContactTwitter--------https://twitter.com/#!/JeffBarnardAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6797
+<br>ContactId-------------C27690
+<br>ContactFirstName------Chloe
+<br>ContactMiddleName------
+<br>ContactLastName-------Albanesius
+<br>ContactDescription----Chloe Albanesius is the East Coast news reporter for PCMag.com covering software. She turned to tech after realizing that her lifelong dream of being a backup dancer for Madonna would likely never come to fruition. Instead she spent almost four years covering tech policy in DC for The National Journal\'s Technology Dailywhere a 6 AM start time kicked off her love affair with caffeine. She then had a brief dalliance with the world of financial IT here in New York before landing at PC Magazine.
+<br>ContactDesignation----D45
+<br>ContactPhoto----------pc-chloe-albanesius.jpg
+<br>ContactPhonenumber----212-503-3500
+<br>ContactEmail----------chloe_albanesius@pcmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/chloegibbs
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/chloealbanesius
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14105
+<br>ContactId-------------C27691
+<br>ContactFirstName------Chloe
+<br>ContactMiddleName------
+<br>ContactLastName-------Albanesius
+<br>ContactDescription----Chloe Albanesius is the East Coast news reporter for PCMag.com covering software. She turned to tech after realizing that her lifelong dream of being a backup dancer for Madonna would likely never come to fruition. Instead she spent almost four years covering tech policy in DC for The National Journal\'s Technology Dailywhere a 6 AM start time kicked off her love affair with caffeine. She then had a brief dalliance with the world of financial IT here in New York before landing at PC Magazine.
+<br>ContactDesignation----D45
+<br>ContactPhoto----------appscout-chloe-albanesius.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Chloe_Albanesius@pcmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/chloegibbs
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/chloealbanesius
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27686
+<br>ContactFirstName------Frazier
+<br>ContactMiddleName------
+<br>ContactLastName-------Moore
+<br>ContactDescription----Frazier Moore Jr. (born Atlanta Georgia) is a television critic for the Associated Press.
+
+<br>ContactDesignation----D3130
+<br>ContactPhoto----------the-associated-press-frazier-moore.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fmoore@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/tvfrazier
+<br>ContactLinkedin-------http://www.linkedin.com/pub/frazier-moore/5/659/620
+<br>ContactTwitter--------https://twitter.com/#!/tvfrazier
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14108
+<br>ContactId-------------C27692
+<br>ContactFirstName------Georg
+<br>ContactMiddleName------
+<br>ContactLastName-------Szalai
+<br>ContactDescription----He is an Austrian and works as NY bureau chief for The Hollywood Reporter.
+Business journalist with more than 10 years experience covering corporate and economic news. Expertise in the media and entertainment industries.
+Freelance work for Austrian daily newspaper Der Standard with a focus on explaining U.S. economic and business trends to readers overseas.
+<br>ContactDesignation----D368
+<br>ContactPhoto----------reuters-georg-szalai.jpg
+<br>ContactPhonenumber----646-654-5000
+<br>ContactEmail----------gszalai@hollywoodreporter.com
+<br>Alternative Email-----
+<br>University------------Columbia University
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=649450774
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/georgszalai
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27693
+<br>ContactFirstName------Bassem
+<br>ContactMiddleName------
+<br>ContactLastName-------Mroue
+<br>ContactDescription----Bassem Mroue is a mideast correspondent for The Associated Press since 1992 and is currently covering Syria and Lebanon.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-bassem-mroue.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bassem@bassem.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=738476076
+<br>ContactLinkedin-------http://lb.linkedin.com/pub/bassem-mroue/0/551/b1b
+<br>ContactTwitter--------https://twitter.com/#!/bmroue
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27693
+<br>ContactFirstName------Bassem
+<br>ContactMiddleName------
+<br>ContactLastName-------Mroue
+<br>ContactDescription----Bassem Mroue is a mideast correspondent for The Associated Press since 1992 and is currently covering Syria and Lebanon.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-bassem-mroue.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bassem@bassem.net
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=738476076
+<br>ContactLinkedin-------http://lb.linkedin.com/pub/bassem-mroue/0/551/b1b
+<br>ContactTwitter--------https://twitter.com/#!/bmroue
+<br>ContactURL------------http://bassemmroue.blogspot.in/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27694
+<br>ContactFirstName------Jennifer
+<br>ContactMiddleName------
+<br>ContactLastName-------Peltz
+<br>ContactDescription----Jenn is a reporter for the Associated Press.
+enn is an editor and writer for the New York City Bureau of The Associated Press. She previously was a staff writer for the South Florida Sun-Sentinel (based in Fort Lauderdale Fla.) specializing in the coverage of higher education. She began her journalism career in 1991 at The East Hampton Star on Long Island where she later served as deputy editor. She later worked for various other newspapers including The Palm Beach Post and the Chicago Tribune. Jenn was graduated summa cum laude in 1991 from Yale University. She has a master\'s degree in journalism from Northwestern University.
+<br>ContactDesignation----D101
+<br>ContactPhoto----------the-associated-press-jennifer-peltz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------212-621-1500
+<br>Alternative Email-----
+<br>University------------Yale University,Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27695
+<br>ContactFirstName------Zeina
+<br>ContactMiddleName------
+<br>ContactLastName-------Karam
+<br>ContactDescription----Zeina is a Beirut-based correspondent for The Associated Press.
+<br>ContactDesignation----D183
+<br>ContactPhoto----------the-associated-press-zeina-karam.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------zeina@zeinakaram.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/zeina-karam-minassian/1a/1a6/974
+<br>ContactTwitter--------https://twitter.com/#!/zkaram
+<br>ContactURL------------http://www.zeinakaram.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27696
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------Karoub
+<br>ContactDescription----Jeff Karoub is an Associated Press reporter in Detroit covering Arab-Muslim issues business and entertainment. Off-hours: Singer songwriter chord jester.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-jeff-karoub.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/jeff.karoub
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/jeffkaroub
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27697
+<br>ContactFirstName------Alan
+<br>ContactMiddleName------
+<br>ContactLastName-------Fram
+<br>ContactDescription----Alan Fram covers the lobbying community for the Associated Press. He has worked in the AP’s Washington bureau since 1983 primarily reporting on the budget and Congress. Prior to that he worked at the AP’s Newark N.J. bureau for the Albany Times-Union (N.Y.) and for the Middletown (N.Y.) Times Herald-Record.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-alan-fram.jpg
+<br>ContactPhonenumber----202-776-9490
+<br>ContactEmail----------afram@ap.org
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,City University-New York City College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/alan-fram/7/849/311
+<br>ContactTwitter--------https://twitter.com/#!/asfram
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27697
+<br>ContactFirstName------Alan
+<br>ContactMiddleName------
+<br>ContactLastName-------Fram
+<br>ContactDescription----Alan Fram covers the lobbying community for the Associated Press. He has worked in the AP?s Washington bureau since 1983 primarily reporting on the budget and Congress. Prior to that he worked at the AP?s Newark N.J. bureau for the Albany Times-Union (N.Y.) and for the Middletown (N.Y.) Times Herald-Record.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-alan-fram.jpg
+<br>ContactPhonenumber----202-776-9490
+<br>ContactEmail----------afram@ap.org
+<br>Alternative Email-----
+<br>University------------University of California-Berkeley,City University-New York City College
+<br>ContactFacebook-------http://www.facebook.com/alan.fram
+<br>ContactLinkedin-------http://www.linkedin.com/pub/alan-fram/7/849/311
+<br>ContactTwitter--------https://twitter.com/#!/asfram
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14113
+<br>ContactId-------------C27698
+<br>ContactFirstName------Amy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Taxin
+<br>ContactDescription----Amy Taxin is an immigration reporter at Associated Press.
+<br>ContactDesignation----D3132
+<br>ContactPhoto----------
+<br>ContactPhonenumber----213-626-1200
+<br>ContactEmail----------ataxin@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/ataxin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O4105
+<br>ContactId-------------C27699
+<br>ContactFirstName------Ben
+<br>ContactMiddleName------
+<br>ContactLastName-------Hubbard
+<br>ContactDescription----Associated Press reporter covering sundry Middle East crises in Egypt Libya Yemen and the Palestinian territories.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmal-am-630-ben-hubbard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/AP_BenHubbard
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13706
+<br>ContactId-------------C27700
+<br>ContactFirstName------Amir
+<br>ContactMiddleName------
+<br>ContactLastName-------Shaw
+<br>ContactDescription----Amir Shaw is music and sports director at Rolling Out Magazine.
+<br>ContactDesignation----D199
+<br>ContactPhoto----------rolling-out-amir-shaw.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----23novel@gmail.com
+<br>University------------Georgia State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/amir-shaw/49/bbb/3b0
+<br>ContactTwitter--------
+<br>ContactURL------------http://23novel.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O14118
+<br>ContactId-------------C27701
+<br>ContactFirstName------Nick
+<br>ContactMiddleName------
+<br>ContactLastName-------Bilton
+<br>ContactDescription----Nick Bilton is the Lead Technology Writer for The New York Times Bits Blog and a reporter for the paper. His background spans design user interface journalism hardware hacking and more. He previously worked as a researcher in The Times R&D Labs looking at the media landscape 2-10 years out. In addition to The Times Nick helped co-found NYCResistor & is an Adjunct Professor at NYU. 
+<br>ContactDesignation----D3133
+<br>ContactPhoto----------indiatimes-nick-bilton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bilton@nytimes.com
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------http://www.facebook.com/nickbilton
+<br>ContactLinkedin-------http://www.linkedin.com/in/nickbilton
+<br>ContactTwitter--------https://twitter.com/#!/nickbilton
+<br>ContactURL------------http://www.nickbilton.org/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27702
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Joling
+<br>ContactDescription----Dan Joling is an Environmental Reporter with The Associated Press.
+
+<br>ContactDesignation----D3131
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-272-7549
+<br>ContactEmail----------djoling@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27702
+<br>ContactFirstName------Dan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Joling
+<br>ContactDescription----Dan Joling is an Environmental Reporter with The Associated Press.
+
+<br>ContactDesignation----D3131
+<br>ContactPhoto----------
+<br>ContactPhonenumber----907-272-7549
+<br>ContactEmail----------djoling@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27703
+<br>ContactFirstName------Jean H.
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----Jean H. Lee is a korea bureau chief for the Associated Press based in Seoul and back and forth to Pyongyang.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-jean-h.-lee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/newsjean
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27703
+<br>ContactFirstName------Jean H.
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----Jean H. Lee is a korea bureau chief for the Associated Press based in Seoul and back and forth to Pyongyang.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-jean-h.-lee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/newsjean
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27704
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Kahn
+<br>ContactDescription----Working AP\'s energy beat including major petroleum companies renewables utilities etc.
+
+<br>ContactDesignation----D3134
+<br>ContactPhoto----------the-associated-press-chris-kahn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Arizona State University,University of Arizona
+<br>ContactFacebook-------http://www.facebook.com/chrismkahn
+<br>ContactLinkedin-------http://www.linkedin.com/pub/chris-kahn/5/a39/b4
+<br>ContactTwitter--------https://twitter.com/#!/ChrisKahnAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27602
+<br>ContactFirstName------Jesus
+<br>ContactMiddleName------
+<br>ContactLastName-------Diaz
+<br>ContactDescription----
+<br>ContactDesignation----D190
+<br>ContactPhoto----------the-globe and mail-jesus-diaz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jesus@gizmodo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jesusdiaz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27634
+<br>ContactFirstName------Jesus
+<br>ContactMiddleName------
+<br>ContactLastName-------Diaz
+<br>ContactDescription----Jesus Diaz is a Gizmodo Senior Contributing Editor.
+
+<br>ContactDesignation----D190
+<br>ContactPhoto----------the-globe and mail-jesus-diaz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jesus@gizmodo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/jesusdiaz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27640
+<br>ContactFirstName------Jeannie
+<br>ContactMiddleName------
+<br>ContactLastName-------Nuss
+<br>ContactDescription----Associated Press reporter in Little Rock Ark. Aspiring foreign correspondent. Spanish and Arabic junkie. Pittsburgh native. Email me at jnuss(at)ap.org.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-globe and mail-jeannie-nuss.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jnuss@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/JeannieNuss
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27609
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee	 
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27704
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Kahn
+<br>ContactDescription----Working AP\'s energy beat including major petroleum companies renewables utilities etc.
+
+<br>ContactDesignation----D3134
+<br>ContactPhoto----------the-associated-press-chris-kahn.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Arizona State University,University of Arizona
+<br>ContactFacebook-------http://www.facebook.com/chrismkahn
+<br>ContactLinkedin-------http://www.linkedin.com/pub/chris-kahn/5/a39/b4
+<br>ContactTwitter--------https://twitter.com/#!/ChrisKahnAP
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27705
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Warren
+<br>ContactDescription----Michael Warren is The Associated Press writer.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------the-associated-press-michael-warren.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mwarren@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/mwarrenap
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1360
+<br>ContactId-------------C27706
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------Phillips
+<br>ContactLastName-------Erb
+<br>ContactDescription----I love to write and talk tax. I present on tax topics around the country. I’ve also been interviewed for a movie An Inconvenient Tax focusing on tax reform. I formerly authored a monthly tax column for The Legal Intelligencer the oldest law journal in the US and now am a featured blogger for AOL’s WalletPop.com. I’m also working on a book about the history of tax.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------u.s.-news & world-report-kelly-erb.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------u.s.-news & world-report-kelly-erb.jpg
+<br>Alternative Email-----
+<br>University------------Temple University,University of North Carolina at Wilmington,The University of Hull
+<br>ContactFacebook-------http://www.facebook.com/kellyphillipserb
+<br>ContactLinkedin-------http://www.linkedin.com/in/taxgirl
+<br>ContactTwitter--------https://twitter.com/#!/taxgirl
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1360
+<br>ContactId-------------C27706
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------Phillips
+<br>ContactLastName-------Erb
+<br>ContactDescription----I love to write and talk tax. I present on tax topics around the country. I?ve also been interviewed for a movie An Inconvenient Tax focusing on tax reform. I formerly authored a monthly tax column for The Legal Intelligencer the oldest law journal in the US and now am a featured blogger for AOL?s WalletPop.com. I?m also working on a book about the history of tax.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------u.s.-news & world-report-kelly-erb.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------u.s.-news & world-report-kelly-erb.jpg
+<br>Alternative Email-----
+<br>University------------Temple University,University of North Carolina at Wilmington,The University of Hull
+<br>ContactFacebook-------http://www.facebook.com/kellyphillipserb
+<br>ContactLinkedin-------http://www.linkedin.com/in/taxgirl
+<br>ContactTwitter--------https://twitter.com/#!/taxgirl
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O6239
+<br>ContactId-------------C27611
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaneshige
+<br>ContactDescription----Tom Kaneshige is a senior writer at CIO covering everything Apple. He\'s been a reporter in Silicon Valley for more than a decade.
+<br>ContactDesignation----D100
+<br>ContactPhoto----------epidemiology-&-infection-tom-kaneshige.jpg
+<br>ContactPhonenumber----1-508-872-0080
+<br>ContactEmail----------tkaneshige@cio.com
+<br>Alternative Email-----
+<br>University------------University of California-Santa Cruz
+<br>ContactFacebook-------http://www.facebook.com/kaneshige
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tom-kaneshige/0/4a8/212
+<br>ContactTwitter--------https://twitter.com/#!/kaneshige
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

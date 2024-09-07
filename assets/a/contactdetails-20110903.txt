@@ -1,0 +1,621 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14025
+<br>ContactFirstName------Larry
+<br>ContactMiddleName------
+<br>ContactLastName-------Wert
+<br>ContactDescription----
+<br>ContactDesignation----D381
+<br>ContactPhoto----------wmaq-tv-5-larry-wert.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Wisconsin at Madison
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14026
+<br>ContactFirstName------Allison
+<br>ContactMiddleName------
+<br>ContactLastName-------Rosati
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-allison-rosati.jpg
+<br>ContactPhonenumber----312-836-5555
+<br>ContactEmail----------Allison.Rosati@nbcuni.com
+<br>Alternative Email-----
+<br>University------------Gustavus Adolphus College
+<br>ContactFacebook-------http://facebook.com/allisonrosati?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/AllisonRosati
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14027
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Adamle
+<br>ContactDescription----
+<br>ContactDesignation----D307
+<br>ContactPhoto----------wmaq-tv-5-mike-adamle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14028
+<br>ContactFirstName------Mary
+<br>ContactMiddleName------Ann
+<br>ContactLastName-------Ahern
+<br>ContactDescription----
+<br>ContactDesignation----D758
+<br>ContactPhoto----------wmaq-tv-5-mary-ahern.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------maryann.ahern@nbc.com
+<br>Alternative Email-----
+<br>University------------John Carroll University,Northeastern Illinois University,Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14029
+<br>ContactFirstName------Andy
+<br>ContactMiddleName------
+<br>ContactLastName-------Avalos
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wmaq-tv-5-andy-avalos.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------andy.avalos@nbcuni.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14030
+<br>ContactFirstName------Marion
+<br>ContactMiddleName------
+<br>ContactLastName-------Brooks
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-marion-brooks.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------marion.brooks@nbc.com
+<br>Alternative Email-----
+<br>University------------Spelman College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14031
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Elgas
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-rob-elgas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rob.elgas@nbcuni.com
+<br>Alternative Email-----
+<br>University------------University of Illinois
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14032
+<br>ContactFirstName------Paula
+<br>ContactMiddleName------
+<br>ContactLastName-------Faris
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------wmaq-tv-5-paula-faris.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------paula.faris@nbc.com
+<br>Alternative Email-----
+<br>University------------Cedarville University
+<br>ContactFacebook-------http://facebook.com/pages/PAULA-FARIS/114098918623302?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.nbcchicago.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14033
+<br>ContactFirstName------Christian
+<br>ContactMiddleName------
+<br>ContactLastName-------Farr
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wmaq-tv-5-christian-farr.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Delaware
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14034
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Handelsman
+<br>ContactDescription----
+<br>ContactDesignation----D564
+<br>ContactPhoto----------wmaq-tv-5-steve-handelsman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Duke University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14035
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Jiggetts
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wmaq-tv-5-lauren-jiggetts.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lauren.jiggetts@nbcuni.com
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------http://facebook.com/LaurenJiggetts?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/laurenjiggetts
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14036
+<br>ContactFirstName------Dick
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-dick-johnson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dick.Johnson@nbcuni.com
+<br>Alternative Email-----
+<br>University------------DePauw University in Indiana
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14037
+<br>ContactFirstName------Peggy
+<br>ContactMiddleName------
+<br>ContactLastName-------Kusinski
+<br>ContactDescription----
+<br>ContactDesignation----D348
+<br>ContactPhoto----------wmaq-tv-5-peggy-kusinski.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Peggy.Kusinski@nbc.com
+<br>Alternative Email-----
+<br>University------------Southern Illinois University at Carbondale
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14038
+<br>ContactFirstName------Nesita
+<br>ContactMiddleName------
+<br>ContactLastName-------Kwan
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmaq-tv-5-nesita-kwan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------nesita.kwan@nbc.com
+<br>Alternative Email-----
+<br>University------------University of Virginia
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14039
+<br>ContactFirstName------Carol
+<br>ContactMiddleName------
+<br>ContactLastName-------Marin
+<br>ContactDescription----
+<br>ContactDesignation----D716
+<br>ContactPhoto----------wmaq-tv-5-carol-marin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Carol.Marin@nbc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14040
+<br>ContactFirstName------Natalie
+<br>ContactMiddleName------
+<br>ContactLastName-------Martinez
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmaq-tv-5-natalie-martinez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------natalie.martinez@nbc.com
+<br>Alternative Email-----
+<br>University------------State University of New York-Buffalo,University of North London 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14041
+<br>ContactFirstName------Brant
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wmaq-tv-5-brant-miller.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------brant.miller@nbc.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University,Portland University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14042
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Parker
+<br>ContactDescription----
+<br>ContactDesignation----D618
+<br>ContactPhoto----------wmaq-tv-5-lisa-parker.jpg
+<br>ContactPhonenumber----312-836-5555
+<br>ContactEmail----------target5@nbc.com
+<br>Alternative Email-----lisa.parker@nbcuni.com
+<br>University------------Northwestern University
+<br>ContactFacebook-------http://facebook.com/LisaParkerChicago?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://nbcchicago.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14042
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Parker
+<br>ContactDescription----
+<br>ContactDesignation----D618
+<br>ContactPhoto----------wmaq-tv-5-lisa-parker.jpg
+<br>ContactPhonenumber----312-836-5555
+<br>ContactEmail----------target5@nbc.com
+<br>Alternative Email-----lisa.parker@nbcuni.com
+<br>University------------Northwestern University
+<br>ContactFacebook-------http://facebook.com/LisaParkerChicago?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/LisaParkerChi
+<br>ContactURL------------http://nbcchicago.com
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14043
+<br>ContactFirstName------Alex
+<br>ContactMiddleName------
+<br>ContactLastName-------Perez
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmaq-tv-5-alex-perez.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14044
+<br>ContactFirstName------Anthony
+<br>ContactMiddleName------
+<br>ContactLastName-------Ponce
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wmaq-tv-5-anthony-ponce.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Anthony.Ponce@nbcuni.com
+<br>Alternative Email-----
+<br>University------------Northwestern University,Indiana University in Bloomington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14045
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Rodewald
+<br>ContactDescription----
+<br>ContactDesignation----D1295
+<br>ContactPhoto----------wmaq-tv-5-matt-rodewald.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Indiana University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/Matt_Rodewald
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14046
+<br>ContactFirstName------Phil
+<br>ContactMiddleName------
+<br>ContactLastName-------Rogers
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmaq-tv-5-phil-rogers.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------phil.rogers@nbc.com
+<br>Alternative Email-----
+<br>University------------Oklahoma State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14047
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Sack
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wmaq-tv-5-pete-sack.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------pete.sack@nbc.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------http://facebook.com/pages/Pete-Sack/181774488509082?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14048
+<br>ContactFirstName------Zoraida
+<br>ContactMiddleName------
+<br>ContactLastName-------Sambolin
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-zoraida-sambolin.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Zoraida.Sambolin@nbcuni.com
+<br>Alternative Email-----
+<br>University------------ Hispanic College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/zoraida-sambolin/13/696/75b
+<br>ContactTwitter--------http://twitter.com/#!/NBCZoraida
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14049
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Stafford
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-rob-stafford.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rob.stafford@nbcuni.com
+<br>Alternative Email-----
+<br>University------------Macalester College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14050
+<br>ContactFirstName------LeeAnn
+<br>ContactMiddleName------
+<br>ContactLastName-------Trotter
+<br>ContactDescription----
+<br>ContactDesignation----D749
+<br>ContactPhoto----------wmaq-tv-5-leeann-trotter.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------LeeAnn.Trotter@nbcuni.com
+<br>Alternative Email-----
+<br>University------------University of Illinois at Champaign
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/leeann-trotter/8/a7a/889
+<br>ContactTwitter--------http://twitter.com/#!/leeanntrotter
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14051
+<br>ContactFirstName------Kim
+<br>ContactMiddleName------
+<br>ContactLastName-------Vatis
+<br>ContactDescription----
+<br>ContactDesignation----D358
+<br>ContactPhoto----------wmaq-tv-5-kim-vatis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kim.vatis@nbcuni.com
+<br>Alternative Email-----
+<br>University------------University of Florida
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14052
+<br>ContactFirstName------Charlie
+<br>ContactMiddleName------
+<br>ContactLastName-------Wojciechowski
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wmaq-tv-5-charlie-wojciechowski.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------charlie.wojciechowski@nbc.com
+<br>Alternative Email-----
+<br>University------------Northwestern University in Evanston,Loyola Academy in Wilmette,Carleton College in Northfield-Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/charlie-wojciechowski/8/358/40a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14053
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------
+<br>ContactLastName-------Wright
+<br>ContactDescription----
+<br>ContactDesignation----D395
+<br>ContactPhoto----------wmaq-tv-5-sharon-wright.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sharon.wright@nbc.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2529
+<br>ContactId-------------C14054
+<br>ContactFirstName------Ginger
+<br>ContactMiddleName------
+<br>ContactLastName-------Zee
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wmaq-tv-5-ginger-zee.jpg
+<br>ContactPhonenumber----312-836-5724
+<br>ContactEmail----------Ginger.Zee@nbcuni.com
+<br>Alternative Email-----
+<br>University------------Valparaiso University
+<br>ContactFacebook-------http://facebook.com/gingerzeetv?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/ginger_zee
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

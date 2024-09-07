@@ -1,0 +1,1901 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O99
+<br>ContactId-------------C25575
+<br>ContactFirstName------Todd
+<br>ContactMiddleName------
+<br>ContactLastName-------Aglialoro
+<br>ContactDescription----
+<br>ContactDesignation----D3016
+<br>ContactPhoto----------catholic-answer-the-todd-aglialoro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------International Theological Institute,Universite de Fribourg/University Freiburg,Franciscan University of Steubenville
+<br>ContactFacebook-------http://www.facebook.com/people/Todd-Aglialoro/100000069369857
+<br>ContactLinkedin-------http://www.linkedin.com/pub/todd-m-aglialoro/6/934/78a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O99
+<br>ContactId-------------C25576
+<br>ContactFirstName------James
+<br>ContactMiddleName------
+<br>ContactLastName-------Stabile
+<br>ContactDescription----
+<br>ContactDesignation----D10
+<br>ContactPhoto----------catholic-answer-the-james-stabile.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O99
+<br>ContactId-------------C25577
+<br>ContactFirstName------Contact -Catholic Answers
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----888-318-7884
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O99
+<br>ContactId-------------C344
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bunso
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C344
+<br>ContactFirstName------Danielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Bean
+<br>ContactDescription----
+<br>ContactDesignation----D1
+<br>ContactPhoto----------catholic-digest-danielle-bean.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------danielle.bean@bayard-inc.com
+<br>Alternative Email-----
+<br>University------------Saint Anselm College
+<br>ContactFacebook-------http://www.facebook.com/daniellebean?sk=info
+<br>ContactLinkedin-------http://www.linkedin.com/in/daniellebean
+<br>ContactTwitter--------https://twitter.com/#!/DanielleBean
+<br>ContactURL------------http://daniellebean.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C1405
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Redfern
+<br>ContactDescription----mark redfern is the D5 of Under the Radar.  You can contact mark through his email address mark@undertheradarmag.com. The phone number to contact mark is 323-653-8705. You can also connect to mark\'s facebook id using the link http://facebook.com/mark.redfern.utr and get his latest updates. He also has his personal blogsYou can also follow mark using his twitter link http://www.kaffeinebuzz.com/index.php/component/content/article/1302.html. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------under-the radar-mark-redfern.jpg
+<br>ContactPhonenumber----323-653-8705
+<br>ContactEmail----------mark@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/mark.redfern.utr
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.kaffeinebuzz.com/index.php/component/content/article/1302.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25578
+<br>ContactFirstName------Julie
+<br>ContactMiddleName------
+<br>ContactLastName-------Rattey
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------catholic-digest-julie-rattey.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jrattey@catholicdigest.com
+<br>Alternative Email-----
+<br>University------------Harvard University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/julie-rattey/2/a16/634
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25579
+<br>ContactFirstName------Traci
+<br>ContactMiddleName------
+<br>ContactLastName-------Neal
+<br>ContactDescription----
+<br>ContactDesignation----D2010
+<br>ContactPhoto----------catholic-digest-traci-neal.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tneal@catholicdigest.com
+<br>Alternative Email-----
+<br>University------------Southern Connecticut State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25580
+<br>ContactFirstName------Kathryn
+<br>ContactMiddleName------
+<br>ContactLastName-------Oates
+<br>ContactDescription----
+<br>ContactDesignation----D12
+<br>ContactPhoto----------catholic-digest-kathryn-oates.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------koates@catholicdigest.com
+<br>Alternative Email-----
+<br>University------------Spring Hill College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25581
+<br>ContactFirstName------Bret D
+<br>ContactMiddleName------
+<br>ContactLastName-------Thomas
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------catholic-digest-bret-d-thomas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bthomas@bayard-us.com
+<br>Alternative Email-----
+<br>University------------University of Pittsburgh,University of Dayton.
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C1405
+<br>ContactFirstName------Mark
+<br>ContactMiddleName------
+<br>ContactLastName-------Redfern
+<br>ContactDescription----mark redfern is the D5 of Under the Radar.  You can contact mark through his email address mark@undertheradarmag.com. The phone number to contact mark is 323-653-8705. You can also connect to mark\'s facebook id using the link http://facebook.com/mark.redfern.utr and get his latest updates. He also has his personal blogsYou can also follow mark using his twitter link http://www.kaffeinebuzz.com/index.php/component/content/article/1302.html. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------under-the radar-mark-redfern.jpg
+<br>ContactPhonenumber----323-653-8705
+<br>ContactEmail----------mark@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/mark.redfern.utr
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/markredfern
+<br>ContactURL------------http://www.kaffeinebuzz.com/index.php/component/content/article/1302.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25582
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Connors
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------catholic-digest-dan-connors.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dconnors@catholicdigest.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25583
+<br>ContactFirstName------Wendy 
+<br>ContactMiddleName------Lynch 
+<br>ContactLastName-------Redfern
+<br>ContactDescription----
+<br>ContactDesignation----D2
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------wendy@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/wendy-lynch-redfern/b/385/676
+<br>ContactTwitter--------http://twitter.com/#!/wendyredfern
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25584
+<br>ContactFirstName------Robert 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gleim
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----310-482-9150
+<br>ContactEmail----------robert@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------California State University-Fullerton
+<br>ContactFacebook-------http://www.facebook.com/robgleim
+<br>ContactLinkedin-------http://www.linkedin.com/pub/robert-gleim/b/1b8/68
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25585
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Bourque
+<br>ContactDescription----
+<br>ContactDesignation----D514
+<br>ContactPhoto----------catholic-digest-paul-bourque.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ppbourque@bayard-us.com
+<br>Alternative Email-----
+<br>University------------Three Rivers Community College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/paul-bourque/b/98/41
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25586
+<br>ContactFirstName------Palmer 
+<br>ContactMiddleName------
+<br>ContactLastName-------Houchins
+<br>ContactDescription----
+<br>ContactDesignation----D41
+<br>ContactPhoto----------
+<br>ContactPhonenumber----646-674-1749
+<br>ContactEmail----------palmer@hear-there.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25587
+<br>ContactFirstName------Laura 
+<br>ContactMiddleName------
+<br>ContactLastName-------Studarus
+<br>ContactDescription----
+<br>ContactDesignation----D36
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------laura@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------California State University-Northridge Universite Paris Sorbonne
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/laura-studarus/40/434/515
+<br>ContactTwitter--------http://twitter.com/#!/laura_studarus
+<br>ContactURL------------http://laurastudarus.tumblr.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25588
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Drabick
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------chris.drabick@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/schoolydre
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25589
+<br>ContactFirstName------Jeff
+<br>ContactMiddleName------
+<br>ContactLastName-------McCall
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------catholic-digest-jeff-mccall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jmcall@bayard-us.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25590
+<br>ContactFirstName------Hays 
+<br>ContactMiddleName------
+<br>ContactLastName-------Davis
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------hays@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25591
+<br>ContactFirstName------Frank 
+<br>ContactMiddleName------
+<br>ContactLastName-------Valish
+<br>ContactDescription----
+<br>ContactDesignation----D3017
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------frank@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Frank-Valish/100001408164152
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25592
+<br>ContactFirstName------Valerie
+<br>ContactMiddleName------
+<br>ContactLastName-------Westrate
+<br>ContactDescription----
+<br>ContactDesignation----D126
+<br>ContactPhoto----------catholic-digest-valerie-westrate.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------vwestrate@bayard-us.com
+<br>Alternative Email-----
+<br>University------------Northwest Iowa Technical College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/valerie-westrate/4/80b/b14
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25593
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Everhart
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------john@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25594
+<br>ContactFirstName------Mark 
+<br>ContactMiddleName------
+<br>ContactLastName-------Redfern
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mark@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/markredfern/statuses/20741788851
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C25595
+<br>ContactFirstName------Jean
+<br>ContactMiddleName------
+<br>ContactLastName-------Bingham
+<br>ContactDescription----
+<br>ContactDesignation----D2634
+<br>ContactPhoto----------catholic-digest-jean-bingham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jbingham@bayard-us.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/superhikermom
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C310
+<br>ContactFirstName------Michelle 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kopfmann
+<br>ContactDescription----
+<br>ContactDesignation----D127
+<br>ContactPhoto----------
+<br>ContactPhonenumber----877-725-7758
+<br>ContactEmail----------Mkopfmann@bayard-us.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/michellekopfmann
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C19057
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lachapelle 
+<br>ContactDescription----
+<br>ContactDesignation----D299
+<br>ContactPhoto----------
+<br>ContactPhonenumber----203-421-6090 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C310
+<br>ContactFirstName------Matt 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fink
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------matt@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------Kent State University, Geneva College, Clarion University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/matt-fink/5/a95/ba
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O100
+<br>ContactId-------------C19057
+<br>ContactFirstName------Contact-Catholic Digest
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------webmaster@catholicdigest.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25596
+<br>ContactFirstName------Michele 
+<br>ContactMiddleName------
+<br>ContactLastName-------Yamamoto
+<br>ContactDescription----
+<br>ContactDesignation----D3018
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------michele@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/michelle-yamamoto/15/54/22a
+<br>ContactTwitter--------http://twitter.com/#!/initialfriend/
+<br>ContactURL------------http://yinspirationart.com/surfandbuddha.shtml
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25597
+<br>ContactFirstName------Jeremy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nisen
+<br>ContactDescription----
+<br>ContactDesignation----D3017
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jeremy@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------The George Washington University
+<br>ContactFacebook-------http://www.facebook.com/jeremy.nisen
+<br>ContactLinkedin-------http://www.linkedin.com/in/jeremynisen
+<br>ContactTwitter--------
+<br>ContactURL------------http://osmosis-online.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25598
+<br>ContactFirstName------Kyle 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lemmon
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------media@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C1574
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Owen
+<br>ContactDescription----Chris  Owen is the Editor of Snowboard Magazine.  You can contact Chris  through his email address chris@snowboard-mag.com. You can also connect to Chris \'s facebook id using the link http://facebook.com/people/Chris-Owen/1129202224 and get his latest updates. You can also connect to Chris \'s linkedin id http://linkedin.com/pub/dir/Chris/Owen and get his professional details. You can also follow Chris  using his twitter link http://twitter.com/#!/Browen23. He also has his personal blogsYou can also follow Chris  using his twitter link http://snowboardmag.com/user/browen. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------chris@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/Chris-Owen/1129202224
+<br>ContactLinkedin-------http://www.linkedin.com/pub/chris-owen/7/2b6/884
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25599
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hilleary
+<br>ContactDescription----
+<br>ContactDesignation----D746
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mike@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------Christopher Newport University
+<br>ContactFacebook-------http://www.facebook.com/people/Mike-Hilleary/31805728
+<br>ContactLinkedin-------http://www.linkedin.com/pub/mike-hilleary/39/63b/4a8
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25600
+<br>ContactFirstName------Lily 
+<br>ContactMiddleName------
+<br>ContactLastName-------Moayeri
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lily@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25601
+<br>ContactFirstName------Thomas 
+<br>ContactMiddleName------
+<br>ContactLastName-------Morris
+<br>ContactDescription----
+<br>ContactDesignation----D24
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O610
+<br>ContactId-------------C25602
+<br>ContactFirstName------Jim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Scott
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jim@undertheradarmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C1573
+<br>ContactFirstName------Nate 
+<br>ContactMiddleName------
+<br>ContactLastName-------Deschenes
+<br>ContactDescription----Nate  Deschenes is the Associate Editor of Snowboard Magazine.  You can contact Nate  through his email address nate@snowboard-mag.com. The phone number to contact Nate  is 303-834-9775. You can also connect to Nate \'s facebook id using the link http://facebook.com/snowboardmag/posts/108182152601039 and get his latest updates. He also has his personal blogsYou can also follow Nate  using his twitter link http://snowboardmag.com/stories/nate-deschenes. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nate@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/nate-deschenes/3a/313/a90
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25603
+<br>ContactFirstName------James
+<br>ContactMiddleName------
+<br>ContactLastName-------Weinstein
+<br>ContactDescription----
+<br>ContactDesignation----D2029
+<br>ContactPhoto----------in-these times-james-weinstein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/31
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25604
+<br>ContactFirstName------Jonathan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Glass
+<br>ContactDescription----
+<br>ContactDesignation----D162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jon@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/jonnglass
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25605
+<br>ContactFirstName------Jeff 
+<br>ContactMiddleName------
+<br>ContactLastName-------Curley
+<br>ContactDescription----
+<br>ContactDesignation----D3019
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------curleyphoto@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25606
+<br>ContactFirstName------Joel
+<br>ContactMiddleName------
+<br>ContactLastName-------Bleifuss
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------in-these times-joel-bleifuss.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Joel-Bleifuss/176814995716524
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/10/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25607
+<br>ContactFirstName------Bradford 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fayfield
+<br>ContactDescription----
+<br>ContactDesignation----D160
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25608
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Gantz
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------in-these times-jeremy-gantz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University, Carleton College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jeremy-gantz/7/a35/157
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/6159/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25609
+<br>ContactFirstName------Terry J
+<br>ContactMiddleName------
+<br>ContactLastName-------Allen
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-terry-j-allen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/terryjallen
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/1473/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25610
+<br>ContactFirstName------Andrew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fuhrer
+<br>ContactDescription----
+<br>ContactDesignation----D934
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------andrew@smpmags.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25611
+<br>ContactFirstName------Patricia
+<br>ContactMiddleName------
+<br>ContactLastName-------Aufderheide
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-patricia-aufderheide.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/29
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25612
+<br>ContactFirstName------Jessica 
+<br>ContactMiddleName------
+<br>ContactLastName-------Unkrich 
+<br>ContactDescription----
+<br>ContactDesignation----D3020
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jessica@smpmags.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25613
+<br>ContactFirstName------Susan J
+<br>ContactMiddleName------
+<br>ContactLastName-------Douglas
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-susan-j-douglas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/43
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Moberg
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-david-moberg.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/11
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C1414
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Moberg
+<br>ContactDescription----david moberg is the Senior Editor of In These Times.  You can contact david through his email address davidmoberg@inthesetimes.com. You can also connect to david\'s facebook id using the link http://facebook.com/pages/David-Moberg/126887077354544 and get his latest updates. You can also connect to david\'s linkedin id http://linkedin.com/pub/david-moberg/9/981/b98 and get his professional details. You can also follow david using his twitter link http://twitter.com/#!/davidfmoberg. He also has his personal blogsYou can also follow david using his twitter link http://www.inthesetimes.com/community/profile/11/. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-david-moberg.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------davidmoberg@inthesetimes.com
+<br>Alternative Email-----
+<br>University------------Carleton College University of Chicago
+<br>ContactFacebook-------http://facebook.com/pages/David-Moberg/126887077354544
+<br>ContactLinkedin-------http://linkedin.com/pub/david-moberg/9/981/b98
+<br>ContactTwitter--------http://twitter.com/#!/davidfmoberg
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/11/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C1412
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Sirota
+<br>ContactDescription----david sirota is the Senior Editor of In These Times.  You can contact david through his email address ds@davidsirota.com. The phone number to contact david is 773-772-0100. You can also connect to david\'s facebook id using the link http://facebook.com/rocktheboat?sk=info and get his latest updates. You can also follow david using his twitter link http://twitter.com/davidsirota. He also has his personal blogsYou can also follow david using his twitter link http://www.inthesetimes.com/site/about/author/236. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-david-sirota.jpg
+<br>ContactPhonenumber----773-772-0100
+<br>ContactEmail----------ds@davidsirota.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/rocktheboat?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/davidsirota
+<br>ContactURL------------http://www.inthesetimes.com/site/about/author/236
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25614
+<br>ContactFirstName------Letter to the Editor
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------chris@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25615
+<br>ContactFirstName------Business Enquiries
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------andrew@smpmags.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C25616
+<br>ContactFirstName------General Inquiries
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jon@snowboard-mag.com.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25617
+<br>ContactFirstName------Kurt
+<br>ContactMiddleName------
+<br>ContactLastName-------Vonnegut
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-kurt-vonnegut.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/archives/vonnegut/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25618
+<br>ContactFirstName------Theo 
+<br>ContactMiddleName------
+<br>ContactLastName-------Anderson
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/52535
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C1575
+<br>ContactFirstName------tawnya
+<br>ContactMiddleName------
+<br>ContactLastName-------schultz
+<br>ContactDescription----tawnya schultz is the Associate Editor of Snowboard Magazine.  You can contact tawnya through his email address tawnya@snowboard-mag.com. You can also connect to tawnya\'s facebook id using the link http://facebook.com/tawnya.schultz and get his latest updates. You can also connect to tawnya\'s linkedin id http://linkedin.com/pub/tawnya-schultz/13/403/271 and get his professional details. You can also follow tawnya using his twitter link http://twitter.com/#!/tawnyaschultz. He also has his personal blogsYou can also follow tawnya using his twitter link http://snowboardmag.com/user/tawnya20. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------snowboard-magazine-tawnya-schultz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tawnya@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------California State University-Northridge,Antelope Valley College
+<br>ContactFacebook-------http://facebook.com/tawnya.schultz
+<br>ContactLinkedin-------http://linkedin.com/pub/tawnya-schultz/13/403/271
+<br>ContactTwitter--------http://twitter.com/#!/tawnyaschultz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25619
+<br>ContactFirstName------Lindsay
+<br>ContactMiddleName------
+<br>ContactLastName-------Beyerstein
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------in-these times-lindsay-beyerstein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/4940
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25620
+<br>ContactFirstName------Rebecca
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/241013
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25621
+<br>ContactFirstName------Sady
+<br>ContactMiddleName------
+<br>ContactLastName-------Doyle
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------in-these times-sady-doyle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/159877
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O701
+<br>ContactId-------------C1575
+<br>ContactFirstName------Tawnya
+<br>ContactMiddleName------
+<br>ContactLastName-------Schultz
+<br>ContactDescription----tawnya schultz is the Associate Editor of Snowboard Magazine.  You can contact tawnya through his email address tawnya@snowboard-mag.com. You can also connect to tawnya\'s facebook id using the link http://facebook.com/tawnya.schultz and get his latest updates. You can also connect to tawnya\'s linkedin id http://linkedin.com/pub/tawnya-schultz/13/403/271 and get his professional details. You can also follow tawnya using his twitter link http://twitter.com/#!/tawnyaschultz. He also has his personal blogsYou can also follow tawnya using his twitter link http://snowboardmag.com/user/tawnya20. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------snowboard-magazine-tawnya-schultz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tawnya@snowboard-mag.com
+<br>Alternative Email-----
+<br>University------------California State University-Northridge,Antelope Valley College
+<br>ContactFacebook-------http://facebook.com/tawnya.schultz
+<br>ContactLinkedin-------http://linkedin.com/pub/tawnya-schultz/13/403/271
+<br>ContactTwitter--------http://twitter.com/#!/tawnyaschultz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25622
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Elk
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------in-these times-mike-elk.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mikeelk
+<br>ContactURL------------http://inthesetimes.com/community/profile/86504
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O702
+<br>ContactId-------------C25623
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editor@latina.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O702
+<br>ContactId-------------C25624
+<br>ContactFirstName------General Inquiries
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------info@latina.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25625
+<br>ContactFirstName------Allison
+<br>ContactMiddleName------
+<br>ContactLastName-------Kilkenny
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------in-these times-allison-kilkenny.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/111958
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25626
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------Atkinson
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-michael-atkinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/306
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O702
+<br>ContactId-------------C1581
+<br>ContactFirstName------Galina
+<br>ContactMiddleName------
+<br>ContactLastName-------Espinoza
+<br>ContactDescription----galina espinoza is the Editorial Director of Latina Magazine.  The phone number to contact galina is 212-642-0226. You can also connect to galina\'s facebook id using the link http://facebook.com/pages/Galina-Espinoza/154006504633912 and get his latest updates. You can also connect to galina\'s linkedin id http://linkedin.com/pub/galina-espinoza/9/401/2a3 and get his professional details. You can also follow galina using his twitter link http://www.twitter.com/galina_latina. He also has his personal blogsYou can also follow galina using his twitter link http://www.latina.com/execbios/galina-espinoza. 
+<br>ContactDesignation----D16
+<br>ContactPhoto----------latina-magazine-galina-espinoza.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Columbia University - Graduate School of Journalism,University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/galina-espinoza/9/401/2a3
+<br>ContactTwitter--------https://twitter.com/#!/galina_latina
+<br>ContactURL------------http://www.latina.com/execbios/galina-espinoza
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O702
+<br>ContactId-------------C25627
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Michaels
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------latina-magazine-lauren-michaels.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Ohio State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lauren-michaels/9/9b8/482
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25628
+<br>ContactFirstName------Dean 
+<br>ContactMiddleName------
+<br>ContactLastName-------Baker
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/112
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25629
+<br>ContactFirstName------Frida
+<br>ContactMiddleName------
+<br>ContactLastName-------Berrigan
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-frida-berrigan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/57
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25630
+<br>ContactFirstName------Will 
+<br>ContactMiddleName------
+<br>ContactLastName-------Boisvert
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/199
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O702
+<br>ContactId-------------C25631
+<br>ContactFirstName------Contact -Latina Magazine
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-642-0200
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25632
+<br>ContactFirstName------Roger
+<br>ContactMiddleName------
+<br>ContactLastName-------Bybee
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-roger-bybee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/6566
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25633
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Chen
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-michelle-chen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/5168
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25634
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------Doster
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-adam-doster.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/3757/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25635
+<br>ContactFirstName------Phyllis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Eckhaus
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/1656
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25636
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ehrenreich
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/32
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25637
+<br>ContactFirstName------Leonard C
+<br>ContactMiddleName------
+<br>ContactLastName-------Goodman
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-leonard-c-goodman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/8391
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25638
+<br>ContactFirstName------Juan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gonzalez
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/34
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25639
+<br>ContactFirstName------Joel 
+<br>ContactMiddleName------
+<br>ContactLastName-------Handley
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/9027
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25640
+<br>ContactFirstName------Doug 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ireland
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/37
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25613
+<br>ContactFirstName------Susan J
+<br>ContactMiddleName------
+<br>ContactLastName-------Douglas
+<br>ContactDescription----
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-susan-j-douglas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/43
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25633
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Chen
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-michelle-chen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/5168
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25636
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ehrenreich
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/32
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C1414
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Moberg
+<br>ContactDescription----david moberg is the Senior Editor of In These Times.  You can contact david through his email address davidmoberg@inthesetimes.com. You can also connect to david\'s facebook id using the link http://facebook.com/pages/David-Moberg/126887077354544 and get his latest updates. You can also connect to david\'s linkedin id http://linkedin.com/pub/david-moberg/9/981/b98 and get his professional details. You can also follow david using his twitter link http://twitter.com/#!/davidfmoberg. He also has his personal blogsYou can also follow david using his twitter link http://www.inthesetimes.com/community/profile/11/. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------in-these times-david-moberg.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------davidmoberg@inthesetimes.com
+<br>Alternative Email-----
+<br>University------------Carleton College University of Chicago
+<br>ContactFacebook-------http://facebook.com/pages/David-Moberg/126887077354544
+<br>ContactLinkedin-------http://linkedin.com/pub/david-moberg/9/981/b98
+<br>ContactTwitter--------http://twitter.com/#!/davidfmoberg
+<br>ContactURL------------http://www.inthesetimes.com/community/profile/11/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25641
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Ireland
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-john-ireland.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/3223
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25642
+<br>ContactFirstName------Hans
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-hans-johnson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/209
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25643
+<br>ContactFirstName------Pete 
+<br>ContactMiddleName------
+<br>ContactLastName-------Karman
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/29800%22
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25644
+<br>ContactFirstName------Naomi
+<br>ContactMiddleName------
+<br>ContactLastName-------Klein
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-naomi-klein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/38
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25645
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lehmann
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/2169
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25646
+<br>ContactFirstName------Kari
+<br>ContactMiddleName------
+<br>ContactLastName-------Lydersen
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-kari-lydersen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/109
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25647
+<br>ContactFirstName------Jane 
+<br>ContactMiddleName------
+<br>ContactLastName-------Miller
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/143719
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25648
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Nichols
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/40
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O611
+<br>ContactId-------------C25649
+<br>ContactFirstName------Achy
+<br>ContactMiddleName------
+<br>ContactLastName-------Obejas
+<br>ContactDescription----
+<br>ContactDesignation----D13
+<br>ContactPhoto----------in-these times-achy-obejas.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://inthesetimes.com/community/profile/5260
+<br>-------------------------------------------------------------------------
+<br>
+<br>

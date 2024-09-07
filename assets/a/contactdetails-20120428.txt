@@ -1,0 +1,326 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O6339
+<br>ContactId-------------C27614
+<br>ContactFirstName------James 	 
+<br>ContactMiddleName------
+<br>ContactLastName-------Adams
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----609-452-7700
+<br>ContactEmail----------jadams@mpif.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1889
+<br>ContactId-------------C27609
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee	 
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1889
+<br>ContactId-------------C27615
+<br>ContactFirstName------Barbara 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ross
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-210-1550
+<br>ContactEmail----------bross@nydailynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27616
+<br>ContactFirstName------Pauline
+<br>ContactMiddleName------
+<br>ContactLastName-------Jelinek
+<br>ContactDescription----Pauline Jelinek is a Pentagon Reporter for the Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated-press-pauline-jelinek.jpg
+<br>ContactPhonenumber----202-776-9542
+<br>ContactEmail----------pjelinek@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1027501974
+<br>ContactLinkedin-------http://www.linkedin.com/pub/pauline-jelinek/1b/673/353
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27617
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Sedensky
+<br>ContactDescription----Matt Sedensky is a reporter at The Associated Press.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated press-matt-sedensky.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------msedensky@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=715105426&sk=wall
+<br>ContactLinkedin-------http://www.linkedin.com/pub/matt-sedensky/3/644/888
+<br>ContactTwitter--------https://twitter.com/#!/Sedensky
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6339
+<br>ContactId-------------C27618
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O13206
+<br>ContactId-------------C27610
+<br>ContactFirstName------Alison
+<br>ContactMiddleName------
+<br>ContactLastName-------Cavatore
+<br>ContactDescription----Alison Cavatore started her career in 2011 after completing her Master?s degree in Print Journalism at the University of Miami. Two weeks after presenting her thesis she started her own company Global Media Partners LLC a communications company that is focused on global luxury living.
+
+<br>ContactDesignation----D11
+<br>ContactPhoto----------haute-living-alison-cavatore.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Alison@GlobalLivingMagazine.com
+<br>Alternative Email-----
+<br>University------------University of Miami,Webster University Geneva,McGill University
+<br>ContactFacebook-------http://www.facebook.com/AlisonCavatore
+<br>ContactLinkedin-------http://www.linkedin.com/in/alisonagudo
+<br>ContactTwitter--------https://twitter.com/#!/AlisonCavatore
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13206
+<br>ContactId-------------C27619
+<br>ContactFirstName------Regina
+<br>ContactMiddleName------
+<br>ContactLastName-------Arriola
+<br>ContactDescription----Regina Arriola is a Miami native whose career in the fashion industry includes roles with design icons Diane von Furstenberg Chloe and Lanvin. After graduating with a Bachelor’s Degree in Fashion Merchandising from Miami International University of Art and Design Regina furthered her education at Istituto Marangoni where she completed a Fashion Business course that spanned across London Milan and Paris. Regina Arriola is a Miami editor at Haute Living Magazine.
+
+<br>ContactDesignation----D11
+<br>ContactPhoto----------haute-living-regina-arriola.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/reginaarriola
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27620
+<br>ContactFirstName------Cain
+<br>ContactMiddleName------
+<br>ContactLastName-------Burdeau
+<br>ContactDescription----CAIN BURDEAU is New Orlando and working as a Associated Press writer.
+<br>ContactDesignation----D308
+<br>ContactPhoto----------the-associated-press-cain-burdeau.jpg
+<br>ContactPhonenumber----504-523-3931
+<br>ContactEmail----------cburdeau@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/cainburdeau
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13919
+<br>ContactId-------------C27621
+<br>ContactFirstName------Todd
+<br>ContactMiddleName------
+<br>ContactLastName-------Nash
+<br>ContactDescription----
+<br>ContactDesignation----NS
+<br>ContactPhoto----------the-guardian-todd-nash.jpg
+<br>ContactPhonenumber----44-01952-242424
+<br>ContactEmail----------todd.nash@expressandstar.co.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/todd.nash
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/toddnash
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27622
+<br>ContactFirstName------Mari 
+<br>ContactMiddleName------
+<br>ContactLastName-------Yamaguchi	
+<br>ContactDescription----Mari Yamaguchi is a reporter at The Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/mariyamaguchi
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27623
+<br>ContactFirstName------Christopher 
+<br>ContactMiddleName------
+<br>ContactLastName-------Torchia
+<br>ContactDescription----Christopher Torchia is the Singapore Bureau Chief for The Associated Press.
+<br>ContactDesignation----D368
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1720
+<br>ContactEmail----------ctorchia@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O11682
+<br>ContactId-------------C27624
+<br>ContactFirstName------Molly
+<br>ContactMiddleName------
+<br>ContactLastName-------McMillin
+<br>ContactDescription----Molly is working as aerospace/aviation senior reporter at Wichita Eagle.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------wichita-eagle-molly-mcmillin.jpg
+<br>ContactPhonenumber----316-269-6708
+<br>ContactEmail----------mmcmillin@wichitaeagle.com
+<br>Alternative Email-----
+<br>University------------Wichita State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/molly-mcmillin/5/378/42
+<br>ContactTwitter--------https://twitter.com/#!/mmcmillin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1907
+<br>ContactId-------------C27625
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Higgins
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-seattle-times-michelle-higgins.jpg
+<br>ContactPhonenumber----212-556-1234
+<br>ContactEmail----------michelle.higgins@wsj.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=708799340
+<br>ContactLinkedin-------http://www.linkedin.com/pub/michelle-higgins/9/52a/22a
+<br>ContactTwitter--------https://twitter.com/#!/michellehiggins
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O7411
+<br>ContactId-------------C27618
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13921
+<br>ContactId-------------C27626
+<br>ContactFirstName------Carol
+<br>ContactMiddleName------
+<br>ContactLastName-------Nelson
+<br>ContactDescription----Carol Nelson is a Colorado contemporary mixed media painter and owner at Carol Nelson Fine Art. Her abstract work is full of vibrant color and unusual textures.
+
+<br>ContactDesignation----D3118
+<br>ContactPhoto----------daily-painters of colorado-carol-nelson.jpg
+<br>ContactPhonenumber----303-699-2542
+<br>ContactEmail----------carolnelsonfineart@comcast.net
+<br>Alternative Email-----
+<br>University------------University of Minnesota-Twin Cities
+<br>ContactFacebook-------http://www.facebook.com/carolnelsonfineart
+<br>ContactLinkedin-------http://www.linkedin.com/in/carolnelsonfineart
+<br>ContactTwitter--------https://twitter.com/#!/carolnelson
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

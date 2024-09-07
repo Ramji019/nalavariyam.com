@@ -1,0 +1,241 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15972
+<br>ContactFirstName------Dan
+<br>ContactMiddleName------
+<br>ContactLastName-------Joerres
+<br>ContactDescription----
+<br>ContactDesignation----D381
+<br>ContactPhoto----------wbal-tv-11-nbc-dan-joerres.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Minnesota
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15973
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Butt
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------wbal-tv-11-nbc-michelle-butt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Old Dominion University in Norfolk
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15974
+<br>ContactFirstName------Wanda
+<br>ContactMiddleName------
+<br>ContactLastName-------Draper
+<br>ContactDescription----
+<br>ContactDesignation----D1565
+<br>ContactPhoto----------wbal-tv -11-nbc-wanda-draper.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maryland
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15975
+<br>ContactFirstName------Rod
+<br>ContactMiddleName------
+<br>ContactLastName-------Daniels
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-rod-daniels.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ William Paterson University in Wayne
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15976
+<br>ContactFirstName------Donna
+<br>ContactMiddleName------
+<br>ContactLastName-------Hamilton
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-donna-hamilton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Auburn University,University of Alabama-Birmingham
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15977
+<br>ContactFirstName------Stan
+<br>ContactMiddleName------
+<br>ContactLastName-------Stovall
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-stan-stovall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15978
+<br>ContactFirstName------Mindy
+<br>ContactMiddleName------
+<br>ContactLastName-------Basara
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-mindy-basara.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Richmond
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15979
+<br>ContactFirstName------Sarah
+<br>ContactMiddleName------
+<br>ContactLastName-------Caldwell
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-sarah-caldwell.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Temple University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15980
+<br>ContactFirstName------Lisa
+<br>ContactMiddleName------
+<br>ContactLastName-------Robinson
+<br>ContactDescription----
+<br>ContactDesignation----D332
+<br>ContactPhoto----------wbal-tv-11-nbc-lisa-robinson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------ University of Maryland, College Park
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15981
+<br>ContactFirstName------Deborah
+<br>ContactMiddleName------
+<br>ContactLastName-------Weiner
+<br>ContactDescription----
+<br>ContactDesignation----D1566
+<br>ContactPhoto----------wbal-tv-11-nbc-deborah-weiner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University in Evanston
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15981
+<br>ContactFirstName------Deborah
+<br>ContactMiddleName------
+<br>ContactLastName-------Weiner
+<br>ContactDescription----
+<br>ContactDesignation----D1566
+<br>ContactPhoto----------wbal-tv-11-nbc-deborah-weiner.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University in Evanston
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2684
+<br>ContactId-------------C15982
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Tasselmyer
+<br>ContactDescription----
+<br>ContactDesignation----D383
+<br>ContactPhoto----------wbal-tv-11-nbc-tom-tasselmyer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------North Carolina State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/tomtasselmyer
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

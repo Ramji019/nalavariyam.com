@@ -1,0 +1,521 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15843
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Staudt
+<br>ContactDescription----
+<br>ContactDesignation----D400
+<br>ContactPhoto----------wilx-tv-10-tim-staudt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tim.staudt@wilx.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15843
+<br>ContactFirstName------Tim
+<br>ContactMiddleName------
+<br>ContactLastName-------Staudt
+<br>ContactDescription----
+<br>ContactDesignation----D400
+<br>ContactPhoto----------wilx-tv-10-tim-staudt.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------tim.staudt@wilx.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15844
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Sampson
+<br>ContactDescription----
+<br>ContactDesignation----D400
+<br>ContactPhoto----------wilx-tv-10-jeremy-sampson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jeremy.sampson@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jeremysampson10
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15845
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Ragan
+<br>ContactDescription----
+<br>ContactDesignation----D209
+<br>ContactPhoto----------wilx-tv-10-kevin-ragan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kevin.ragan@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/WILXNEWSDIRECTO
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15846
+<br>ContactFirstName------Tim 
+<br>ContactMiddleName------
+<br>ContactLastName-------Gillette
+<br>ContactDescription----
+<br>ContactDesignation----D1098
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tim.gillette@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15847
+<br>ContactFirstName------Steve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Coon
+<br>ContactDescription----
+<br>ContactDesignation----D456
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------steve.coon@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15848
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dolata
+<br>ContactDescription----
+<br>ContactDesignation----D1550
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom.dolata@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15849
+<br>ContactFirstName------Steve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Reynolds
+<br>ContactDescription----
+<br>ContactDesignation----D156
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------steve.reynolds@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15850
+<br>ContactFirstName------Helen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D156
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------helen.jones@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15851
+<br>ContactFirstName------Mike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Winsky
+<br>ContactDescription----
+<br>ContactDesignation----D210
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mike.winsky@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15852
+<br>ContactFirstName------Paula 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bohamed
+<br>ContactDescription----
+<br>ContactDesignation----D158
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------paula.bohamed@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15853
+<br>ContactFirstName------Alyssa 
+<br>ContactMiddleName------
+<br>ContactLastName-------Brown
+<br>ContactDescription----
+<br>ContactDesignation----D1551
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------alyssa.brown@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15854
+<br>ContactFirstName------Justus 
+<br>ContactMiddleName------
+<br>ContactLastName-------Rohlfs
+<br>ContactDescription----
+<br>ContactDesignation----D1552
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------justus.rohlfs@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15855
+<br>ContactFirstName------Andrew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D1553
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------andrew.jones@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15856
+<br>ContactFirstName------Chad 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dalke
+<br>ContactDescription----
+<br>ContactDesignation----D1080
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------chad.dalke@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15857
+<br>ContactFirstName------Nicole 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lenik
+<br>ContactDescription----
+<br>ContactDesignation----D280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------nicole.lenik@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15858
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D1554
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mike.king@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15859
+<br>ContactFirstName------Judy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kirk
+<br>ContactDescription----
+<br>ContactDesignation----D1555
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------judy.kirk@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15860
+<br>ContactFirstName------Weather
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------weather@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15861
+<br>ContactFirstName------Contact WILX TV 10
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----517-393-0110
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15862
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dolata
+<br>ContactDescription----
+<br>ContactDesignation----D113
+<br>ContactPhoto----------
+<br>ContactPhonenumber----517-394-9314
+<br>ContactEmail----------tom.dolata@wilx.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2678
+<br>ContactId-------------C15863
+<br>ContactFirstName------Closed Captioning
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----517-394-9315
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2679
+<br>ContactId-------------C15864
+<br>ContactFirstName------News
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----517-394-5353
+<br>ContactEmail----------wlajnews@wlaj.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2679
+<br>ContactId-------------C15865
+<br>ContactFirstName------Contact WLAJ TV 3
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----517-394-5300
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2680
+<br>ContactId-------------C15866
+<br>ContactFirstName------Contact WMPT TV 22
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----410-356-5600
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2680
+<br>ContactId-------------C15867
+<br>ContactFirstName------Closed Captioning
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----410-581-4284
+<br>ContactEmail----------jmann@mpt.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

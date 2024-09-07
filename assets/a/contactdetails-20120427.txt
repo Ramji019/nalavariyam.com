@@ -1,0 +1,908 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O10048
+<br>ContactId-------------C27577
+<br>ContactFirstName------Kelly
+<br>ContactMiddleName------Lee
+<br>ContactLastName-------Mahlert
+<br>ContactDescription----
+<br>ContactDesignation----D153
+<br>ContactPhoto----------horsemens-yankee-pedlar-kelly-mahlert.jpg
+<br>ContactPhonenumber----508-987-5886X221
+<br>ContactEmail----------t.kelly.mahlert@morris.com
+<br>Alternative Email-----
+<br>University------------Becker College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/kllizotte
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10048
+<br>ContactId-------------C27578
+<br>ContactFirstName------Contact-Horsemen Yankee Pedlar
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----508-987-5886
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10050
+<br>ContactId-------------C27579
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Bromeland
+<br>ContactDescription----
+<br>ContactDesignation----D53
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-657-4663X102
+<br>ContactEmail----------bob@scuttlebutt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10050
+<br>ContactId-------------C27580
+<br>ContactFirstName------Evie 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kabe
+<br>ContactDescription----
+<br>ContactDesignation----D70
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-657-4663X106
+<br>ContactEmail----------evie@scuttlebutt.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10050
+<br>ContactId-------------C27581
+<br>ContactFirstName------Laura 
+<br>ContactMiddleName------
+<br>ContactLastName-------Clay
+<br>ContactDescription----
+<br>ContactDesignation----D223
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-657-4663X108
+<br>ContactEmail----------laura@equinemonthly.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10050
+<br>ContactId-------------C27582
+<br>ContactFirstName------Mandy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jahnke
+<br>ContactDescription----
+<br>ContactDesignation----D223
+<br>ContactPhoto----------
+<br>ContactPhonenumber----800-657-4663X107
+<br>ContactEmail----------mandy@equinemonthly.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3821
+<br>ContactId-------------C27583
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------lifehacker-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C27584
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------pc-world-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1919
+<br>ContactId-------------C4490
+<br>ContactFirstName------stuart
+<br>ContactMiddleName------
+<br>ContactLastName-------leavenworth
+<br>ContactDescription----stuart leavenworth is the editorial page editor of The Sacramento Bee.  You can contact stuart through his email address sleavenworth@sacbee.com. The phone number to contact stuart is 916-321-1185. You can also connect to stuart\'s facebook id using the link http://facebook.com/stuart.leavenworth and get his latest updates. You can also follow stuart using his twitter link http://twitter.com/#!/sleavenworth. 
+<br>ContactDesignation----D236
+<br>ContactPhoto----------the-sacramento-bee-stuart-leavenworth.jpg
+<br>ContactPhonenumber----916-321-1185
+<br>ContactEmail----------sleavenworth@sacbee.com
+<br>Alternative Email-----
+<br>University------------Columbia University,University of California, Santa Cruz
+<br>ContactFacebook-------http://facebook.com/stuart.leavenworth
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/sleavenworth
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O640
+<br>ContactId-------------C27585
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------io9-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1919
+<br>ContactId-------------C27586
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------
+<br>ContactLastName-------Manning
+<br>ContactDescription----Sue Manning is a writer at The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Sue-Manning/1019516877?sk=wall
+<br>ContactLinkedin-------http://www.linkedin.com/pub/sue-manning/18/575/6b0
+<br>ContactTwitter--------https://twitter.com/#!/aplamanning
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O905
+<br>ContactId-------------C27587
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------ebengregory.com-culture-news-truth-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O640
+<br>ContactId-------------C27585
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------io9-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O143
+<br>ContactId-------------C27584
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------pc-world-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O3821
+<br>ContactId-------------C27583
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------lifehacker-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O12753
+<br>ContactId-------------C27588
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------gawker-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3583
+<br>ContactId-------------C27589
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------business-insider-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1151
+<br>ContactId-------------C27590
+<br>ContactFirstName------Rob
+<br>ContactMiddleName------
+<br>ContactLastName-------Pegoraro
+<br>ContactDescription----Rob Pegoraro tries to make sense of computers consumer electronics telecom services the Internet software and other things that beep or blink through reporting reviewing and analysis–from 1999 to 2011 as the Washington Post’s tech columnist now for a variety of online and print outlets.
+<br>ContactDesignation----D3115
+<br>ContactPhoto----------financial-crisis blog-rob-pegoraro.jpg
+<br>ContactPhonenumber----202-334-6394
+<br>ContactEmail----------rob@robpegoraro.com
+<br>Alternative Email-----
+<br>University------------Georgetown University
+<br>ContactFacebook-------http://www.facebook.com/robpegoraro
+<br>ContactLinkedin-------http://www.linkedin.com/in/robpegoraro
+<br>ContactTwitter--------http://www.twitter.com/robpegoraro
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27591
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------
+<br>ContactLastName-------Manning
+<br>ContactDescription----Sue Manning is a writer at The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1019516877&sk=wall
+<br>ContactLinkedin-------http://www.linkedin.com/pub/sue-manning/18/575/6b0
+<br>ContactTwitter--------https://twitter.com/#!/aplamanning
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5688
+<br>ContactId-------------C27592
+<br>ContactFirstName------Bill 	
+<br>ContactMiddleName------
+<br>ContactLastName-------Dries
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------
+<br>ContactPhonenumber----901-528-5277
+<br>ContactEmail----------bdries@memphisdailynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3833
+<br>ContactId-------------C27593
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------gizmodo-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6497
+<br>ContactId-------------C27594
+<br>ContactFirstName------Marc
+<br>ContactMiddleName------
+<br>ContactLastName-------Middleton
+<br>ContactDescription----Marc is Webmaster and Editor at Wrestling-Edge.
+
+<br>ContactDesignation----D11
+<br>ContactPhoto----------twnp-wrestling news-marc-middleton.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------marc.middleton@wrestling-edge.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100001523985227&sk=wall
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6526
+<br>ContactId-------------C27595
+<br>ContactFirstName------Whitson
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----Whitson Gordon is a freelance writer currently based in Ann Arbor Michigan. At the moment he spends most of my time writing about technology software and productivity as a contributing writer over at Lifehacker.com as well as other places.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------msnbc-com-whitson-gordon.jpg
+<br>ContactPhonenumber----415-243-0500
+<br>ContactEmail----------whitson@lifehacker.com
+<br>Alternative Email-----
+<br>University------------University of Michigan
+<br>ContactFacebook-------http://www.facebook.com/WhitsonGordonFanPage
+<br>ContactLinkedin-------http://www.linkedin.com/pub/whitson-gordon/1a/78a/988
+<br>ContactTwitter--------https://twitter.com/#!/whitsongordon
+<br>ContactURL------------http://whitsongordon.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10051
+<br>ContactId-------------C27596
+<br>ContactFirstName------Editorial 
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------ftdesk@horse-canada.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O10051
+<br>ContactId-------------C27597
+<br>ContactFirstName------Contact-HorsePower
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----905-727-0107,1-800-505-7428 
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27598
+<br>ContactFirstName------Joan
+<br>ContactMiddleName------
+<br>ContactLastName-------Lowy
+<br>ContactDescription----Joan Lowy is a transportation reporter at The Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated press-joan-lowy.jpg
+<br>ContactPhonenumber----202-776-9410
+<br>ContactEmail----------jlowy@ap.org
+<br>Alternative Email-----
+<br>University------------The George Washington University
+<br>ContactFacebook-------http://www.facebook.com/people/Joan-Lowy/509253261
+<br>ContactLinkedin-------http://www.linkedin.com/pub/joan-lowy/7/a89/a67
+<br>ContactTwitter--------http://twitter.com/#!/AP_Joan_Lowy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6218
+<br>ContactId-------------C27599
+<br>ContactFirstName------Anand
+<br>ContactMiddleName------
+<br>ContactLastName-------Chokkavelu
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------the-motley fool-anand-chokkavelu.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Anand-Chokkavelu/647481056
+<br>ContactLinkedin-------http://www.linkedin.com/pub/anand-chokkavelu/1/620/167
+<br>ContactTwitter--------http://twitter.com/#!/anandchokkavelu
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5688
+<br>ContactId-------------C27592
+<br>ContactFirstName------Bill 	
+<br>ContactMiddleName------
+<br>ContactLastName-------Dries
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------
+<br>ContactPhonenumber----901-528-5277
+<br>ContactEmail----------bdries@memphisdailynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5688
+<br>ContactId-------------C27600
+<br>ContactFirstName------Andy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Meek	
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------
+<br>ContactPhonenumber----901-528-5279
+<br>ContactEmail----------ameek@memphisdailynews.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6349
+<br>ContactId-------------C27601
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Daykin
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------milwaukee-journal-sentinel-online-tom-daykin.jpg
+<br>ContactPhonenumber----1-414-224-2000
+<br>ContactEmail----------tdaykin@journalsentinel.com
+<br>Alternative Email-----
+<br>University------------University of Iowa
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1170070984
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/TomDaykin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6349
+<br>ContactId-------------C27601
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Daykin
+<br>ContactDescription----Journal Sentinel business reporter Tom Daykin talks about commercial real estate and development including stores hotels offices condos apartments and industrial buildings.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------milwaukee-journal-sentinel-online-tom-daykin.jpg
+<br>ContactPhonenumber----1-414-224-2000
+<br>ContactEmail----------tdaykin@journalsentinel.com
+<br>Alternative Email-----
+<br>University------------University of Iowa
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1170070984
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/TomDaykin
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27602
+<br>ContactFirstName------Jesus
+<br>ContactMiddleName------
+<br>ContactLastName-------Diaz
+<br>ContactDescription----
+<br>ContactDesignation----D190
+<br>ContactPhoto----------the-globe and mail-jesus-diaz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jesus@gizmodo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jesusdiaz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27598
+<br>ContactFirstName------Joan
+<br>ContactMiddleName------
+<br>ContactLastName-------Lowy
+<br>ContactDescription----Joan Lowy is a transportation reporter at The Associated Press.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated press-joan-lowy.jpg
+<br>ContactPhonenumber----202-776-9410
+<br>ContactEmail----------jlowy@ap.org
+<br>Alternative Email-----
+<br>University------------The George Washington University
+<br>ContactFacebook-------http://www.facebook.com/people/Joan-Lowy/509253261
+<br>ContactLinkedin-------http://www.linkedin.com/pub/joan-lowy/7/a89/a67
+<br>ContactTwitter--------http://twitter.com/#!/AP_Joan_Lowy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27603
+<br>ContactFirstName------Steve
+<br>ContactMiddleName------
+<br>ContactLastName-------Szkotak
+<br>ContactDescription----Stephen Szkotak is a reporter at The Associated Press.
+
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated press-steve-szkotak.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100000959486489
+<br>ContactLinkedin-------http://www.linkedin.com/pub/steve-szkotak/29/403/119
+<br>ContactTwitter--------https://twitter.com/#!/sszkotakap
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O3821
+<br>ContactId-------------C27604
+<br>ContactFirstName------Adam
+<br>ContactMiddleName------
+<br>ContactLastName-------Dachis
+<br>ContactDescription----Writer for Lifehacker. Official ethics corrupter. Someday I hope to put on a one-man production of The Little Mermaid be invited on TWiT and have a staircase.
+<br>ContactDesignation----D183
+<br>ContactPhoto----------lifehacker-adam-dachis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------adachis@lifehacker.com
+<br>Alternative Email-----
+<br>University------------American Film Institute Conservatory,American Film Institute,Emerson College
+<br>ContactFacebook-------http://www.facebook.com/dachis
+<br>ContactLinkedin-------http://www.linkedin.com/in/dachis
+<br>ContactTwitter--------https://twitter.com/#!/adachis
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1046
+<br>ContactId-------------C27605
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------
+<br>ContactLastName-------Frew
+<br>ContactDescription----Wendy Frew is a deputy arts editor at the Sydney Morning Herald.
+
+<br>ContactDesignation----D2898
+<br>ContactPhoto----------sydney-morning herald-wendy-frew.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/wendyfrew
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6349
+<br>ContactId-------------C27606
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Stein
+<br>ContactDescription----My background is an eclectic blend including degrees in Psychology and Oriental Medicine along with a Professional Coach Certification and Chaplaincy Training. As a licensed acupuncturist I’ve practiced as a doctor of Oriental medicine set up an integrative medicine program in a hospital helped business professionals learn meditation and mindfulness tools played around in academia counseled couples and even officiated a few weddings.
+<br>ContactDesignation----D1197
+<br>ContactPhoto----------milwaukee-journal-sentinel-online-jason-stein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jason@heartofbusiness.com
+<br>Alternative Email-----
+<br>University------------International Institute of Chinese Medicine,Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jasonastein
+<br>ContactTwitter--------https://twitter.com/#!/FreeToBe
+<br>ContactURL------------http://www.heartofbusiness.com/jason-stein/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6349
+<br>ContactId-------------C27607
+<br>ContactFirstName------Rick 	 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barrett
+<br>ContactDescription----Rick is a business reporter writing business articles and issues for Milwaukee Journal Sentinel.
+<br>ContactDesignation----D439
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rbarrett@journalsentinel.com
+<br>Alternative Email-----
+<br>University------------Central Michigan University
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100001481067775
+<br>ContactLinkedin-------http://www.linkedin.com/pub/rick-barrett/26/210/890
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27608
+<br>ContactFirstName------Eileen
+<br>ContactMiddleName------
+<br>ContactLastName-------Sullivan
+<br>ContactDescription----Associated Press reporter based in Washington D.C. covering counterterrorism.
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-associated press-eileen-sullivan.jpg
+<br>ContactPhonenumber----202-776-9595
+<br>ContactEmail----------esullivan@ap.org
+<br>Alternative Email-----
+<br>University------------Villanova University
+<br>ContactFacebook-------http://www.facebook.com/people/Eileen-Sullivan/1204327202
+<br>ContactLinkedin-------http://www.linkedin.com/pub/eileen-sullivan/20/193/a9b
+<br>ContactTwitter--------http://twitter.com/#!/esullivanap
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6505
+<br>ContactId-------------C27609
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee	 
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13206
+<br>ContactId-------------C27610
+<br>ContactFirstName------Alison
+<br>ContactMiddleName------
+<br>ContactLastName-------Cavatore
+<br>ContactDescription----Alison Cavatore started her career in 2011 after completing her Master’s degree in Print Journalism at the University of Miami. Two weeks after presenting her thesis she started her own company Global Media Partners LLC a communications company that is focused on global luxury living.
+
+<br>ContactDesignation----D11
+<br>ContactPhoto----------haute-living-alison-cavatore.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------Alison@GlobalLivingMagazine.com
+<br>Alternative Email-----
+<br>University------------University of Miami,Webster University Geneva,McGill University
+<br>ContactFacebook-------http://www.facebook.com/AlisonCavatore
+<br>ContactLinkedin-------http://www.linkedin.com/in/alisonagudo
+<br>ContactTwitter--------https://twitter.com/#!/AlisonCavatore
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6239
+<br>ContactId-------------C27611
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaneshige
+<br>ContactDescription----
+<br>ContactDesignation----D100
+<br>ContactPhoto----------epidemiology-&-infection-tom-kaneshige.jpg
+<br>ContactPhonenumber----1-508-872-0080
+<br>ContactEmail----------tkaneshige@cio.com
+<br>Alternative Email-----
+<br>University------------University of California-Santa Cruz
+<br>ContactFacebook-------http://www.facebook.com/kaneshige
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tom-kaneshige/0/4a8/212
+<br>ContactTwitter--------https://twitter.com/#!/kaneshige
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6239
+<br>ContactId-------------C27611
+<br>ContactFirstName------Tom
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaneshige
+<br>ContactDescription----Tom Kaneshige is a senior writer at CIO covering everything Apple. He\'s been a reporter in Silicon Valley for more than a decade.
+<br>ContactDesignation----D100
+<br>ContactPhoto----------epidemiology-&-infection-tom-kaneshige.jpg
+<br>ContactPhonenumber----1-508-872-0080
+<br>ContactEmail----------tkaneshige@cio.com
+<br>Alternative Email-----
+<br>University------------University of California-Santa Cruz
+<br>ContactFacebook-------http://www.facebook.com/kaneshige
+<br>ContactLinkedin-------http://www.linkedin.com/pub/tom-kaneshige/0/4a8/212
+<br>ContactTwitter--------https://twitter.com/#!/kaneshige
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1862
+<br>ContactId-------------C27612
+<br>ContactFirstName------Chris
+<br>ContactMiddleName------
+<br>ContactLastName-------Taylor
+<br>ContactDescription----OER project officer at UK Centre for Bioscience
+<br>ContactDesignation----D8
+<br>ContactPhoto----------usa-today-chris-taylor.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/christaylorminnesota
+<br>ContactTwitter--------http://www.twitter.com/chr1staylor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6305
+<br>ContactId-------------C27613
+<br>ContactFirstName------James
+<br>ContactMiddleName------
+<br>ContactLastName-------Johnson
+<br>ContactDescription----SocialNewsDaily.com (Editor-In-Chief) Indyposted.com (Co-Founder) OddFunny.com (Co-Founder) Inquisitr.com (Senior Editor) BlogHerald (Social Media Writer).
+
+<br>ContactDesignation----D164
+<br>ContactPhoto----------the-inquisitr-james-johnson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Illinois State University
+<br>ContactFacebook-------http://www.facebook.com/jamesajohnson
+<br>ContactLinkedin-------http://www.linkedin.com/pub/james-johnson/25/412/970
+<br>ContactTwitter--------https://twitter.com/#!/techobsessed
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

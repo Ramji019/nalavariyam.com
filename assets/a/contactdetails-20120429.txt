@@ -1,0 +1,883 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O13930
+<br>ContactId-------------C27590
+<br>ContactFirstName------Matthew 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1907
+<br>ContactId-------------C3943
+<br>ContactFirstName------Lauren
+<br>ContactMiddleName------
+<br>ContactLastName-------Beale
+<br>ContactDescription----Lauren Beale is the Hot Property columnist for The Los Angeles Times.
+In addition to covering the celebrity real estate beat for the newspaper she writes and edits for the Sunday Business section she blogs at Money & Co. and handles web production duties for The Times’ Real Estate page.
+A 30-year veteran of The Times Beale’s stint has included reporting copy editing page design and line editing in sections including Business Real Estate Travel Book Review Food the Sunday magazine entertainment and lifestyle. She was Real Estate Editor from 2000 until the section closed in 2008.
+Lauren is also current President of the National Association of Real Estate Editors (NAREE).
+<br>ContactDesignation----D439
+<br>ContactPhoto----------the-seattle-times-lauren-beale.jpg
+<br>ContactPhonenumber----213-237-5000
+<br>ContactEmail----------lauren.beale@latimes.com
+<br>Alternative Email-----
+<br>University------------Michigan State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/lauren-beale/4b/9a/69a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13928
+<br>ContactId-------------C3942
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Reisinger
+<br>ContactDescription----I\'m a technology/video game/TV columnist. I write for CNET eWeek the LA Times and other major publications.
+<br>ContactDesignation----D3119
+<br>ContactPhoto----------zdnet-don-reisinger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------CNETDigitalHome@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1194754027
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://www.twitter.com/donreisinger
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O13928
+<br>ContactId-------------
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Reisinger
+<br>ContactDescription----I\'m a technology/video game/TV columnist. I write for CNET eWeek the LA Times and other major publications.
+<br>ContactDesignation----D3119
+<br>ContactPhoto----------zdnet-don-reisinger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------CNETDigitalHome@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1194754027
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://www.twitter.com/donreisinger
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O13928
+<br>ContactId-------------
+<br>ContactFirstName------Don
+<br>ContactMiddleName------
+<br>ContactLastName-------Reisinger
+<br>ContactDescription----I\'m a technology/video game/TV columnist. I write for CNET eWeek the LA Times and other major publications.
+<br>ContactDesignation----D3119
+<br>ContactPhoto----------zdnet-don-reisinger.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------CNETDigitalHome@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1194754027
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://www.twitter.com/donreisinger
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13931
+<br>ContactId-------------C3940
+<br>ContactFirstName------Charles 	 
+<br>ContactMiddleName------
+<br>ContactLastName-------Runnells
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----239-335-0368
+<br>ContactEmail----------crunnells@Fortmyer.gannett.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13932
+<br>ContactId-------------C4110
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Ferguson
+<br>ContactDescription----Brian Ferguson is a news reporter at The Scotsman.
+
+<br>ContactDesignation----D308
+<br>ContactPhoto----------the-scotsman-brian-ferguson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bferguson@scotsman.com
+<br>Alternative Email-----
+<br>University------------Napier University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/brian-ferguson/11/496/ba0
+<br>ContactTwitter--------https://twitter.com/#!/brianjaffa
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O13932
+<br>ContactId-------------C4110
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Ferguson
+<br>ContactDescription----Brian Ferguson is a news reporter at The Scotsman.
+
+<br>ContactDesignation----D308
+<br>ContactPhoto----------the-scotsman-brian-ferguson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bferguson@scotsman.com
+<br>Alternative Email-----
+<br>University------------Napier University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/brian-ferguson/11/496/ba0
+<br>ContactTwitter--------https://twitter.com/#!/brianjaffa
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O552
+<br>ContactId-------------C4112
+<br>ContactFirstName------Matthew  
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee	
+<br>ContactDescription----
+<br>ContactDesignation----D3116
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-641-9000
+<br>ContactEmail----------mlee@ap.org
+<br>Alternative Email-----
+<br>University------------Fordham University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/briankirby
+<br>ContactTwitter--------http://twitter.com/#!/ShelfLifeCC
+<br>ContactURL------------http://briankirby.net/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13689
+<br>ContactId-------------C4113
+<br>ContactFirstName------Colleen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Curran
+<br>ContactDescription----
+<br>ContactDesignation----D101
+<br>ContactPhoto----------
+<br>ContactPhonenumber----804-649-6777
+<br>ContactEmail----------ccurran@richmond.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13936
+<br>ContactId-------------C4115
+<br>ContactFirstName------Seth  
+<br>ContactMiddleName------
+<br>ContactLastName-------Roy	
+<br>ContactDescription----
+<br>ContactDesignation----D304
+<br>ContactPhoto----------
+<br>ContactPhonenumber----740-328-8547
+<br>ContactEmail----------sroy@newarkadvocate.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O12464
+<br>ContactId-------------C27590
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Robinson
+<br>ContactDescription----
+<br>ContactDesignation----D3120
+<br>ContactPhoto----------
+<br>ContactPhonenumber----859-624-6622
+<br>ContactEmail----------brobinson@richmondregister.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13938
+<br>ContactId-------------C4091
+<br>ContactFirstName------Ike 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wilson	
+<br>ContactDescription----
+<br>ContactDesignation----D3121
+<br>ContactPhoto----------
+<br>ContactPhonenumber----301-662-1177
+<br>ContactEmail----------iwilson@fredericknewspost.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1907
+<br>ContactId-------------C27625
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Higgins
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------the-seattle-times-michelle-higgins.jpg
+<br>ContactPhonenumber----212-556-1234
+<br>ContactEmail----------michelle.higgins@wsj.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=708799340
+<br>ContactLinkedin-------http://www.linkedin.com/pub/michelle-higgins/9/52a/22a
+<br>ContactTwitter--------https://twitter.com/#!/michellehiggins
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1907
+<br>ContactId-------------C4093
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldmeier
+<br>ContactDescription----Jeremy Goldmeier is an arts and entertainment reporter at Abilene Reporter-News.
+
+<br>ContactDesignation----NS
+<br>ContactPhoto----------the-seattle times-jeremy-goldmeier.jpg
+<br>ContactPhonenumber----325-676-6784
+<br>ContactEmail----------goldmeierj@reporternews.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------http://www.facebook.com/pages/Abilene-AE/191541590877141
+<br>ContactLinkedin-------http://www.linkedin.com/in/jeremygoldmeier
+<br>ContactTwitter--------https://twitter.com/#!/mrsilentg
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1907
+<br>ContactId-------------C4093
+<br>ContactFirstName------Jeremy
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldmeier
+<br>ContactDescription----Jeremy Goldmeier is an arts and entertainment reporter at Abilene Reporter-News.
+
+<br>ContactDesignation----NS
+<br>ContactPhoto----------the-seattle times-jeremy-goldmeier.jpg
+<br>ContactPhonenumber----325-676-6784
+<br>ContactEmail----------goldmeierj@reporternews.com
+<br>Alternative Email-----
+<br>University------------University of Missouri-Columbia
+<br>ContactFacebook-------http://www.facebook.com/pages/Abilene-AE/191541590877141
+<br>ContactLinkedin-------http://www.linkedin.com/in/jeremygoldmeier
+<br>ContactTwitter--------https://twitter.com/#!/mrsilentg
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13947
+<br>ContactId-------------C4094
+<br>ContactFirstName------Natalie
+<br>ContactMiddleName------
+<br>ContactLastName-------Woolman
+<br>ContactDescription----Natalie is a journalist who works at The Stage.
+
+<br>ContactDesignation----D579
+<br>ContactPhoto----------the-stage-natalie-woolman.jpg
+<br>ContactPhonenumber----020-7403-1818
+<br>ContactEmail----------natalie@thestage.co.uk
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/nwoolman
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27623
+<br>ContactFirstName------Christopher 
+<br>ContactMiddleName------
+<br>ContactLastName-------Torchia
+<br>ContactDescription----Christopher Torchia is the Singapore Bureau Chief for The Associated Press.
+<br>ContactDesignation----D368
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1720
+<br>ContactEmail----------ctorchia@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4095
+<br>ContactFirstName------Deepti 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hajela
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------dhajela@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/pages/Deepti-Hajela/112605505423674
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/dhajela
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27591
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------
+<br>ContactLastName-------Manning
+<br>ContactDescription----Sue Manning is a writer at The Associated Press. 
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1019516877&sk=wall
+<br>ContactLinkedin-------http://www.linkedin.com/pub/sue-manning/18/575/6b0
+<br>ContactTwitter--------https://twitter.com/#!/aplamanning
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O6349
+<br>ContactId-------------C27606
+<br>ContactFirstName------Jason
+<br>ContactMiddleName------
+<br>ContactLastName-------Stein
+<br>ContactDescription----My background is an eclectic blend including degrees in Psychology and Oriental Medicine along with a Professional Coach Certification and Chaplaincy Training. As a licensed acupuncturist I?ve practiced as a doctor of Oriental medicine set up an integrative medicine program in a hospital helped business professionals learn meditation and mindfulness tools played around in academia counseled couples and even officiated a few weddings.
+<br>ContactDesignation----D1197
+<br>ContactPhoto----------milwaukee-journal-sentinel-online-jason-stein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jason@heartofbusiness.com
+<br>Alternative Email-----
+<br>University------------International Institute of Chinese Medicine,Arizona State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jasonastein
+<br>ContactTwitter--------https://twitter.com/#!/FreeToBe
+<br>ContactURL------------http://www.heartofbusiness.com/jason-stein/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1151
+<br>ContactId-------------C4096
+<br>ContactFirstName------Erika
+<br>ContactMiddleName------
+<br>ContactLastName-------Riggs
+<br>ContactDescription----Erika Riggs writes on a wide variety of real estate topics from the all-popular celebrity real estate to mortgages and home improvement for the Zillow Blog and other Zillow partners. 
+She graduated from the University of Washington with a degree in journalism. Erika owns Rogue and Whimsy an accessories boutique in Seattle.
+<br>ContactDesignation----D183
+<br>ContactPhoto----------financial-crisis-blog-erika-riggs.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------rougeandwhimsy@gmail.com
+<br>Alternative Email-----
+<br>University------------University of Washington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/erika-riggs/13/924/267
+<br>ContactTwitter--------https://twitter.com/#!/rougeandwhimsy
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4097
+<br>ContactFirstName------Seth
+<br>ContactMiddleName------
+<br>ContactLastName-------Borenstein
+<br>ContactDescription----Seth Borenstein is a national science writer for The Associated Press the world\'s largest news organization covering issues ranging from climate change to astronomy. He is the winner of numerous journalism awards including the National Journalism Award for environment reporting in 2007 from the Scripps Foundation and the Outstanding Beat Reporting award from the Society of Environmental Journalists in 2008 and 2004. He was part of a team of finalists for the 2004 Pulitzer Prize for coverage of the Columbia space shuttle disaster. A science and environmental journalist for nearly 20 years covering everything from hurricanes to space shuttle launches.
+
+<br>ContactDesignation----D3122
+<br>ContactPhoto----------the-associated press-seth-borenstein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sborenstein@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100000508279974
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/borenbears
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4097
+<br>ContactFirstName------Seth
+<br>ContactMiddleName------
+<br>ContactLastName-------Borenstein
+<br>ContactDescription----Seth Borenstein is a national science writer for The Associated Press the world\'s largest news organization covering issues ranging from climate change to astronomy. He is the winner of numerous journalism awards including the National Journalism Award for environment reporting in 2007 from the Scripps Foundation and the Outstanding Beat Reporting award from the Society of Environmental Journalists in 2008 and 2004. He was part of a team of finalists for the 2004 Pulitzer Prize for coverage of the Columbia space shuttle disaster. A science and environmental journalist for nearly 20 years covering everything from hurricanes to space shuttle launches.
+
+<br>ContactDesignation----D3122
+<br>ContactPhoto----------the-associated press-seth-borenstein.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sborenstein@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100000508279974
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/borenbears
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4098
+<br>ContactFirstName------Marcia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dunn
+<br>ContactDescription----Marcia Dunn covers aerospace and NASA for The Associated Press.
+
+<br>ContactDesignation----D3123
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4098
+<br>ContactFirstName------Marcia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dunn
+<br>ContactDescription----Marcia Dunn covers aerospace and NASA for The Associated Press.
+
+<br>ContactDesignation----D3123
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4101
+<br>ContactFirstName------Brett
+<br>ContactMiddleName------
+<br>ContactLastName-------Zongker
+<br>ContactDescription----Brett is a reporter and currently working as Staff Writer for The Associated Press currently she is Washington D.C.
+
+<br>ContactDesignation----D101
+<br>ContactPhoto----------the-associated press-brett-zongker.jpg
+<br>ContactPhonenumber----202-735-9690
+<br>ContactEmail----------bzongker@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/dcartbeat
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C27591
+<br>ContactFirstName------Sue 
+<br>ContactMiddleName------
+<br>ContactLastName-------Manning
+<br>ContactDescription----Sue Manning is a writer at The Associated Press. 
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=1019516877&sk=wall
+<br>ContactLinkedin-------http://www.linkedin.com/pub/sue-manning/18/575/6b0
+<br>ContactTwitter--------https://twitter.com/#!/aplamanning
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4103
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns
+<br>ContactDescription----Robert Burns is a National Security Writer at The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------rburns@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13963
+<br>ContactId-------------C4104
+<br>ContactFirstName------David 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hill	 
+<br>ContactDescription----David Hill is a Denver-based freelance writer who specializes in education and architecture-related subjects.
+<br>ContactDesignation----D1985
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-904-2594
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1783
+<br>ContactId-------------C4107
+<br>ContactFirstName------James 	 
+<br>ContactMiddleName------
+<br>ContactLastName-------Dean
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----706-722-6664
+<br>ContactEmail----------jdean@wjbf.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13965
+<br>ContactId-------------C3939
+<br>ContactFirstName------Michelle
+<br>ContactMiddleName------
+<br>ContactLastName-------Michelle
+<br>ContactDescription----
+<br>ContactDesignation----D183
+<br>ContactPhoto----------money-saving-madness-michelle-michelle.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------moneysavingmadness@yahoo.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C4103
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Burns
+<br>ContactDescription----Robert Burns is a National Security Writer at The Associated Press.
+
+<br>ContactDesignation----D183
+<br>ContactPhoto----------
+<br>ContactPhonenumber----212-621-1500
+<br>ContactEmail----------rburns@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O5612
+<br>ContactId-------------C3937
+<br>ContactFirstName------Foster
+<br>ContactMiddleName------
+<br>ContactLastName-------Klug
+<br>ContactDescription----Foster Klug a reporter who has covered U.S.-Asia relations for The Associated Press in Washington has been named the AP\'s news editor in Seoul South Korea. Klug was the first U.S.-Asian affairs reporter on AP\'s North America Desk which is responsible for U.S. news coverage targeted for audiences outside the United States. He has written on an array of issues including U.S. sanctions against North Korea Washington\'s currency dispute with China and U.S. arms sales to Taiwan. He joined the AP in 2000 as an editorial assistant in Phoenix and transferred to Baltimore in 2002. Previously he lived for three years in rural Nagasaki Japan where he taught English and coached basketball at a junior high school. He is a graduate of Colby College in Waterville Maine.
+
+<br>ContactDesignation----D11
+<br>ContactPhoto----------the-associated press-foster-klug.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------fklug@ap.org
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/APklug
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O11227
+<br>ContactId-------------C27627
+<br>ContactFirstName------Elizabeth
+<br>ContactMiddleName------
+<br>ContactLastName-------Kellar
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------naples-daily-news-elizabeth-kellar.jpg
+<br>ContactPhonenumber----239-877-2959
+<br>ContactEmail----------liz@elizabethkellar.com
+<br>Alternative Email-----
+<br>University------------Indiana University Bloomington
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/elizabeth-kellar/8/9b9/67a
+<br>ContactTwitter--------https://twitter.com/#!/ElizabethKellar
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13968
+<br>ContactId-------------C27628
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Wall
+<br>ContactDescription----Mike Wall is a contributor for The Christian Science Monitor and a senior writer for SPACE.com a sister site of OurAmazingPlanet.
+
+<br>ContactDesignation----D100
+<br>ContactPhoto----------live-science-mike-wall.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/MichaelDWall
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1947
+<br>ContactId-------------C27629
+<br>ContactFirstName------Ben
+<br>ContactMiddleName------
+<br>ContactLastName-------Feller
+<br>ContactDescription----Ben is taking the helm after an extraordinary year in which he\'s won two major awards for presidential coverage a first for the AP. He won the Merriman Smith Award for presidential reporting on deadline for his coverage of President Barack Obama\'s late-night tribute to soldiers returning from war in flag-draped caskets at Dover Air Force Base. He was awarded the Gerald R. Ford journalism prize for overall distinguished reporting on the presidency including the Dover return the president\'s Nobel prize and an analysis of George W. Bush\'s presidency among other pieces.
+Ben joined the AP in Washington in 2003 as a national education reporter and moved to the White House beat in November 2006. Prior to joining the AP he wrote for The Tampa Tribune the News & Record in Greensboro N.C. and the Centre Daily Times in State College Pa.
+Feller is a native of State College. He graduated from Penn State University in 1992 with a degree in journalism.
+
+<br>ContactDesignation----D129
+<br>ContactPhoto----------
+<br>ContactPhonenumber----202-776-9591
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O13968
+<br>ContactId-------------C27630
+<br>ContactFirstName------Clara
+<br>ContactMiddleName------
+<br>ContactLastName-------Moskowitz
+<br>ContactDescription----Clara Moskowitz is a senior writer for SPACE.com and LiveScience.com.
+
+<br>ContactDesignation----D100
+<br>ContactPhoto----------live-science-clara-moskowitz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=100001709892234
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/ClaraMoskowitz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1788
+<br>ContactId-------------C27631
+<br>ContactFirstName------Phil 
+<br>ContactMiddleName------
+<br>ContactLastName-------Richards
+<br>ContactDescription----
+<br>ContactDesignation----D285
+<br>ContactPhoto----------
+<br>ContactPhonenumber----317-444-6408
+<br>ContactEmail----------phil.richards@indystar.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O6339
+<br>ContactId-------------C27632
+<br>ContactFirstName------Tony
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradley
+<br>ContactDescription----Tony Bradley writes the \"Net Work\" blog for PC World Magazine. His work frequently appears on sister IDG publication sites.
+<br>ContactDesignation----D579
+<br>ContactPhoto----------the-globe and mail-tony-bradley.jpg
+<br>ContactPhonenumber----281.904.0591
+<br>ContactEmail----------tony@s3kur3.com
+<br>Alternative Email-----tony_bradley@pcworld.com
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=135927749871
+<br>ContactLinkedin-------http://www.linkedin.com/in/tonybradley
+<br>ContactTwitter--------http://twitter.com/Tony_BradleyPCW
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O1862
+<br>ContactId-------------C27633
+<br>ContactFirstName------Catalina
+<br>ContactMiddleName------
+<br>ContactLastName-------Camia
+<br>ContactDescription----
+<br>ContactDesignation----D716
+<br>ContactPhoto----------usa-today-catalina-camia.jpg
+<br>ContactPhonenumber----202-906-8154
+<br>ContactEmail----------ccamia@usatoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/catalina-camia/3/522/487
+<br>ContactTwitter--------https://twitter.com/#!/ccamia
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O1862
+<br>ContactId-------------C27633
+<br>ContactFirstName------Catalina
+<br>ContactMiddleName------
+<br>ContactLastName-------Camia
+<br>ContactDescription----Catalina Camia is a On Politics community leader at USA TODAY.
+<br>ContactDesignation----D716
+<br>ContactPhoto----------usa-today-catalina-camia.jpg
+<br>ContactPhonenumber----202-906-8154
+<br>ContactEmail----------ccamia@usatoday.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/catalina-camia/3/522/487
+<br>ContactTwitter--------https://twitter.com/#!/ccamia
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>************************************************************************
+<br>
+Outlet Id is ->O6339
+<br>ContactId-------------
+<br>ContactFirstName------Tony
+<br>ContactMiddleName------
+<br>ContactLastName-------Bradley
+<br>ContactDescription----Tony Bradley writes the \"Net Work\" blog for PC World Magazine. His work frequently appears on sister IDG publication sites.
+<br>ContactDesignation----D579
+<br>ContactPhoto----------the-globe and mail-tony-bradley.jpg
+<br>ContactPhonenumber----281.904.0591
+<br>ContactEmail----------tony@s3kur3.com
+<br>Alternative Email-----tony_bradley@pcworld.com
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/profile.php?id=135927749871
+<br>ContactLinkedin-------http://www.linkedin.com/in/tonybradley
+<br>ContactTwitter--------http://twitter.com/Tony_BradleyPCW
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

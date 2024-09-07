@@ -1,0 +1,761 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26962
+<br>ContactFirstName------Saundi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harrison
+<br>ContactDescription----
+<br>ContactDesignation----D3086
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26963
+<br>ContactFirstName------Jen 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barber
+<br>ContactDescription----
+<br>ContactDesignation----D3086
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26964
+<br>ContactFirstName------Unni 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vellani
+<br>ContactDescription----
+<br>ContactDesignation----D3087
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26965
+<br>ContactFirstName------Heddy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kuhl
+<br>ContactDescription----
+<br>ContactDesignation----D3088
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26966
+<br>ContactFirstName------Akin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Olaolu
+<br>ContactDescription----
+<br>ContactDesignation----D3088
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26967
+<br>ContactFirstName------Ted 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D3087
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26968
+<br>ContactFirstName------Doug St. 
+<br>ContactMiddleName------
+<br>ContactLastName-------James
+<br>ContactDescription----
+<br>ContactDesignation----D2162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26969
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hynson
+<br>ContactDescription----
+<br>ContactDesignation----D2162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26970
+<br>ContactFirstName------Susan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chan
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26971
+<br>ContactFirstName------Daniel
+<br>ContactMiddleName------
+<br>ContactLastName-------Premo
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------sports-illustrated-daniel-premo.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Rochester Institute of Technology
+<br>ContactFacebook-------http://www.facebook.com/daniel.premo
+<br>ContactLinkedin-------http://www.linkedin.com/in/premo
+<br>ContactTwitter--------https://twitter.com/#!/danielpremo
+<br>ContactURL------------http://danielpremo.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26963
+<br>ContactFirstName------Jen
+<br>ContactMiddleName------
+<br>ContactLastName-------Barber
+<br>ContactDescription----
+<br>ContactDesignation----D3086
+<br>ContactPhoto----------sports-illustrated-jen-barber.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Georgia-Terry College of Business
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/jennifer-barber/4/851/541
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26965
+<br>ContactFirstName------Heddy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Kuhl
+<br>ContactDescription----
+<br>ContactDesignation----D3088
+<br>ContactPhoto----------
+<br>ContactPhonenumber----404-577-8673
+<br>ContactEmail----------info@javavino.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/heddykuhl
+<br>ContactTwitter--------https://twitter.com/#!/java_vino
+<br>ContactURL------------http://www.javavino.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26964
+<br>ContactFirstName------Unni 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vellani
+<br>ContactDescription----
+<br>ContactDesignation----D3087
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Kerala University
+<br>ContactFacebook-------http://www.facebook.com/unni.vellani
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26972
+<br>ContactFirstName------Qingchao 
+<br>ContactMiddleName------
+<br>ContactLastName-------Wang
+<br>ContactDescription----
+<br>ContactDesignation----D3088
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26966
+<br>ContactFirstName------Akin 
+<br>ContactMiddleName------
+<br>ContactLastName-------Olaolu
+<br>ContactDescription----
+<br>ContactDesignation----D3088
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/akin-olaolu/20/470/6a9
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26968
+<br>ContactFirstName------Doug St.
+<br>ContactMiddleName------
+<br>ContactLastName-------James
+<br>ContactDescription----
+<br>ContactDesignation----D2162
+<br>ContactPhoto----------sports-illustrated-doug-st-james.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/doug.stjames
+<br>ContactLinkedin-------http://www.linkedin.com/pub/doug-st-james/30/a8a/b70
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26969
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hynson
+<br>ContactDescription----
+<br>ContactDesignation----D2162
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Clark Atlanta University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/mhynson
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26970
+<br>ContactFirstName------Susan 
+<br>ContactMiddleName------
+<br>ContactLastName-------Chan
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia Institute of Technology
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/susan-chan/2/61/4a0
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26962
+<br>ContactFirstName------Saundi 
+<br>ContactMiddleName------
+<br>ContactLastName-------Harrison
+<br>ContactDescription----
+<br>ContactDesignation----D3086
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Hampton University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/saundi-harrison-pmp/3/8a9/4a2
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26973
+<br>ContactFirstName------Dusty
+<br>ContactMiddleName------
+<br>ContactLastName-------Fowler
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------sports-illustrated-dusty-fowler.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia Southern University,Savannah Christian
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/dusty-fowler/7/aa/403
+<br>ContactTwitter--------https://twitter.com/#!/dustyfowler
+<br>ContactURL------------http://www.dustyfowler.com/
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26974
+<br>ContactFirstName------Lydia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Barnes
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia Institute of Technology
+<br>ContactFacebook-------http://www.facebook.com/lyddi
+<br>ContactLinkedin-------http://www.linkedin.com/in/lydiabarnes
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O772
+<br>ContactId-------------C26975
+<br>ContactFirstName------Matt
+<br>ContactMiddleName------
+<br>ContactLastName-------Stills
+<br>ContactDescription----
+<br>ContactDesignation----D879
+<br>ContactPhoto----------sports-illustrated-matt-stills.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Georgia Institute of Technology-Georgia Tech College of Management
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/mattstills
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C1679
+<br>ContactFirstName------Sharon
+<br>ContactMiddleName------
+<br>ContactLastName-------Selz
+<br>ContactDescription----sharon selz is the Senior Editor of Country Woman.  You can contact sharon through his email address editors@countrywomanmagazine.com. You can also connect to sharon\'s facebook id using the link http://facebook.com/people/Sharon-Selz/1544171616 and get his latest updates. He also has his personal blogsYou can also follow sharon using his twitter link http://countrywomanmagazine.com/Misc_Pages/AboutUs.asp?RefURL=&KeyCode=&tdate=&PMCode=&OrgURL=#Sharon.  Sharon Selz enjoyed the most in her years with Country Woman? Interviewing fascinating rural women from across the country and sharing their stories. ?How else could I have obtained such a great insight into the life of an Amish woman and expert quilter or the how-to?s of raising Longhorn cattle?? asks Sharon.  ?I?ll always remember the very first story I worked on? says Sharon. ?It featured a Wyoming ranch woman who took guests on five-day trail rides using covered wagons she and her family built.? Having been raised in the country surrounded by rural women Sharon is thrilled to show the world how special they are.
+<br>ContactDesignation----D5
+<br>ContactPhoto----------country-woman-sharon-selz.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C1681
+<br>ContactFirstName------Lori Lau
+<br>ContactMiddleName------
+<br>ContactLastName-------Grzybowski
+<br>ContactDescription----lori-lau grzybowski is the Editor of Country Woman.  You can contact lori-lau through his email address editors@countrywomanmagazine.com. You can also connect to lori-lau\'s linkedin id http://linkedin.com/pub/dir/Lori/Grzybowski and get his professional details. He also has his personal blogsYou can also follow lori-lau using his twitter link http://countrywomanmagazine.com/Misc_Pages/AboutUs.asp?RefURL=&KeyCode=&tdate=&PMCode=&OrgURL=#Lori.  Lori and her husband have an adult daughter two teen-aged sons and one new grandson. They spend much of their time cheering at events as well as participating in various church activities. ?In my spare time I love to read? says Lori. She also plays a mean game of Boggle and recently got hooked on Sudoku 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------country-woman-lori-lau-grzybowski.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C26976
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------
+<br>ContactLastName-------Stenman
+<br>ContactDescription----
+<br>ContactDesignation----D482
+<br>ContactPhoto----------country-woman-wendy-stenman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C26976
+<br>ContactFirstName------Wendy
+<br>ContactMiddleName------
+<br>ContactLastName-------Stenman
+<br>ContactDescription----
+<br>ContactDesignation----D482
+<br>ContactPhoto----------country-woman-wendy-stenman.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Wendy-Stenman/100001213396994
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C26977
+<br>ContactFirstName------Shalana
+<br>ContactMiddleName------
+<br>ContactLastName-------Frisby
+<br>ContactDescription----
+<br>ContactDesignation----D3089
+<br>ContactPhoto----------country-woman-shalana-frisby.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C1682
+<br>ContactFirstName------Ann
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaiser
+<br>ContactDescription----ann kaiser is the Contributing Editor of Country Woman.  You can contact ann through his email address editors@countrywomanmagazine.com. You can also connect to ann\'s linkedin id http://linkedin.com/pub/ann-kaiser/6/688/87 and get his professional details. He also has his personal blogsYou can also follow ann using his twitter link http://www.countrywomanmagazine.com/Indexes/editor.asp.  The ?Editor in the Country? series has taken Ann to all 50 states and most of the Canadian provinces. Ann started accepting invitations from readers to ?come work a day with me? in 1976. Her hard-working country hostesses have taught her a thing or two?and put her to the test in many memorable ways. 
+<br>ContactDesignation----D13
+<br>ContactPhoto----------country-woman-ann-kaiser.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ann-kaiser/6/688/87
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C26978
+<br>ContactFirstName------Editorial
+<br>ContactMiddleName------
+<br>ContactLastName-------Desk
+<br>ContactDescription----
+<br>ContactDesignation----D370
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------editors@countrywomanmagazine.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O773
+<br>ContactId-------------C1682
+<br>ContactFirstName------Ann
+<br>ContactMiddleName------
+<br>ContactLastName-------Kaiser
+<br>ContactDescription----ann kaiser is the Contributing Editor of Country Woman.  You can contact ann through his email address editors@countrywomanmagazine.com. You can also connect to ann\'s linkedin id http://linkedin.com/pub/ann-kaiser/6/688/87 and get his professional details. He also has his personal blogsYou can also follow ann using his twitter link http://www.countrywomanmagazine.com/Indexes/editor.asp.  The ?Editor in the Country? series has taken Ann to all 50 states and most of the Canadian provinces. Ann started accepting invitations from readers to ?come work a day with me? in 1976. Her hard-working country hostesses have taught her a thing or two?and put her to the test in many memorable ways. 
+<br>ContactDesignation----D13
+<br>ContactPhoto----------country-woman-ann-kaiser.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Northwestern University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/ann-kaiser/6/688/87
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C1684
+<br>ContactFirstName------Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Fichtenbaum
+<br>ContactDescription----paul fichtenbaum is the Managing Editor of Sports Illustrated KIDS.  You can also connect to paul\'s linkedin id http://linkedin.com/pub/paul-fichtenbaum/4/995/671 and get his professional details. You can also follow paul using his twitter link http://twitter.com/#!/paulfichtenbaum. He also has his personal blogsYou can also follow paul using his twitter link http://blogswithballs.com/speakers/paul-fichtenbaum-bio/.  Fichtenbaum ? who joined SI in 1989 ? was a senior editor for the magazine and managed several beats over the years including the NHL Major League Baseball the NBA college football tennis and soccer. His outstanding body of work includes SI?s 2002 cover story ?Death of a Fan? which addressed the issue of errant pucks and protective netting in hockey arenas as well as the 1998 story ?Hockey?s Little Helpers? which exposed how Sudafed is the legal drug choice for many NHL players. In both 2000 and 2001 The Hockey News listed him as one of the ?Top 100 Influential Figures in Hockey.?  A graduate of Brooklyn College with a B.A. in journalism he lives in Westchester NY with his wife and two children.
+<br>ContactDesignation----D3
+<br>ContactPhoto----------sports-illustrated-kids-paul-fichtenbaum.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------City University of New York-Brooklyn College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/paul-fichtenbaum/4/995/671
+<br>ContactTwitter--------http://twitter.com/#!/paulfichtenbaum
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26979
+<br>ContactFirstName------Bob 
+<br>ContactMiddleName------
+<br>ContactLastName-------Der 
+<br>ContactDescription----
+<br>ContactDesignation----D3
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/bob.der
+<br>ContactLinkedin-------http://www.linkedin.com/pub/bob-der/1/20a/2a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26980
+<br>ContactFirstName------Beth
+<br>ContactMiddleName------Power
+<br>ContactLastName-------Bugler
+<br>ContactDescription----
+<br>ContactDesignation----D2
+<br>ContactPhoto----------sports-illustrated-kids-beth-bugler.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/people/Beth-Power-Bugler/753642681
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26981
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ulane
+<br>ContactDescription----
+<br>ContactDesignation----D640
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------New York University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/paul-ulane/11/207/749
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26982
+<br>ContactFirstName------Eileen
+<br>ContactMiddleName------
+<br>ContactLastName-------Masio
+<br>ContactDescription----
+<br>ContactDesignation----D2662
+<br>ContactPhoto----------sports-illustrated-kids-eileen-masio.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Towson University
+<br>ContactFacebook-------http://www.facebook.com/eileen.masio
+<br>ContactLinkedin-------http://www.linkedin.com/pub/eileen-masio/1/64a/258
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26983
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hinds
+<br>ContactDescription----
+<br>ContactDesignation----D390
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26984
+<br>ContactFirstName------Sam
+<br>ContactMiddleName------
+<br>ContactLastName-------Allred
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------sports-illustrated-kids-sam-allred.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/Samkallred
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O774
+<br>ContactId-------------C26985
+<br>ContactFirstName------Wanjiku
+<br>ContactMiddleName------
+<br>ContactLastName-------Gatheru
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------sports-illustrated-kids-wanjiku-gatheru.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>

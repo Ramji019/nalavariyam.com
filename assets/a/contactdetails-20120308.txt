@@ -1,0 +1,621 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23594
+<br>ContactFirstName------Carmel 
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D533
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cking@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O578
+<br>ContactId-------------C23593
+<br>ContactFirstName------Pete 
+<br>ContactMiddleName------
+<br>ContactLastName-------Peterson
+<br>ContactDescription----
+<br>ContactDesignation----D17
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/pete-peterson/3a/b41/5b7
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23592
+<br>ContactFirstName------Eric 
+<br>ContactMiddleName------
+<br>ContactLastName-------Trabb
+<br>ContactDescription----
+<br>ContactDesignation----D73
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------etrabb@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O601
+<br>ContactId-------------C23591
+<br>ContactFirstName------Tom 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hawley
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------tom@recordingmag.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.recordingmag.com/#TB_inline?height=400&width=700&inlineId=bio9
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23592
+<br>ContactFirstName------Eric 
+<br>ContactMiddleName------
+<br>ContactLastName-------Trabb
+<br>ContactDescription----
+<br>ContactDesignation----D73
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------etrabb@nbmedia.com
+<br>Alternative Email-----
+<br>University------------Rutgers University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/eric-trabb/40/331/917
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23594
+<br>ContactFirstName------Carmel 
+<br>ContactMiddleName------
+<br>ContactLastName-------King
+<br>ContactDescription----
+<br>ContactDesignation----D533
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------cking@nbmedia.com
+<br>Alternative Email-----
+<br>University------------George Mason University, Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/carmel-king/5/92/18a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23595
+<br>ContactFirstName------Paul 
+<br>ContactMiddleName------
+<br>ContactLastName-------Mastronardi
+<br>ContactDescription----
+<br>ContactDesignation----D91
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------pmastronardi@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23596
+<br>ContactFirstName------Steve 
+<br>ContactMiddleName------
+<br>ContactLastName-------Palm
+<br>ContactDescription----
+<br>ContactDesignation----D94
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------spalm@nbmedia.com
+<br>Alternative Email-----
+<br>University------------University of Colorado at Boulder
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/steve-palm/3/a62/20b
+<br>ContactTwitter--------https://twitter.com/#!/stevenpalm
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23579
+<br>ContactFirstName------Adam 
+<br>ContactMiddleName------
+<br>ContactLastName-------Goldstein
+<br>ContactDescription----
+<br>ContactDesignation----D73
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------agoldstein@nbmedia.com
+<br>Alternative Email-----
+<br>University------------State University of New York at Albany
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/adam-goldstein/5/349/32
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23578
+<br>ContactFirstName------John 
+<br>ContactMiddleName------
+<br>ContactLastName-------Pledger
+<br>ContactDescription----
+<br>ContactDesignation----D533
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jpledger@nbmedia.com
+<br>Alternative Email-----
+<br>University------------Florida State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jepledger
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23577
+<br>ContactFirstName------Louis 
+<br>ContactMiddleName------
+<br>ContactLastName-------Hillelson
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------lhillelson@nbmedia.com
+<br>Alternative Email-----
+<br>University------------University of Hartford
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/louish
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23576
+<br>ContactFirstName------Marcia 
+<br>ContactMiddleName------
+<br>ContactLastName-------Grand
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------mgrand@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/marcia-grand/21/a81/941
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23574
+<br>ContactFirstName------Joe 
+<br>ContactMiddleName------
+<br>ContactLastName-------Ferrick
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jferrick@nbmedia.com
+<br>Alternative Email-----
+<br>University------------State University of New York at Buffalo
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/joeferrick
+<br>ContactTwitter--------https://twitter.com/#!/upnunder13
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23572
+<br>ContactFirstName------Denise
+<br>ContactMiddleName------
+<br>ContactLastName-------Robbins
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------guitar-player-denise-robbins.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------drobbins@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/pub/denise-robbins/2/149/253
+<br>ContactTwitter--------https://twitter.com/#!/deniserobbins11
+<br>ContactURL------------http://www.btobonline.com/article/20110501/MEDIABUSINESS05/305019969/denise-robbins-vp-group-circulation-director-newbay-media
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23571
+<br>ContactFirstName------Greg 
+<br>ContactMiddleName------
+<br>ContactLastName-------Topf
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------gtopf@nbmedia.com
+<br>Alternative Email-----
+<br>University------------Castleton State College
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/gregtopf
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23570
+<br>ContactFirstName------Bill 
+<br>ContactMiddleName------
+<br>ContactLastName-------Amstutz
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------bamstutz@nbmedia.com
+<br>Alternative Email-----
+<br>University------------California Institute of Integral Studies, Rochester Institute of Technology
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/bamstutz
+<br>ContactTwitter--------https://twitter.com/#!/BAMstutz
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23568
+<br>ContactFirstName------Ray 
+<br>ContactMiddleName------
+<br>ContactLastName-------Vollmer
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------rvollmer@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23567
+<br>ContactFirstName------Tony 
+<br>ContactMiddleName------
+<br>ContactLastName-------Savona
+<br>ContactDescription----
+<br>ContactDesignation----D9
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------asavona@nbmedia.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23566
+<br>ContactFirstName------Jack 
+<br>ContactMiddleName------
+<br>ContactLastName-------Liedke
+<br>ContactDescription----
+<br>ContactDesignation----D1280
+<br>ContactPhoto----------
+<br>ContactPhonenumber----
+<br>ContactEmail----------jliedke@nbmedia.com
+<br>Alternative Email-----
+<br>University------------The University of Connecticut
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/jackliedke
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23561
+<br>ContactFirstName------Michael 
+<br>ContactMiddleName------
+<br>ContactLastName-------Molenda
+<br>ContactDescription----
+<br>ContactDesignation----D16
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-238-0272
+<br>ContactEmail----------mmolenda@musicplayer.com
+<br>Alternative Email-----
+<br>University------------San Francisco State University
+<br>ContactFacebook-------http://www.facebook.com/EditorBoy
+<br>ContactLinkedin-------http://www.linkedin.com/pub/michael-molenda/3/61a/903
+<br>ContactTwitter--------https://twitter.com/#!/gpeditor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23560
+<br>ContactFirstName------Brian 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-238-0278
+<br>ContactEmail----------bfox@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/bfoxbass
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23560
+<br>ContactFirstName------Brian 
+<br>ContactMiddleName------
+<br>ContactLastName-------Fox
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-238-0278
+<br>ContactEmail----------bfox@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://www.facebook.com/bfoxbass
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/foxbass
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23559
+<br>ContactFirstName------Sarah 
+<br>ContactMiddleName------
+<br>ContactLastName-------Jones
+<br>ContactDescription----
+<br>ContactDesignation----D11
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-238-0330 
+<br>ContactEmail----------sjones@musicplayer.com
+<br>Alternative Email-----
+<br>University------------University of Massachusetts at Lowell
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://www.linkedin.com/in/hiresarahjones
+<br>ContactTwitter--------https://twitter.com/#!/jonesse
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C23557
+<br>ContactFirstName------STEPHEN 
+<br>ContactMiddleName------
+<br>ContactLastName-------FORTNER
+<br>ContactDescription----
+<br>ContactDesignation----D542
+<br>ContactPhoto----------
+<br>ContactPhonenumber----650-238-0290
+<br>ContactEmail----------sfortner@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/keyboardeditor
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C1314
+<br>ContactFirstName------Art
+<br>ContactMiddleName------
+<br>ContactLastName-------Thompson
+<br>ContactDescription----art thompson is the D5 of Guitar Player.  You can contact art through his email address athompson@musicplayer.com. The phone number to contact art is 650-238-0300. You can also connect to art\'s facebook id using the link http://facebook.com/guitarplayermag/posts/189633647722947 and get his latest updates. He also has his personal blogsYou can also follow art using his twitter link http://www.guitarplayer.com/article/blackheart-bh100h-bh15h/April-2010/110843. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------guitar-player-art-thompson.jpg
+<br>ContactPhonenumber----650-238-0300
+<br>ContactEmail----------athompson@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/guitarplayermag/posts/189633647722947
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------http://www.guitarplayer.com/article/blackheart-bh100h-bh15h/April-2010/110843
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************DELETE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C1317
+<br>ContactFirstName------Michael
+<br>ContactMiddleName------
+<br>ContactLastName-------molenda
+<br>ContactDescription----michael molenda is the D1 of Guitar Player.  You can contact michael through his email address mmolenda@musicplayer.com. The phone number to contact michael is 650-238-0300. You can also connect to michael\'s facebook id using the link http://facebook.com/EditorBoy and get his latest updates. You can also follow michael using his twitter link http://twitter.com/#!/gpeditor. He also has his personal blogsYou can also follow michael using his twitter link http://www.guitarplayer.com/article/editor-boy-/April-2010/110783. 
+<br>ContactDesignation----D1
+<br>ContactPhoto----------guitar-player-michael-molenda.jpg
+<br>ContactPhonenumber----650-238-0300
+<br>ContactEmail----------mmolenda@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/EditorBoy
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/gpeditor
+<br>ContactURL------------http://www.guitarplayer.com/article/editor-boy-/April-2010/110783
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C1318
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Owens
+<br>ContactDescription----kevin owens is the D3 of Guitar Player.  You can contact kevin through his email address kowens@musicplayer.com. The phone number to contact kevin is 650-238-0300. You can also connect to kevin\'s linkedin id http://linkedin.com/pub/kevin-owens/6/8ba/96a and get his professional details. 
+<br>ContactDesignation----D3
+<br>ContactPhoto----------guitar-player-kevin-owens.jpg
+<br>ContactPhonenumber----650-238-0300
+<br>ContactEmail----------kowens@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kevin-owens/6/8ba/96a
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O576
+<br>ContactId-------------C1319
+<br>ContactFirstName------Barry
+<br>ContactMiddleName------
+<br>ContactLastName-------Cleveland
+<br>ContactDescription----barry cleveland is the D17 of Guitar Player.  You can contact barry through his email address bcleveland@musicplayer.com. The phone number to contact barry is 650-238-0300. You can also connect to barry\'s facebook id using the link http://facebook.com/pages/Barry-Clevelands-Artist-Page/323968841725 and get his latest updates. You can also connect to barry\'s linkedin id http://linkedin.com/pub/barry-cleveland/7/abb/365 and get his professional details. You can also follow barry using his twitter link http://twitter.com/#!/barrycleveland. He also has his personal blogsYou can also follow barry using his twitter link http://www.barrycleveland.com/bio.htm. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------guitar-player-barry-cleveland.jpg
+<br>ContactPhonenumber----650-238-0300
+<br>ContactEmail----------bcleveland@musicplayer.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/pages/Barry-Clevelands-Artist-Page/323968841725
+<br>ContactLinkedin-------http://linkedin.com/pub/barry-cleveland/7/abb/365
+<br>ContactTwitter--------http://twitter.com/#!/barrycleveland
+<br>ContactURL------------http://www.barrycleveland.com/bio.htm
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O578
+<br>ContactId-------------C1326
+<br>ContactFirstName------karel
+<br>ContactMiddleName------
+<br>ContactLastName-------kramer
+<br>ContactDescription----karel kramer is the D5 of Dirt Rider.  You can also connect to karel\'s linkedin id http://linkedin.com/pub/dir/Karel/Kramer and get his professional details. He also has his personal blogsYou can also follow karel using his twitter link http://cgi.ebay.com/1986-Dirt-Rider-magazine-YZ-Enduro-Karel-Kramer-BMX-ADS-/320690073361. 
+<br>ContactDesignation----D5
+<br>ContactPhoto----------dirt-rider-karel-kramer.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/dir/Karel/Kramer
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O578
+<br>ContactId-------------C1328
+<br>ContactFirstName------Jimmy 
+<br>ContactMiddleName------
+<br>ContactLastName-------Lewis
+<br>ContactDescription----jimmy lewis is the D11 of Dirt Rider.  You can contact jimmy through his email address jlrheather@gmail.com. You can also connect to jimmy\'s facebook id using the link http://facebook.com/note.php?note_id=19073103796 and get his latest updates. You can also follow jimmy using his twitter link http://twitter.com/#!/jimmydirtrider. He also has his personal blogsYou can also follow jimmy using his twitter link http://blogs.dirtrider.com/6257197/editorial/jimmy-lewis-speaks/index.html. 
+<br>ContactDesignation----D11
+<br>ContactPhoto----------dirt-rider-jimmy-lewis.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------jlrheather@gmail.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/note.php?note_id=19073103796
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/jimmydirtrider
+<br>ContactURL------------http://blogs.dirtrider.com/6257197/editorial/jimmy-lewis-speaks/index.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O578
+<br>ContactId-------------C1330
+<br>ContactFirstName------Chris 
+<br>ContactMiddleName------
+<br>ContactLastName-------Denison
+<br>ContactDescription----chris denison is the D17 of Dirt Rider.  You can also connect to chris\'s facebook id using the link http://facebook.com/people/Chris-Denison/500448731 and get his latest updates. You can also connect to chris\'s linkedin id http://linkedin.com/pub/chris-denison/17/776/65b and get his professional details. You can also follow chris using his twitter link http://twitter.com/#!/chrisdenison. He also has his personal blogsYou can also follow chris using his twitter link http://rides.dirtrider.com/ride/1196128/chris-denison/2014/honda/civic/index.html. 
+<br>ContactDesignation----D17
+<br>ContactPhoto----------dirt-rider-chris-denison.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/people/Chris-Denison/500448731
+<br>ContactLinkedin-------http://linkedin.com/pub/chris-denison/17/776/65b
+<br>ContactTwitter--------http://twitter.com/#!/chrisdenison
+<br>ContactURL------------http://rides.dirtrider.com/ride/1196128/chris-denison/2014/honda/civic/index.html
+<br>-------------------------------------------------------------------------
+<br>
+<br>

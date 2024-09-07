@@ -1,0 +1,581 @@
+******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16336
+<br>ContactFirstName------Robyne
+<br>ContactMiddleName------
+<br>ContactLastName-------McCullough
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-robyne-mccullough.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maryland
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/rmccullough
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16337
+<br>ContactFirstName------LeeAnn
+<br>ContactMiddleName------
+<br>ContactLastName-------Mora
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-leeann-mora.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of North Texas
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16338
+<br>ContactFirstName------Danielle
+<br>ContactMiddleName------
+<br>ContactLastName-------Pro
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-danielle-pro.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dpro@wboc.com
+<br>Alternative Email-----
+<br>University------------University of Delaware 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16339
+<br>ContactFirstName------R. Paul
+<br>ContactMiddleName------
+<br>ContactLastName-------Stueber
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-r-paul-stueber.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------http://facebook.com/paulstueber
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16340
+<br>ContactFirstName------Barry
+<br>ContactMiddleName------
+<br>ContactLastName-------Wade
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-barry-wade.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Indiana University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/barry-wade-jr/25/764/7b4
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16341
+<br>ContactFirstName------Lindsay
+<br>ContactMiddleName------
+<br>ContactLastName-------Wallingford
+<br>ContactDescription----
+<br>ContactDesignation----D302
+<br>ContactPhoto----------wboc-tv-16-lindsay-wallingford.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------lwallingford@wboc.com
+<br>Alternative Email-----
+<br>University------------Salisbury University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/lindsaywallingford
+<br>ContactTwitter--------http://twitter.com/#!/gatorlindsay
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16342
+<br>ContactFirstName------Patrick
+<br>ContactMiddleName------
+<br>ContactLastName-------Bonquard
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-patrick-bonquard.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------St. Bonaventure University 
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16343
+<br>ContactFirstName------Marc
+<br>ContactMiddleName------
+<br>ContactLastName-------Erlick
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-marc-erlick.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------merlick@wboc.com
+<br>Alternative Email-----
+<br>University------------Indiana University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/marcgerlick
+<br>ContactTwitter--------http://twitter.com/#!/photog162
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16344
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans II
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-pete-evans-ii.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16344
+<br>ContactFirstName------Pete
+<br>ContactMiddleName------
+<br>ContactLastName-------Evans II
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-pete-evans-ii.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16345
+<br>ContactFirstName------David
+<br>ContactMiddleName------
+<br>ContactLastName-------Gordon
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-david-gordon.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------dgordon@wboc.com
+<br>Alternative Email-----
+<br>University------------
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16346
+<br>ContactFirstName------Bill
+<br>ContactMiddleName------
+<br>ContactLastName-------Laws
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-bill-laws.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Maryland Eastern Shore&John O'Connell Technical School-San Francisco
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16346
+<br>ContactFirstName------Kevin
+<br>ContactMiddleName------
+<br>ContactLastName-------Muhammad
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-kevin-muhammad.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Delaware State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/kevin-muhammad-jr/18/197/817
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16347
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------O Grady
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-scott-o-grady.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Seton Hall University
+<br>ContactFacebook-------http://facebook.com/people/Scott-OGrady/26805525
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16348
+<br>ContactFirstName------Robert
+<br>ContactMiddleName------
+<br>ContactLastName-------Parks
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-robert-parks.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Delaware
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/in/robparks
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16349
+<br>ContactFirstName------Marlon
+<br>ContactMiddleName------
+<br>ContactLastName-------Wallace
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-marlon-wallace.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Wesley College
+<br>ContactFacebook-------http://facebook.com/marlon.wallace
+<br>ContactLinkedin-------http://linkedin.com/in/marlonwallace
+<br>ContactTwitter--------http://twitter.com/#!/marlonwallace
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16350
+<br>ContactFirstName------Laura
+<br>ContactMiddleName------Beth
+<br>ContactLastName-------Winik
+<br>ContactDescription----
+<br>ContactDesignation----D1608
+<br>ContactPhoto----------wboc-tv-16-laura-winik.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Art Institute of Philadelphia
+<br>ContactFacebook-------http://facebook.com/profile.php?id=651787910&ref=fs
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16351
+<br>ContactFirstName------Brian
+<br>ContactMiddleName------
+<br>ContactLastName-------Keane
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wboc-tv-16-brian-keane.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------bkeane@wboc.com
+<br>Alternative Email-----
+<br>University------------Mississippi State University,Salisbury State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/brian_keane_16
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16352
+<br>ContactFirstName------John
+<br>ContactMiddleName------
+<br>ContactLastName-------Trout
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wboc-tv-16-john-trout.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Mississippi State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------http://twitter.com/#!/mrjohntrout
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16353
+<br>ContactFirstName------Eileen
+<br>ContactMiddleName------
+<br>ContactLastName-------Whelan
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wboc-tv-16-eileen-whelan.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------ewhelan@wboc.com
+<br>Alternative Email-----
+<br>University------------Salisbury University
+<br>ContactFacebook-------http://facebook.com/pages/Eileen-Whelan/155935567818105?sk=info
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/e_whelan_16
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16354
+<br>ContactFirstName------Scott
+<br>ContactMiddleName------
+<br>ContactLastName-------Abraham
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------wboc-tv-16-scott-abraham.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------sabraham@wboc.com
+<br>Alternative Email-----
+<br>University------------Syracuse University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------https://twitter.com/#!/S_Abraham_16
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16355
+<br>ContactFirstName------Mike
+<br>ContactMiddleName------
+<br>ContactLastName-------Parker
+<br>ContactDescription----
+<br>ContactDesignation----D301
+<br>ContactPhoto----------wboc-tv-16-mike-parker.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------mparker@wboc.com
+<br>Alternative Email-----
+<br>University------------Shippensburg University of Pennsylvania
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/mike-parker/7/747/922
+<br>ContactTwitter--------http://twitter.com/#!/WBOC_Outdoors
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2704
+<br>ContactId-------------C16356
+<br>ContactFirstName------Kye
+<br>ContactMiddleName------
+<br>ContactLastName-------Parsons
+<br>ContactDescription----
+<br>ContactDesignation----D41
+<br>ContactPhoto----------wboc-tv-16-kye-parsons.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------kparsons@wboc.com
+<br>Alternative Email-----
+<br>University------------Salisbury University,Harvard University in Cambridge
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16357
+<br>ContactFirstName------Dennis
+<br>ContactMiddleName------
+<br>ContactLastName-------Weimann
+<br>ContactDescription----
+<br>ContactDesignation----D1284
+<br>ContactPhoto----------kawe-tv-9-dennis-weimann.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Bemidji State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16358
+<br>ContactFirstName------Stacy
+<br>ContactMiddleName------
+<br>ContactLastName-------Christenson
+<br>ContactDescription----
+<br>ContactDesignation----D1609
+<br>ContactPhoto----------kawe-tv-9-stacy-christenson.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Bemidji State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16359
+<br>ContactFirstName------Josh
+<br>ContactMiddleName------
+<br>ContactLastName-------Christensen
+<br>ContactDescription----
+<br>ContactDesignation----D199
+<br>ContactPhoto----------kawe-tv-9-josh-christensen.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------Bemidji State University,Anoka-Ramsey Community College-Coon Rapids
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16360
+<br>ContactFirstName------Jenny
+<br>ContactMiddleName------
+<br>ContactLastName-------Day
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kawe-tv-9-jenny-day.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------San Diego State University
+<br>ContactFacebook-------
+<br>ContactLinkedin-------
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************ADD******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16361
+<br>ContactFirstName------Shane
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kawe-tv-9-shane-lee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Whitewater
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/shane-lee/9/606/251
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>******************************UPDATE******************************************
+<br>
+Outlet Id is ->O2705
+<br>ContactId-------------C16361
+<br>ContactFirstName------Shane
+<br>ContactMiddleName------
+<br>ContactLastName-------Lee
+<br>ContactDescription----
+<br>ContactDesignation----D195
+<br>ContactPhoto----------kawe-tv-9-shane-lee.jpg
+<br>ContactPhonenumber----
+<br>ContactEmail----------
+<br>Alternative Email-----
+<br>University------------University of Wisconsin-Whitewater
+<br>ContactFacebook-------
+<br>ContactLinkedin-------http://linkedin.com/pub/shane-lee/9/606/251
+<br>ContactTwitter--------
+<br>ContactURL------------
+<br>-------------------------------------------------------------------------
+<br>
+<br>
